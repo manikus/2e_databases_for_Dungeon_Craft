@@ -1,0 +1,6 @@
+\(BEGIN)
+name = isSeeingIllusions
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Sees illusions"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+\(END)
+

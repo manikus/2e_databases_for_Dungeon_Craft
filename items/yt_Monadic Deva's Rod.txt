@@ -1,0 +1,43 @@
+\(BEGIN)
+name = Monadic Deva's Rod
+id name = Monadic Deva's Rod
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 0
+hands to carry = 0
+baseclass = fighter
+small/medium damage dice = 1D8 + 3
+large damage dice = 1D8 + 3
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemDamageTypeBludgeoning,1
+Special Ability = itemMagicalWeapon,3
+Special Ability = itemRodSmiting,1
+Special Ability = usableBy,Monadic Deva
+weapon type = hand held blunt
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Rod of Smiting: This rod is a +3 magical weapon that inflicts 1d8+3 points of damage. Against golems, the rod causes 2d8+6 points of damage, and any score of 20 or better completely destroys the golem. Any hit upon a golem drains one charge.
+//The rod causes normal damage (1d8+3) versus creatures of the Outer Planes. Any score of 20 or better draws off one charge and causes triple damage: (1d8+3) x3. The rod cannot be recharged.
+

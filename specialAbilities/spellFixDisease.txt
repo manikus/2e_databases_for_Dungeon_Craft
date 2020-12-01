@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellFixDisease
+[FixCharacter] = $VAR disease;
+-disease = $GET_CHARACTER_SA($CharacterContext(),"isDiseased"); $RETURN disease != "-?-?-";
+Info = "cure disease, heal for FIX";
+\(END)
+

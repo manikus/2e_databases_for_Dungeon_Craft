@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Hound Archon
+icon file = icon_HoundArchon.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 9
+armor class = 1
+movement rate = 12
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 15
+magic resistance = 10
+size = medium
+morale = 45
+experience point value = 15000
+Special Ability = alignmentGood,1
+Special Ability = homePlane,Mount Celestia
+Special Ability = isImmuneWeapon,1
+Special Ability = monsterInfravision,60
+Special Ability = monsterLevel,6
+Special Ability = monsterNeverSurprised,1
+Special Ability = monsterHoundArchonAidFromLanternArchon,1-10 lantern archons will teleport to hound archon during combat until 100 arrive
+Special Ability = orderLawful,1
+Class = Fighter
+Race = Archon
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 4,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+

@@ -1,0 +1,6 @@
+\(BEGIN)
+name = isMassMorphed
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Morphed"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+\(END)
+

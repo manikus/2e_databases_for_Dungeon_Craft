@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Giant Wolverine
+icon file = icon_GiantWolverine.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 2
+armor class = 3
+movement rate = 24
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 14
+magic resistance = 0
+size = large
+morale = 35
+experience point value = 240
+Special Ability = monsterLevel,6
+Class = Fighter
+Race = Animal
+form = mammal + animal + large
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 4,2,0,attacks,
+attack = 4,2,0,attacks,
+attack = 4,2,2,bites,
+Undead = none
+\(END)
+

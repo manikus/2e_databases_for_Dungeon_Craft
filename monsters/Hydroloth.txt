@@ -1,0 +1,51 @@
+\(BEGIN)
+name = Hydroloth
+icon file = icon_Hydroloth.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 9
+armor class = -2
+movement rate = 6
+hit dice = 7
+treat HD as hit points = yes
+hit dice bonus = 14
+THAC0 = 13
+magic resistance = 40
+size = large
+morale = 35
+experience point value = 26500
+Special Ability = monsterLevel,10
+Special Ability = elementalImmuneAcid
+Special Ability = elementalImmuneIronWeapons
+Special Ability = elementalImmunePoison
+Special Ability = isResistantGas,1
+Special Ability = elementalVulnerableCold
+Special Ability = alignmentEvil,1
+Special Ability = monsterHydrolothGateHydroloth,1 100% x2
+Special Ability = monsterHydrolothResistantWater,half damage save for none
+Special Ability = isImmuneMagicalFire
+Special Ability = homePlane,Lower
+Special Ability = isWeaponImmune,1
+Class = Fighter
+Race = Yugoloth
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterClericCause Disease
+item = monsterMageCharm Person
+item = monsterMageTeleport Without Error
+item = monsterClericConjure Earth Elemental
+item = monsterMageDarkness 15' Radius
+item = monsterMageDimension Door
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 10,1,0,attacks,monsterHydrolothSpits
+Undead = none
+\(END)
+// monsterHydrolothSpits save vs poison or sleep 1-8 rounds
+

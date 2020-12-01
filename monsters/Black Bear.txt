@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Black Bear
+icon file = icon_BlackBear.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 3
+armor class = 7
+movement rate = 12
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 17
+magic resistance = 0
+size = medium
+morale = 25
+experience point value = 175
+Special Ability = monsterLevel,4
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 3,1,0,claws,monsterBearHug1
+attack = 3,1,0,claws,monsterBearHug2
+attack = 6,1,0,bites,
+Undead = none
+\(END)
+

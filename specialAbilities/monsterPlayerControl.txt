@@ -1,0 +1,5 @@
+\(BEGIN)
+name = monsterPlayerControl
+[AutoAction] = $RETURN "CP";
+\(END)
+

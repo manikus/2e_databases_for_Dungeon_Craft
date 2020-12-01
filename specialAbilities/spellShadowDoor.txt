@@ -1,0 +1,6 @@
+\(BEGIN)
+name = spellShadowDoor
+[AutoAction] = $RETURN "F + $IndexOf($LEAST_DAMAGED_ENEMY())";
+[IsValidTarget] = $RETURN "N";
+\(END)
+

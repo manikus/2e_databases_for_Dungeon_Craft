@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellFixPoison
+[FixCharacter] = $VAR poison;
+-poison = $GET_CHARACTER_SA($CharacterContext(),"isPoisoned"); $RETURN poison != "-?-?-";
+Info = "slow/neutralize poison for FIX";
+\(END)
+

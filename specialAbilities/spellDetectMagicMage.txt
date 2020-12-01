@@ -1,0 +1,8 @@
+\(BEGIN)
+name = spellDetectMagicMage
+[InvokeSpellOnTarget] = $VAR atk; $VAR cls; $VAR lvl; $VAR adj;
+-atk = $IndexOf($AttackerContext()); cls = $SA_PARAM_GET();
+-adj = $GET_SPELL_SA($SpellContext(),"adjLevel"); lvl = $GET_CHAR_Lvl(atk,cls) -# adj;
+-$SET_CHARACTER_SA($TargetContext(),"isDetectingMagic",$GET_PARTY_TIME() +# (lvl *# 2));
+\(END)
+

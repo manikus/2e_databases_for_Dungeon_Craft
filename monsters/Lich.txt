@@ -1,0 +1,36 @@
+\(BEGIN)
+name = Lich
+icon file = icon_Lich.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 19
+armor class = 0
+movement rate = 6
+hit dice = 11
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 9
+magic resistance = 0
+size = medium
+morale = 45
+experience point value = 8000
+Special Ability = monsterLevel,11
+Special Ability = alignmentEvil,1
+Special Ability = isImmuneFear,monster
+Special Ability = isImmuneHold,monster
+Special Ability = isImmuneSleep,monster
+Special Ability = isVulnerableToHolyWater,monster
+Special Ability = isWeaponImmune,1
+Special Ability = rangeUndead,Lich
+Class = Magic User
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 6,1,0,attacks
+Undead = Lich
+\(END)
+

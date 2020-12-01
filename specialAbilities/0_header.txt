@@ -1,0 +1,18 @@
+// Special Abilities database file
+// The line above **must** be the first line of the special abilities file!!!
+// key GPDL words
+// $VAR - variable, must appear at start of script
+//	commonly used throughout the database:
+//		atk = attacker, in spell context the caster
+//		tgt = target
+//		lvl = level
+//		exp = expiration
+//		nm = name
+//		dmg = damage
+//		prm = parameter, as in the parameter of the SA
+//		p5 = parameter 5
+//		p6 = parameter 6
+// $RETURN - tells the script to pass a value to the engine, essentially ends the script
+//
+// 2nd edition
+

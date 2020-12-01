@@ -1,0 +1,15 @@
+\(BEGIN)
+name = isEnervated
+[CanCureOrWhatever] = $VAR time; $VAR exp; $VAR max; $VAR cls; $VAR lvl; $VAR xCls; $VAR xp;
+-time = $GET_PARTY_TIME(); exp = $GET_CHARACTER_SA($CharacterContext(),"IsEvervatedExp");
+-$IF (time <# exp) {$RETURN;};
+-tgt = $IndexOf($CharacterContext()); xCls = $GET_CHAR_CLASS(tgt);
+-max = $GET_CHARACTER_SA($TargetContext(),"isEnervatedPreMaxHP");
+-cls = $DelimitedStringSubstring($GET_CHARACTER_SA($TargetContext(),"isEnervatedPreLvl"),0);
+-lvl = $DelimitedStringSubstring($GET_CHARACTER_SA($TargetContext(),"isEnervatedPreLvl"),1);
+-xp = $GET_CHARACTER_SA($TargetContext(),"isEnervatedPreXP");
+-$SA_REMOVE(); $SET_CHAR_MAXHITPOINTS(tgt,max); $SET_CHAR_Lvl(tgt,cls,lvl); $SET_CHAR_Exp(tgt,xCls,xp);
+[TrainingCharacter] = $SA_REMOVE(); $DELETE_CHARACTER_SA($TargetContext(),"isEnervatedPreMaxHP");
+-$DELETE_CHARACTER_SA($TargetContext(),"isEnervatedPreLvl"); $DELETE_CHARACTER_SA($TargetContext(),"isEnervatedPreXP");
+\(END)
+

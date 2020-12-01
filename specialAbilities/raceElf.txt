@@ -1,0 +1,5 @@
+\(BEGIN)
+name = raceElf
+[PostCreateCharacter] = $SET_CHARACTER_SA($CharacterContext(),"isElf",1);
+\(END)
+

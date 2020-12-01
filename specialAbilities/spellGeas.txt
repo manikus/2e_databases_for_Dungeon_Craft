@@ -1,0 +1,5 @@
+\(BEGIN)
+name = spellGeas
+[OverrideSpellSelection] = $RETURN "$Attack Your Enemies|Geas$Flee Combat|Geas";
+\(END)
+

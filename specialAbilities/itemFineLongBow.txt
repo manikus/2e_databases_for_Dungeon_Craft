@@ -1,0 +1,6 @@
+\(BEGIN)
+name = itemFineLongBow
+[DoesAttackSucceed] = $VAR par6; $VAR param;
+-par6 = $GET_HOOK_PARAM(6); param = $SA_PARAM_GET(); $SET_HOOK_PARAM(6, par6 -# param);
+\(END)
+

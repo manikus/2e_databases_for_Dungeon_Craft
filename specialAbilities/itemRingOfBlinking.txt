@@ -1,0 +1,15 @@
+\(BEGIN)
+name = itemRingOfBlinking
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(),"isBlinkingRing","1");
+-$SET_CHARACTER_SA($CharacterContext(),"DispelLevelItem","12");
+-$IF ($GET_CHARACTER_SA($CharacterContext(),"side") != "-?-?-")
+-	{
+-		$SET_CHARACTER_SA($CharacterContext(),"isBlinking1",1);
+-		$SET_CHARACTER_SA($CharacterContext(),"isBlinking2",1);
+-	};
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(),"isBlinkingRing");
+-$DELETE_CHARACTER_SA($CharacterContext(),"isBlinking1");
+-$DELETE_CHARACTER_SA($CharacterContext(),"DispelLevelItem");
+-$DELETE_CHARACTER_SA($CharacterContext(),"isBlinking2");
+\(END)
+

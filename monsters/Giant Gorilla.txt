@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Giant Gorilla
+icon file = icon_GiantGorilla.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 6
+armor class = 4
+movement rate = 24
+hit dice = 8
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 14
+magic resistance = 0
+size = large
+morale = 30
+experience point value = 350
+Special Ability = monsterLevel,8
+Class = Fighter
+Race = Animal
+form = mammal + animal + large
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 3,2,0,attacks,
+attack = 3,2,0,attacks,
+attack = 6,2,0,attacks,
+Undead = none
+\(END)
+

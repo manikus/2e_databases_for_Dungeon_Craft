@@ -1,0 +1,42 @@
+\(BEGIN)
+name = Gnome
+height = 2d4+34+(1*Male)
+weight = 2d9+65+((5+1d4)*Male)
+age = 3d12+60
+maxage = 3d100+200
+BaseMovement = 6
+AbilityRequirement = Strength 6/18(50)
+AbilityRequirement = Intelligence 7/19
+AbilityRequirement = Wisdom 3/18
+AbilityRequirement = Dexterity 3/18
+AbilityRequirement = Constitution 8/18
+AbilityRequirement = Charisma 3/18
+AllowedMultiClass = Priest/Fighter
+AllowedMultiClass = Priest/Illusionist
+AllowedMultiClass = Priest/Thief
+AllowedMultiClass = Fighter/Illusionist
+AllowedMultiClass = Fighter/Thief
+AllowedMultiClass = Illusionist/Thief
+ChangeClass = no
+DwarfResistance = no
+GnomeResistance = yes
+FindSecretDoor = 0
+FindSecretDoorSearching = 1
+Skill = DetectGrade,87
+Skill = DetectApproxDepth,67
+Skill = Infravision,60
+Skill = DetermineDirectionUnderground,50
+Skill = DetectUnsafeCeilingsWallsFloors,70
+SkillAdjAbility = MaxLevel$SYS$,Strength,+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,4,4,4,4,4
+SkillAdjAbility = MaxLevel$SYS$,Intelligence,+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,4,4,4,4,4
+SkillAdjAbility = MaxLevel$SYS$,Wisdom,+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,4,4,4,4,4
+SkillAdjAbility = MaxLevel$SYS$,Dexterity,+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,4,4,4,4,4,4,4
+SkillAdjRace = OpenLocks,Gnome,%,105
+SkillAdjRace = FindTraps,Gnome,%,110
+SkillAdjRace = MoveSilent,Gnome,%,105
+SkillAdjRace = HideInShadows,Gnome,%,105
+SkillAdjRace = HearNoise,Gnome,%,110
+SkillAdjRace = ClimbWalls,Gnome,%,85
+Special Ability = race_ShortSaveBonus,8
+\(END)
+

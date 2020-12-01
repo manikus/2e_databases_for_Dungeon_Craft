@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Mummy
+icon file = icon_Mummy.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 6
+armor class = 3
+movement rate = 6
+hit dice = 6.000000
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 13
+magic resistance = 0
+size = medium
+morale = 37
+experience point value = 3000
+Special Ability = isImmuneDisease,yup
+Special Ability = isImmuneCold,1
+Special Ability = fire_dice,1
+Special Ability = monsterLevel,7
+Special Ability = alignmentEvil,1
+Special Ability = isVulnerableToHolyWater,monster
+Special Ability = isWeaponImmune,normal
+Special Ability = isWeaponResistant,magical
+Special Ability = range,6
+Special Ability = rangeUndead,Mummy
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = poison + death magic + none
+Misc Options = none
+item = none
+attack = 12,1,0,attacks,monsterMummyRot
+Undead = Mummy
+\(END)
+

@@ -1,0 +1,107 @@
+Animate Dead
+Banishment
+Bestow Curse|Wizard
+Bigby's Clenched Fist
+Bigby's Grasping Hand
+Blink
+Blur
+Burning Hands
+Charm Monster
+Charm Person
+Charm Plants
+Chill Touch
+Choke
+Cloak Undead
+Cloudkill
+Cone of Cold
+Confusion
+Conjure Air Elemental
+Conjure Earth Elemental
+Conjure Fire Elemental
+Conjure Water Elemental
+Contagion
+Control Undead
+Death Spell
+Delayed Blast Fireball
+Demi-Shadow Monsters
+Demi-shadow Magic
+Detect Evil
+Detect Invisibility
+Detect Magic|Wizard
+Detect Undead
+Dimension Door
+Disintegrate
+Dispel Magic|Wizard
+Energy Drain
+Enervation
+Enlarge
+Fear
+Feeblemind
+Finger of Death
+Fire Shield
+Fireball
+Flesh to Stone
+Friends
+Fumble
+Globe of Invulnerability
+Haste
+Hold Monster
+Hold Person|Wizard
+Hold Undead
+Ice Storm
+Improved Invisibility
+Invisibility
+Invisibility 10' Radius
+Invisible Stalker
+Knock
+Know Alignment
+Lightning Bolt
+Magic Missile
+Mass Charm
+Mass Invisibility
+Meteor Swarm
+Mind Blank
+Minor Globe of Invulnerability
+Mirror Image
+Monster Summoning I
+Monster Summoning II
+Monster Summoning III
+Monster Summoning IV
+Monster Summoning V
+Monster Summoning VI
+Monster Summoning VII
+Mordenkainen's Sword
+Mummy Touch
+Otto's Irresistible Dance
+Paralyze
+Power Word, Blind
+Power Word, Kill
+Power Word, Stun
+Protection From Evil 10' Radius| Magic User
+Protection From Evil|Wizard
+Protection From Good 10' Radius| Magic User
+Protection From Good|Wizard
+Protection from Normal Missiles
+Ray of Enfeeblement
+Read Magic
+Reduce
+Regenerate
+Remove Curse|Wizard
+Serten's Spell Immunity
+Shades
+Shadow Door
+Shadow Form
+Shadow Magic
+Shadow Monsters
+Shield
+Shocking Grasp
+Sleep
+Slow
+Spell Turnnig
+Stinking Cloud
+Stone to Flesh
+Strength
+Summon Shadow
+Vampiric Touch
+name =Heal Self
+name =Restoration|Wizard

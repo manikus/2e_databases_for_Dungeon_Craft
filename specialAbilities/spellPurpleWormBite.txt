@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellPurpleWormBite
+ComputeDamage = $IF ($SA_COMBATANT_GET("purpleBite") ==# 20)
+-  {$SET_HOOK_PARAM(7,"Swalows it's victim whole!"); $RETURN "500";};
+DoesAttackSucceed = $RETURN $SET_COMBATANT_SA($TargetContext(),"purpleBite",$GET_HOOK_PARAM(5));
+\(END)
+

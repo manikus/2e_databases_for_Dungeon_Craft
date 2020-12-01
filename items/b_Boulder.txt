@@ -1,0 +1,43 @@
+\(BEGIN)
+name = Boulder
+id name = Boulder
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = item_Dart.png,0,8,48,48,1,1,4,1,0,0
+hit sprite = none
+ROF per round = 1
+combat range = 9
+cost = 0
+hands to carry = 1
+baseclass = cleric
+baseclass = fighter
+baseclass = mage
+small/medium damage dice = 2D8 + 0
+large damage dice = 2D8 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1000
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 10
+Special Ability = itemMissileWeapon,3
+Special Ability = itemRangedWeapon,$3$6
+Special Ability = usableByRace,Giant
+Special Ability = damageTypePludgeoning,1
+weapon type = thrown only
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

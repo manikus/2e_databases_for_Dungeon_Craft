@@ -1,0 +1,7 @@
+\(BEGIN)
+name = isInvisibleStalker
+[IsValidTarget] = $IF ($SA_COMBATANT_GET("isSeeingInvisible") != "-?-?-"){$RETURN "Y";};
+-$IF ($GET_CHARACTER_SA($TargetContext(),"isFaerieFire") != "-?-?-"){$RETURN;}
+-$ELSE {$RETURN "N";};
+\(END)
+

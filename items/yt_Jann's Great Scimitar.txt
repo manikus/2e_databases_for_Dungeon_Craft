@@ -1,0 +1,40 @@
+\(BEGIN)
+name = Jann's Great Scimitar
+id name = Jann's Great Scimitar
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 1
+cost = 1200
+hands to carry = 1
+baseclass = fighter
+small/medium damage dice = 3D4 + 0
+large damage dice = 2D4 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 2
+experience = 0
+encumbrance = 200
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemMagicalWeapon,2
+Special Ability = damageTypeSlashing,1
+Special Ability = usableBy,Jann
+weapon type = hand held cutting
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

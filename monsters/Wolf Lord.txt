@@ -1,0 +1,45 @@
+\(BEGIN)
+name = Wolf Lord
+icon file = icon_WolfLord.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 16
+armor class = 5
+movement rate = 15
+hit dice = 122
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 5
+magic resistance = 50
+size = medium
+morale = 40
+experience point value = 24000
+Special Ability = homePlane,Beastlands
+Special Ability = isImmuneCharm,all
+Special Ability = isNeverSurprised,1
+Special Ability = isWeaponImmune,1
+Special Ability = monsterLevel,16
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = none
+item = Charm Person|MonsterAnimalLord
+item = monsterMageAnti-magic Shell
+item = monsterMageAnti-magic Shell
+item = monsterMageAnti-magic Shell
+item = monsterMagePlane Shift
+item = monsterAnimalLordSummon
+item = monsterAnimalLordSummon
+item = monsterAnimalLordSummon
+item = monsterMageTeleport Without Error
+item = Dagger of Venom
+attack = 6,2,0,bites,
+attack = 6,2,0,bites,
+Undead = none
+\(END)
+//	prefers to do combat in wolf form - hence the bites
+//	monsterAnimalLordSummon = summon 2-12 animals of their type

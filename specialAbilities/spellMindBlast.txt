@@ -1,0 +1,6 @@
+\(BEGIN)
+name = spellMindBlast
+[InvokeSpellOnTarget] = $VAR exp;
+-exp = $GetCombatRound() +# $RANDOM(9) +# 4; $SET_COMBATANT_SA($TargetContext(),"isStunned","Stunned");
+\(END)
+

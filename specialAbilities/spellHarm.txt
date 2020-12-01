@@ -1,0 +1,6 @@
+\(BEGIN)
+name = spellHarm
+[InvokeSpellOnTarget] = $IF ($GET_CHAR_UNDEAD($IndexOf($TargetContext())) != "none"){$RETURN;};
+-$CastSpellOnTarget($TargetContext(),"HarmDisease");
+\(END)
+

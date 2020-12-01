@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Fire Snake
+icon file = icon_FireSnake.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 3
+armor class = 6
+movement rate = 4
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 19
+magic resistance = 0
+size = small
+morale = 27
+experience point value = 120
+Special Ability = homePlane,Fire
+Special Ability = isImmuneFire
+Special Ability = monsterLevel,2
+Class = Fighter
+Race = Elemental
+form = none
+penalty = none
+immunity = poison + death magic + vorpal weapon
+Misc Options = none
+item = none
+attack = 4,1,0,attacks,monsterParalyxis
+Undead = none
+\(END)
+

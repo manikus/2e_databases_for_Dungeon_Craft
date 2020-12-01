@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Blue Dragon
+icon file = icon_BlueDragon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 12
+armor class = -2
+movement rate = 9
+hit dice = 14
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 7
+magic resistance = 25
+size = large
+morale = 45
+experience point value = 16000
+Special Ability = alignentEvil,1
+Special Ability = isImmuneDragonBreathWeapon,$lightning
+Special Ability = osSeeingInvisible,dragon
+Special Ability = monsterDragonAURA,Blue Dragon
+Special Ability = monsterDragonSavingThrow,third
+Special Ability = monsterLevel,14
+Class = Fighter/Mage
+Race = Dragon
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterDragonBreathLightning
+item = monsterDragonBreathLightning
+item = monsterDragonBreathLightning
+attack = 6,1,0,attacks,
+attack = 6,1,0,attacks,
+attack = 8,3,0,bites,
+Undead = none
+\(END)
+

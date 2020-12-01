@@ -1,0 +1,21 @@
+\(BEGIN)
+name = Modron
+height = 2d24+60
+weight = 2d50+150
+age = 3d12+10
+maxage = 3d100+200
+BaseMovement = 6
+AbilityRequirement = Strength 1/25
+AbilityRequirement = Intelligence 1/25
+AbilityRequirement = Wisdom 1/25
+AbilityRequirement = Dexterity 1/25
+AbilityRequirement = Constitution 1/25
+AbilityRequirement = Charisma 1/25
+ChangeClass = no
+DwarfResistance = no
+GnomeResistance = no
+FindSecretDoor = 0
+FindSecretDoorSearching = 1
+Special Ability = race_RaceSuppress,"Y"
+\(END)
+

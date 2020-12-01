@@ -1,0 +1,5 @@
+\(BEGIN)
+name = spellMummyRot
+[InvokeSpellOnTarget] = $SET_CHARACTER_SA($TargetContext(),"isMummyDiseased",$GET_PARTY_DAYS() +# 30);
+\(END)
+

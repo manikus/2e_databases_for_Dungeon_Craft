@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellSummonShadow
+[InvokeSpellOnTarget] = $VAR list; $VAR caster; $VAR class; $VAR sCount;
+-list = "$Shadow"; caster = $IndexOf($AttackerContext()); class = $SA_PARAM_GET(); sCount = $GET_CHAR_Lvl(caster,class") /# 3;
+-$WHILE (sCount >=# 0) {$AddCombatant("Shadow","1"); sCount = sCount -# 1;};
+\(END)
+

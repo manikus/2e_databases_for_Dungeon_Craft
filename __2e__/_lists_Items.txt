@@ -1,0 +1,838 @@
+item
+	Arrow,10
+	Arrow|2
+	Arrow|5,40
+	Astral Deva's Mace
+	Balor Great Sword
+	Banded Mail|1
+	Bastard Sword
+	Bastard Sword +2
+	Battle Axe
+	Battle Axe +2
+	Broad Sword
+	Buckler
+	Chain Mail
+	Chain Mail +1
+	Chain Mail|2
+	Composits Long Bow|2
+	Dagger
+	Dagger|1
+	Fomorian Club
+	Footman's Mace
+	Halberd
+	Helm
+	Javelin,5
+	Khopesh +2
+	Knife
+	Leather Armor
+	Long Sword
+	Long Sword +1
+	Long Sword +2
+	Long Sword +4
+	Long Sword|2
+	Military Pick
+	Molydeus Double-bladed Battle Axe
+	Monadic Deva's Rod
+	monsterBeholderCharm
+	monsterBeholderFear
+	monsterBeholderFleshToStone
+	monsterBeholderSleep
+	monsterBeholderSlow
+	monsterBlueSlaadHoldPerson
+	monsterCatoblepasGaze
+	monsterCharmGaze
+	monsterClericAid
+	monsterClericBestowCurse
+	monsterClericBind
+	monsterClericBladeBarrier
+	monsterClericBless
+	monsterClericCallLightning
+	monsterClericCauseBlindness
+	monsterClericCauseCriticalWounds
+	monsterClericCauseDisease
+	monsterClericCauseLightWounds
+	monsterClericCauseSerioiusWounds
+	monsterClericCauseSeriousWounds
+	monsterClericCharmPersonOrMammal
+	monsterClericCommand
+	monsterClericConfusion
+	monsterClericConjureElemental
+	monsterClericContinualLight
+	monsterClericCureBlindness
+	monsterClericCureBlindnessOrDeafness
+	monsterClericCureCriticalWounds
+	monsterClericCureDisease
+	monsterClericCureLightWounds
+	monsterClericCureSeriousWounds
+	monsterClericCurse
+	monsterClericDarkness15
+	monsterClericDispelEvil
+	monsterClericDispelGood
+	monsterClericDispelMagic
+	monsterClericEntangle
+	monsterClericFaerieFire
+	monsterClericFindTraps
+	monsterClericFireStorm
+	monsterClericFlameBlade
+	monsterClericFlameStrike
+	monsterClericGiantInsect
+	monsterClericHarm
+	monsterClericHeal
+	monsterClericHoldAnimal
+	monsterClericHoldPerson
+	monsterClericHolyWord
+	monsterClericImprisonment
+	monsterClericInsectPlague
+	monsterClericLight
+	monsterClericNeutralizePoison
+	monsterClericPrayer
+	monsterClericProtectionFromEvil
+	monsterClericProtectionFromEvil10Radius
+	monsterClericProtectionFromFire
+	monsterClericProtectionFromGood
+	monsterClericPyrotechnics
+	monsterClericRaiseDead
+	monsterClericRegenerate
+	monsterClericRemoveCurse
+	monsterClericRemoveFear
+	monsterClericResistCold
+	monsterClericRestoration
+	monsterClericResurrection
+	monsterClericSilence
+	monsterClericSIlence15Radius
+	monsterClericSlowPoison
+	monsterClericSpeakWithDead
+	monsterClericSpiritualHammer
+	monsterClericSymbol//any
+	monsterClericSymbolFear
+	monsterClericSymbolOfPain
+	monsterClericSymbolOfPain
+	monsterClericSymbolPain
+	monsterClericTeleportWithoutError
+	monsterClericTransmuteRockToMud
+	monsterClericUnholyWord
+	monsterClericWeb
+	monsterCryohydraBreath
+	monsterDeadlyGlance
+	monsterDergholothFeeblmind
+	monsterDracoliskAcid
+	monsterDragonBreathAcid
+	monsterDragonBreathColdSilver
+	monsterDragonBreathFearGas
+	monsterDragonBreathFire
+	monsterDragonBreathLightning
+	monsterDragonBreathParalysis
+	monsterDragonBreathPoison
+	monsterDragonBreathSleepGas
+	monsterDragonBreathSlowGas
+	monsterGiantPorcupineQuill
+	monsterGiantSkunkMusk
+	monsterGiantSlugSpit
+	monsterGorgonBreath
+	monsterHellHoundBreath
+	monsterImprovedPhantasmalForce
+	monsterMageBanishment
+	monsterMageBeguile
+	monsterMageBigbysClenchedFist
+	monsterMageBigbysGraspingHand
+	monsterMageBind
+	monsterMageBladeBarrier
+	monsterMageBurningHands
+	monsterMageCallLightning
+	monsterMageChainLightning
+	monsterMageCharmPerson
+	monsterMageChillTouch
+	monsterMageCloudkill
+	monsterMageColorSpray
+	monsterMageCommand
+	monsterMageConeOfCold
+	monsterMageConfusion
+	monsterMageDarkness
+	monsterMageDelayedBlastFireball
+	monsterMageDetectCharm
+	monsterMageDetectEvil
+	monsterMageDetectGood
+	monsterMageDetectMagic
+	monsterMageDimensionDoor
+	monsterMageDisintegrate
+	monsterMageDispelMagic
+	monsterMageDomination
+	monsterMageEnergyDrain
+	monsterMageFear
+	monsterMageFearByTouch
+	monsterMageFeeblemind
+	monsterMageFireball
+	monsterMageFireShield
+	monsterMageFireStorm
+	monsterMageFlameStrike
+	monsterMageFly
+	monsterMageFogCloud
+	monsterMageForget
+	monsterMageGeas
+	monsterMageGlobeOfInvulnerability
+	monsterMageHaste
+	monsterMageHoldMonster
+	monsterMageHoldPerson
+	monsterMageIceStorm
+	monsterMageImprisonment
+	monsterMageImprovedInvisibility
+	monsterMageIncendiaryCloud
+	monsterMageInvisibility
+	monsterMageInvisibility10Radius
+	monsterMageInvisible
+	monsterMageKnowAlignment
+	monsterMageLightningBolt
+	monsterMageMagicMissile
+	monsterMageMassCharm
+	monsterMageMassSuggestion
+	monsterMageMelfsAcidArrow
+	monsterMageMeteorSwarm
+	monsterMageMinorGlobeOfInvulnerability
+	monsterMageMirrorImage
+	monsterMageMordenkainensSword
+	monsterMageOttosIrresistibleDance
+	monsterMagePhantasmalKiller
+	monsterMagePowerWordBlind
+	monsterMagePowerWordKill
+	monsterMagePowerWordPain
+	monsterMagePowerWordStun
+	monsterMagePrismaticSpray
+	monsterMagePyrotechnics
+	monsterMageRayOfEnfeeblement
+	monsterMageReadMagic
+	monsterMageScare
+	monsterMageShield
+	monsterMageShockingGrasp
+	monsterMageSleep
+	monsterMageSLow
+	monsterMageStinkingCloud
+	monsterMageStoneskin
+	monsterMageSuggestion
+	monsterMageSymbolOfPain
+	monsterMageTrueSeeing
+	monsterMageVampiricTouch
+	monsterMageVanish
+	monsterMageWallOfFire
+	monsterMageRay Of Enfeeblement
+	monsterMageWeb
+	monsterMageWordOfRecall
+	monsterMedusaFleshToStone
+	monsterMageSuggestion
+	monsterMindBlast
+	monsterModronCure1HP
+	monsterModronHeal
+	monsterMonadicDevaCharmElemental
+	monsterNalfeshneeColorAttack
+	monsterPentadroneParalysisGas
+	monsterPoisonCloud
+	monsterPyrohydraBreath
+	monsterRedSlaadLoudCroak
+	monsterSymbolOfPain
+	monsterTanarriFearByTouch
+	monsterTeleportWithoutError
+	monsterTomeArchonLightRay
+	monsterUltralothGaze
+	monsterWallOfForce
+	monsterYagnolothBreathWeapon
+	monsterYagnolothShockingGrasp
+	Movanic Deva's Two-Handed Sword
+	Planetar's Great Sword
+	Ring Mail
+	Rutterkin Fletchet
+	Scale Mail
+	Scimitar +1
+	Scimitar +2
+	Scimitar|2
+	Shield
+	Short Bow
+	Short Sword
+	Short Sword +1
+	Short Sword +2
+	Solar's Long Bow
+	Solar's Long Sword
+	Spear
+	Tail Spike
+	Trident
+	Two-Handed Sword|3
+
+	
+name
+	Aarakocra
+	Aerial Servant
+	Air Elemental
+	Alu-Fiend
+	Amnizu
+	Amphisbaena
+	Ancient Fighter
+	Ankheg
+	Arcanaloth
+	Astral Deva
+	Babau
+	Badger
+	Balor
+	Bar-Igura
+	Barbazu
+	Basilisk
+	Bat
+	Beholder
+	Black Abishai
+	Black Bear
+	Black Dragon
+	Black Pudding
+	Blue Dragon
+	Blue SLaad
+	Boobrie
+	Boring Beetle
+	Brass Dragon
+	Bronze Dragon
+	Brown Bear
+	Brownie
+	Buffalo
+	Bugbear
+	Bulette
+	Cambion
+	Camel
+	Carrion Crawler
+	Cat
+	Catoblepas
+	Cave Fisher
+	Centaur
+	Chasme
+	Cheetah
+	Chimera
+	Clay Golem
+	Cloud Giant
+	Cockatrice
+	Copper Dragon
+	Cornugon
+	Couatl
+	Cow
+	Cryohydra
+	Cyclops
+	Dao
+	Death Slaad
+	Decaton
+	Dergholoth
+	Desert Giant
+	Dire Wolf
+	Displacer Beast
+	Djinni
+	Djinni Noble
+	Dracolisk
+	Dretch
+	Drider
+	Dryad
+	Duodrone
+	Eagle
+	Earth Elemental
+	Efreeti
+	Elephant
+	Erinyes
+	Ettercap
+	Ettin
+	Farastu
+	Firbolg
+	Firbolg Shaman
+	Fire Beetle
+	Fire Elemental
+	Fire Giant
+	Fire Snake
+	Flesh Golem
+	Flind
+	Fog Giant
+	Fomorian
+	Frost Giant
+	Galeb Duhr
+	Gargoyle
+	Geater Pegasus
+	Gelatinous Cube
+	Gelugon
+	Ghast
+	Ghost
+	Ghoul
+	Giant Ant
+	Giant Ant Warrior
+	Giant Badger
+	Giant Bat
+	Giant Black Squirrel
+	Giant Centipede
+	Giant Crocodile
+	Giant Lynx
+	Giant Porcupine
+	Giant Rat
+	Giant Scorpion
+	Giant Skeleton
+	Giant Skunk
+	Giant Slug
+	Giant Spider
+	Giant Wasp
+	Giant Wasp|Flying
+	Giant Weasel
+	Giant Wolverine
+	Githyanki
+	Githzerai
+	Glabrezu
+	Gnoll
+	Gnoll Leader
+	Goat
+	Goblin
+	Goblin Leader
+	Goblin|2
+	Gold Dragon
+	Gorgon
+	Green Abishai
+	Green Dragon
+	Green Slaad
+	Green Slime
+	Greenhag
+	Grey Ooze
+	Grey Slaad
+	Griffon
+	Grippli
+	Grizzly Bear
+	Hamatula
+	Harpy
+	Hawk
+	Hell Hound
+	Hexton
+	Hezrou
+	Hill Giant
+	Hill Giant Shaman
+	Hippogriff
+	Hippopotamus
+	Hobgoblin
+	Hobgoblin Leader
+	Hobgoblin|2
+	Horse
+	Hound Archon
+	Hydra
+	Hydroloth
+	Hyena
+	Ice Troll
+	Imp
+	Intellect Devourer
+	Invisible Stalker
+	Iron Golem
+	Jackal
+	Jackalwere
+	Jaguar
+	Jann
+	Juju Zombie
+	Jungle Giant
+	Kelubar
+	Kenku
+	Ki-rin
+	Killer Frog
+	Kobold
+	Kobold Shaman
+	Kobold|2
+	Kobold|3
+	Korred
+	Kuo-toa
+	Lamia
+	Lantern Archon
+	Larva
+	Lemure
+	Leopard
+	Lesser Air Elemental
+	Lesser Earth Elemental
+	Lesser Fire Elemental
+	Lesser Water Elemental
+	Leucrotta
+	Lich
+	Light
+	Lion
+	Lizard Man
+	Lizard Man King
+	Manes
+	Manticore
+	Maralith
+	Margoyle
+	Marid
+	Medusa
+	Mezzoloth
+	Mimic
+	Mind Flayer
+	Minotaur
+	Mobat
+	Molydeus
+	Monadic Deva
+	Monodrone
+	Mountain Giant
+	Mountain Lion
+	Movanic Deva
+	Mule
+	Mummy
+	Myconid
+	Nabassu
+	Nalfeshnee
+	Neo-Otyugh
+	Nereid
+	Nonaton
+	Nupperibo
+	Nycaloth
+	Nymph
+	Ochre Jelly
+	Octon
+	Ogre
+	Ogre Mage
+	Ogre Mage|2
+	Ogre|2
+	Orc
+	Orc Chieftain
+	Orc|2
+	Orc|3
+	Osyluth
+	Otyugh
+	Owl
+	Owlbear
+	Pech
+	Pegasus
+	Pentadrone
+	Phase Spider
+	Piscoloth
+	Pit Fiend
+	Planetar
+	Poisonous Snake
+	Polar Bear
+	Primus
+	Purple Worm
+	Pyrohydra
+	Pyrolisk
+	Quadrone
+	Quarton
+	Quinton
+	Raven
+	Red Abishai
+	Red Dragon
+	Red Slaad
+	Remorhaz
+	Rhinoceros
+	Roc
+	Rutterkin
+	Salamandar
+	Sandling
+	Satyr
+	Sea Hag
+	Secundus
+	Septon
+	Shadow
+	Shambling Mound
+	Shator
+	Sheep
+	Silver Dragon
+	Skeletal Dog
+	Skeleton
+	Skeleton|2
+	Skeleton|3
+	Smilodon
+	Solar
+	Spectre
+	Spinagon
+	Spirit Naga
+	Stag Beetle
+	Stirge
+	Stone Giant
+	Stone Golem
+	Storm Giant
+	Succubus
+	Sword Archon
+	Sylph
+	Tertian
+	Tiger
+	Titan
+	Tome Archon
+	Treant
+	Tridrone
+	Troglodyte
+	Troll
+	Ultroloth
+	Umber Hulk
+	Unicorn
+	Vampire
+	Verbeeg
+	Vrock
+	War Dog
+	Warden Archon
+	Water Elemental
+	Water Weird
+	Werebear
+	Wererat
+	Weretiger
+	Werewolf
+	White Dragon
+	Wight
+	Wild Boar
+	Wild Dog
+	Will o'Wisp
+	Winter Wolf
+	Wolf
+	Woolly Mammoth
+	Worg
+	Wraith
+	Wyvern
+	Xorn
+	Yagnoloth
+	Yeti
+	Yuan Ti
+	Yuan-Ti|2
+	Yuan-Ti|3
+	Zombie
+	Zombie|2
+	Zombie|3
+
+Special Ability
+	elementalImmuneAcid
+	elementalImmuneAir
+	elementalImmuneCold
+	elementalImmuneEarth
+	elementalImmuneElectricity
+	elementalImmuneFire
+	elementalImmuneGas
+	elementalImmuneIronWeapons
+	elementalImmuneMagicalFire
+	elementalImmuneNonmagicalFire
+	elementalImmuneNormalFire
+	elementalImmunePoison
+	elementalImmuneWater
+	elementalResistantAcid
+	elementalResistantCold
+	elementalResistantElectricity
+	elementalResistantFire
+	elementalResistantGas
+	elementalResistantMagicalFire
+	elementalResistantNonmagicalFire
+	elementalSlowingCold
+	elementalVulnerableCold
+	fire_dice,1
+	IsBlinking
+	IsBlinking1,1
+	IsBlinking2,2
+	IsDetectingEvil
+	IsDetectingGood
+	IsDetectingIllusions
+	IsDetectingLies
+	IsDetectingMagic
+	IsDetectingPoison
+	IsDetectingSnares
+	IsImmuneDisease,yup
+	IsImmuneDragonBreathWeapon,$acid
+	IsImmuneDragonBreathWeapon,$acid$slow
+	IsImmuneDragonBreathWeapon,$cold
+	IsImmuneDragonBreathWeapon,$cold$paralysis
+	IsImmuneDragonBreathWeapon,$fear$sleep
+	IsImmuneDragonBreathWeapon,$fire
+	IsImmuneDragonBreathWeapon,$fire$poison
+	IsImmuneDragonBreathWeapon,$lightning
+	IsImmuneDragonBreathWeapon,$poison
+	IsImmunePoison
+	IsInvisible,slaad
+	IsInvisibleStalker,yes
+	IsPerson,monster
+	IsPlant,1
+	IsProtectedFromEvil
+	IsProtectedFromEvil40Radius
+	IsProtectedFromEvil70Radius
+	IsProtectedFromEvilDoubleStrength
+	IsProtectedFromGood
+	IsProtectedFromNormalMissiles
+	IsProtectedFromNormalMissiles70Radius
+	IsProtectedGood
+	IsReadingMagic
+	IsSeeingInvisible
+	IsSnake,1
+	IsTrueSeeing
+	mnosterChasmeFear,start of combat save v spells or flee in terror 1-4 hours
+	monserSummoned,lower
+	monsterAmnizuGateAbishai,2-20 50%
+	monsterAmnizuGateErinyes,1-8 30%
+	monsterArcanalothGateYugoloth,-6 mezzoloths or 1-2 dergholoth or 1 arcanaloth 40%
+	monsterBabauGateTanarri,1-6 cambion or 1 babau 40%
+	monsterBabauGaze,20' save v spell or ray of enfeeblement
+	monsterBalorFieryAura,2-4 hp/rd
+	monsterBalorGateTanarri,1-8 least,1-6 lesser or 1-4 greater or 1 true 100%
+	monsterBarbazuGateAbishai,2-12 50%
+	monsterBarbazuGateBarbazu,1-6 35%
+	monsterBarlguraGateBarlgura,1-6 35%
+	monsterBlackAbishaiGateAbishai,1-3 30%
+	monsterBlackAbishaiGateLemure,2-12 60%
+	monsterBlueSlaadGate,1-4 red slaad or 1-2 blue slaad 40% 4/day
+	monsterCasterLevel,10
+	monsterCharisma,19
+	monsterChasmeGateTanarri,2-20 manes or 1-5 cambion or 1 chasme 40% 3/day
+	monsterChasmeSleep,start of combat save v spells or sleep for 2-8 hours
+	monsterCombatantAlignment,evil
+	monsterCornugonGateAbishai,2-16 35%
+	monsterCornugonGateBarbazu,2-12 50%
+	monsterCornugonGateCornugon,1-3 20%
+	monsterDeathSlaadGateSlaad,1-4 any other slaad 100%
+	monsterDetectInvisibility
+	monsterDretchGateDretch,1-4 50%
+	monsterErinyesCharmGaze,6
+	monsterErinyesGateBarbazu,1-4 35%
+	monsterErinyesGateSpinagon,1-8 50%
+	monsterFarastuAdhesive, 5% chance of getting stuck - treat as bear hug
+	monsterFarastuBattleFrenzy,after 5 rounds or hp to 50% or less- twice as many hits/round and +2 to the attack dice
+	monsterFarastuSummon,start of 3rd rd - 1-2 farastu 40%
+	monsterGelugonGateBarbazu,2-12 50%
+	monsterGelugonGateGelugon,1-2 20%
+	monsterGelugonGateOsyluth,2-8 35%
+	monsterGlabrezuGateTrue,1 50%
+	monsterGreenAbishaiGate,1-3 30%
+	monsterGreenAbishaiGateLemure,2-12 60%
+	monsterGreenSlaadGateSlaad,1-6 red slaad or 1-4 blue slaad or 1-2 green slaad or 1 grey slaad 50%
+	monsterGreySlaadGateGreySlaad,1-4 grey slaad 40%
+	monsterHamatulaGateAbishai,2-12 abishai 50%
+	monsterHamatulaGateHamatula,1-4 35%
+	monsterHezrouGateTanarri,4-10 least or 1-10 lesser or 1-4 greater 50% x3
+	monsterHezrouGateTrue,1 50%
+	monsterHezrouStench,10' save v poison or no attack, saves attack at -2
+	monsterHighestInitiative
+	monsterHoundArchonAidFromLanternArchon,1-10 lantern archons will teleport to hound archon during combat until 100 arrive
+	monsterHydraAttacks
+	monsterHydrolothGateHydroloth,1 100% x2
+	monsterHydrolothResistantWater,half damage save for none
+	monsterImmuneAttackNegativePlane
+	monsterImmuneCharm
+	monsterImmuneConfusion
+	monsterImmuneConfustion
+	monsterImmuneDeathSpells
+	monsterImmuneDomination
+	monsterImmuneEnchantment
+	monsterImmuneFear
+	monsterImmuneFeeblemind
+	monsterImmuneGas
+	monsterImmuneHold
+	monsterImmuneIllusions
+	monsterImmuneImprisonment
+	monsterImmuneIronWeapons
+	monsterImmuneLevelLoss
+	monsterImmuneMagic
+	monsterImmuneMagicalFire
+	monsterImmuneMagicMissile
+	monsterImmuneMentalControl
+	monsterImmuneParalysis
+	monsterImmunePetrification
+	monsterImmunePhantasms
+	monsterImmunePoison
+	monsterImmunePsionics
+	monsterImmuneSleep
+	monsterImmuneSuggestion
+	monsterInfravision,120
+	monsterKelubarStench, 3" aura save v poison or incapacitated for 1-10 rounds
+	monsterKelubarSummon, 3rd rd - 1-2 kelubar 40% or summon 1-2 farastu 60%
+	monsterLevel,
+	monsterManesDeathExplosion,at death adjacent save v poison or 1-6 acid damage
+	monsterMaralithGateTanarri,2-20 least 1-6 lesser 1-4 greater or 1 true 35%
+	monsterMezzolothGateYugoloth,1-4 mezzoloth or 1-2 hydroloth 40%
+	monsterModronDamageReduction,cold and fire and acid -1 per die
+	monsterModronSave,fire and acid +1
+	monsterNabassuParalyticAura,save v paralysis or paralyzed for 1-10 turns
+	monsterNabassuRegenerate,20 hp/day
+	monsterNabassuSummonGhast,2-5 100% if in Abyss
+	monsterNalfeshneeGateTanarri,1-6 babau or 1 vrock 50% x2
+	monsterNeverSurprised
+	monsterNycalothGateYugoloth,1-10 mezzoloths or 1-3 dergholoths or 1 nycaloth 35%
+	monsterOsyluthFear
+	monsterOsyluthGateNupperibo,1-100 50%
+	monsterOsyluthGateOsyluth,1-2 35%
+	monsterPiscolothGateMezzoloth,1-8 100% x3
+	monsterPiscolothGatePiscoloth,1-2 35%
+	monsterPiscolothWaterDamage,-1 per die
+	monsterPitFiendFearAura,2
+	monsterPitFiendGateGreater,1 greater baatezu 100%
+	monsterPitFiendGateLesser,2 lesser baatezu 100%
+	monsterRedAbishaiGateAbishai,1-3 abishai 30%
+	monsterRedAbishaiGateLemure,2-12 lemures 60%
+	monsterRedSlaadGateRedSlaad,1-2 red slaad 30%
+	monsterRegeneration,4
+	monsterResistantGas
+	monsterRutterkinGateLeastTannari,1-8 dretch or manes or rutterkin 50%
+	monsterShatorEdgedWeaponResistance, -1 to hit
+	monsterShatorSummon, 3rd rd - 1-6 farastu 100% 1-4 kelubar 100% or 1-2 shator 30%
+	monsterSolarGateAasimon,1 planetar or 1-4 devas 100%
+	monsterSolarSummon,1-2 ki-rin (LG) or 1-2 phoenix (NG) or 1-2 titans (CG) x3 75%
+	monsterSpinagonGateSpinagon,1-3 spinagons 35%
+	monsterStrengthDamageBonus,10
+	monsterSuccubusGateBalor,1 40%
+	monsterSummoned,inner
+	monsterUltralothGateYugoloth,1 of any type 100% once per day per type
+	monsterVrockGateTanarri,2-20 manes or 1-6 bar-lgura or 1-5 nalfashnee 50%
+	monsterVrockSporeAura,every 3rd rd, 5' rad 1-2 hp/rd for 10 rds then held if fail save v paralysis - cpimtered with bless or neutralize/slow poison or cure serious/critical wounds
+	monsterVulnerableIron
+	monsterWeaponHalfDamage
+	monsterWeaponImmunity,1
+	monsterWeaponImmunityWater,weird
+	monster_AgingAura,10
+	monster_AuraDragon,Black Dragon
+	monster_AuraDragon,Blue Dragon
+	monster_AuraDragon,Brass Dragon
+	monster_AuraDragon,Bronze Dragon
+	monster_AuraDragon,Copper Dragon
+	monster_AuraDragon,Gold Dragon
+	monster_AuraDragon,Green Dragon
+	monster_AuraDragon,Red Dragon
+	monster_AuraDragon,Silver Dragon
+	monster_AuraDragon,White Dragon
+	monster_BeholderAttacks,5
+	monster_CheetahNotSurprised
+	monster_CorrodesMetalAttacker
+	monster_CorrodesMetalTarget
+	monster_Displacement,monster
+	monster_DragonSavingThrow,second
+	monster_DragonSavingThrow,third
+	monster_ElementalGrowth,electricity
+	monster_ElementalGrowth,fire
+	monster_ElementalImmunity,acie
+	monster_ElementalImmunity,cold
+	monster_ElementalImmunity,electricity
+	monster_ElementalImmunity,fire
+	monster_ElementalResistance,electricity
+	monster_ElementalSlowing,cold
+	monster_ElementalSlowing,electricity
+	monster_ElementalSlowing,fire
+	monster_ElementalVulnerabity,fire
+	monster_FrightAura,3
+	monster_ImmuneCharm,monster
+	monster_ImmuneFear,monster
+	monster_ImmuneHold,monster
+	monster_ImmuneLessPlus2Weapons
+	monster_ImmuneSleep,monster
+	monster_ImmuneSpellsGreenSlime,monster
+	monster_ImmuneSpellsIronGolem,monster
+	monster_MimicGlue
+	monster_PlayerControl,yes
+	monster_PrtrifyAura,3
+	monster_Regeneration,1
+	monster_Regeneration1,OgreMage
+	monster_Revulsion,6
+	monster_SlimeWeakness,monster
+	monster_SpellImmunity,$Magic Missile$Death Spell$Cone of Cold$Ice Storm$Lightning Bolt
+	monster_SpellImmunityOoze
+	monster_SpellImmunityWisp,1
+	monster_Swept,1
+	monster_TrollGetUp,monster
+	monster_TrollRegeneration,2
+	monster_TrollRegeneration,3
+	monster_Ultravision
+	monster_VulnerableToHolyWater,monster
+	monster_WeaponDamageOnlyOne,monster
+	monster_WeaponImmunity,1
+	monster_WeaponImmunity,2
+	monster_WeaponImmunity,3
+	monster_WeaponImmunity,999
+	monster_WeaponImmunity,normal
+	monster_WeaponImmunityType,blunt
+	monster_WeaponResistance,magical
+	monster_WeaponResistanceType,blunt
+	monster_WeaponResistanceType,slashing
+	range
+	rangeGhast,Ghast
+	rangeUndead,Lich
+	rangeUndead,Mummy
+	spell_Drain,wight
+	spell_Drain,wraith
+	spell_ImmuneSpells,monster
+	spell_SeeInvisible,monster
+	Summoned
+	

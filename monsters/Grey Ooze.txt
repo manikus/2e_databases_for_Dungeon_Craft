@@ -1,0 +1,35 @@
+\(BEGIN)
+name = Grey Ooze
+icon file = icon_GreyOoze.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 1
+armor class = 8
+movement rate = 1
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 17
+magic resistance = 0
+size = medium
+morale = 25
+experience point value = 270
+Special Ability = isImmuneCold
+Special Ability = isImmuneFire
+Special Ability = monsterCorrodesMetalAttacker
+Special Ability = monsterCorrodesMetalTarget
+Special Ability = monsterLevel,4
+Special Ability = monsterOozeSpellImmunity
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 8,2,0,attacks,
+Undead = none
+\(END)
+

@@ -1,0 +1,8 @@
+\(BEGIN)
+name = spellPrayer
+[InvokeSpellOnTarget] = $VAR atk; $VAR cls; $VAR adj; $VAR lvl; $VAR exp;
+-atk = $IndexOf($AttackerContext()); cls = $SA_PARAM_GET(); adj = $GET_SPELL_SA($SpellContext(),"adjLevel");
+-lvl = $GET_CHAR_Lvl(atk,cls) -# adj; $SET_CHARACTER_SA($TargetContext(),"DispelLevel",lvl);
+-exp = $GET_PARTY_TIME() +# lvl; $SET_CHARACTER_SA($TargetContext(),"isPraying",exp);
+\(END)
+

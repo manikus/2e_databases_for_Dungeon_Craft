@@ -1,0 +1,9 @@
+\(BEGIN)
+name = monsterBearHugged
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Hugged by Bear"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[OnStartCombatantAction] = $VAR atk;
+-atk = $SA_PARAM_GET();
+-$IF ($GET_CHAR_HITPOINTS(atk) <# 1)
+-	{$DELETE_COMBATANT_SA($CombatantContext(),"HugLink"); $DELETE_CHARACTER_SA($CombatantContext(),"isHugged"); $SA_REMOVE();};
+\(END)
+

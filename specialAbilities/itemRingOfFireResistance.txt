@@ -1,0 +1,8 @@
+\(BEGIN)
+name = itemRingOfFireResistance
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(),"isRingResistantFire", "");
+-$SET_CHARACTER_SA($CharacterContext(),"DispelLevelItem","12");
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(), "isRingResistantFire");
+-$DELETE_CHARACTER_SA($CharacterContext(),"DispelLevelItem");
+\(END)
+

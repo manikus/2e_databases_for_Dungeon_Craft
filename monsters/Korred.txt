@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Korred
+icon file = icon_Korred.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 12
+armor class = 5
+movement rate = 9
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 1
+THAC0 = 15
+magic resistance = 25
+size = small
+morale = 35
+experience point value = 1400
+Special Ability = monsterLevel,6
+Special Ability = monsterStrengthDamageBonus,4
+Class = Fighter
+Race = Monster
+form = mammal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterKorredLaugh
+item = monsterClericTransmute Rock To Mud
+attack = 2,1,0,attacks,
+Undead = none
+\(END)
+

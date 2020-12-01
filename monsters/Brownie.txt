@@ -1,0 +1,36 @@
+\(BEGIN)
+name = Brownie
+icon file = icon_Brownie.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 14
+armor class = 3
+movement rate = 12
+hit dice = .5
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 20
+magic resistance = 0
+size = small
+morale = 30
+experience point value = 175
+Special Ability = isNeverSurprised,1
+Special Ability = isProtectedFromEvil,1
+Special Ability = monsterLevel,1
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterMageDancing Lights
+item = monsterMageContinual Light
+item = monsterMageMirror Image
+item = monsterMageConfusion
+item = monsterMageDimension Door
+attack = 2,1,0,attacks,
+Undead = none
+\(END)
+

@@ -1,0 +1,16 @@
+\(BEGIN)
+name = monsterAuraMummy
+[AURA_Create] = $VAR chr; // character
+-chr = $IndexOf($CharacterContext());
+-$AURA_Attach("Combatant"); $AURA_Combatant(chr); $AURA_Size(0,6,0,360); $AURA_Shape("AnnularSector"); $AURA_Wavelength("Xray");
+[AURA_Enter] = $VAR com; $VAR race; $VAR save; $VAR rndm; $VAR time;
+-$IF ($GET_COMBATANT_SA($CombatantContext(),"isOverMummy) != "-?-?-"){$RETURN;};
+-com = $IndexOf($CombatantContext()); race = $GET_CHAR_NAME(com);
+-save = $SkillAdj($CombatantContext(),"Save Vs PPDM","mummy","F",0); rndm = $RANDOM(20) +# 1; time = $GET_PARTY_TIME();
+-$IF (race == "Human"){save = save +# 2;};
+-$IF (rndm >=# save){$RETURN $SET_COMBATANT_SA($CombatantContext(),"isOverMummy","");}
+-$ELSE ($RETURN $SET_COMBATANT_SA($CombatantContext(),"isMummyFear",time);};
+[CreateMonsterCombatant] = $VAR prm; // sa's parameter
+-prm = $GET_PARTY_TIME() +# $RANDOM(4) +# 1; $AURA_Create("monsterAuraMummy",prm,0,0,0);
+\(END)
+

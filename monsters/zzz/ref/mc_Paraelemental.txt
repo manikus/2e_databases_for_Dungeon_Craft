@@ -1,0 +1,207 @@
+Paraelemental Beast, General Information
+2433
+Paraelemental Beast, General Information
+Paraelemental beasts are creatures native to the four paraelemental planes (known as the Paraelemental Planes of Magma, Rain, Silt, and Sun by Athasian clerics and scholars). Born of two elements, paraelemental beasts find peaceful existence only on their respective paraelemental planes. There the two elements blend, co-existing in a comfortable state. Anywhere else, the conflicting natures of these semi-intelligent beasts emerge, seeking to overpower each other. This gives conjured paraelemental beasts personalities that range from mean and confused to murderous and irrational. Either way, they aren’t the frlendliest of creatures to meet outside their native planes — even on their best days.
+
+As with elemental beasts, paraelemental beasts aren’t worshipped by the priests of Athas. They are consldered divine in nature, however, as these creatures are composed of the pure forces of the elements. Still, that doesn’t make them revered. Elemental priests don’t trust things of the paraelemental planes, so the beasts are rarely called upon by the clerics of air, earth, fire, and water.
+
+Paraelemental clerics, on the other hand, readily conjure the divine beasts to increase their own power or to perform missions that benefit their patron paraelementals. Like the paraelementals they serve, these clerics seek quantity over quality. Nothing elevates the position of a paraelemental priest like the presence of a beast from his associated plane. The longer such a beast remains with him, the more favored by the paraelementals he’s believed to be.
+
+Paraelemental beasts will only be encountered on Athas if summoned by magical means. Each beast adopts a shell composed of the basic elements it represents. If the shell is destroyed, it returns to its native plane.
+
+These beasts can only be harmed by magical weapons with a +1 attack bonus or better, wizard and priest spells, and psionic powers from the Telekinetic and Psychoportive disciplines. Spells related to their native planes in any way don’t effect them, and defiling magic doesn’t have any additional adverse effects on them besides the normal effects of the spells (as it does on lesser elementals).
+
+Summoning a Paraelemental Beast: There are three methods for calling a paraelemental beast to the Prime Material Plane conjured by spell (conjure elemental, wizard or priest version), conjured by staff, or conjured by summoning device. The level of control gained over a paraelemental beast is influenced by the method used to summon it.
+
+Controlling a Paraelemental Beast: Concentration during the summoning process is essential to ensuring control over a conjured paraelemental beast. Any distraction to the summoner, either mental or physical, results in a failure to control the beast when it arrives on the Prime Material Plane Control lasts for the duration of the spell that summoned it plus one day per level of the summoner, until the shell housing the beast is destroyed, or until its rage and insanity overcome it. Paraelemental beasts that are uncontrolled and acting upon their own desires are called free-willed.
+
+Unlike the elemental beasts, paraelemental beasts aren’t bothered by pain caused by the impurity of the Prime Material Plane. Instead, they suffer from elevated emotions due to the steady separation of their mixed natures that results from being removed from their native plane. Each day outside its native plane, a paraelemental beast becomes more enraged and insane. Even if successfully controlled, a beast must check each day to see if its rage overcomes it.
+
+The base chance for a paraelemental beast to be overcome by its insanity is 10%. This increases by 10% each day, until after nine days, when the chance remains fixed at 90%. On the day that a check is failed, the beast’s rage becomes a blinding fury. It attacks any living creatures nearby and then flees in an attempt to find its way home (or a suitable terrain type where it can find some small comfort).
+
+Paraelemental Beasts on Athas: Paraelemental beasts aren’t native to Athas. They can only arrive via magical summons, and they have no way to leave of their own accord. Controlled beasts are usually in the presence of or working for a priest whose patron is of their native planes. Uncontrolled beasts are very rare, and always found in the vicinity of some terrain feature that closely resembles the environment of their native planes.
+
+Paraelemental beasts of rain are the rarest type of these creatures encountered, as the shell they inhabit can’t survive long under the harsh, crimson sun. Paraelemental beasts of silt are the most common, as these creatures have actually found a niche in Athasian ecology.
+
+======================================================================================
+
+Paraelemental Beast, Magma
+2433
+Paraelemental Beast, Magma
+Climate/Terrain:	Anywhere there is lava
+Frequency:	Very rare
+Organization:	Solitary
+Activity Cycle:	Any
+Diet:	Magma
+Intelligence:	Semi (2-4)
+Treasure:	Nil
+Alignment:	Neutral
+No. Appearing:	1
+Armor Class:	3
+Movement:	9, Sw 15
+Hit Dice:	8
+THAC0:	13
+No. of Attacks:	2
+Damage/Attack:	3d6/3d6
+Special Attacks:	See below
+Special Defenses:	+1 or better magical weapon to hit
+Magic Resistance:	Nil
+Size:	L (12’ tall)
+Morale:	Elite (15)
+XP Value:	3,000
+Paraelemental beasts of magma are found only near volcanos and other places lava flows to the surface. When summoned they form themselves from the magma as it pours from the ground.
+
+Paraelemental beasts of magma resemble large humanoid creatures similar to baatezu in form except they are composed solely of magma. They have massive wings of dripping magma that are at least 10 feet across when spread. They have huge, clawed hands and clawed feet. They have thick, lumbering tails as long as 7 feet Their bodies are almost black on the surface, but the surface constantly cracks open as they move, revealing the bright red magma beneath. Their eyes are always fiery red and never blacken as they cool. They leave a lava trail wherever they go and any thing near them most likely melts or ignites.
+
+Combat: Paraelemental beasts of magma attack with their huge, clawed hands for 1-6 (1d6) points of damage plus 1-12 (1d12) points of additional damage because of the great heat radiating from them.
+
+The creatures can swim through magma at a speed of 15 and they can also use open pits of magma to launch themselves into the air. They crash down on their opponents, causing double damage with their claws. This attack also gives them a +3 bonus to their attack roll and imposes a -5 penalty on their opponents’ surprise rolls. Touching the creature causes 1.12 (1d12) points of burn damage to those not protected from magical fire and heat. All flammable objects (including clothing) that come in contact with the creature must successfully save vs. magical fire at -2 or they ignite.
+
+Paraelemental beasts of magma can fire blasts of molten lava at opponents as far as 30 feet away. The blast causes 4-24 (4d6) points of damage unless a successful save vs. spell is made for only half damage or unless the target is resistant to fire-based and heat-based attacks.
+
+Nonmagical weapons that touch these creatures melt or burn away if hit. The hit causes the creature no damage, but the weapon must make a successful save vs. magical fire at -6 or be destroyed. Magical weapons cause +1 point of damage per die of damage caused. The weapons also become red hot and must make a successful save vs. magical fire (no penalty) or they too are destroyed.
+
+Paraelemental creatures of magma can regenerate 1 hit point per round if they are in contact with lava. If they are within an open pit of magma they can regenerate 3 hit points per round.
+
+They are immune to all heat-based and flame-based attacks, but suffer double damage from cold-based attacks. They suffer 1 point of damage for every five gallons of water poured on them. They cannot regenerate damage caused by water unless they are in an open pit of magma.
+
+Habitat/Society: Paraelemental beasts of magma are solitary creatures. Free-willed beasts often take up residence inside volcanos or other lava flows where they have full access to their para-element. They seldom interact with others except to attack those who remind them of their summoners.
+
+Ecology: Paraelemental beast of magma hold no natural place on the Prime Material Plane. They seldom interact with other creatures and actively cause eruptions only to injure other living creatures after the beasts have been attacked for no reason.
+
+====================================================================================================
+
+Paraelemental Beast, Rain
+2433
+Paraelemental Beast, Rain
+Climate/Terrain:	Anywhere it has recently rained
+Frequency:	Very rare
+Organization:	Solitary
+Activity Cycle:	Any
+Diet:	Water
+Intelligence:	Semi (2-4)
+Treasure:	Nil
+Alignment:	Neutral
+No. Appearing:	1
+Armor Class:	2
+Movement:	Fl 30 (A)
+Hit Dice:	8
+THAC0:	13
+No. of Attacks:	1
+Damage/Attack:	3d6
+Special Attacks:	See below
+Special Defenses:	+1 magical weapon or better
+Magic Resistance:	Nil
+Size:	H (16’ tall)
+Morale:	Elite (15-16)
+XP Value:	3,000
+Paraelemental beasts of rain are the rarest of all the paraelemental beasts because they can only be conjured where it is currently raining. Also, rain paraelemental beasts usually find the Athasian climate too intolerable and return to the elemental inner plane shortly after gaining free will.
+
+Paraelemental beasts of rain appear to be free-floating waterfalls. They are composed of heavy rain drops that fall down and then up again, over and over in a circular pattern. They draw what little humidity they can from Athas’ atmosphere to sustain themselves.
+
+They speak their own language that is formed from the sound of falling rain drops, but only they can understand it.
+
+Combat: Rain paraelemental beasts appear to be harmless, but they have a number of powerful attacks. Their attacks, combined with their great speed, make them difficult and unpredictable opponents.
+
+Rain paraelemental beasts can direct blasts of rain toward their opponents. These blasts are so focused that they cause 3-18 (3d6) points of damage and knock down the victims unless the opponent makes a successful Dexterity roll at -4. Those who attempt to walk through the creature suffer great internal damage as the water within their own bodies begins following the same circular pattern as the water that makes up the creature. For each round a victim spends inside the paraelemental beast, it suffers 4-32 (4d8) points of damage unless it makes a successful save vs. death magic, in which case it suffers half damage. Rain paraelemental beasts often force others inside themselves for this effect.
+
+Rain paraelemental beasts can also cause damage to all living beings within a radius equal in feet to their current hit points by draining the moisture from their bodies to add to its own rain. Rain paraelementals cannot use this attack while taking any other action and remain motionless while doing so. All living victims must make a successful save vs. spells or suffer 1-6 (1d6) points of damage from dehydration. Rain paraelemental beasts gain half as many hit points as their victims lose.
+
+Magical fire causes full damage to rain paraelementals, but they easily extinguish nonmagical fire smaller than a bonfire without suffering damage.
+
+Habitat/Society: Rain paraelemental beasts often rest over oases, wells, small lakes, and other sources of water, gathering moisture from them in order to retain their forms. They seldom remain on the Prime Material Plane for more than a few weeks before returning to the Elemental Inner Plane. In rare cases, rain paraelemental beasts have been known to hover over entire city-states, gathering moisture from the local water supply and from the inhabitants themselves. The templars must dispatch them quickly before they kill all the local inhabitants and become too powerful to dismiss.
+
+Ecology: Rain paraelemental beasts have no natural place on Athas.
+
+=============================================================================================
+
+Paraelemental Beast, Silt
+2433
+Paraelemental Beast, Silt
+Climate/Terrain:	Large areas of silt
+Frequency:	Very rare
+Organization:	Solitary
+Activity Cycle:	Any
+Diet:	Si1t
+Intelligence:	Semi (2-4)
+Treasure:	Nil
+Alignment:	Neutral
+No. Appearing:	1
+Armor Class:	2
+Movement:	9, Sw 15
+Hit Dice:	7
+THAC0:	13
+No. of Attacks:	7
+Damage/Attack:	3d6/1d6 (×6)
+Special Attacks:	See below
+Special Defenses:	+1 magical weapon or better to hit
+Magic Resistance:	Nil
+Size:	L (12’ across)
+Morale:	Elite (l5)
+XP Value:	3,000
+Paraelemental beasts of silt can only be summoned in places where there are large amounts of silt. If they gain free will, they often travel to the Sea of Silt or other places where they can roam freely in their element forever.
+
+Paraelemental creatures of silt resemble the krackens of legend, except they are composed entirely of silt. They have 8 octopuslike tentacles, but their upper bodies are serpentlike. Their heads are similar to those of silt drakes in size and shape. Their necks are about 7 feet long, as are their tentacles. Their tentacles do not have suction cups but are strong enough to pick up humansized beings in their grasp and agile enough to batter opponents. A billow of fine silt dust rises like steam from their nostrils.
+
+Combat: Paraelemental beasts of silt attack with their mouths and six of their tentacles. Their bite causes 3-18 (3d6) points of damage. Each tentacle causes 1-6 (1d6) points of damage and on a successful strike there is a 50% chance it wraps around the victim and constricts for 2-8 (2d4) points of damage each following round until the tentacle is cut loose or the victim breaks free. Any human-sized or smaller creature can be attacked by the creature with only one tentacle at a time.
+
+Once a victim has been grabbed, the creature attempts to pull it down into the silt where it suffocates. On a percentage roll of 1-25 neither of a victim’s arms are pinned, on a roll of 26-50 the left arm is pinned, on a roll of 51-75 the right arm is pinned, and on a roll of 76-100 both arms are pinned. When both arms are pinned, the victim cannot attack. When one arm is pinned, the character’s attack rolls are at -3. When neither arm is pinned, the victim’s attack rolls are at -1. The tentacles have 18/01 Strength and any creature with Strength greater than 18/01 can negate its constriction attacks by pulling against it. When this happens, the creature bites the victim until it stops struggling. The creature does not need to make an attack roll and can automatically bite any victim held this way.
+
+Each tentacle has 8 hit points (in addition to the creature’s 8 HD). When it receives 8 points of damage it turns into fine silt and pours to the ground. The paraelemental beast can no longer keep mental control over its shape because of the damage it suffers.
+
+The paraelemental beast of silt has the fearsome whirlpool attack. The creature can swirl about within the silt, creating a funnelling effect. The effect draws everything within a 1-foot radius per hit point it has straight down into the funnel. Once it stops spinning, the silt above closes in, trapping any creature drawn in below the surface. Victims must make eight successful Constitution rolls in a row to reach the surface before breathing in silt. Victims who breath in silt must make a successful save vs. death magic at -3 or they die. If the save is successful, they receive 2-20 (2dl0) points of damage and must continue toward the surface, attempting their remaining Constitution rolls.
+
+Paraelemental beasts of silt are virtually invisible until they attack because they usually slink about in the same silt from which they are made. Only when they rise above the silt are their shapes visible.
+
+Paraelemental beasts of silt receive double damage from all wind-based attacks and no damage from attacks relating to their own para-element. Whenever in direct contact with a large quantity of silt, they can regenerate at a rate of 2 hit points per round.
+
+Habitat/Society: Paraelemental beasts of silt are solitary creatures. They generally roam about silt-filled areas, attacking only those who attack them or those who remind them of their summoners (including most humans, humanoids, and demihumans).
+
+Ecology: While paraelemental beasts of silt are unnatural extraplanar creatures, they have found a place in the ecology of Athas. They now help reduce number of predators that roam their silt-filled homes.
+
+=======================================================================================================
+
+Paraelemental Beast, Sun
+2433
+Paraelemental Beast, Sun
+Climate/Terrain:	Any surface area
+Frequency:	Very rare
+Organization:	Solitary
+Activity Cycle:	Any
+Diet:	Sunlight
+Intelligence:	Semi (2-4)
+Treasure:	Nil
+Alignment:	Neutral
+No. Appearing:	1
+Armor Class:	2
+Movement:	6, F1 36 (D)
+Hit Dice:	9
+THAC0:	11
+No. of Attacks:	3
+Damage/Attack:	3d6/2d6/2d6
+Special Attacks:	See below
+Special Defenses:	+1 magical weapon or better to hit
+Magic Resistance:	Nil
+Size:	L (16’ wingspan)
+Morale:	Elite (15-16)
+XP Value:	3,000
+Paraelemental beasts of sun can be summoned anywhere there is strong sunlight, of which there is no shortage in Athas. Paraelemental beasts of sun that gain free will often choose to make Athas their permanent home because of the great presence of their para-element.
+
+Paraelemental beasts of sun resemble the phoenix of legend. They are two-headed birds composed of flames sustained by the rays of the suns. Their flaming wings span 16 feet across. Their two heads work in tandem, seemingly under the control of one brain. It hurts to look directly at paraelemental beasts of sun because they radiate light even more intense than a light spell.
+
+Combat: Paraelemental beasts of sun attack by swooping down on their opponents and attacking them with their two talons for 2-12 (2d6) points of damage each, and with one of their beaks for 3-18 (3d6) points of damage. Opponents with resistance to magical flames suffer only half damage. The talons and beak are fiery hot and they leave terrible burns on their victims.
+
+Flammable objects that touch these creatures ignite and burn until extinguished or totally consumed unless they successfully save vs. magical fire at a -2.
+
+Paraelemental beasts of sun can generate intense heat from their bodies that cause sunstroke and dehydration. For each round the creature uses this attack, all victims within a 1-foot radius per hit point it has lose 1-6 (ld6) points of Constitution unless the victims make a successful save vs. breath weapon or have some special protection from heat stroke and dehydration.
+
+Paraelemental beasts of sun regenerate 3 hit points per round while in sunlight. When removed from sunlight, their regeneration powers do not function and they have a -4 penalty to attack and damage rolls. Their flight speed is reduced by -3 for every 12 hours straight they are not exposed to sunlight and they also lose 2-12 hit points.
+
+The creatures can create massive bursts of sunlight from their bodies that can blind any seeing opponent within a 150-foot radius unless the opponent makes a successful save vs. spell. All undead caught in this burst of light suffer 6-36 (6d6) points of damage with no savmg throw. When the paraelemental beasts use this power they lose 5 hit points because they burns up part of themselves producing the light. When they reach zero hit points they explode into solar energy producing the same effect as this power.
+
+Paraelemental beasts of sun are immune to all heat-based and fire-based attacks, both nonmagical and magical. They can only be hit by a +1 or better magical weapon, by creatures of 4 HD or greater, and by creatures with magical abilities. They are immune to all sleep, charm, and hold spells. Cold-based attacks cause them 1 additional point of damage per die of damage caused. Darkness spells cause them 2-12 (2d6) points of damage and continual darkness causes them 4-24 (4d6) points of damage.
+
+Habitat/Society: Paraelemental beasts of sun gather in small flocks of as many as 10 whenever possible, but because of their rarity on the Prime Material Plane, they are usually encountered alone. They spend most of their time flying high above the land, basking in solar energy. They seldom attack creatures except in defense or when they spot humans, humanoids, or demihumans that remind them of those who summoned them.
+
+Ecology: Paraelemental beasts of sun are among the easiest creatures to summon and outnumber all other paraelemental beasts two to one. They are often spotted circling far overhead but are almost never seen near the ground except when they are recently summoned or when they attack those whom they believe summoned them.
+

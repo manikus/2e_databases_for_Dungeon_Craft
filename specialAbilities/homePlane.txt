@@ -1,0 +1,6 @@
+\(BEGIN)
+name = homePlane
+ParametersInner = Air, Earth, Fire, Negative, Positive, Water
+ParametersOuter = The Abyss, Arborea Baator, Beastlands, Cercari, Elysium, Happy Hunting Grounds, Limbo, Lower, Mechanus, Upper
+\(END)
+

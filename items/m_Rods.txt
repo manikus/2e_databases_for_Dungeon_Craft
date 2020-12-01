@@ -1,0 +1,161 @@
+//	rods
+\(BEGIN)
+name = Rod|Beguiling
+id name = Rod of Beguiling
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 6000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemRodBeguiling,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Rod of Beguiling: This rod enables its possessor to radiate an emotional and mental wave of fellow feeling to all creatures with any Intelligence whatsoever (1 or higher Intelligence). The rod causes all such creatures within a 20-foot radius of the device to regard the wielder as their comrade, friend, or mentor (no saving throw).
+//The beguiled creatures will love and respect the rod wielder. They will listen, trust, and obey him, insofar as communication is possible and instructions given don't consign the beguilded to needless injury or destruction or go against their nature or alignment. Each charge of the rod beguiles for one turn. It can be recharged.
+
+\(BEGIN)
+name = Rod|Resurrection
+id name = Rod of Resurrection
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 7000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemRodResurrection,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Rod of Resurrection: This rod enables a cleric to resurrect the dead—even elven, dwarven, gnome, or halfling—as if he were of high enough level to cast the resurrection spell. No rest is required, as the rod bestows the life giving effects.
+//The rod can be used once per day. The number of charges used to resurrect a character depends on class and race. Total the number of charges indicated for the character's class and race:
+//Class		Charges		Race	Charges
+//Priest		1		Dwarf		3
+//Priest			2		Elf			4
+//Fighter		2		Gnome		3
+//Paladin		1		Half-elf	2
+//Ranger		2		Halfling	2
+//Mage			3		Human		1
+//Illusionist	3
+//Thief			3
+//Bard			2
+//Multi-classed characters use the least favorable category. The rod cannot be recharged.
+
+\(BEGIN)
+name = Rod|Smiting
+id name = Rod of Smiting
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 3000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D8 + 3
+large damage dice = 1D8 + 3
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemDamageTypeBludgeoning,1
+Special Ability = itemMagicalWeapon,3
+Special Ability = itemRodSmiting,1
+weapon type = hand held blunt
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Rod of Smiting: This rod is a +3 magical weapon that inflicts 1d8+3 points of damage. Against golems, the rod causes 2d8+6 points of damage, and any score of 20 or better completely destroys the golem. Any hit upon a golem drains one charge.
+//The rod causes normal damage (1d8+3) versus creatures of the Outer Planes. Any score of 20 or better draws off one charge and causes triple damage: (1d8+3) x3. The rod cannot be recharged.
+

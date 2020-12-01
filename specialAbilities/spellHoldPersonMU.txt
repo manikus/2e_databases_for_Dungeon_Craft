@@ -1,0 +1,13 @@
+\(BEGIN)
+name = spellHoldPersonMU
+[InvokeSpellOnTarget] = $VAR atk; $VAR tgt; $VAR nm; $VAR cls; $VAR lvl; $VAR exp;
+-$IF ($GET_CHARACTER_SA($TargetContext(),"saved")){$RETURN;}; $IF ($GET_CANBEHELDORCHARMED($TargetContext()) != 1){$RETURN;};
+-atk = $IndexOf($AttackerContext()); tgt = $IndexOf($TargetContext()); nm = $GET_CHAR_NAME(tgt);
+-$IF ($GET_MONSTERTYPE_SA(nm,"monsterLevel") != "-?-?-")
+-	{  //  MONSTERTYPE_SA checks go here
+-		$IF ($GET_MONSTERTYPE_SA(nm,"isPerson") == "-?-?-") {$RETURN;};
+-	};
+-cls = $SA_PARAM_GET(); lvl = $GET_CHAR_Lvl(atk,cls); exp = $GET_PARTY_TIME() +# (lvl *# 2);
+-$SET_COMBATANT_SA($TargetContext(),"isHeld",exp);
+\(END)
+

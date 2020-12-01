@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Clay Golem
+icon file = icon_ClayGolem.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 0
+armor class = 7
+movement rate = 7
+hit dice = 50
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 9
+magic resistance = 0
+size = large
+morale = 50
+experience point value = 5000
+Special Ability = isImmuneSpells,monster
+Special Ability = isImmuneWeapon,2
+Special Ability = monsterLevel,11
+Class = Fighter
+Race = Golem
+form = large
+penalty = none
+immunity = poison + death magic + confusion + vorpal weapon
+Misc Options = none
+item = none
+attack = 10,3,0,attacks,
+Undead = none
+\(END)
+

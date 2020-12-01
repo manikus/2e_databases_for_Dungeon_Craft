@@ -1,0 +1,42 @@
+\(BEGIN)
+name = Solar's Long Bow
+id name = Solar's Long Bow
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 2
+combat range = 21
+cost = 1800
+hands to carry = 2
+baseclass = fighter
+small/medium damage dice = 1D2 + 0
+large damage dice = 1D2 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 2
+experience = 0
+encumbrance = 100
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemCombatAim,Bow
+Special Ability = itemMagicalWeapon,2
+Special Ability = usableBy,Solar
+Special Ability = itemRangeWeapon,$7$14
+weapon type = bow
+ammo type = Bow
+usable = no
+not magical = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

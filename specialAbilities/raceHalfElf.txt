@@ -1,0 +1,6 @@
+\(BEGIN)
+name = raceHalfElf
+[PostCreateCharacter] = $SET_CHARACTER_SA($CharacterContext(),"isCharmResistantMin","Half-Elf");
+-$SET_CHARACTER_SA($CharacterContext(),"isSleepResistantMin","Half-Elf");
+\(END)
+

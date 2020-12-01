@@ -1,0 +1,5 @@
+\(BEGIN)
+name = isBlinkingRing
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Blinking "); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+\(END)
+

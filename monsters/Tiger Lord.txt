@@ -1,0 +1,44 @@
+\(BEGIN)
+name = Tiger Lord
+icon file = icon_TigerLord.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 16
+armor class = 3
+movement rate = 18
+hit dice = 122
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 5
+magic resistance = 50
+size = medium
+morale = 40
+experience point value = 24000
+Special Ability = homePlane,Beastlands
+Special Ability = isImmuneCharm,all
+Special Ability = isNeverSurprised,1
+Special Ability = monsterLevel,16
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = none
+item = Charm Person|MonsterAnimalLord
+item = monsterMageAnti-magic Shell
+item = monsterMageAnti-magic Shell
+item = monsterMageAnti-magic Shell
+item = monsterMagePlane Shift
+item = monsterAnimalLordSummon
+item = monsterAnimalLordSummon
+item = monsterAnimalLordSummon
+item = monsterMageTeleport Without Error
+attack = 6,1,0,attacks,
+attack = 6,1,0,attacks,
+attack = 12,1,0,bites,
+Undead = none
+\(END)
+//	monsterAnimalLordSummon = summon 2-12 animals of their type
+

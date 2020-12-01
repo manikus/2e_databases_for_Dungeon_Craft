@@ -1,0 +1,36 @@
+\(BEGIN)
+name = Red Slaad
+icon file = icon_RedSlaad.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 6
+armor class = 4
+movement rate = 6
+hit dice = 7
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 13
+magic resistance = 30
+size = large
+morale = 25
+experience point value = 7500
+Special Ability = monsterLevel,8
+Special Ability = monsterRedSlaadGateRedSlaad,1-2 red slaad 30%
+Special Ability = monsterRegeneration,3
+Special Ability = homePlane,
+Class = Fighter
+Race = Slaadi
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterRedSlaadLoudCroak
+attack = 4,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 8,2,0,bites,
+Undead = Special
+\(END)
+// monsterRedSlaadLoudCroak: save v petrification or be stunned for 2 rounds
+

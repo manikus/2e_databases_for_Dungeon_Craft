@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Firbolg
+icon file = icon_Firbolg.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 13
+armor class = 2
+movement rate = 15
+hit dice = 13
+treat HD as hit points = yes
+hit dice bonus = 7
+THAC0 = 9
+magic resistance = 15
+size = large
+morale = 40
+experience point value = 8000
+Special Ability = isDetectingMagic,1
+Special Ability = monsterFirbolgDeflectMissile,75
+Special Ability = monsterLevel,15
+Class = Fighter
+Race = Giant
+form = giant + large
+penalty = DwarfAC + GnomeAC + RangerDmg
+immunity = none
+Misc Options = can be held/charmed
+attack = 10,1,7,attacks,
+Undead = none
+\(END)
+// deflect up to 2 missiles per round 75% success rate
+

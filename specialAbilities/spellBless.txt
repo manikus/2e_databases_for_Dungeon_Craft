@@ -1,0 +1,19 @@
+\(BEGIN)
+name = spellBless
+[Dispel] = $SA_REMOVE();
+-$RUN_CHAR_SE_SCRIPTS($TargetContext(),"Dispel SE");
+[Dispel SE] = $REMOVE_SPELL_EFFECT($CharacterContext(),$GET_HOOK_PARAM(5));
+[InvokeSpellOnTarget] = $VAR mySide;
+-$VAR tgt; // target
+-mySide = $GET_COMBATANT_SA($AttackerContext(),"side");
+-tgt = $IndexOf($TargetContext());
+-$IF (mySide != "-?-?-")
+-	{
+-		$IF (mySide !=# $GET_COMBATANT_SA($TargetContext(),"side")){$RETURN;};
+-		$IF ($VisualDistance(tgt, $IndexOf($NEAREST_ENEMY_TO($TargetContext()))) <# 2){$RETURN;};
+-		$SET_CHARACTER_SA($TargetContext(),"isBlessed",$GET_PARTY_TIME() +# 6);
+-		$SET_COMBATANT_SA($TargetContext(),"isBlessed1",1);
+-	}
+-$ELSE {$SET_CHARACTER_SA($TargetContext(),"isBlessed",$GET_PARTY_TIME() +# 6);};
+\(END)
+

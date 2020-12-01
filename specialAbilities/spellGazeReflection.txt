@@ -1,0 +1,5 @@
+\(BEGIN)
+name = spellGazeReflection
+[InvokeSpellOnTarget] = $SET_CHARACTER_SA($CharacterContext(), "isReflecting", "1");
+\(END)
+

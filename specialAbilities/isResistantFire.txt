@@ -1,0 +1,11 @@
+\(BEGIN)
+name = isResistantFire
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7, "Fire Resistant"); $SET_HOOK_PARAM( 6, ""); $RETURN 1;
+[ComputeDamage] = $VAR item;$VAR resist;
+-item = $SA_ITEM_GET("damageFire"); resist = $GET_CHARACTER_SA($TargetContext(), "isResistantFire");
+-$IF (item == "-?-?-") {$IF (resist != "-?-?-") {$RETURN $GET_HOOK_PARAM(5) /# 2; };};
+[ComputeSpellDamage] = $VAR spell;$VAR resist;
+-spell = $SA_SPELL_GET("damageFire"); resist = $GET_CHARACTER_SA($TargetContext(), "isResistantFire");
+-$IF (spell == "-?-?-") {$IF (resist != "-?-?-") {$RETURN $GET_HOOK_PARAM(5) /# 2; };};
+\(END)
+

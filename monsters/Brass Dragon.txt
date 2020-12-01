@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Brass Dragon
+icon file = icon_BrassDragon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 14
+armor class = -2
+movement rate = 12
+hit dice = 12
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 9
+magic resistance = 20
+size = large
+morale = 45
+experience point value = 14000
+Special Ability = alignentGood,1
+Special Ability = isImmuneDragonBreathWeapon,$fear$sleep
+Special Ability = isSeeingInvisible,dragon
+Special Ability = monsterDragonAURA,Brass Dragon
+Special Ability = monsterDragonSavingThrow,second
+Special Ability = monsterLevel,12
+Class = Fighter/Mage
+Race = Dragon
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterDragonBreathSleepGas
+item = monsterDragonBreathSleepGas
+item = monsterDragonBreathFearGas
+attack = 4,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 4,4,0,bites,
+Undead = none
+\(END)
+

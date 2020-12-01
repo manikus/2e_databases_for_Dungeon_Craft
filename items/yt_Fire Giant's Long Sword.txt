@@ -1,0 +1,43 @@
+\(BEGIN)
+name = Fire Giant's Long Sword
+id name = Fire Giant's Long Sword
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 1
+cost = 15
+hands to carry = 1
+baseclass = bard
+baseclass = fighter
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 2D5 + 0
+large damage dice = 2D8 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 40
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = damageTypeSlashing,1
+Special Ability = usableBy,Fire Giant
+weapon type = hand held cutting
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

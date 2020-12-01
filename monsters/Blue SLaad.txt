@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Blue SLaad
+icon file = icon_BlueSlaad.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 6
+armor class = 2
+movement rate = 6
+hit dice = 8
+treat HD as hit points = yes
+hit dice bonus = 4
+THAC0 = 13
+magic resistance = 40
+size = large
+morale = 30
+experience point value = 16500
+Special Ability = homePlane,Limbo
+Special Ability = isWeaonImmune,1
+Special Ability = monsterBlueSlaadGate,1-4 red slaad or 1-2 blue slaad 40% 4/day
+Special Ability = monsterLevel,10
+Class = Fighter
+Race = Slaadi
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageHold Person
+item = monsterMageHold Person
+attack = 6,2,0,attacks,
+attack = 6,2,0,attacks,
+attack = 6,2,0,attacks,
+attack = 6,2,0,attacks,
+attack = 8,2,0,bites,
+Undead = Special
+\(END)
+// monsterBlueSlaadHoldPerson: hold person (one person)
+

@@ -1,0 +1,38 @@
+\(BEGIN)
+name = Warden Archon
+icon file = icon_WardenArchon.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 14
+armor class = -1
+movement rate = 12
+hit dice = 8
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 13
+magic resistance = 20
+size = large
+morale = 50
+experience point value = 24500
+Special Ability = alignmentGood,1
+Special Ability = homePlane,Mount Celestia
+Special Ability = isImmuneWeapon,2
+Special Ability = monsterInfravision,60
+Special Ability = monsterLevel,8
+Special Ability = monsterNeverSurprised,1
+Special Ability = orderLawful,1
+Class = Fighter
+Race = Archon
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed + none
+item = none
+attack = 8,1,0,attacks,monsterWardenArchonBearHug1
+attack = 8,1,0,attacks,monsterWardenArchonBearHug2
+attack = 6,2,0,bites,
+Undead = none
+\(END)
+

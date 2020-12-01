@@ -1,0 +1,33 @@
+\(BEGIN)
+name = Hippogriff
+icon file = icon_Hippogriff.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 3
+armor class = 5
+movement rate = 36
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 16
+magic resistance = 0
+size = large
+morale = 23
+experience point value = 175
+Special Ability = isFlying,
+Special Ability = monsterLevel,4
+Class = Fighter
+Race = Animal
+form = animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 6,1,0,claws,
+attack = 6,1,0,claws,
+attack = 10,1,0,bites,
+Undead = none
+\(END)
+

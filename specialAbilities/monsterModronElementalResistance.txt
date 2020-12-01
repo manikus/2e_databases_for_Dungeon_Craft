@@ -1,0 +1,13 @@
+\(BEGIN)
+name = monsterModronElementalResistance
+[ComputeDamage] = $VAR $VAR acd; $VAR cld; $VAR fre;
+-acd = $SA_ITEM_GET("damageAcid"); cld = $SA_ITEM_GET("damageCold"); fre = $SA_ITEM_GET("damageFire");
+-$IF ((acd || cld || fre) != "-?-?-") {$RETURN $GET_HOOK_PARAM(5) /# 6 *# 5;};
+[ComputeSpellDamage] = $VAR acd; $VAR cld; $VAR fre;
+-acd = $SA_ITEM_GET("damageAcid"); cld = $SA_ITEM_GET("damageCold"); fre = $SA_ITEM_GET("damageFire");
+-$IF ((acd || cld || fre) != "-?-?-") {$RETURN $GET_HOOK_PARAM(5) /# 6 *# 5;};
+[DoesAttackSucceed] = $VAR acd; $VAR cld; $VAR fre; $VAR p5;
+-acd = $SA_ITEM_GET("damageAcid"); cld = $SA_ITEM_GET("damageCold"); fre = $SA_ITEM_GET("damageFire"); p5 = $GET_HOOK_PARAM(5);
+-$IF ((acd || cld || fre) != "-?-?-") {$SET_HOOK_PARAM(5,p5 =# 1);
+\(END)
+

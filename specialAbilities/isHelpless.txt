@@ -1,0 +1,7 @@
+\(BEGIN)
+name = isHelpless
+[CanCastSpells] = $RETURN "N";
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Helpless"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[GetAdjMaxMovement] = $RETURN "0";
+\(END)
+

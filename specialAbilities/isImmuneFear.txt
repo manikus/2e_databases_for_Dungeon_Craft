@@ -1,0 +1,11 @@
+\(BEGIN)
+name = isImmuneFear
+[CharDisplayStatus] = $SET_HOOK_PARAM(7,"Immune to Fear"); $SET_HOOK_PARAM(6,""); $RETURN 1;
+[ComputeDamage] = $VAR item;$VAR immune;
+-item = $SA_ITEM_GET("damageFear"); immune = $GET_CHARACTER_SA($TargetContext(), "isImmuneFear");
+-$IF (item == "-?-?-") {$IF (immune != "-?-?-") {$RETURN 0; };};
+[ComputeSpellDamage] = $VAR spell;$VAR immune;
+-spell = $SA_SPELL_GET("damageFear"); immune = $GET_CHARACTER_SA($TargetContext(), "isImmuneFear");
+-$IF (spell == "-?-?-") {$IF (immune != "-?-?-") {$RETURN 0; };};
+\(END)
+

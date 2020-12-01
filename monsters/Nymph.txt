@@ -1,0 +1,33 @@
+\(BEGIN)
+name = Nymph
+icon file = icon_Nymph.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 16
+armor class = 9
+movement rate = 12
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 17
+magic resistance = 50
+size = medium
+morale = 18
+experience point value = 1400
+Special Ability = monsterLevel,3
+Class = Fighter
+Race = Animal
+form = mammal + animal + none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed + none
+item = none
+attack = 2,1,0,*NoAttack*,
+Undead = none
+\(END)
+// dimension door once per day
+// druid spells: 4 1st, 3 2nd, 2 3rd, 1 4th
+// "seen" aura save v spell or blinded, if nymph nude, save v spell or dead
+

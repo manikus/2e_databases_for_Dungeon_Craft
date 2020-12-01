@@ -1,0 +1,45 @@
+\(BEGIN)
+name = Maelephant
+icon file = icon_Maelephant.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 14
+armor class = 0
+movement rate = 12
+hit dice = 8
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 13
+magic resistance = 0
+size = large
+morale = 50
+experience point value = 21500
+Special Ability = alignmentEvil,1
+Special Ability = homePlane,Lower
+Special Ability = isImmuneWeapon,1
+Special Ability = isNeverSurprised,1
+Special Ability = isTrueSeeing,1
+Special Ability = monsterInfravision,240
+Special Ability = monsterLevel,9
+Special Ability = monsterRegenerate,1
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMaelephantBreathWeapon
+item = monsterMaelephantBreathWeapon
+item = monsterMaelephantBreathWeapon
+item = monsterMageLight
+item = monsterMageLight
+attack = 6,1,0,attacks,monsterMaelephantClaw1
+attack = 6,1,0,attacks,monsterMaelephantClaw2
+attack = 6,2,0,attacks,
+Undead = none
+\(END)
+//	when held by claw attacks, 1-3 crushing damage
+//	breath weapon: 	gaseous cloud 10' wide 30' long save vs poison or memory losss until Neutralize Poison is cast
+	

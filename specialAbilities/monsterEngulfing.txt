@@ -1,0 +1,17 @@
+\(BEGIN)
+name = monsterEngulfing
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Engulfing"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[GetAdjMaxMovement] = $RETURN 0;
+[GetNumberOfAttacks] = $RETURN 0;
+[OnStartCombatantAction] = $VAR tgt; $VAR nm; $VAR count;
+-tgt = $SA_PARAM_GET();
+-$IF ($GET_CHAR_HITPOINTS(tgt) ># 0)
+-	{
+-		count = $GET_COMBATANT_SA($CombatantContext(),"isHosed") -#1;
+-		$SET_COMBATANT_SA($CombatantContext(),"isHosed",count);
+-		$IF (count <=# 0) {$SET_CHAR_STATUS(tgt,2); $SET_CHAR_HITPOINTS(tgt,0);};
+-	};
+-$IF ($GET_CHAR_HITPOINTS(tgt) <# 1)
+-	{$DELETE_COMBATANT_SA($CombatantContext(),"monsterEngulfing"); $DELETE_COMBATANT_SA($CombatantContext(),"isHosed");};
+\(END)
+

@@ -1,0 +1,390 @@
+// robes
+\(BEGIN)
+name = Robe
+id name = Robe
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 1
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = no
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Robe|ArchmageEvil
+id name = Robe of the Archmage (Evil)
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 13000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = -5
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = no
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+Special Ability = itemRobeArchmgiEvil,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Robe|ArchmageGood
+id name = Robe of the Archmage (Good)
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 13000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = -5
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = no
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+Special Ability = itemRobeArchmgiGood,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Robe|ArchmageNeutral
+id name = Robe of the Archmage (Neutral)
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 13000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = -5
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = no
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+Special Ability = itemRobeArchmgiNeutral,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+// Robe of the Archmagi: This normal-appearing garment can be white (45%—good alignment), gray (30%—neutral, but neither good nor evil, alignment), or black (25%—evil alignment). Its wearer gains the following powers:
+//1. It serves as armor equal to AC 5.
+//2. The robe confers a 5% magic resistance.
+//3. It adds a +1 bonus to saving throw scores.
+//4. The robe reduces the victim's magic resistance and saving throws by 20%/-4 when the wearer casts any of the following spells: charm monster, charm person, friends, hold monster, hold person, polymorph other, suggestion.
+//The color of a robe of the archmagi is not determined until it is donned by a wizard. If a white robe is donned by an evil wizard, he suffers 11d4+7 points of damage and loses 18,000-51,000 experience points at the DM's discretion. The reverse is true with respect to a black robe donned by a good aligned wizard. An evil or good wizard putting on a gray robe, or a neutral wizard donning either a white or black robe, incurs 6d4 points damage, 6,000-24,000 experience points loss, and the wearer will be moved toward the alignment of the robe by its enchantments (i.e., he will feel himself urged to change alignment to that of the robe, and he will have to make an effort to maintain his old alignment).
+
+\(BEGIN)
+name = Robe|Blending
+id name = Robe of Blending
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 7000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = no
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+Special Ability = itemRobeBlending,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//	treat as improved invisibility
+
+\(BEGIN)
+name = Robe|Powerlessness
+id name = Robe of Powerlessness
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 200
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = -5
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = yes
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+Special Ability = itemRobePowerlessness,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//	Robe of Powerlessness: A robe of powerlessness appears to be a robe of another sort, and detection will discover nothing more than the fact that it has a magical aura. As soon as a character dons this garment, he drops to 3 Strength and 3 Intelligence, forgetting all spells and magical knowledge. The robe can be removed easily, but in order to restore mind and body, the character must have a remove curse spell and then a heal spell placed upon him.
+
+\(BEGIN)
+name = Robe|ScintillatingColors
+id name = Robe of Scintillating Colors
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 5000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = no
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+Special Ability = itemRobeScintillatingColors,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Robe of Scintillating Colors: This garment appears quite normal, but a magical aura is detectable. Only a wearer with an Intelligence of 15 or higher and a Wisdom of 13 or more can cause a robe of scintillating colors to function. If Intelligence and Wisdom are sufficient, the wearer can cause the garment to become a shifting pattern of incredible hues, color after color cascading from the upper part of the robe to the hem in sparkling rainbows of dazzling light.
+//This effect sheds light in a 40-foot diameter sphere, and it has the power to hypnotize opponents, making them unable to attack the wearer. A full round passes before the colors begin "flowing'' on the robe. Each round after that, any opponent who fails a saving throw vs. spell (or magic resistance check, then save) will stand hypnotized and transfixed for 1d4+1 rounds. Even when this effect wears off, additional saves must be made in order to attack.
+//Furthermore, every round of continuous scintillation of the robe makes the wearer 5% more difficult to hit with missile attacks or hand-held or body weaponry (hands, fists, claws, fangs, horns, etc.) until a maximum of 25% (-5) is attained—five continuous rounds of the dazzling play of hues.
+//After the initial round of concealment, the wearer is able to cast spells or engage in all forms of activity that do not require movement of more than 10 feet from his starting position. In noncombat situations, the robe simply hypnotizes creatures failing their saving throws vs. spell for 1d4+1 turns.
+
+\(BEGIN)
+name = Robe|Vermin
+id name = Robe of Vermin
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 200
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 25
+cursed = yes
+non lethal = no
+readied location = BODY  
+bundle quantity = 1
+Special Ability = itemRobeVermin,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Robe of Vermin: This magical-seeming garment will radiate a dim aura of enchantment if magic is detected for. The wearer will notice nothing unusual when the robe is donned, and it will actually convey some magical power at that time—protection +1, for example. However, as soon as the wearer is in a situation requiring concentration and action against hostile opponents, the true nature of the garment will be revealed: The wearer immediately suffers a multitude of bites from the insects that magically infest the garment. He must cease all other activities in order to scratch, shift the robe, and generally show signs of extreme discomfort from the movement and biting of these pests.
+//The wearer is unable to gain initiative, and has a 50% chance of being unable to complete a spell due to the vermin. All other actions and attack forms requiring manual/locomotive/somatic activity are at half normal probability. The garment can't be removed except by means of a remove curse spell or similar magic.
+

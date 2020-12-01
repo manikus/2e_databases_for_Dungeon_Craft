@@ -1,0 +1,46 @@
+\(BEGIN)
+name = Succubus
+icon file = icon_Succubus.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 16
+armor class = 0
+movement rate = 12
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 15
+magic resistance = 30
+size = medium
+morale = 35
+experience point value = 29000
+Special Ability = monsterLevel,6
+Special Ability = elementalImmuneElectricity
+Special Ability = isImmuneNonmagicalFire,1
+Special Ability = elementalImmunePoison
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = elementalResistantMagicalFire
+Special Ability = alignmentEvil,1
+Special Ability = monsterInfravision,60
+Special Ability = monsterSuccubusGateBalor,1 40%
+Special Ability = isWeaponImmune,2
+Special Ability = homePlane,
+Class = Fighter
+Race = Tanar'ri
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageTeleport Without Error
+item = monsterMageDarkness 15' Radius
+item = monsterMageCharm Person
+item = monsterMageSuggestion
+attack = 3,1,0,attacks,monsterSuccubusKiss1
+attack = 3,1,0,attacks,monsterSuccubusKiss2
+Undead = Special
+\(END)
+// monsterSuccubusKiss1 + 2 on same enemy - eneergy drain
+

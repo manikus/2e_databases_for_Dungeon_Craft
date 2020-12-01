@@ -1,0 +1,41 @@
+\(BEGIN)
+name = Crystal Shield
+id name = Crystal Shield
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 500
+hands to carry = 1
+baseclass = cleric
+baseclass = fighter
+baseclass = paladin
+baseclass = ranger
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = -1
+AC bonus = -1
+attack bonus = 0
+experience = 0
+encumbrance = 100
+cursed = no
+non lethal = no
+readied location = SHIELD
+bundle quantity = 1
+Special Ability = usableBy,Shiere
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

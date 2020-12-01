@@ -1,0 +1,35 @@
+\(BEGIN)
+name = Djinni Noble
+icon file = icon_DjinniNoble.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 16
+armor class = 1
+movement rate = 36
+hit dice = 10
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 9
+magic resistance = 10
+size = large
+morale = 40
+experience point value = 10000
+Special Ability = alignmentGood,1
+Special Ability = homePlane,Air
+Special Ability = isImmuneAir,1
+Special Ability = isInvisible,10
+Special Ability = monsterLevel,10
+Class = Fighter
+Race = Genie
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterDjinnCreateIllusion
+item = monsterDjinnNobleWhirlwind
+attack = 8,3,0,attacks,
+Undead = none
+\(END)
+

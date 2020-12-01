@@ -1,0 +1,33 @@
+\(BEGIN)
+name = Yeti
+icon file = icon_Yeti.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 9
+armor class = 6
+movement rate = 15
+hit dice = 4
+treat HD as hit points = yes
+hit dice bonus = 4
+THAC0 = 15
+magic resistance = 0
+size = large
+morale = 32
+experience point value = 420
+Special Ability = monsterLevel,5
+Special Ability = alignentEvil,1
+Special Ability = isImmuneCold,1
+Class = Fighter
+Race = Monster
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 6,1,0,claws,
+attack = 6,1,0,claws,
+Undead = none
+\(END)
+

@@ -1,0 +1,119 @@
+\(BEGIN)
+name = isBlurred
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Blurred"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[DoesAttackSucceed] = $VAR par5; $VAR par6;
+-$IF ($GET_COMBATANT_SA($TargetContext(),"blurFirst") == "-?-?-")
+-	{$SET_COMBATANT_SA($TargetContext(),"blurFirst",1); par5 = $GET_HOOK_PARAM(5) -# 4;};
+-par5 = $GET_HOOK_PARAM(5) -# 2; par6 = $GET_HOOK_PARAM(6); $IF (par5 >=# par6){$RETURN "Y";} $ELSE {$RETURN "N";};
+\(END)
+
+\(BEGIN)
+name = isMassmorphed
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Morphed"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+\(END)
+
+\(BEGIN)
+name = isParalyzationed
+[CanCastSpells] = $RETURN "N";
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Paralyzed"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+[DoesAttackSucceed] = $IF ($GET_COMBATANT_SA($TargetContext(),"IsParalyzationed") != "-?-?-")
+-  {$SET_HOOK_PARAM(6,$GET_HOOK_PARAM(6) -# 30);};
+-$IF ($GET_HOOK_PARAM(5) >=# $GET_HOOK_PARAM(6)){$RETURN "Y";} $ELSE {$RETURN "N";};
+[GetAdjMaxMovement] = $RETURN "0";
+[GetItemTargetHitBonus] = $RETURN $GET_CHAR_HITPOINTS($IndexOf($TargetContext())) +# 1;
+[IsCombatReady] = $RETURN "N";
+\(END)
+
+\(BEGIN)
+name = isSeeingIllusion
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Sees illusions"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+\(END)
+
+\(BEGIN)
+name = spellBlur
+[InvokeSpellOnTarget] = $SET_COMBATANT_SA($TargetContext(),"IsBlurred","");
+\(END)
+
+\(BEGIN)
+name = spellConjureAnimals
+[InvokeSpellOnTarget] = $VAR list; $VAR count; $VAR n; $VAR caster; $VAR class; $VAR hd; $VAR string; $VAR monster; $VAR sCount;
+-list = "#$Owl$1#$Wolf$2#$Brown Bear$5"; count = $DelimitedStringCount(list); n = $RANDOM(count);
+-caster = $IndexOf($AttackerContext()); class = $SA_PARAM_GET(); string = $DelimitedStringSubstring(list,n);
+-monster = $DelimitedStringSubstring(string,0); hd = $DelimitedStringSubstring(string,1);
+-sCount = $GET_CHAR_Lvl(caster,class) /# hd;
+-$WHILE (sCount >=# 0) {$AddCombatant(monster,"1"); sCount = sCount -# 1;};
+\(END)
+
+\(BEGIN)
+name = spellDemiShadowMagic
+[OverrideSpellSelection] = $RETURN "$Demi-Shadow Magic Missile$Demi-Shadow Fireball$Demi-Shadow Lightning Bolt$Demi-Shadow Cone of Cold$Demi-Shadow Cloudkill";
+\(END)
+
+\(BEGIN)
+name = spellGazeReflection
+[InvokeSpellOnTarget] = $SET_CHARACTER_SA($CharacterContext(), "IsReflecting", "1");
+\(END)
+
+\(BEGIN)
+name = spellMassmorph
+[InvokeSpellOnTarget] = $SET_CHARACTER_SA($CharacterContext(),"IsMassmorphed",$GET_PARTY_TIME());
+\(END)
+
+\(BEGIN)
+name = spellParalyzation
+[InvokeSpellOnTarget] = $SET_CHARACTER_SA($CharacterContext(),"IsParalyzationed",$GET_PARTY_TIME());
+\(END)
+
+\(BEGIN)
+name = spellSeeIllusion
+[InvokeSpellOnTarget] = $SET_CHARACTER_SA($TargetContext(),"IsSeeingIllusion","");
+\(END)
+
+\(BEGIN)
+name = spellShadowDoor
+[AutoAction] = $RETURN "F + $IndexOf($LEAST_DAMAGED_ENEMY())";
+[IsValidTarget] = $RETURN "N";
+\(END)
+
+\(BEGIN)
+name = spellShadowMagic
+[OverrideSpellSelection] = $RETURN "$Shadow Magic Missile$Shadow Fireball$Shadow Lightning Bolt$Shadow Cone of Cold";
+\(END)
+
+\(BEGIN)
+name = spellSummonDemiShadowMonsters
+[InvokeSpellOnTarget] = $VAR list; $VAR count; $VAR n; $VAR caster; $VAR class; $VAR hd; $VAR string; $VAR monster; $VAR sCount;
+-list = "#$Demi-Shadow Orc$1#$Demi-Shadow Wolf$2#$Demi-Shadow Yeti$4"; count = $DelimitedStringCount(list);
+-n = $RANDOM(count); caster = $IndexOf($AttackerContext()); class = $SA_PARAM_GET(); string = $DelimitedStringSubstring(list,n);
+-monster = $DelimitedStringSubstring(string,0); hd = $DelimitedStringSubstring(string,1);
+-sCount = $GET_CHAR_Lvl(caster,class) /# hd; $WHILE (sCount >=# 0) {$AddCombatant(monster,"1"); sCount = sCount -# 1;};
+\(END)
+
+\(BEGIN)
+name = spellSummonShades
+[InvokeSpellOnTarget] = $VAR list; $VAR count; $VAR n; $VAR caster; $VAR class; $VAR hd; $VAR string; $VAR monster; $VAR sCount;
+-list = "#$Shade Hobgoblin$2#$Shade Imp$1#$Shade Worg$4"; count = $DelimitedStringCount(list); n = $RANDOM(count);
+-caster = $IndexOf($AttackerContext()); class = $SA_PARAM_GET(); string = $DelimitedStringSubstring(list,n);
+-monster = $DelimitedStringSubstring(string,0); hd = $DelimitedStringSubstring(string,1);
+-sCount = $GET_CHAR_Lvl(caster,class) /# hd; $WHILE (sCount >=# 0) {$AddCombatant(monster,"1"); sCount = sCount -# 1;};
+\(END)
+
+\(BEGIN)
+name = spellSummonShadow
+[InvokeSpellOnTarget] = $VAR list; $VAR caster; $VAR class; $VAR sCount;
+-list = "$Shadow"; caster = $IndexOf($AttackerContext()); class = $SA_PARAM_GET(); sCount = $GET_CHAR_Lvl(caster,class") /# 3;
+-$WHILE (sCount >=# 0) {$AddCombatant("Shadow","1"); sCount = sCount -# 1;};
+\(END)
+
+\(BEGIN)
+name = spellSummonShadowMonsters
+[InvokeSpellOnTarget] = $VAR list; $VAR count; $VAR n; $VAR caster; $VAR class; $VAR hd; $VAR string; $VAR monster; $VAR sCount;
+-list = "#$Shadow Gnoll$2#$Shadow Goblin$1#$Shadow Ogre$4"; count = $DelimitedStringCount(list); n = $RANDOM(count);
+-caster = $IndexOf($AttackerContext()); class = $SA_PARAM_GET(); string = $DelimitedStringSubstring(list,n);
+-monster = $DelimitedStringSubstring(string,0); hd = $DelimitedStringSubstring(string,1);
+-sCount = $GET_CHAR_Lvl(caster,class) /# hd; $WHILE (sCount >=# 0) {$AddCombatant(monster,"1"); sCount = sCount -# 1;};
+\(END)
+

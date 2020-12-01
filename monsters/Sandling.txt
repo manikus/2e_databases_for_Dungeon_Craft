@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Sandling
+icon file = icon_Sandling.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 0
+armor class = 3
+movement rate = 12
+hit dice = 4
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 17
+magic resistance = 0
+size = large
+morale = 17
+experience point value = 420
+Special Ability = monsterLevel,4
+Special Ability = homePlane,inner
+Class = Fighter
+Race = Elemental
+form = large
+penalty = none
+immunity = poison + death magic + vorpal weapon
+Misc Options = none
+item = none
+attack = 8,2,0,attacks,
+Undead = none
+\(END)
+

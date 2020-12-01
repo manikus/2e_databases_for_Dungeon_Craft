@@ -1,0 +1,6 @@
+\(BEGIN)
+name = itemPeriapt
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(), "isImmuneDisease", "1");
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(),"isImmuneDisease");
+\(END)
+

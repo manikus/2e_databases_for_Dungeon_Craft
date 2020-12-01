@@ -1,0 +1,33 @@
+\(BEGIN)
+name = Hawk
+icon file = icon_Hawk.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 1
+armor class = 6
+movement rate = 33
+hit dice = 1
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 19
+magic resistance = 0
+size = small
+morale = 23
+experience point value = 65
+Special Ability = isFlying,B
+Special Ability = monsterLevel,1
+Class = Fighter
+Race = Animal
+form = animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 2,1,0,attacks,
+attack = 2,1,0,attacks,
+attack = 2,1,0,bites,
+Undead = none
+\(END)
+

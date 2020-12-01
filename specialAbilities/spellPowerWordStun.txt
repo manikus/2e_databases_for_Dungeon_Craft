@@ -1,0 +1,6 @@
+\(BEGIN)
+name = spellPowerWordStun
+[InvokeSpellOnTarget] = $VAR exp;
+-exp = $GET_PARTY_TIME() +# $RANDOM(4) +# $RANDOM(4) +# 2; $SET_COMBATANT_SA($TargetContext(),"isStunned",exp);
+\(END)
+

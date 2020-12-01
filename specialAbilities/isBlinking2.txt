@@ -1,0 +1,8 @@
+\(BEGIN)
+name = isBlinking2
+[IsValidTarget] = $IF ($GET_MONSTERTYPE_SA($GET_CHAR_NAME($IndexOf($AttackerContext())),"monsterSeeEthereal") != "-?-?-"){$RETURN "Y";};
+-$IF ($GET_CHARACTER_SA($AttackerContext(),"isBlinking") != "-?-?-"){$RETURN "Y";};
+-$IF ($GET_CHARACTER_SA($AttackerContext(),"isBlinkingRing") != "-?-?-"){$RETURN "Y";};
+-$RETURN "N";
+\(END)
+

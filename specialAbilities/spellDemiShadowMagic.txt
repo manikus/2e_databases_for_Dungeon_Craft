@@ -1,0 +1,5 @@
+\(BEGIN)
+name = spellDemiShadowMagic
+[OverrideSpellSelection] = $RETURN "$Demi-Shadow Magic Missile$Demi-Shadow Fireball$Demi-Shadow Lightning Bolt$Demi-Shadow Cone of Cold$Demi-Shadow Cloudkill";
+\(END)
+

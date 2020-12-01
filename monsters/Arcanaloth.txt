@@ -1,0 +1,55 @@
+\(BEGIN)
+name = Arcanaloth
+icon file = icon_Arcanaloth.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 20
+armor class = -8
+movement rate = 12
+hit dice = 12
+treat HD as hit points = yes
+hit dice bonus = 24
+THAC0 = 9
+magic resistance = 60
+size = medium
+morale = 40
+experience point value = 49500
+Special Ability = casterlevelPriest,12
+Special Ability = casterlevelWizard,12
+Special Ability = homePlane,Lower
+Special Ability = isImmuneAcid,1
+Special Ability = isImmuneIronWeapons,1
+Special Ability = isImmuneMagicalFire,1
+Special Ability = isImmunePoison,1
+Special Ability = isImmuneWeapon,3
+Special Ability = isInvisible,1
+Special Ability = isResistantGas,1
+Special Ability = isVulnerableCold,1
+Special Ability = alignmentEvil,1
+Special Ability = monsterArcanalothGateYugoloth,-6 mezzoloths or 1-2 dergholoth or 1 arcanaloth 40%
+Special Ability = monsterLevel,17
+Class = Fighter
+Race = Yugoloth
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterClericCause Disease
+item = monsterClericCause Disease
+item = monsterClericCause Disease
+item = monsterMageCharm Person
+item = monsterMageCharm Person
+item = monsterMageCharm Person
+item = monsterMageTeleport Without Error
+item = monsterMageDarkness 15' Radius
+item = monsterMageFear
+item = monsterMageMirror Image
+attack = 4,1,0,claws,monsterArcanalothSting
+attack = 4,1,0,claws,monsterArcanalothSting
+attack = 6,2,0,bites,
+Undead = none
+\(END)
+// monsterArcanalothSting -1 on to hit dice, cumulative, permanent unless bless, neutralize poison, or slow poison is cast on him
+

@@ -1,0 +1,33 @@
+\(BEGIN)
+name = Green Slime
+icon file = icon_GreenSlime.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveSuction.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 0
+armor class = 9
+movement rate = 0
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 19
+magic resistance = 0
+size = medium
+morale = 25
+experience point value = 65
+Special Ability = isWeaponImmune,999
+Special Ability = monsterGreenSlimeImmuneSpells,monster
+Special Ability = monsterLevel,2
+Special Ability = monsterSlimeWeakness,monster
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 6,1,0,*NoAttack*,
+Undead = none
+\(END)
+

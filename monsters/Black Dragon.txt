@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Black Dragon
+icon file = icon_BlackDragon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 9
+armor class = -1
+movement rate = 12
+hit dice = 12
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 9
+magic resistance = 15
+size = large
+morale = 45
+experience point value = 13000
+Special Ability = isImmuneDragonBreathWeapon,$acid
+Special Ability = isSeeingInvisible,dragon
+Special Ability = alignentEvil,1
+Special Ability = monsterDragonSavingThrow,second
+Special Ability = monsterLevel,12
+Special Ability = monsteraDragonAURA,Black Dragon
+Class = Fighter/Mage
+Race = Dragon
+form = large
+penalty = none
+immunity = vorpal weapon
+Misc Options = none
+item = monsterDragonBreathAcid
+item = monsterDragonBreathAcid
+item = monsterDragonBreathAcid
+attack = 4,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 6,3,0,bites,
+Undead = none
+\(END)
+

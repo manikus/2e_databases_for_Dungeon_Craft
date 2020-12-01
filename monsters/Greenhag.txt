@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Greenhag
+icon file = icon_Greenhag.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 12
+armor class = -2
+movement rate = 12
+hit dice = 9
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 11
+magic resistance = 35
+size = medium
+morale = 42
+experience point value = 4000
+Special Ability = alignmentEvil,1
+Special Ability = monsterLevel,9
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 2,1,6,attacks,
+attack = 2,1,6,attacks,
+Undead = none
+\(END)
+

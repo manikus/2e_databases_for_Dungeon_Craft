@@ -1,0 +1,34 @@
+\(BEGIN)
+name = Sea Hag
+icon file = icon_SeaHag.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 9
+armor class = 7
+movement rate = 15
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 17
+magic resistance = 50
+size = medium
+morale = 27
+experience point value = 1400
+Special Ability = monsterLevel,3
+Special Ability = alignmentEvil,1
+Special Ability = monster_FrightAura,3
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterDeadlyGlance
+item = monsterDeadlyGlance
+item = monsterDeadlyGlance
+attack = 4,1,6,attacks,
+Undead = none
+\(END)
+

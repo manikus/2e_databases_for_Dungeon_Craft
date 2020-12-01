@@ -1,0 +1,36 @@
+\(BEGIN)
+name = Jann
+icon file = icon_Jann.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 14
+armor class = 2
+movement rate = 12
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 15
+magic resistance = 20
+size = medium
+morale = 40
+experience point value = 3000
+Special Ability = alignmentGood,1
+Special Ability = isInvisible,1
+Special Ability = monsterLevel,7
+Class = Fighter
+Race = Genie
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageEnlarge
+item = Chain Mail|2
+item = Jann's Great Scimitar
+item = Composite Long Bow|2
+item = Arrow|2,10
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+

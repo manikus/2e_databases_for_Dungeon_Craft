@@ -1,0 +1,43 @@
+\(BEGIN)
+name = Death Slaad
+icon file = icon_DeathSlaad.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 18
+armor class = -4
+movement rate = 12
+hit dice = 15
+treat HD as hit points = yes
+hit dice bonus = 7
+THAC0 = 5
+magic resistance = 70
+size = medium
+morale = 45
+experience point value = 64500
+Special Ability = homePlane,Limbo
+Special Ability = isImmuneWeapon,3
+Special Ability = isInvisible,sllad
+Special Ability = isSeeingInvisible,slaad
+Special Ability = monsterDeathSlaadGateSlaad,1-4 any other slaad 100%
+Special Ability = monsterLevel,17
+Class = Fighter
+Race = Slaadi
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageDarkness 15' Radius
+item = monsterMageCloudkill
+item = monsterMageFear
+item = monsterMageFireball
+item = monsterClericFlame Strike
+item = monsterClericSymbol Of Pain
+item = monsterClericUnholy Word
+attack = 6,3,0,attacks,
+attack = 6,3,0,attacks,
+attack = 10,2,0,notes,
+Undead = Special
+\(END)
+

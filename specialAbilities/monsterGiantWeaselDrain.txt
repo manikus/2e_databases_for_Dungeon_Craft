@@ -1,0 +1,23 @@
+\(BEGIN)
+name = monsterGiantWeaselDrain
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Draining"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[GetAdjMaxMovement] = $RETURN 0;
+[GetNumberOfAttacks] = $RETURN 0;
+[OnStartCombatantAction] = $VAR tgt; $VAR nm; $VAR dmg; $VAR HP; 
+-tgt = $GET_COMBATANT_SA($CombatantContext(),"monsterGiantWeaselLink"); nm = $GET_CHAR_NAME(tgt); HP = $GET_CHAR_HITPOINTS(tgt);
+-$IF ($GET_CHAR_STATUS(tgt) ==# 0) 
+-	{
+-		dmg = ($RANDOM(6) +# 1) +# ($RANDOM(6) +# 1); $SET_CHAR_HITPOINTS(tgt,HP -# dmg);
+-		$IF (HP <# 1)
+-			{
+-				$SET_CHAR_STATUS(tgt,1); $DELETE_COMBATANT_SA($CombatantContext(),"monsterGiantWeaselDrain");
+-				$DELETE_COMBATANT_SA($CombatantContext(),"monsterGiantWeaselLink");
+-			};
+-	}
+-$ELSE
+-	{
+-		$DELETE_COMBATANT_SA($CombatantContext(),"monsterGiantWeaselDrain");
+-		$DELETE_COMBATANT_SA($CombatantContext(),"monsterGiantWeaselLink");
+-	};
+\(END)
+

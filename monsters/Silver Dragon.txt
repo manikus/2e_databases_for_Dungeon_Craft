@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Silver Dragon
+icon file = icon_SilverDragon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 16
+armor class = -5
+movement rate = 9
+hit dice = 15
+treat HD as hit points = 
+hit dice bonus = 0
+THAC0 = 5
+magic resistance = 30
+size = large
+morale = 45
+experience point value = 17000
+Special Ability = isImmuneDragonBreathWeapon,$cold$paralysis
+Special Ability = isSeeingInvisible,dragon
+Special Ability = monsterLevel,15
+Special Ability = monster_AuraDragon,Silver Dragon
+Special Ability = alignmentGood,1
+Special Ability = monster_DragonSavingThrow,third
+Class = Fighter/Mage
+Race = Dragon
+form = large + none
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterDragonBreathColdSilver
+item = monsterDragonBreathColdSilver
+item = monsterDragonBreathParalysis
+attack = 6,1,0,attacks,
+attack = 6,1,0,attacks,
+attack = 6,5,0,bites,
+Undead = none
+\(END)
+

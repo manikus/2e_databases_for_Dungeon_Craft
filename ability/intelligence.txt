@@ -1,0 +1,6 @@
+\(BEGIN)
+name = Intelligence
+Abbreviation = INT
+Roll = 3 |< 3d6 |< 3d6 + (Race_Gnome*1) >| 19
+\(END)
+

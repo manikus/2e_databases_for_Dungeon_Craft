@@ -1,0 +1,5 @@
+\(BEGIN)
+name = spellSummonElementalEarth
+[InvokeSpellOnTarget] = $AddCombatant("Earth Elemental","1");
+\(END)
+

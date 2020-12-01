@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Bariaur
+icon file = icon_Bariaur.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 14
+armor class = 6
+movement rate = 15
+hit dice = 7
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 13
+magic resistance = 0
+size = large
+morale = 30
+experience point value = 3000
+Special Ability = alignentGood,1
+Special Ability = monsterBariurInitiative,2
+Special Ability = monsterLevel,7
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+

@@ -1,0 +1,46 @@
+\(BEGIN)
+name = Cat Lord
+icon file = icon_CatLord.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 16
+armor class = 3
+movement rate = 21
+hit dice = 122
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 5
+magic resistance = 50
+size = medium
+morale = 40
+experience point value = 24000
+Special Ability = ssImmuneCharm,all
+Special Ability = ssNeverSurprised,1
+Special Ability = homePlane,Beastlands
+Special Ability = monsterAnimalLordSummon,Cat
+Special Ability = monsterLevel,16
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageAnti-magic Shell
+item = monsterMageAnti-magic Shell
+item = monsterMageAnti-magic Shell
+item = monsterAnimalLordCharmPerson
+item = monsterAnimalLordCharmPerson
+item = monsterAnimalLordCharmPerson
+item = monsterMagePlane Shift
+item = monsterMageTeleport Without Error
+item = Long Sword|Wounding
+item = Dart|2,10
+attack = 4,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 10,1,0,bites,
+Undead = none
+\(END)
+//	monsterAnimalLordSummon = summon 2-12 animals of their type
+

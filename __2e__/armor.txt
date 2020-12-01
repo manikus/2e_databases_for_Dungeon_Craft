@@ -1,0 +1,20 @@
+AC	name					g.p.	weight
+------------------------------------------
+-9	full plate				4000	700		
+-8	field plate mail		2000	600		
+-7	plate mail				 600	500
+-6	splint mail				  80	400		
+	banded mail				 200	350
+	bronze plate mail		 400	450		
+-5	chain mail				  75	400
+-4	brigandine				 120	350
+	hide					  15	300
+	scale mail				 120	400
+-3	studded leather			  20	250
+	ring mail				 100	300
+-2	leather					   5	150
+	padded					   4	100
+	great helm				  30	100
+-1	shield					  70	100
+	buckler					   1	 30
+	basinet					   8	 50	

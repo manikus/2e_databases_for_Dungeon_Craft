@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Giant Skunk
+icon file = icon_GiantSkunk.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 1
+armor class = 7
+movement rate = 9
+hit dice = 5
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 15
+magic resistance = 0
+size = medium
+morale = 23
+experience point value = 270
+Special Ability = monsterLevel,5
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterGiantSkunkMusk
+attack = 6,1,0,attacks,
+Undead = none
+\(END)
+// monsterGiantSkunkMusk: 20 wide 60 long save v poison or lose half STR and DEX for 1-4 rounds, 2nd save v poison or blinded for 1-4 rounds, must check both each round in cloud
+

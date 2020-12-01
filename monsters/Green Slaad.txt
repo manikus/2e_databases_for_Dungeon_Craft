@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Green Slaad
+icon file = icon_GreenSlaad.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 9
+armor class = 0
+movement rate = 9
+hit dice = 9
+treat HD as hit points = yes
+hit dice bonus = 5
+THAC0 = 11
+magic resistance = 50
+size = large
+morale = 35
+experience point value = 27500
+Special Ability = monsterLevel,11
+Special Ability = isSeeingInvisible,slaad
+Special Ability = monsterGreenSlaadGateSlaad,1-6 red slaad or 1-4 blue slaad or 1-2 green slaad or 1 grey slaad 50%
+Special Ability = isWeaponImmune,1
+Special Ability = homePlane,
+Class = Fighter
+Race = Slaadi
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageDarkness 15' Radius
+item = monsterMageDelayed Blast Fireball
+item = monsterMageFireball
+item = monsterMageFear
+attack = 6,1,2,attacks,
+attack = 6,1,2,attacks,
+attack = 8,2,0,bites,
+Undead = Special
+\(END)
+

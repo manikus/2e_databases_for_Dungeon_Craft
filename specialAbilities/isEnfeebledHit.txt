@@ -1,0 +1,10 @@
+\(BEGIN)
+name = isEnfeebledHit
+[ComputeDamage] = $IF ($GET_COMBATANT_SA($AttackerContext(),"isEnfeebled") != "-?-?-")
+-  {
+-   $SET_HOOK_PARAM(5,($GET_HOOK_PARAM(5) *# $GET_COMBATANT_SA($AttackerContext(),"enfeebled")) /# 100);
+-   $IF ($GET_HOOK_PARAM(5) == 0) {$SET_HOOK_PARAM(5,1);};
+-  };
+-$SA_REMOVE();
+\(END)
+

@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Galeb Duhr
+icon file = icon_GalebDuhr.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 12
+armor class = -2
+movement rate = 6
+hit dice = 10
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 11
+magic resistance = 20
+size = large
+morale = 43
+experience point value = 10000
+Special Ability = isImmuneElectricity,1
+Special Ability = monsterLevel,10
+Class = Fighter
+Race = Monster
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 8,2,0,attacks,
+attack = 8,2,0,attacks,
+Undead = none
+\(END)
+

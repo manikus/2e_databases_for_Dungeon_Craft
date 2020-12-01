@@ -1,0 +1,54 @@
+\(BEGIN)
+name = Dergholoth
+icon file = icon_Dergholoth.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 6
+armor class = -3
+movement rate = 12
+hit dice = 8
+treat HD as hit points = yes
+hit dice bonus = 16
+THAC0 = 13
+magic resistance = 40
+size = large
+morale = 35
+experience point value = 25500
+Special Ability = monsterLevel,12
+Special Ability = isImmuneAcid
+Special Ability = isImmuneIronWeapons
+Special Ability = isImmunePoison
+Special Ability = isResistantGas
+Special Ability = isVulnerableCold
+Special Ability = alignmentEvil,1
+Special Ability = isImmuneMagicalFire
+Special Ability = monsterNeverSurprised
+Special Ability = monsterStrengthDamageBonus,8
+Special Ability = homePlane,Lower
+Special Ability = isImmuneWeapon,1
+Class = Fighter
+Race = Yugoloth
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterClericCause Disease
+item = monsterMageCharm Person
+item = monsterMageTeleport Without Error
+item = monsterDergholothFeeblmind
+item = monsterMageDarkness 15' Radius
+item = monsterMageSleep
+item = monsterMageSleep
+item = Long Sword
+attack = 4,1,8,claws,monsterDergholothGrab1
+attack = 4,1,8,claws,monsterDergholothGrab2
+attack = 4,1,8,claws,
+attack = 4,1,8,claws,
+attack = 4,1,8,claws,
+Undead = none
+\(END)
+// monsterDergholothGrab, if both succeed, target is grabbed and attacks at -2, cannot move away and can break free if a 1/2 STR check is made
+// monsterDergholothFeeblmind: feeblemind once/day on 7 HD or less, lasts 1-6 rounds
+

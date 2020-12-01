@@ -1,0 +1,53 @@
+\(BEGIN)
+name = Vaporighu
+icon file = icon_Vaporighu.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 14
+armor class = 0
+movement rate = 9
+hit dice = 10
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 11
+magic resistance = 40
+size = large
+morale = 35
+experience point value = 24000
+Special Ability = alignmentEvil,1
+Special Ability = casterLevelWizard,10
+Special Ability = homePlane,Gehenna
+Special Ability = isNeverSurprised,1
+Special Ability = monsterLevel,10
+Special Ability = monsterVaporighuWeaponImmunity,1
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterVaporighuFearAttack
+item = monsterVaporighuFearAttack
+item = monsterVaporighuPousonGasAttack
+item = monsterVaporighuPousonGasAttack
+item = monsterVaporighuFearAttack
+item = monsterMageContinual Light
+item = monsterMageContinual Light
+item = monsterMageContinual Light
+item = monsterMageEnlarge
+item = monsterMageEnlarge
+item = monsterMageEnlarge
+item = monsterMageSleep
+item = monsterMageSleep
+item = monsterMageSleep
+item = monsterMageFumble
+item = monsterMageFumble
+item = monsterMageFumble
+attack = 6,1,0,attacks,
+attack = 6,1,0,attacks,
+Undead = none
+\(END)
+// can be damaged by cold iron weapons only
+	

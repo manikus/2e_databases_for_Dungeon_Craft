@@ -1,0 +1,42 @@
+\(BEGIN)
+name = Drider
+icon file = icon_Drider.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 17
+armor class = 3
+movement rate = 12
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 6
+THAC0 = 13
+magic resistance = 15
+size = large
+morale = 35
+experience point value = 5000
+Special Ability = monsterLevel,7
+Special Ability = alignmentEvil,1
+Class = Priest
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterClericCause Light Wounds
+item = monsterClericCause Light Wounds
+item = monsterClericHold Person
+item = monsterClericHold Person
+item = monsterClericSilence 15' Radius
+item = monsterClericSilence 15' Radius
+item = monsterClericCause Blindness
+item = monsterClericCause Blindness
+item = monsterClericCause Disease
+item = monsterClericCause Disease
+item = monsterClericCause Serious Wounds
+item = monsterClericCause Serious Wounds
+attack = 4,1,0,bites,monsterDriderStun
+Undead = none
+\(END)
+

@@ -1,0 +1,11 @@
+\(BEGIN)
+name = isResistantAcid
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7, "Acid Resistant"); $SET_HOOK_PARAM( 6, ""); $RETURN 1;
+[ComputeDamage] = $VAR item;$VAR resist;
+-item = $SA_ITEM_GET("damageAcid"); resist = $GET_CHARACTER_SA($TargetContext(), "isResistantAcid");
+-$IF (item == "-?-?-") {$IF (resist != "-?-?-") {$RETURN $GET_HOOK_PARAM(5) /# 2; };};
+[ComputeSpellDamage] = $VAR spell;$VAR resist;
+-spell = $SA_SPELL_GET("damageAcid"); resist = $GET_CHARACTER_SA($TargetContext(), "isResistantAcid");
+-$IF (spell == "-?-?-") {$IF (resist != "-?-?-") {$RETURN $GET_HOOK_PARAM(5) /# 2; };};
+\(END)
+

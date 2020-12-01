@@ -1,0 +1,8 @@
+\(BEGIN)
+name = isSlowingCold
+[GetAdjMaxMovement] = $VAR item;$VAR spell;$VAR slow;
+-item = $SA_ITEM_GET("damageCold"); spell = $SA_SPELL_GET("damageCold");
+-slow = $GET_CHARACTER_SA($TargetContext(), "isSlowingCold");
+-$IF ((item == "-?-?-") || (spell == "-?-?-")){$IF (slow != "-?-?-") {$RETURN $GET_HOOK_PARAM(5) /# 2;};};
+\(END)
+

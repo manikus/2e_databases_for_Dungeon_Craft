@@ -1,0 +1,7 @@
+\(BEGIN)
+name = isRingImmuneElectricity
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7, "Immune to Electricity"); $SET_HOOK_PARAM( 6, ""); $RETURN 1;
+[ComputeDamage] = $VAR immune; immune = $SA_ITEM_GET("damageElectricity"); $IF (immune != "-?-?-"){$RETURN 0;};
+[ComputeSpellDamage] = $VAR immune; immune = $SA_ITEM_GET("damageElectricity"); $IF (immune != "-?-?-"){$RETURN 0;};
+\(END)
+

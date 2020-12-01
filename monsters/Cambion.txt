@@ -1,0 +1,47 @@
+\(BEGIN)
+name = Cambion
+icon file = icon_Cambion.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 13
+armor class = 6
+movement rate = 15
+hit dice = 4
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 17
+magic resistance = 30
+size = medium
+morale = 35
+experience point value = 15500
+Special Ability = alignmentEvil,1
+Special Ability = homePlane,The Abyss
+Special Ability = isDetectingMagic,1
+Special Ability = isImmuneElectricity,1
+Special Ability = isImmuneNonmagicalFire,1
+Special Ability = isImmunePoison,1
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = isResistantMagicalFire,1
+Special Ability = monsterInfravision,60
+Special Ability = monsterLevel,4
+Class = Fighter
+Race = Tanar'ri
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageTeleport Without Error
+item = monsterMageTeleport Without Error
+item = monsterMageDarkness 15' Radius
+item = monsterTanarriFear By Touch
+item = monsterTanarriFear By Touch
+item = Long Sword|1
+item = Chain Mail|1
+attack = 2,1,0,attacks,
+attack = 2,1,0,attacks,
+Undead = Special
+\(END)
+

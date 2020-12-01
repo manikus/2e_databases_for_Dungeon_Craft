@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Pyrolisk
+icon file = icon_Pyrolisk.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 5
+armor class = 6
+movement rate = 6
+hit dice = 6.000000
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 13
+magic resistance = 0
+size = small
+morale = 30
+experience point value = 1400
+Special Ability = monsterLevel,7
+Special Ability = alignmentEvil,1
+Special Ability = isImmuneFire,1
+Class = Fighter
+Race = Monster
+form = animal + none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 3,1,0,bites,Flesh to Stone
+Undead = none
+\(END)
+

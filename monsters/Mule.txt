@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Mule
+icon file = icon_Mule.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 1
+armor class = 7
+movement rate = 12
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 19
+magic resistance = 0
+size = large
+morale = 15
+experience point value = 65
+Special Ability = monsterLevel,3
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 2,1,0,attacks,
+attack = 6,1,0,attacks,
+Undead = none
+\(END)
+

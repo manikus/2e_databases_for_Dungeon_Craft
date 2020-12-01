@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Bodak
+icon file = icon_Bodak.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 6
+armor class = 5
+movement rate = 6
+hit dice = 9
+treat HD as hit points = yes
+hit dice bonus = 9
+THAC0 = 11
+magic resistance = 0
+size = medium
+morale = 30
+experience point value = 5500
+Special Ability = alignentEvil,1
+Special Ability = isImmuneElectricity,1
+Special Ability = isImmuneFireNonMagical,1
+Special Ability = isImmunePoison,1
+Special Ability = isResistanceCold,1
+Special Ability = isResistanceFire,1
+Special Ability = isWeaonImmune,1
+Special Ability = monsterLevel,10
+Special Ability = monsterResistanceGas,1
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = Long Sword
+item = Bodak Death Gaze
+attack = 2,1,0,attacks
+Undead = none
+\(END)
+

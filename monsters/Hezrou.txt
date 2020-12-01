@@ -1,0 +1,51 @@
+\(BEGIN)
+name = Hezrou
+icon file = icon_Hezrou.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 11
+armor class = -6
+movement rate = 12
+hit dice = 9
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 11
+magic resistance = 70
+size = large
+morale = 45
+experience point value = 39000
+Special Ability = monsterLevel,9
+Special Ability = elementalImmuneElectricity
+Special Ability = isImmuneNonmagicalFire,1
+Special Ability = elementalImmunePoison
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = elementalResistantMagicalFire
+Special Ability = isBlinking
+Special Ability = isProtectedFromNormalMissiles
+Special Ability = alignmentEvil,1
+Special Ability = monsterHezrouGateTanarri,4-10 least or 1-10 lesser or 1-4 greater 50% x3
+Special Ability = monsterHezrouGateTrue,1 50%
+Special Ability = monsterHezrouStench,10' save v poison or no attack, saves attack at -2
+Special Ability = monsterInfravision,60
+Special Ability = isWeaponImmune,2
+Special Ability = homePlane,
+Class = Fighter
+Race = Tanar'ri
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageTeleport Without Error
+item = monsterMageDarkness 15' Radius
+item = monsterClericUnholy Word
+item = monsterMageWall Of Fire
+attack = 6,1,0,attacks,monsterHezrouBearHug1
+attack = 6,1,0,attacks,monsterHezrouBearHug2
+attack = 4,4,0,bites,
+Undead = Special
+\(END)
+// bear hug does 2-8 hp/rond
+

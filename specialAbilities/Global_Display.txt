@@ -1,0 +1,138 @@
+\(BEGIN)
+name = Global_Display
+[CharacterViewScreen] = $VAR char; $VAR nm; $VAR age; $VAR sex; $VAR align; $VAR alignList; $VAR alignName; $VAR class;
+-$VAR cbnList; $VAR cbnCount; $VAR cbn; $VAR cbn2; $VAR cbn3; $VAR hbl; $VAR hbn; $VAR lvl; $VAR lvl2; $VAR lvl3;
+-$VAR xp; $VAR xp2; $VAR xp3; $VAR status; $VAR hp; $VAR maxHp; $VAR race; $VAR ac; $VAR acEff; $VAR acAdj; $VAR thac0;
+-$VAR thac0Adj; $VAR str; $VAR strMod; $VAR int; $VAR wis; $VAR dex; $VAR con; $VAR cha; $VAR dmg; $VAR dmgBns; $VAR enc;
+-$VAR mvmt; $VAR weight; $VAR height; $VAR wpn; $VAR shield; $VAR armor; $VAR sWidth;
+-char = $IndexOf($CharacterContext()); nm = $GET_CHAR_NAME(char); age = $GET_CHAR_AGE(char); sex = $GET_CHAR_SEX(char);
+-align = $GET_CHAR_ALIGNMENT(char);
+-alignList = "$LAWFUL GOOD$NEUTRAL GOOD$CHAOTIC GOOD$LAWFUL NEUTRAL$TRUE NEUTRAL$CHAOTIC NEUTRAL$LAWFUL EVIL$NEUTRAL EVIL$CHAOTIC EVIL";
+-alignName = $DelimitedStringSubstring(alignList,align); class = $GET_CHAR_CLASS(char);
+-cbnList = $DAT_Class_Baseclasses(class); cbnCount = $DelimitedStringCount(cbnList);
+-cbn = $DelimitedStringSubstring(cbnList,0); cbn2 = $DelimitedStringSubstring(cbnList,1);
+-cbn3 = $DelimitedStringSubstring(cbnList,2); hbn = $GetHighestLevelBaseclass(char);
+-hbl = $GetBaseclassLevel(char,hbn); xp = $GET_CHAR_Exp(char,cbn); xp2 = $GET_CHAR_Exp(char,cbn2); xp3 = $GET_CHAR_Exp(char,cbn3);
+-lvl = $GetBaseclassLevel(char,cbn); lvl2 = $GetBaseclassLevel(char,cbn2); lvl3 = $GetBaseclassLevel(char,cbn3);
+-status = $GET_CHAR_STATUS(char); hp = $GET_CHAR_HITPOINTS(char); maxHp = $GET_CHAR_MAXHITPOINTS(char);
+-race = $GET_CHAR_RACE(char); ac = $GET_CHAR_AC(char); acEff = $GET_CHAR_EFFAC(char); acAdj = $GET_CHAR_ADJAC (char);
+-thac0 = $GET_CHAR_THAC0(char); thac0Adj = $GET_CHAR_ADJTHAC0(char); str = $GET_CHAR_LIMITED_STR(char);
+-strMod = $GET_CHAR_LIMITED_STRMOD(char); int = $GET_CHAR_LIMITED_INT(char); wis = $GET_CHAR_LIMITED_WIS(char);
+-dex = $GET_CHAR_LIMITED_DEX(char); con = $GET_CHAR_LIMITED_CON(char); cha = $GET_CHAR_LIMITED_CHA(char);
+-dmgBns = $GET_CHAR_DAMAGEBONUS(char); enc = $GET_CHAR_ENC(char); mvmt = $GET_CHAR_MAXMOVE(char);
+-weight = $GET_CHAR_ASL(char,"charWeight"); height = $GET_CHAR_ASL(char,"charHeight");
+-$IF (weight == "")
+-	{$SET_CHAR_ASL(char,"charWeight",$DAT_Race_Weight($CharacterContext())); weight = $GET_CHAR_ASL(char,"charWeight"); };
+-$IF (height == "")
+-	{$SET_CHAR_ASL(char,"charHeight",$DAT_Race_Height($CharacterContext())); height = $GET_CHAR_ASL(char,"charHeight");};
+-wpn = $GET_CHAR_Ready($CharacterContext(),"WEAPON",0); shield = $GET_CHAR_Ready($CharacterContext(),"SHIELD",0);
+-armor = $GET_CHAR_Ready($CharacterContext(),"ARMOR",0); sWidth = $GET_CONFIG("Screen_Width");
+-// screen resoltion
+-$IF (sWidth ==# 640)
+-	{
+-		$GrSet("LeftCol",18, 18); $GrSet("RightCol", 220, 18); $GrSet("Skills", 417, 270);
+-		$GrSet("Ability", 50, 0); $GrSet("StatusTab", 105, 0); $GrSet("SkillsTab", 125, 0);
+-		$GrSet("EncumbTab",125, 0); $GrSet("TextHeight", 0, 18); $GrSetLinefeed("TextHeight");
+-	};
+-$IF (sWidth ==# 800)
+-	{
+-		$GrSet("LeftCol",20,20); $GrSet("RightCol",260,20); $GrSet("Skills", 450, 380);
+-		$GrSet("Ability",75,0); $GrSet("StatusTab",130,0); $GrSet("SkillsTab", 150, 0);
+-		$GrSet("EncumbTab",150,0); $GrSet("TextHeight",0,20); $GrSetLinefeed("TextHeight");
+-	};
+-$IF (sWidth ==# 1024)
+-	{
+-		$GrSet("LeftCol",20,20); $GrSet("RightCol", 300,20); $GrSet("Skills", 608, 490);
+-		$GrSet("Ability", 75, 0); $GrSet("StatusTab", 150, 0); $GrSet("SkillsTab", 175, 0);
+-		$GrSet("EncumbTab",175, 0); $GrSet("TextHeight",0,20); $GrSetLinefeed("TextHeight");
+-	};
+-// monster characters
+-$IF ($GET_CHAR_TYPE(char) != "@PC@" && $GET_CHAR_TYPE(char) != "@NPC@")
+-	{
+-		$GrMoveTo("LeftCol"); $GrFormat("SL"); $GrColor("YELLOW"); $GrPrtLF($UpCase(nm));
+-		$GrMark("Level"); $GrMoveTo("RightCol"); $GrColor("WHITE"); $GrPrint("STATUS");
+-		$IF (status >=# 2) {$GrColor("RED"); $GrTab("StatusTab"); $GrPrtLF("DEAD");};
+-		$IF (status ==# 1) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrtLF("UNCONSCIOUS");};
+-		$IF (status ==# 0) {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrtLF("OKAY");};
+-		$GrColor("WHITE"); $GrPrint("HIT POINTS");
+-		$IF (hp <=# 0) {$GrColor("RED"); $GrTab("StatusTab"); $GrPrint(hp);};
+-		$IF ((hp >=# 1) && (hp <# maxHp)) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrint(hp);};
+-		$IF (hp ==# maxHp) {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrint(hp);};
+-		$GrColor("GREEN"); $GrPrtLF("/" + maxHp); $GrColor("WHITE"); $GrPrtLF($UpCase(race)); $GrMoveTo("Level");
+-		$GrMove("TextHeight"); $GrMove("TextHeight"); $GrMove("TextHeight"); $GrMove("TextHeight"); $GrColor("WHITE");
+-		$GrMark("Strength"); $GrPrtLF(" "); $GrPrtLF("INT"); $GrPrtLF(" "); $GrPrtLF(" "); $GrPrtLF(" "); $GrPrtLF(" ");
+-		$GrMark("Armor"); $GrMoveTo("Strength"); $GrMove("Ability"); $GrColor("GREEN"); $GrPrtLF(" "); $GrPrtLF(int);
+-		$GrPrtLF(" "); $GrPrtLF(" "); $GrPrtLF(" "); $GrPrtLF(" "); $GrMoveTo("Armor"); $GrMove("TextHeight"); 
+-		$GrColor("WHITE"); $GrPrint("ARMOR CLASS");
+-		$IF (ac !=# acEff) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrtLF(acEff);};
+-		$IF (ac ==# acEff) {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrtLF(ac);};
+-		$GrColor("WHITE"); $GrPrint("THAC0");
+-		$IF (thac0 !=# thac0Adj) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrtLF(thac0Adj);};
+-		$IF (thac0 ==# thac0Adj) {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrtLF(thac0);};
+-		$RETURN;
+-	};
+-
+-$GrMoveTo("LeftCol"); $GrFormat("SL"); $GrColor("YELLOW"); $GrPrtLF($UpCase(nm)); $GrColor("WHITE");
+-$GrPrint($UpCase(sex)); $GrTab("StatusTab"); $GrColor("GREEN"); $GrPrint(age); $GrColor("WHITE"); $GrPrtLF(" YEARS");
+-$GrPrtLF(alignName); $GrPrtLF($UpCase(class));
+-$IF (cbnCount ==# 3)
+-	{$GrPrint("LEVEL/XP " + lvl + "/" + xp); $GrPrint(" " + lvl2 + "/" + xp2); $GrPrtLF(" " + lvl3 + "/" + xp3);};
+-$IF (cbnCount ==# 2 && cbnList != "-?-?-")
+-	{$GrPrint("LEVEL/XP " + lvl + "/" + xp); $GrPrtLF(" " + lvl2 + "/" + xp2);};
+-$IF (cbnCount ==# 1)
+-	{$GrPrtLF("LEVEL/XP " + lvl + "/" + xp);};
+-$GrMark("Level");
+-
+-$GrMoveTo("RightCol"); $GrColor("WHITE"); $GrPrint("STATUS");
+-$IF (status >=# 2) {$GrColor("RED"); $GrTab("StatusTab"); $GrPrtLF("DEAD");};
+-$IF (status ==# 1) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrtLF("UNCONSCIOUS");}
+-$IF (status ==# 0) {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrtLF("OKAY");};
+-$GrColor("WHITE"); $GrPrint("HIT POINTS");
+-$IF (hp <=# 0) {$GrColor("RED"); $GrTab("StatusTab"); $GrPrint(hp);};
+-$IF ((hp >=# 1) && (hp <# maxHp)) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrint(hp);};
+-$IF (hp ==# maxHp) {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrint(hp);};
+-$GrColor("GREEN"); $GrPrtLF("/" + maxHp); $GrColor("WHITE"); $GrPrtLF($UpCase(race)); $GrColor("GREEN"); $GrPrint(weight);
+-$GrColor("WHITE"); $GrPrint(" LBS"); $GrColor("GREEN"); $GrTab("StatusTab"); $GrPrint(height /# 12); $GrColor("WHITE");
+-$GrPrint("'"); $GrColor("GREEN"); $GrPrint(height %# 12); $GrColor("WHITE"); $GrPrtLF("\""); $GrMoveTo("Level");
+-$GrMove("TextHeight"); $GrColor("WHITE"); $GrMark("Strength"); $GrPrtLF("STR"); $GrPrtLF("INT"); $GrPrtLF("WIS");
+-$GrPrtLF("DEX"); $GrPrtLF("CON"); $GrPrtLF("CHA"); $GrMark("Armor"); $GrMoveTo("Strength"); $GrMove("Ability");
+-$GrColor("GREEN");
+-$IF (strMod >=# 1){$GrPrtLF(str + "(" + strMod + ")");}
+-$ELSE{$GrPrtLF(str);};
+-$GrPrtLF(int); $GrPrtLF(wis); $GrPrtLF(dex); $GrPrtLF(con); $GrPrtLF(cha); $GrMoveTo("Armor"); $GrMove("TextHeight"); 
+-$GrColor("WHITE"); $GrPrint("ARMOR CLASS");
+-$IF (ac !=# acEff) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrtLF(acEff);}
+-$ELSE {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrtLF(ac);};
+-$GrColor("WHITE"); $GrPrint("THAC0");
+-$IF (thac0 !=# thac0Adj) {$GrColor("ORANGE"); $GrTab("StatusTab"); $GrPrtLF(thac0Adj);}
+-$ELSE {$GrColor("GREEN"); $GrTab("StatusTab"); $GrPrtLF(thac0);};
+-$GrColor("WHITE"); $GrPrint("DAMAGE"); $GrColor("GREEN"); $GrTab("StatusTab");
+-$IF (dmgBns ># 0){$GrPrtLF("1D2+" + dmgBns);}
+-$ELSE {$GrPrtLF("1D2");};
+-$GrColor("WHITE"); $GrMove("TextHeight"); 
+-
+-$IF ((wpn == "") && (shield == "") && (armor == "")){$GrPrtLF("NONE");};
+-$IF (wpn != ""){$GrPrtLF($UpCase($DAT_Item_IDName(wpn)));};
+-$IF (shield != ""){$GrPrtLF($UpCase($DAT_Item_IDName(shield)));};
+-$IF (armor != ""){$GrPrtLF($UpCase($DAT_Item_IDName(armor)));};
+-$GrSet("Encumbrance", "RightCol", "Armor"); $GrMoveTo("Encumbrance"); $GrMove("TextHeight"); $GrColor("WHITE");
+-$GrPrint("ENCUMBRANCE"); $GrColor("GREEN"); $GrTab("EncumbTab"); $GrPrtLF(enc); $GrColor("WHITE");
+-$GrPrint("MOVEMENT"); $GrColor("GREEN"); $GrTab("EncumbTab"); $GrPrtLF(mvmt);
+-// thief skills
+-$IF (class == "bard" || class == "Thief")
+-	{
+-		$GrMoveTo("Skills"); $GrColor("WHITE"); $GrPrtLF("SKILLS"); $GrMark("Pick"); $GrPrtLF("Pick Pockets");
+-		$GrPrtLF("Open Locks"); $GrPrtLF("Find Traps"); $GrPrtLF("Move Silently"); $GrPrtLF("Hide in Shadows");
+-		$GrPrtLF("Hear Noise"); $GrPrtLF("Climb Walls"); $GrPrtLF("Read Languages"); $GrMoveTo("Pick"); $GrMove("SkillsTab"); 
+-		$GrColor("GREEN");
+-		$GrPrtLF($SkillAdj($CharacterContext(),"PickPockets","","F",""));
+-		$GrPrtLF($SkillAdj($CharacterContext(),"OpenLocks","","F",""));
+-		$GrPrtLF($SkillAdj($CharacterContext(),"FindTraps","","F",""));
+-		$GrPrtLF($SkillAdj($CharacterContext(),"MoveSilent","","F",""));
+-		$GrPrtLF($SkillAdj($CharacterContext(),"HideInShadows","","F",""));
+-		$GrPrtLF($SkillAdj($CharacterContext(),"HearNoise","","F",""));
+-		$GrPrtLF($SkillAdj($CharacterContext(),"ClimbWalls","","F",""));
+-		$GrPrtLF($SkillAdj($CharacterContext(),"ReadLanguages","","F",""));
+-	};
+\(END)
+

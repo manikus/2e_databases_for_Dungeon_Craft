@@ -1,0 +1,5 @@
+\(BEGIN)
+name = spellSeeIllusion
+[InvokeSpellOnTarget] = $SET_CHARACTER_SA($TargetContext(),"isSeeingIllusions","");
+\(END)
+

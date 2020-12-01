@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Sylph
+icon file = icon_Sylph.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 16
+armor class = 9
+movement rate = 36
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 17
+magic resistance = 50
+size = medium
+morale = 35
+experience point value = 2000
+Special Ability = monsterLevel,3
+Special Ability = isInvisible,yes
+Special Ability = homePlane,inner
+Class = Fighter
+Race = Elemental
+form = large
+penalty = none
+immunity = poison + death magic + vorpal weapon
+Misc Options = none
+item = none
+attack = 1,1,0,attacks,
+Undead = none
+\(END)
+

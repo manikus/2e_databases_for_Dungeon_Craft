@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Boalisk
+icon file = icon_Boalisk.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 1
+armor class = 5
+movement rate = 12
+hit dice = 5
+treat HD as hit points = yes
+hit dice bonus = 1
+THAC0 = 17
+magic resistance = 0
+size = large
+morale = 25
+experience point value = 975
+Special Ability = monsterLevel,5
+Class = Fighter
+Race = Animal
+form = snake
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 3,1,0,attacks,monsterBoaliskGaze
+attack = 6,1,1,attacks,
+Undead = none
+\(END)
+

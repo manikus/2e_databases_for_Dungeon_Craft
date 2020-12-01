@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellReadMagic
+[CanIdentify] = $IF ($GET_ITEM_SA($ItemContext(), "itemScroll" ) != "-?-?-") {$RETURN "Y";};
+[Identify] = $SA_REMOVE();
+-$RETURN "Y";
+\(END)
+

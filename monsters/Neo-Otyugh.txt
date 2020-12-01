@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Neo-Otyugh
+icon file = icon_NeoOtyugh.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 12
+armor class = 0
+movement rate = 6
+hit dice = 12
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 9
+magic resistance = 0
+size = large
+morale = 43
+experience point value = 5000
+Special Ability = monsterLevel,11
+Class = Fighter
+Race = Monster
+form = large + none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 3,1,0,bites,Cause Disease
+attack = 6,2,0,attacks,
+attack = 6,2,0,attacks,
+Undead = none
+\(END)
+

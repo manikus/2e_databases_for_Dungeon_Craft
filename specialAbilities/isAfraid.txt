@@ -1,0 +1,7 @@
+\(BEGIN)
+name = isAfraid
+[AutoAction] = $IF ($SA_COMBATANT_GET("isImmuneFear") != "-?-?-") {$RETURN;}
+-$ELSE{$RETURN "F" + $SA_PARAM_GET();};
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Afraid"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+\(END)
+

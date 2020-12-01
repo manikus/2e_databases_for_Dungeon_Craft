@@ -1,0 +1,9 @@
+\(BEGIN)
+name = spellSlowPoison
+[InvokeSpellOnTarget] = $VAR atk; $VAR cls; $VAR adj; $VAR lvl; $VAR exp; $VAR isPsnd;
+-atk = $IndexOf($AttackerContext()); cls = $SA_PARAM_GET(); adj = $GET_SPELL_SA($SpellContext(),"adjLevel");
+-lvl = $GET_CHAR_Lvl(atk,cls) -# adj; $SET_CHARACTER_SA($TargetContext(),"DispelLevel",lvl);
+-exp = $GET_PARTY_TIME() +# lvl *# 60; isPsnd = $GET_CHARACTER_SA($TargetContext(), "isPoisoned");
+-$IF (isPsnd != "-?-?-") {$IF (isPsnd <# (exp +# lvl)){$RETURN $SET_CHARACTER_SA($TargetContext(),"isSlowedPoisoned",exp);};};
+\(END)
+

@@ -1,0 +1,473 @@
+// Class database file
+// The above line **Must** be the first line in the classes database. "// Class database file"
+//
+//	Each class is defined by the following fields:
+//	
+// name = (text)
+//	Names should not conflict with any of the names in the baseclass database,
+//	items database, spells database, races database, or abilities database,
+//	all baseclasses start with a lower case letter and classes with an upper case letter.
+//	eg:		name = Gray Elf
+//
+// HitDiceBonus (baseclass name, ability name, bonus1 - bonus25) 
+//	If a baseclass receives a Hit Point bonus for an ability, it is noted with this keyword
+//	If the class has more than one baseclass, each may have it's own
+//	bonus listed and that bonus will apply as levels are gained
+//	with that particular baseclass
+//	eg:		HitDiceBonus = fighter,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+//
+// HitDiceBaseclass (*Average*/*Maximum*)
+//	HitDiceBaseclass may have a value of *Average* or *Maximum* and
+//	applies when more than one baseclass is part of a class. *Average* means
+//	that the average of all hit dice is taken, *Maximum* means the max number
+//	for that level is given.
+//	Default: *Average*
+//	eg:		HitDiceBaseclass = *Average*
+//
+// StrengthBonusDice (nDm)
+//	If the class allows a bonus for Strength of 18, it is determined here in the
+//	format of nDm, where n is the number of dice and m is the number of sides.
+//	default:	blank
+//	eg:		StrengthBonusDice = 1D100
+//
+// Starting Equipment (item name)
+//	If the class starts with any items they are listed with this keyword.
+//  Multiple items require multiple instances of the keyword
+//	eg:		Starting Equipment = Awl Pike
+//
+// baseclass (baseclass name)
+//	This is the baseclass that the class is based upon. There
+//	ust have at least one per class and there may be up to three.
+//	eg:		baseclass = fighter
+//
+// Special Ability (special ability name)
+//	Each Special Ability corresponds to the Special Ability
+//	database and list the name and parameter.
+//	One Special Ability per instance of the keyword, which
+//	may be listed multiple times.
+//	eg:		Special Ability = class_NoSpells,fighter
+//
+//	*****NOTES*****
+// Valid Classes per 1e rulebooks
+//  Dwarf: Assassin, Fighter, Thief, Fighter/Thief	
+//  Elf: Assassin, Priest, Fighter, Magic User, Ranger, Thief Fighter/MU, Fighter/Thief, Fighter/MU/Thief, MU/Thief
+//  Gnome: Assassin, Priest, Fighter, Magic User, Thief, Fighter/Thief, FighterMU, MU/Thief
+//  Half-elf: Assassin, Priest, Priest, Fighter, Magic User, Ranger, Thief, Priest/Fighter, Priest/Ranger, Priest/MU, Fighter/MU, Fighter/Thief, Fighter/MU/Priest, Fighter/MU/Thief, Thief/MU    
+//  Halfling: Assassin, Priest, Fighter, Thief, Fighter/Thief
+//	Half-orc: Assassin, Priest, Fighter, Thief, Priest/Assassin, Priest/Fighter, Priest/Thief, Fighter/Assassin, Fighter/Thief
+//  Human: Assassin, Priest, Priest, Fighter, MU, Paladin, Ranger, Thief
+//
+// To suppress a class name at time of Character Creation, remove the "//" from:
+// // Special Ability = class_ClassSuppress,"Y"
+// in each Class as desired.
+//
+//	2nd edtion
+
+\(BEGIN)
+name = Bard
+HitDiceLevelBonus = bard,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = bard
+Special Ability = changeClassBard
+\(END)
+
+\(BEGIN)
+name = Druid
+HitDiceLevelBonus = druid,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = druid
+Special Ability = changeClassDruid
+\(END)
+
+\(BEGIN)
+name = Fighter
+HitDiceLevelBonus = fighter,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+Baseclass = fighter
+Special Ability = class_NoSpells,fighter
+Special Ability = changeClassFighter
+\(END)
+
+\(BEGIN)
+name = Illusionist
+HitDiceLevelBonus = illusionist,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = mageIllusionist
+Special Ability = class_MageScribe,illusionist
+Special Ability = changeClassIllusionist
+\(END)
+
+\(BEGIN)
+name = Mage
+HitDiceLevelBonus = mage,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = mage
+Special Ability = class_MageScribe,mage
+Special Ability = changeClassMage
+\(END)
+
+\(BEGIN)
+name = Necromancer
+HitDiceLevelBonus = necromancer,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = necromancer
+Special Ability = class_MageScribe,necromancer
+Special Ability = changeClassNecromancer
+\(END)
+
+\(BEGIN)
+name = Paladin
+baseclass = paladin
+HitDiceLevelBonus = paladin,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+Special Ability = class_Paladin
+Special Ability = changeClassPaladin
+\(END)
+
+\(BEGIN)
+name = Priest
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = cleric
+Special Ability = changeClassCleric
+\(END)
+
+\(BEGIN)
+name = Priest of Death
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = Short Sword
+Starting Equipment = Dagger
+baseclass = priestDeath
+Special Ability = changeClassPriestDeath
+Special Ability = dualClassPriestDeath
+Special Ability = powersPriestDeath
+\(END)
+//	from The Complete Priest's Handbook
+
+\(BEGIN)
+name = Priestess
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = cleric
+Special Ability = changeClassCleric
+Special Ability = genderFemale,1
+\(END)
+
+\(BEGIN)
+name = Priestess of Death
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = Short Sword
+Starting Equipment = Dagger
+baseclass = priestDeath
+Special Ability = changeClassPriestDeath
+Special Ability = dualClassPriestDeath
+Special Ability = genderFemale,1
+Special Ability = powersPriestDeath
+\(END)
+//	from The Complete Priest's Handbook
+
+\(BEGIN)
+name = Priestess of Love
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = Club
+Starting Equipment = Short Bow
+Starting Equipment = Arrow,20
+baseclass = priestLove
+Special Ability = changeClassPriestLove
+Special Ability = dualClassPriestLove
+Special Ability = genderFemale,1
+Special Ability = powersPriestLove
+\(END)
+//	from The Complete Priest's Handbook
+
+\(BEGIN)
+name = Priestess of War
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = Long Bow
+Starting Equipment = Arrow,20
+Starting Equipment = Mace
+Starting Equipment = Banded Mail
+Starting Equipment = Shield
+baseclass = priestWar
+Special Ability = changeClassPriestWar
+Special Ability = dualClassPriestWar
+Special Ability = genderFemale,1
+Special Ability = powersClassPriestWar
+\(END)
+//	from The Complete Priest's Handbook
+
+\(BEGIN)
+name = Priest of Love
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = Club
+Starting Equipment = Short Bow
+Starting Equipment = Arrow,20
+baseclass = priestLove
+Special Ability = changeClassPriestLove
+Special Ability = dualClassPriestLove
+Special Ability = powersPriestLove
+\(END)
+//	from The Complete Priest's Handbook
+
+\(BEGIN)
+name = Priest of War
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = Long Bow
+Starting Equipment = Arrow,20
+Starting Equipment = Mace
+Starting Equipment = Banded Mail
+Starting Equipment = Shield
+baseclass = priestWar
+Special Ability = changeClassPriestWar
+Special Ability = dualClassPriestWar
+Special Ability = powersClassPriestWar
+\(END)
+//	from The Complete Priest's Handbook
+
+\(BEGIN)
+name =  Ranger
+HitDiceLevelBonus = ranger,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = ranger
+Special Ability = changeClassRanger
+\(END)
+
+\(BEGIN)
+name = Thief
+HitDiceLevelBonus = thief,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = thief
+Special Ability = class_NoSpells,Thief
+Special Ability = changeClassThief
+\(END)
+
+// Multi-class Combos
+\(BEGIN)
+name = Priest/Fighter
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = cleric
+baseclass = fighter
+Special Ability = class_baseName,$cleric$fighter
+\(END)
+
+\(BEGIN)
+name = Priest/Fighter/Mage
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = cleric
+baseclass = fighter
+baseclass = mage
+Special Ability = class_MageScribe,mage
+Special Ability = class_baseName,$cleric$fighter$mage
+\(END)
+
+\(BEGIN)
+name = Priest/Illusionist
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = cleric
+baseclass = illusionist
+Special Ability = class_MageScribe,cleric/illusionist
+Special Ability = class_baseName,$cleric$illusionist
+\(END)
+
+\(BEGIN)
+name = /#Priest/Mage
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = cleric
+baseclass = mage
+Special Ability = class_MageScribe,mage
+Special Ability = class_baseName,$cleric$mage
+\(END)
+
+\(BEGIN)
+name = /#Priest/Ranger
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = cleric
+baseclass = ranger
+Special Ability = class_baseName,$cleric$ranger
+\(END)
+
+\(BEGIN)
+name = Priest/Thief
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = cleric
+baseclass = thief
+Special Ability = class_Thief,$cleric$thief
+Special Ability = class_baseName,$cleric$thief
+\(END)
+
+\(BEGIN)
+name = Druid/Fighter/Mage
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = druid
+baseclass = fighter
+baseclass = mage
+Special Ability = class_MageScribe,mage
+Special Ability = class_baseName,$druid$fighter$mage
+\(END)
+
+\(BEGIN)
+name = Druid/Fighter
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = druid
+baseclass = fighter
+Special Ability = class_baseName,$druid$fighter
+\(END)
+
+\(BEGIN)
+name = Druid/Mage
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = druid
+baseclass = mage
+Special Ability = class_MageScribe,mage
+Special Ability = class_baseName,$druid$mage
+\(END)
+
+\(BEGIN)
+name = /#Druid/Ranger
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = druid
+baseclass = ranger
+Special Ability = class_baseName,$druid$ranger
+\(END)
+
+\(BEGIN)
+name = Fighter/Illusionist
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = fighter
+baseclass = illusionist
+Special Ability = class_MageScribe,fighter/illusionist
+Special Ability = class_baseName,$fighter$illusionist
+\(END)
+
+\(BEGIN)
+name = Fighter/Mage/Thief
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = fighter
+baseclass = mage
+baseclass = thief
+Special Ability = class_MageScribe,Fighter/Mage/Thief
+Special Ability = class_Thief,Fighter/Mage/Thief
+Special Ability = class_baseName,$fighter$mage$thief
+\(END)
+
+\(BEGIN)
+name = Fighter/Mage
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = fighter
+baseclass = mage
+Special Ability = class_MageScribe,mage
+Special Ability = class_baseName,$fighter$mage
+\(END)
+
+\(BEGIN)
+name = Fighter/Thief
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,3,4,5,5,6,6,6,7,7
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 1D100
+Starting Equipment = 
+baseclass = fighter
+baseclass = thief
+Special Ability = class_NoSpells,$fighter$thief
+Special Ability = class_Thief,$fighter$thief
+Special Ability = class_baseName,$fighter$thief
+\(END)
+
+\(BEGIN)
+name = Illusionist/Thief
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = illusionist
+baseclass = thief
+Special Ability = class_MageScribe,$illusionist$thief
+Special Ability = class_Thief,$illusionist$thief
+Special Ability = class_baseName,$illusionist$thief
+\(END)
+
+\(BEGIN)
+name = Mage/Thief
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = mage
+baseclass = thief
+Special Ability = class_MageScribe,$mage$thief
+Special Ability = class_Thief,$mage$thief
+Special Ability = class_baseName,$$mage$thief
+\(END)
+

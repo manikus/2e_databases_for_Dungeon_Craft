@@ -1,0 +1,10 @@
+\(BEGIN)
+name = itemRingOfWizardry
+[OnReady] = $VAR lvl; $VAR actor;
+-lvl = $SA_PARAM_GET(); $SpellAdj($CharacterContext(),"Magic User","ring",lvl,lvl,200,0);
+-$SET_CHARACTER_SA($CharacterContext(),"isRingWizardry", lvl);
+[OnUnReady] = $VAR lvl; $VAR actor;
+-lvl = $SA_PARAM_GET(); $SpellAdj($CharacterContext(),"Magic User","ring",lvl,lvl,50,0);
+-$DELETE_CHARACTER_SA($CharacterContext(),"isRingWizardry");
+\(END)
+

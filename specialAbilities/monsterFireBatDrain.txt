@@ -1,0 +1,33 @@
+\(BEGIN)
+name = monsterFireBatDrain
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,$SA_PARAM_GET()); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[GetAdjMaxMovement] = $RETURN 0;
+[GetNumberOfAttacks] = $RETURN 0;
+[OnStartCombatantAction] = $VAR tgt;  $VAR nm; $VAR cap; $VAR dmg;
+-tgt = $GET_COMBATANT_SA($CombatantContext(),"monsterFireBatLink"); nm = $GET_CHAR_NAME(tgt);
+-$IF ($GET_CHAR_STATUS(tgt) ==# 0) 
+-	{
+-		cap = $GET_COMBATANT_SA($CombatantContext(),"monsterFireBatBloodCap"); dmg = $RANDOM(4) +# 1; cap = cap -# 1;
+-		$SET_COMBATANT_SA($CombatantContext(),"monsterFireBatBloodCap",cap);
+-		$SET_CHAR_HITPOINTS(tgt, $GET_CHAR_HITPOINTS(tgt) -# dmg);
+-		$IF ($GET_CHAR_HITPOINTS(tgt) <# 1)
+-			{
+-				$SET_CHAR_STATUS(tgt,1); $DELETE_COMBATANT_SA($CombatantContext(),"monsterFireBatDrain");
+-				$DELETE_COMBATANT_SA($CombatantContext(),"monsterFireBatLink");
+-			};
+-		$IF (cap <# 1)
+-			{
+-				$SET_CHAR_STATUS($MyIndex(),8);
+-				$DELETE_COMBATANT_SA($CombatantContext(),"monsterFireBatDrain");
+-				$DELETE_COMBATANT_SA($CombatantContext(),"monsterFireBatLink");
+-				$SET_COMBATANT_SA($CombatantContext(),"isFleeing","Fleeing Fire Bat");
+-				$DELETE_CHARACTER_SA($Name(nm),"isHugged");
+-			};
+-	}
+-$ELSE
+-	{
+-		$DELETE_COMBATANT_SA($CombatantContext(),"monsterFireBatDrain");
+-		$DELETE_COMBATANT_SA($CombatantContext(),"monsterFireBatLink");
+-	};
+\(END)
+

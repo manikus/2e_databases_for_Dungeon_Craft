@@ -1,0 +1,42 @@
+\(BEGIN)
+name = Grey Slaad
+icon file = icon_GreySlaad.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 14
+armor class = -2
+movement rate = 12
+hit dice = 10
+treat HD as hit points = yes
+hit dice bonus = 6
+THAC0 = 11
+magic resistance = 60
+size = medium
+morale = 40
+experience point value = 45000
+Special Ability = monsterLevel,12
+Special Ability = isInvisible,slaad
+Special Ability = monsterInfravision,60
+Special Ability = monsterGreySlaadGateGreySlaad,1-4 grey slaad 40%
+Special Ability = isWeaponImmune,2
+Special Ability = homePlane,
+Class = Fighter
+Race = Slaadi
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageDarkness 15' Radius
+item = monsterMageFear
+item = monsterClericFlame Strike
+item = monsterMageLightning Bolt
+item = monsterMagePower Word Stun
+item = monsterClericSymbol Of Pain
+attack = 6,1,4,attacks,
+attack = 6,1,4,attacks,
+attack = 8,2,0,bites,
+Undead = Special
+\(END)
+

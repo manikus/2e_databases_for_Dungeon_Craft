@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Ankheg
+icon file = icon_Ankheg.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 0
+armor class = 2
+movement rate = 12
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 15
+magic resistance = 0
+size = large
+morale = 23
+experience point value = 575
+Special Ability = monsterLevel,6
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 6,3,0,crushes,monsterAnkhegAcid
+Undead = none
+\(END)
+// monsterAnkhegAcid: 1-4 acid damage
+

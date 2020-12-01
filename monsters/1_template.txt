@@ -1,0 +1,30 @@
+\(BEGIN)
+name = template
+icon file = //.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 
+armor class = 
+movement rate = 
+hit dice = 
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 
+magic resistance = 0
+size = medium
+morale = 
+experience point value = 
+Special Ability = monsterLevel,
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 
+Undead = none
+\(END)
+

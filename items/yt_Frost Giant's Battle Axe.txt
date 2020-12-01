@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Frost Giant's Battle Axe
+id name = Frost Giant's Battle Axe
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 1
+cost = 0
+hands to carry = 1
+baseclass = fighter
+small/medium damage dice = 1D8 + 0
+large damage dice = 1D8 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 750
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = damageTypeSlashing,1
+Special Ability = usableBy,Frost Giant
+weapon type = hand held cutting
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

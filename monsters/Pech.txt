@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Pech
+icon file = icon_Pech.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 12
+armor class = 3
+movement rate = 9
+hit dice = 4
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 17
+magic resistance = 25
+size = small
+morale = 25
+experience point value = 1400
+Special Ability = monsterLevel,4
+Special Ability = alignmentGood,1
+Special Ability = homePlane,inner
+Class = Fighter
+Race = Elemental
+form = none
+penalty = none
+immunity = poison + death magic + vorpal weapon
+Misc Options = none
+item = Military Pick
+attack = 4,1,3,attacks,
+Undead = none
+\(END)
+

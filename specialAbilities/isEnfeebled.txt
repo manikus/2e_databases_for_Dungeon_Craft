@@ -1,0 +1,9 @@
+\(BEGIN)
+name = isEnfeebled
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7, "Enfeebled"); $SET_HOOK_PARAM( 6, ""); $RETURN 1;
+[DoesAttackSucceed] = $IF ($GET_COMBATANT_SA($AttackerContext(),"isEnfeebled") != "-?-?-")
+-  {$SET_COMBATANT_SA($TargetContext(),"isEnfeebledHit",1);};
+-$IF ($GET_HOOK_PARAM(5) >=# $GET_HOOK_PARAM(6)){$RETURN "Y";}
+-$ELSE {$RETURN "N";};
+\(END)
+

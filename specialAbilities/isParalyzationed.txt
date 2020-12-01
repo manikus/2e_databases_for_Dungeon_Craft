@@ -1,0 +1,13 @@
+\(BEGIN)
+name = isParalyzationed
+[CanCastSpells] = $RETURN "N";
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Paralyzed"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+[DoesAttackSucceed] = $IF ($GET_COMBATANT_SA($TargetContext(),"isParalyzationed") != "-?-?-")
+-  {$SET_HOOK_PARAM(6,$GET_HOOK_PARAM(6) -# 30);};
+-$IF ($GET_HOOK_PARAM(5) >=# $GET_HOOK_PARAM(6)){$RETURN "Y";} $ELSE {$RETURN "N";};
+[GetAdjMaxMovement] = $RETURN "0";
+[GetItemTargetHitBonus] = $RETURN $GET_CHAR_HITPOINTS($IndexOf($TargetContext())) +# 1;
+[IsCombatReady] = $RETURN "N";
+\(END)
+

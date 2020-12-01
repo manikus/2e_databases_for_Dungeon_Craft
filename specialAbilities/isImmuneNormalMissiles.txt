@@ -1,0 +1,13 @@
+\(BEGIN)
+name = isImmuneNormalMissiles
+[CharDisplayStatus] = $IF ($GET_PARTY_TIME() ># $SA_PARAM_GET()) {$RETURN $SA_REMOVE();};
+-$SET_HOOK_PARAM( 7,"Protected from Normal Missiles"); $SET_HOOK_PARAM( 6,"3"); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+[ComputeDamage] = $VAR tgt; $VAR atk;
+-tgt = $IndexOf($TargetContext()); atk = $IndexOf($AttackerContext());
+-$IF ($VisualDistance(tgt,atk) ># 1) {$RETURN;};
+-$IF ($SA_ITEM_GET("item_MagicalWeapon") != "-?-?-") {$RETURN;};
+-$IF ($GET_CHARACTER_SA($TargetContext(),"isImmuneNormalMissiles") == "-?-?-") {$RETURN;};
+-$IF (($SA_ITEM_GET("item_HurledWeapon") != "-?-?-") || (($SA_ITEM_GET("item_MissileWeapon") != "-?-?-")){$RETURN "N";};
+\(END)
+

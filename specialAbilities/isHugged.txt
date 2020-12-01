@@ -1,0 +1,9 @@
+\(BEGIN)
+name = isHugged
+[CanCastSpells] = $VAR com; // combatant
+-com = $IndexOf($CombatantContext());
+-$IF ($GET_CHAR_HITPOINTS(com) <# 1)  {$SA_REMOVE(); $RETURN;};
+-$RETURN "N";
+[GetAdjMaxMovement] = $RETURN 0;
+\(END)
+

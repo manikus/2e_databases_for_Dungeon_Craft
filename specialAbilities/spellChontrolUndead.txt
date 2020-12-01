@@ -1,0 +1,8 @@
+\(BEGIN)
+name = spellChontrolUndead
+[InvokeSpellOnTarget] = $VAR atk; $VAR tgt; $VAR cls; $VAR lvl;
+-tgt = $IndexOf($TargetContext()); atk = $IndexOf($AttackerContext()); $IF ($IsUndead == ""){$RETURN;};};
+-cls = $SA_PARAM_GET(); lvl = $GET_CHAR_Lvl(atk,cls); $SetFriendly(tgt,$GET_COMBATANT_SA($Myself(),"side"));
+-$SET_COMBATANT_SA($TargetContext(),"isCharmed",lvl); $SET_CHARACTER_SA($TargetContext(),"DispelLevel",lvl);
+\(END)
+

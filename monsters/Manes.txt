@@ -1,0 +1,44 @@
+\(BEGIN)
+name = Manes
+icon file = icon_Manes.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 3
+armor class = 8
+movement rate = 6
+hit dice = 1
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 20
+magic resistance = 10
+size = medium
+morale = 50
+experience point value = 1000
+Special Ability = monsterLevel,1
+Special Ability = elementalImmuneElectricity
+Special Ability = isImmuneNonmagicalFire,1
+Special Ability = elementalImmunePoison
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = elementalResistantMagicalFire
+Special Ability = alignmentEvil,1
+Special Ability = isImmuneMentalControl
+Special Ability = monsterInfravision,60
+Special Ability = monsterManesDeathExplosion,at death adjacent save v poison or 1-6 acid damage
+Special Ability = homePlane,
+Class = Fighter
+Race = Tanar'ri
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageTeleport Without Error
+item = monsterMageDarkness 15' Radius
+attack = 2,1,0,attacks,
+attack = 2,1,0,attacks,
+attack = 4,1,0,bites
+Undead = Special
+\(END)
+

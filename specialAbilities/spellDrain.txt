@@ -1,0 +1,23 @@
+\(BEGIN)
+name = spellDrain
+[InvokeSpellOnTarget] = $VAR tgt; $VAR bName; $VAR bLvl; $VAR bDie $VAR bNum; $VAR nm; $VAR monHit; $VAR rand;
+-$VAR drain; $VAR prevDrain;
+-tgt = $IndexOf($TargetContext()); bName = $GetHighestLevelBaseclass(tgt); bLvl = $GetBaseclassLevel(tgt,bName);
+-nm = $GET_CHAR_NAME(tgt); $SET_CHAR_Lvl(tgt,bName,bLvl -# 1);
+-$IF ((bLvl -# 1) <=# 0)
+-	{$SET_CHAR_HITPOINTS(tgt,-11); $SET_CHAR_MAXHITPOINTS(tgt,-11); $SET_CHAR_STATUS(tgt,5); $RETURN ;};
+-bDie = $RollHitPointDice(bName,bLvl,bLvl); 
+-bNum = $DelimitedStringCount($GET_CHARACTER_SA($TargetContext(),"class_baseName"));
+-$IF (bNum <# 1){bNum = 1;}; rand = $RANDOM(bDie) +# 1; drain = rand /# bNum;
+-$IF (drain <# 1){drain = 1;};
+-$SET_CHAR_MAXHITPOINTS(tgt,$GET_CHAR_MAXHITPOINTS(tgt) -# drain);
+-$IF ($GET_CHARACTER_SA($TargetContext(),"isDrained") == "-?-?-")
+-	{$SET_CHARACTER_SA($TargetContext(),"isDrained","#$" + bName + "$" + bLvl + "$" + drain + "#$99");}
+-$ELSE
+-	{
+-		prevDrain = $GET_CHARACTER_SA($TargetContext(),"isDrained");
+-		$SET_CHARACTER_SA($TargetContext(),"isDrained","#$" + bName + "$" + bLvl + "$" + drain + prevDrain);
+-	};
+-$SET_CHAR_Exp(tgt,bName,$DAT_Baseclass_Experience(bName,bLvl -# 1));
+\(END)
+

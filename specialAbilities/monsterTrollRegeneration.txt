@@ -1,0 +1,10 @@
+\(BEGIN)
+name = monsterTrollRegeneration
+[StartCombatRound] = $VAR tgt; $VAR currHP; $VAR round;
+-tgt = $IndexOf($Myself()); currHP = $GET_CHAR_HITPOINTS(tgt); round = $GetCombatRound();
+-$IF (currHP <# 42)
+-	{$IF ($SA_COMBATANT_GET("timeToRegen") == "-?-?-") {$SET_COMBATANT_SA($Myself(),"timeToRegen",round +# 3);};};
+-$IF (round ==# $SA_COMBATANT_GET("timeToRegen"))
+-	{$RETURN $SET_COMBATANT_SA($Myself(),"monsterRegeneration",$SA_PARAM_GET());};
+\(END)
+

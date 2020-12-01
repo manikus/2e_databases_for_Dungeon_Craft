@@ -1,0 +1,45 @@
+\(BEGIN)
+name = Rutterkin
+icon file = icon_Rutterkin.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 9
+armor class = 0
+movement rate = 12
+hit dice = 4
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 17
+magic resistance = 10
+size = medium
+morale = 30
+experience point value = 12000
+Special Ability = monsterLevel,4
+Special Ability = elementalImmuneElectricity
+Special Ability = isImmuneNonmagicalFire,1
+Special Ability = elementalImmunePoison
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = elementalResistantMagicalFire
+Special Ability = alignmentEvil,1
+Special Ability = monsterInfravision,60
+Special Ability = monsterRutterkinGateLeastTannari,1-8 dretch or manes or rutterkin 50%
+Special Ability = homePlane,
+Class = Fighter
+Race = Tanar'ri
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageTeleport Without Error
+item = monsterMageDarkness 15' Radius
+item = monsterMageFear
+item = Rutterkin Fletchet
+attack = 6,1,1,attacks,
+attack = 6,1,1,attacks,
+Undead = Special
+\(END)
+// rutterkin fletchet - 2d4/1d6 30enc +1 dam
+

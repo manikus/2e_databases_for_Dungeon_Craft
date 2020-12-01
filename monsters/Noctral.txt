@@ -1,0 +1,37 @@
+\(BEGIN)
+name = Noctral
+icon file = icon_Noctral.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 20
+armor class = 1
+movement rate = 36
+hit dice = 5
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 15
+magic resistance = 0
+size = medium
+morale = 40
+experience point value = 7000
+Special Ability = alignmentGood,1
+Special Ability = homePlane,Seven Heavens
+Special Ability = isInvisible,1
+Special Ability = monsterLevel,5
+Special Ability = monsterNightVsion,1
+Special Ability = monsterNoctralNeverSurprised,cannot be surprised  between dusk and dawn
+Class = Fighter
+Race = Animal
+form = animal
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 4,2,0,claws,
+attack = 4,2,0,claws,
+attack = 4,1,1,bites,
+Undead = none
+\(END)
+	

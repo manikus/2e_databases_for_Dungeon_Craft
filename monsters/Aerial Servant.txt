@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Aerial Servant
+icon file = icon_AerialServant.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 3
+armor class = 3
+movement rate = 24
+hit dice = 16
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 5
+magic resistance = 0
+size = large
+morale = 35
+experience point value = 9000
+Special Ability = monsterLevel,16
+Special Ability = isImmuneWeapon,1
+Special Ability = homePlane,inner
+Class = Fighter
+Race = Elemental
+form = large
+penalty = none
+immunity = poison + death magic + vorpal weapon
+Misc Options = none
+item = none
+attack = 8,4,0,attacks,
+Undead = none
+\(END)
+

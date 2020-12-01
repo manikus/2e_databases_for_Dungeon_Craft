@@ -1,0 +1,191 @@
+//	staves
+\(BEGIN)
+name = Staff|Command
+id name = Staff of Command
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 5000
+hands to carry = 0
+baseclass = cleric
+baseclass = mage
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = item_StaffCommand,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Staff of Command: This device has three functions, only two of which will be effective if the wielder is a wizard; all three work when the staff is in a priest's hands. The three functions are:
+//Human influence: This power duplicates that of the ring of the same name. Each suggestion or charge draws one charge from the staff.
+//Mammal control/animal control:This power functions only as mammal control (as the ring of that name) when the staff is used by a wizard. In the hands of a priest it is a staff of animal control (as the potion of that name, all types of animals listed). Either use drains one charge per turn or fraction thereof.
+//Plant control: This function duplicates that of the potion of the same name, but for each 10-square-foot ares of plants controlled for one turn or lass, one charge is used. A wizard cannot control plants at all.
+//The staff can be recharged.
+
+\(BEGIN)
+name = Staff|Curing
+id name = Staff of Curing
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 5000
+hands to carry = 0
+baseclass = cleric
+baseclass = mage
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = item_StaffCuring,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Staff of Curing: This device can cure disease, cure blindness, cure wounds ( 3d6+3 hit points), or cure insanity. Each function drains one charge. The device can bi used once per day on any person (dwarf,elf,gnome,half-elf, halfling included), and no function may be employed more than twice per day(i.e., the staff can function only eight times during a 24-hour period). It can be recharged.
+
+\(BEGIN)
+name = Staff|Power
+id name = Staff of Power
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 12000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = item_StaffPower,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Staff of Power: The staff of power is a very potent magical item, with offensive and defensive abilities. The powers below cost one charge each:
+//• continual light
+//• magic missile or lightning bolt
+//• ray of enfeeblement
+//• levitation
+//• cone of cold or fireball
+//The following powers drain two charges each:
+//• shield, 5-foot radius
+//• globe of invulnerability
+//• paralyzation*
+//* Paralyzation is a ray from the end of the staff extending in a cone 40 feet long and 20 feet wide at the far end.
+//The DM may assign alternate powers by random die roll.
+//The wielder of a staff of power gains a +2 bonus to Armor Class and saving throws. He may use the staff to smite opponents. It strikes as a +2 magical weapon and inflicts 1d6+2 points of damage; if one charge is expended, the staff causes double damage, but two charges do not cause triple damage.
+//A staff of power can be broken for a retributive strike (see staff of the magi). The staff can be recharged.
+
+\(BEGIN)
+name = Staff|Woodlands
+id name = Staff of the Woodlands
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 8000
+hands to carry = 0
+baseclass = druid
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 1
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = item_StaffWoodlands,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Staff of the Woodlands: This sort of staff is always made from oak, ash, or yew, finely grained, beautifully carved, and bound with bronze. It is effective only in the hands of a druid. Each such staff has the following powers, with each expending one charge per use:
+//• Wall of thorns
+//• Animal friendship plus speak with animals
+//• Animate tree*
+//* This function duplicates the ability of a treant to cause a large tree to move at a movement rate of 3 and attack as if it were a largest-sized treant, and in all other respects becoming a virtual treant for eight rounds per charge expended. Note that one round is required for the tree to animate, and it will return to rooting on the eighth, so only six of the initial eight rounds are effectively available for the attack function.
+//In addition to these powers, each staff of the woodlands has a magical weapon value. Those with a lesser value have extra magical powers that do not require charges and can be employed once per day: The +4 staff has no additional powers; the +3 staff also confers the power of pass without trace; the +2 staff confers the powers of pass without trace and barkskin; the +1 staff confers the powers of the +2 staff plus the power of the tree spell. To determine which sort of staff has been discovered, assign even chances for each of the four types.
+
+

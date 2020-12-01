@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Giant Slug
+icon file = icon_GiantSlug.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 0
+armor class = 8
+movement rate = 6
+hit dice = 12
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 9
+magic resistance = 0
+size = large
+morale = 30
+experience point value = 4000
+Special Ability = isWeaponImmuneBludgeoning,1
+Special Ability = monsterLevel,12
+Class = Fighter
+Race = Insect
+form = animal + large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterGiantSlugSpit
+attack = 1,1,0,spits,
+Undead = none
+\(END)
+

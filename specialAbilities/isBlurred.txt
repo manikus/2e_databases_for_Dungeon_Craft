@@ -1,0 +1,9 @@
+\(BEGIN)
+name = isBlurred
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Blurred"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[DoesAttackSucceed] = $VAR par5; $VAR par6;
+-$IF ($GET_COMBATANT_SA($TargetContext(),"blurFirst") == "-?-?-")
+-	{$SET_COMBATANT_SA($TargetContext(),"blurFirst",1); par5 = $GET_HOOK_PARAM(5) -# 4;};
+-par5 = $GET_HOOK_PARAM(5) -# 2; par6 = $GET_HOOK_PARAM(6); $IF (par5 >=# par6){$RETURN "Y";} $ELSE {$RETURN "N";};
+\(END)
+

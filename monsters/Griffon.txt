@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Griffon
+icon file = icon_Griffon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveWings.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 3
+armor class = 3
+movement rate = 30
+hit dice = 7
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 13
+magic resistance = 0
+size = large
+morale = 30
+experience point value = 650
+Special Ability = monsterLevel,7
+Class = Fighter
+Race = Monster
+form = animal + large
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 4,1,0,attacks,
+attack = 4,1,0,attacks,
+attack = 8,2,0,bites,
+Undead = none
+\(END)
+

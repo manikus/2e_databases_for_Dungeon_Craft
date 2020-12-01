@@ -1,0 +1,42 @@
+\(BEGIN)
+name = isFistStunned
+[StartCombatRound] = $VAR time; $VAR prm;
+-prm = $SA_PARAM_GET(); time = $GetCombatRound(); $IF (prm ==# time){$SA_REMOVE();};
+\(END)
+
+\(BEGIN)
+name = mosnterClenchedFist
+[ComputeDamage] = $VAR rndm; $VAR dmg;  $VAR time; $VAR stun;
+-stun = 0; $IF ($GET_COMBATANT_SA($TargetContext(),"IsFistStunned") != "-?-?-"){stun = 4}; rndm = $RANDOM(20) +# stun;
+-time = $GetCombatRound(); $IF (rndm <# 12){dmg = $RANDOM(6) +# 1}; $IF (rndm <# 16){dmg = $RANDOM(6) +# $RANDOM(6) +# 2};
+-$IF (rndm <# 19)
+-	{
+-		dmg = $RANDOM(6) +# $RANDOM(6) +# $RANDOM(6) +# 3
+-		$SET_COMBATANT_SA($TargetContext(),"IsFistStunned",time +# 1);
+-	}
+-$ELSE
+-	{
+-		dmg = $RANDOM(6) +# $RANDOM(6) +# $RANDOM(6) +# $RANDOM(6) +# 4};
+-		$SET_COMBATANT_SA($TargetContext(),"IsFistStunned",time +# 3);
+-	};
+-$RETURN dmg;
+[DoesAttackSucceed] = $RETURN "Y";
+\(END)
+
+\(BEGIN)
+name = spellClenchedFist
+[InvokeSpellOnTarget] = 
+\(END)
+
+\(BEGIN)
+name = spellGraspingHand
+[InvokeSpellOnTarget] = $VAR tgt;
+-tgt = $IndexOf($TargetContext());
+-
+\(END)
+
+\(BEGIN)
+name = spellMordenkainenSword
+[InvokeSpellOnTarget] = 
+\(END)
+

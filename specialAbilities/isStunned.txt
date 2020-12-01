@@ -1,0 +1,11 @@
+\(BEGIN)
+name = isStunned
+[CanCastSpells] = $RETURN "N";
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Stunned"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+[GetAdjMaxMovement] = $VAR exp; $VAR rnd;
+-exp = $SA_PARAM_GET(); rnd = $GetCombatRound(); $IF (rnd >=# exp){$SA_REMOVE();$RETURN;}; $RETURN "0";
+[IsCombatReady] = $VAR exp; $VAR rnd;
+-exp = $SA_PARAM_GET(); rnd = $GetCombatRound(); $IF (rnd >=# exp){$SA_REMOVE();$RETURN;}; $RETURN "N";
+\(END)
+

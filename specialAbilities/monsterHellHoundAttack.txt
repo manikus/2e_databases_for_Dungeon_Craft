@@ -1,0 +1,5 @@
+\(BEGIN)
+name = monsterHellHoundAttack
+[StartCombatRound] = $GIVE_CHAR_ITEM( $Myself(), "monsterHellHoundBreath" );
+\(END)
+

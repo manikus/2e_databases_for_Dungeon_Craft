@@ -1,0 +1,11 @@
+\(BEGIN)
+name = Mage
+HitDiceLevelBonus = mage,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = mage
+Special Ability = class_MageScribe,mage
+Special Ability = changeClassMage
+\(END)
+

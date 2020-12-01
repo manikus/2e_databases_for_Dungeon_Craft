@@ -1,0 +1,39 @@
+\(BEGIN)
+name = Shillelagh
+id name = Shillelagh
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = item_Club.png,0,8,48,48,1,1,4,1,0,0
+hit sprite = none
+ROF per round = 1
+combat range = 3
+cost = 0
+hands to carry = 1
+baseclass = druid
+small/medium damage dice = 2D4 + 0
+large damage dice = 1D4 + 1
+AC base = 0
+AC bonus = 0
+attack bonus = 1
+experience = 0
+encumbrance = 0
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemHurledWeapon,shillelagh
+Special Ability = damageTypeBludgeoning,1
+weapon type = hand held or thrown
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

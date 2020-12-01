@@ -1,0 +1,34 @@
+\(BEGIN)
+name = Orc
+icon file = icon_Orc.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 9
+armor class = 10
+movement rate = 12
+hit dice = 1.000000
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 19
+magic resistance = 0
+size = medium
+morale = 30
+experience point value = 15
+Special Ability = isPerson,monster
+Special Ability = monsterLevel,1
+Special Ability = alignmentEvil,1
+Class = Fighter
+Race = Monster
+form = mammal + none
+penalty = DwarfTHAC0 + RangerDmg + none
+immunity = none
+Misc Options = can be held/charmed + none
+item = Spear
+item = Ring Mail
+item = Helm
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+

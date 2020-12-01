@@ -1,0 +1,35 @@
+\(BEGIN)
+name = Ghast
+icon file = icon_Ghoul.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 12
+armor class = 4
+movement rate = 15
+hit dice = 4
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 17
+magic resistance = 0
+size = medium
+morale = 35
+experience point value = 650
+Special Ability = alignmentEvil,1
+Special Ability = range,1
+Special Ability = rangeGhast,Ghast
+Special Ability = monsterLevel,4
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = poison + death magic + confusion
+Misc Options = none
+item = none
+attack = 4,1,0,attacks,monsterParalysis
+attack = 4,1,0,attacks,monsterParalysis
+attack = 8,1,0,bites,
+Undead = Ghast
+\(END)
+

@@ -1,0 +1,7 @@
+\(BEGIN)
+name = itemWhip
+[OnReady] = $VAR chr; // character
+-chr = $IndexOf($CharacterContext());
+-$IF ($GET_CHAR_Lvl(chr,"druid") <# 1 && $GET_CHAR_Lvl(chr,"fighter") <# 1 && $GET_CHAR_Lvl(chr,"paladin") <# 1 && $GET_CHAR_Lvl(chr,"ranger") <# 1 && $GET_CHAR_RACE(chr) != "Drow") {$SET_CHAR_Ready($CharacterContext(),0,"");};
+\(END)
+

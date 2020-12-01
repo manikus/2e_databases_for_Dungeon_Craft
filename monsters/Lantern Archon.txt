@@ -1,0 +1,38 @@
+\(BEGIN)
+name = Lantern Archon
+icon file = icon_LanternArchon.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 6
+armor class = 5
+movement rate = 24
+hit dice = .5
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 20
+magic resistance = 0
+size = small
+morale = 45
+experience point value = 5000
+Special Ability = alignmentGood,1
+Special Ability = homePlane,Mount Celestia
+Special Ability = isResistantWeapon,1
+Special Ability = isImmuneWeapon,1
+Special Ability = monsterInfravision,60
+Special Ability = monsterLevel,1
+Special Ability = monsterNeverSurprised,1
+Special Ability = orderLawful,1
+Class = Fighter
+Race = Archon
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed + none
+item = none
+attack = 6,1,0,attacks,
+attack = 6,1,0,attacks,
+Undead = none
+\(END)
+

@@ -1,0 +1,8 @@
+\(BEGIN)
+name = spellFixBlind
+[FixCharacter] = $VAR blind;
+-blind = $GET_CHARACTER_SA($CharacterContext(),"isBlind");
+-$RETURN blind != "-?-?-";
+Info = "cure blindness, heal for FIX";
+\(END)
+

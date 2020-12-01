@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Shadow
+icon file = icon_Shadow.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 6
+armor class = 7
+movement rate = 12
+hit dice = 3.000000
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 17
+magic resistance = 0
+size = medium
+morale = 50
+experience point value = 420
+Special Ability = monsterLevel,4
+Special Ability = alignmentEvil,1
+Special Ability = isWeaponImmune,normal
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = poison + death magic + confusion + none
+Misc Options = none
+item = none
+attack = 4,1,1,hits,monsterDrainStrength
+Undead = Shadow
+\(END)
+

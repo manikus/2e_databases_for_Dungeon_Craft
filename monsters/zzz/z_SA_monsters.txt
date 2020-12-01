@@ -1,0 +1,204 @@
+note: summon/gate SAs will atutomatically happen at a given time
+
+Celestial Lammasu
+	alignmentGood,1
+	casterLevelPriest,15
+	casterLevelWizard,12
+	homePlane,Olympus
+	isImmuneWeapon,3
+	isProtectedFromEvil,3
+	monsterLevel,20
+	monsterRegenerate,4
+Farastu
+	alignmentEvil,1
+	homePlane,Carceri
+	isImmuneAcid,1
+	isImmuneFear,1
+	isImmuneIllusions,1
+	isImmunePhantasms,1
+	isImmunePoison,1
+	isImmuneWeapon,1
+	isResistantCold,1
+	isResistantMagicalFire,1
+	isResistantNonmagicalFire,1
+	isSeeingInvisible,1
+	monsterFarastuAdhesive, 5% chance of getting stuck - treat as bear hug
+	monsterFarastuBattleFrenzy,after 5 rounds or hp to 50% or less- twice as many hits/round and +2 to the attack dice
+	monsterFarastuSummon,start of 3rd rd - 1-2 farastu 40%
+	monsterInfravision,120
+	monsterLevel,11
+Firbolg Shaman
+	casterLevelPriest,7
+	isDetectingMagic,1
+	monsterFirbolgDeflectMissile,75
+	monsterLevel,15
+Firbolg
+	isDetectingMagic,1
+	monsterFirbolgDeflectMissile,75
+	monsterLevel,15
+Fire Beetle
+	monsterLevel,2
+Flind
+	alignmentEvil,1
+	isPerson,flind
+	monsterLevel,3
+Fox Lord
+	homePlane,Beastlands
+	isImmuneCharm,all
+	isNeverSurprised,1
+	monsterAnimalLordSummon,fox
+	monsterLevel,16
+Gelugon
+	alignmentEvil,1
+	homePlane,Baator
+	isDetectingMagic
+	isImmuneCold,1
+	isImmuneIronWeapons,1
+	isImmunePoison,1
+	isImmuneWeapon,2
+	isKnowingAlignment,1
+	isResistantFire,1
+	isResistantGas,1
+	isSeeingInvisible,1
+	monsterInfravision,60
+	monsterLevel,11
+	monsterRegenerate,2
+	monsterStrength,18-76
+	monsterGelugonGateBarbazu,2-12 50%
+	monsterGelugonGateOsyluth,2-8 35%
+	monsterGelugonGateGelugon,1-2 20%
+Greater Lammasu
+	alignmentGood,1
+	isInvisible,1
+	isProtectedEvilAura,10
+	monsterLevel,14
+Ki-rin
+	alignmentGood,1
+	casterLevelWizard,14
+	isBlinking,1
+	isBlinking1,1
+	isGaseousForm,1
+	isInvisible,1
+	isSeeingInvisible,1
+	monsterLevel,12
+Kocrachon
+	alignmentEvil,1
+	homePlane,Baator
+	isKnowingAlignment,1
+	isImmuneFire,1
+	isImmuneIronWeapons,1
+	isImmunePoison,1
+	isResistantCold,1
+	isResistantGas,1
+	monsterInfravision,60
+	monsterLevel,7
+Lammasu
+	alignmentGood,1
+	isInvisible,1
+	isProtectedEvilAura,10
+	monsterLevel,9
+Maelephant
+	alignmentEvil,1
+	homePlane,Lower
+	isImmuneWeapon,1
+	isNeverSurprised,1
+	isTrueSeeing,1
+	monsterInfravision,240
+	monsterLevel,9
+	monsterRegenerate,1
+Marut
+	casterLevelWizard,8
+	homePlane,Nirvana
+	isBlinking,1
+	isBlinking1,1
+	isImmuneWeapon,3
+	monsterLevel,15
+	monsterRegenerate,5
+Night Hag
+	alignmentEvil,1
+	homePlane,Hades
+	isImmuneCharm,1
+	isImmuneCold,1
+	isImmuneFear,1
+	isImmuneFire,1
+	isImmuneSleep,1
+	isImmuneWeapon,3
+	monsterLevel,8
+Noctral
+	alignmentGood,1
+	homePlane,Seven Heavens
+	isInvisible,1
+	monsterLevel,5
+	monsterNightVsion,1
+	monsterNoctralNeverSurprised,cannot be surprised  between dusk and dawn
+Per
+	homePlane,Upper
+	isDetectingEvil,1
+	isDetectingGood,1
+	isDetectingMagic,1
+	ismmuneWeapon,1
+	isNeverSurprised,1
+	isReadingMagic,1
+	isSeeingInvisible,1
+	isShielded,1
+	isTrueSeeing,1
+	monsterLevel,10
+	monsterRegenerate,3
+T'uen-rin
+	alignmentGood,1
+	casterLevelWizard,20
+	homePlane,Arcadia
+	isBlinking,1
+	isBlinking1,1
+	isDetectingLiesWithoutError,1
+	isGaseousForm,1
+	isInvisible,1
+	isNeverSurprised,1
+	isSeeingInvisible,1
+	monsterLevel,16
+Vaporighu
+	alignmentEvil,1
+	casterLevelWizard,10
+	homePlane,Gehenna
+	isNeverSurprised,1
+	monsterLevel,10
+	monsterVaporighuWeaponImmunity,1
+Warden Beast
+	casterLevelPriest,10
+	homePlane,Beastlands
+	isDetectingSnares,1
+	isImmuneWeapon,3
+	isProtectedFromEvil,1
+	monsterLevel,6
+Kelubar
+	alignmentEvil,1
+	homePlane,Carceri
+	isImmuneAcid
+	isImmuneCold
+	isImmuneFire
+	isImmunePoison
+	isSeeingInvisible
+	isWeaponImmune,2
+	monsterInfravision,120
+	monsterKelubarStench, 3" aura save v poison or incapacitated for 1-10 rounds
+	monsterKelubarSummon, 3rd rd - 1-2 kelubar 40% or summon 1-2 farastu 60%
+	monsterLevel,13
+Shator
+	alignmentEvil,1
+	homePlane,Carceri
+	isImmuneAcid
+	isImmuneCharm
+	isImmuneCold
+	isImmuneEnchantment
+	isImmuneFire
+	isImmuneHold
+	isImmuneIllusions
+	isImmuneNonmagicalFire
+	isImmunePhantasms
+	isImmunePoison
+	isImmuneWeapon,3
+	isSeeingInvisible
+	monsterInfravision,120
+	monsterLevel,15
+	monsterShatorEdgedWeaponResistance, -1 to hit
+	monsterShatorSummon, 3rd rd - 1-6 farastu 100% 1-4 kelubar 100% or 1-2 shator 30%

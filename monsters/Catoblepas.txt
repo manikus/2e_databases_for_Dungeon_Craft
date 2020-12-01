@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Catoblepas
+icon file = icon_Catoblepas.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 3
+armor class = 7
+movement rate = 6
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 15
+magic resistance = 0
+size = large
+morale = 30
+experience point value = 975
+Special Ability = monsterLevel,7
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterCatoblepasGaze
+attack = 6,1,0,attacks,monsterCatoblepasStun
+Undead = none
+\(END)
+// stun 75% for 1-10 rounds, chance Lowered by 5% for each level above 1st
+// monsterCatoblepasGaze save v death magic or death
+

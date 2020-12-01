@@ -1,0 +1,30 @@
+\(BEGIN)
+name = Giant Ant
+icon file = icon_GiantAnt.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 1
+armor class = 3
+movement rate = 18
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 19
+magic resistance = 0
+size = medium
+morale = 25
+experience point value = 35
+Special Ability = monsterLevel,2
+Class = Fighter
+Race = Insect
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 6,1,0,bites,
+Undead = none
+\(END)
+

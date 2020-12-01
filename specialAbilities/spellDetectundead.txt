@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellDetectundead
+[InvokeSpellOnTarget] = $VAR tgt;$VAR nm; $VAR monUn;
+-tgt = $IndexOf($TargetContext()); nm = $GET_CHAR_NAME(tgt); monUn = $GET_CHAR_UNDEAD(tgt);
+-$IF (monUn != ""){$SET_COMBATANT_SA($TargetContext(),"isDetectedUndead",nm);};
+\(END)
+

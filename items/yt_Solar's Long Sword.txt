@@ -1,0 +1,42 @@
+\(BEGIN)
+name = Solar's Long Sword
+id name = Solar's Long Sword
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 1
+cost = 0
+hands to carry = 1
+baseclass = fighter
+small/medium damage dice = 2D10 + 11
+large damage dice = 2D10 + 11
+AC base = 0
+AC bonus = 0
+attack bonus = 5
+experience = 0
+encumbrance = 250
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemMagicalWeapon,5
+Special Ability = usableBy,Solar
+Special Ability = itemVorpalLongSword,1
+Special Ability = itemWeaponType,slashing
+weapon type = hand held cutting
+ammo type = 
+usable = no
+not magical = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

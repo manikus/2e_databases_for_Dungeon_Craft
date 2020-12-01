@@ -1,0 +1,227 @@
+Quasielemental, Negative
+2635
+Quasielemental, Negative
+					Ash					Dust				Salt				Vacuum
+Climate/Terrain:	Quasiplane of Ash	Quasiplane of Dust	Quasiplane of Salt	Quasiplane of Vacuum
+Frequency:			Common				Common				Uncommon			Uncommon
+Organization:		Band				Band				Solitary			Band
+Activity Cycle:		Any					Any					Any					Any
+Diet:	Fire	Any solid	Water	Anything
+Intelligence:	Low to high (5-14)	Low to high (5-14)	Low to high (5-14)	Low to high (5-14)
+Treasure:	Nil	Nil	Nil	Nil
+Alignment:	Neutral	Neutral	Neutral	Neutral
+No. Appearing:	1d6	1d6	1d6	1d6
+Armor Class:	3	-1	1	-1
+Movement:	12	12	3	36
+Hit Dice:	6, 9, or 12	6, 9, or 12	6, 9, or 12	6, 9, or 12
+THAC0:	6 HD: 15
+9 HD: 11
+12 HD: 9	6 HD: 15
+9 HD: 11
+12 HD: 9	6 HD: 15
+9 HD: 11
+12 HD: 9	6 HD: 15
+9 HD: 11
+12 HD: 9
+No. of Attacks:	1	1	1	1
+Damage/Attack:	1d6 + 1 hp/HD	1d6 + 1 hp/HD	1d8 + 1 hp/HD	1d4 + 1 hp/HD
+Special Attacks:	Drain heat	Engulf, dust storm	Absorb moisture	Draw air
+Special Defenses:	See below	See below	See below	See below
+Magic Resistance:	Nil	Nil	Nil	Nil
+Size:	M (6’ tall)	M (6’ tall)	L (9-12’ tall)	S (4’ diameter)
+Morale:	Champion (15-16)	Champion (15-16)	Champion (15-16)	Champion (15-16)
+XP Value:	6 HD: 2,000
+9 HD: 5,000
+12 HD: 8,000	6 HD: 3,000
+9 HD: 6,000
+12 HD: 9,000	6 HD: 2,000
+9 HD: 5,000
+12 HD: 9,000	6 HD: 2,000
+9 HD: 5,000
+12 HD: 8,000
+Every time a body thinks he’s nailed down the Inner Planes, they just get more complicated still. It’s easy enough to understand the four Elemental Planes, and not too hard to tumble to how they mix to form the Paraelemental Planes. But it doesn’t stop there. In addition to combining with one another, the four planes of the basic elements also mix with the Positive and Negative Energy Planes to produce the eight Quasielemental Planes. And, as sure as Sigil, those eight quasiplanes spawn their own elemental beings — namely, quasielementals.
+
+For reasons that graybeards love to rattle their bone-boxes about, quasielementals simply aren’t as powerful, in general, as elementals or paraelementals. The explanations range from mere coincidence to the idea that the quasiplanes have Lower energy levels than the others. Most scholars, however, believe that the quasiplanes are the least fundamental of the Inner Planes, and therefore produce beings of less inherent power. ’Course, this doesn’t mean that quaslelementals’s pushovers. Far from it. They’rs bloods to be respected, particularly when encountered in their home environments.
+
+This entry takes a look at the negative quasielementals — the ones that hail from Ash, Dust, Salt, and Vacuum. They’re considered “negative” because they come from quasiplanes formed from the conjunction of the Negative Energy Plane and Air, Earth, Fire, or Water. Some folks look upon these negative quasiplanes — and their quasielementals — as representing the disintegration of the main four elements.
+
+Ash Quasielemental
+In the mostly lifeless expanse that is the Quasiplane of Ash, the ash quasielemental embodies the slow fading of energy that has already consumed all it can. An animate pile of ashes and cinders, the quasielemental can form itself into crude shapes — a humanoid being, a serpentine creature, and so on.
+
+Combat: This monster rarely makes attacks; its mere presence is threat enough. See, the ash quasielemental feeds on heat, forever sucking the warmth from all things around it. Anyone within 30 feet of the creature automatically suffers 1d6 points of damage per round. The quasielemental doesn’t need to make an attack roll, and the victim doesn’t get to make a saving throw. Creatures of cold — such as undead, white dragons, and frost salamanders — suffer no harm from the ash quasielemental’s heat-draining effect. Note, however, that merely being cold-blooded doesn’t protect a victim.
+
+If it so chooses, the ash quasielemental can focus its draining effect into a conelike area 60 feet long and 30 feet wide at the base. Those within the cone suffer 2d6 points of damage per round from the loss of body heat. What’s more, this attack can extinguish a normal flame, such as a torch or a campfire.
+
+If the ash quasielemental actually touches a sod in combat, its heat drain inflicts 1d6 points of damage plus 1 additional point per Hit Die of the elemental creature (6, 9, or 12). Note that the victim also suffers the normal damage from being within 30 feet of the quasielemental — the radius effect requires no effort on the monster’s part (unless it’s focusing the draining power into a cone).
+
+Ash quasielementals can be struck only by +1 or better weapons and are immune to cold-based attacks. Oddly, though they drain warmth, a great amount of heat weakens them, as they can absorb only so much. Thus, all fire-based attacks inflict twice their normal damage. If an ash quasielemental is destroyed by fire, it explodes, inflicting 1d4 points of damage per Hit Die on all creatures within 30 feet.
+
+Habitat/Society: Ash quasielementals rarely leave their home plane. The Elemental Plane of Fire would prove lethal to them, and most other planes are either too hot (causing them harm) or too cold (ofrering no sources of warmth they can drain).
+
+The Quasiplane of Ash holds a gigantic fortress made of cinders, a palace known as the Citadel of Former Flame. From here, a council of powerful, intelligent ash quasielementals plots and plans against their enemies from Fire. While they can’t take direct action against the inhabitants of that plane for fear of their own destruction, they weave elaborate schemes that cause others to strike against their foes. Apparently, the council feels that with the eventual end of Fire, all that will be left is cold Ash.
+
+Ecology: These creatures live a strange existence. After all, they must fear what they crave, for too much will destroy them. They’re not born through any sort of biological reproductive process, but seem to emerge randomly from the ash of the quasiplane. And only the most leatherheaded prime still believes the old rumor that ash quasielementals’re actually undead fire elementals.
+
+Dust Quasielemental
+If the ash quasielemental embodies the death of energy, then its dust counterpart embodies the death of matter. It revels in the obliteration of solid objects, especially the pulverization of worked or crafted materials. A dust quasielemental looks like a billowing cloud of dust, with tiny, eyelike pockets of swirling particles.
+
+Combat: When fighting, a dust quasielemental can lash out with a pseudopod of churning dust, inflicting upon a foe 1d6 points of damage plus 1 additional point for each of its Hit Dice (6, 9, or 12).
+
+However, if the quasielemental makes an unmodified (natural) attack roll of 19 or 20, it completely engulfs its opponent. Engulfed sods are powerless to act and begin disintegrating — their body’s particles blend with those already swirling within the monster. Victims suffer 2d6 points of damage per round until they die, at which point they’ve been completely broken down. A quasielemental can engulf only one creature of size S or M at a time. If a sod’s engulfed, the only way to free him is to kill the quasielemental.
+
+The monster can also transform its body into a raging dust storm with a radius of 40 feet. Those caught within the storm must make a successful saving throw versus rod/staff/wand or become blinded for 1d10 rounds. However, nothing can save them from the storm’s physical battering, which causes 1d2 points of damage per Hit Die of the quasielemental.
+
+A dust quasielemental can be struck only by weapons of +1 or greater enchantment.
+
+Habitat/Society: Vengeful and destructive, dust quasielementals could almost be considered evil. Ultimately, of course, they must be seen as a natural part of the multiverse, rather than as creatures of malice. Nevertheless, if crossed, a dust quasielemental stops at nothing to slay the berk who did it harm. (Actually, if a cutter really thinks about it, the monsters’ affinity for destroying things that others have taken pains to create might also seem a bit immoral…)
+
+Dust quasielementals have no real organization, although they sometimes gather in leaderless groups — mobs, really — to roam about wreaking havoc. They don’t willingly leave their home quasiplane, but when they suddenly find themselves somewhere else (perhaps because of a summoning), they take no steps to return. They’re simply content to break down matter wherever they happen to be.
+
+Ecology: Because they literally feed upon destruction, dust quasielementals are best feared and avoided, rather than dealt with. To make matters worse, the creatures’re spontaneously generated wherever great devastation occurs, so their own actions tenth to create more of their kind.
+
+Quasielemental, NegativeSalt Quasielemental
+Like the crystalline facets, other natives of the Quasiplane of Salt, the salt quasielementals absorb moisture of any sort. They’re not as numerous as the constantly multiplying facets, though, especially in the border areas between Salt and the Elemental Plane of Water. They can take on other appearances (as can certain other quasielementals), but these salt beings most often resemble large, white, rime-encrusted lizards.
+
+Combat: Using their large, dense fists, salt quasielementals can smack their foes and cause 1d8 points of damage plus 1 additional point per Hit Die (6, 9, or 12). But they pose an even greater danger to any beings that contain water — which includes most animal and plant life, creatures of elemental water, and so on. The quasielementals automatically leech moisture from anything within 80 feet, and this draining effect inflicts 2d6 points of damage per round on susceptible creatures.
+
+’Course, a body knows what’s said about too much of a good thing. If a salt quasielemental encounters so much water that it’s entirely immersed, it dies, exploding with great force. Everything within 30 feet of the creature is subject to an attack (as if the quasielemental itself had made it). Those struck suffer 1d8 points of damage from flying salt shrapnel.
+
+Salt quasielementals can be struck only by weapons of +1 or greater enchantment. They’re also immune to fire.
+
+Habitat/Society: The salt quasielementals stick mostly to their own plane. Fact is, they’ll never join the facets’ crusade against the Elemental Plane or Water, due to the dangers they’d face from being near such large volumes of liquid. More or less solitary creatures, salt quasielelementals’re content to wander their plane, absorbing water in small amounts.
+
+It’s interesting to note that while a salt quasielemental can drain the moisture from a facet, the process doesn’t work in reverse — a facet can’t absorb anything from a salt quasielemental. This just goes to show that the quasielemental is truly the embodiment of salt (and dryness), while the facet is just a creature of salt.
+
+Ecology: Chant is that a few high-up wizards have figured out a way to imprison salt quasielementals in their laboratories to keep their spellbooks and delicate experiments dry.
+
+Vacuum Quasielemental
+While some graybeards like to categorize these creatures as the embodiment of the destruction or absence of air, a truly canny blood knows the real dark — vacuum quasielementals embody the absence of everything. The things’re completely invisible, and their shape is that of an amorphous, rubbery, hollow skin.
+
+Combat: A vacuum quasielemental can ram foes with its shapeless body, inflicting 1d4 points of damage plus 1 additional point per Hit Die (6, 9, or 12). But more importantly, it also draws any surrounding air into itself. An area of 60 feet around the creature is treated as though a continual gust of wind spell blew toward the quasielemental. Any air-breathing sod within that area automatically suffers 1d4 points of damage per round — the monster literally sucks the breath away from him. (’Course, this doesn’t apply on an airless void like the Quasiplane of Vacuum.)
+
+If in a confined space, a vacuum quasielemental can reduce a 60-foot cube of air to a vacuum within a single round. However, it can maintain the airless state for only 10 rounds; it must then stop and rest for an hour before using this power again.
+
+Like all quasielemental beings, vacuum quasielementals can be struck only by +1 or better weapons. Air-based spells (such as gust of wind) cast by a wizard or priest of a level higher than the quasielemental’s total Hit Dice slay the creature if it fails a saving throw versus death magic.
+
+Habitat/Society: Vacuum quasielementals are surprisingly gregarious creatures, gathering in small groups whenever possible to converse and interact. On the other hand, they have no love for any other beings and usually attack intruders on their quasiplane.
+
+Like their cousins of salt, vacuum quasielementals prefer to remain on their home plane. Sure, every elemental feels a certain level of discomfort when in an alien environment, but vacuum quasielementals actually dislike using their absorption abilities, which physically tire them.
+
+Ecology: Much about vacuum quasielementals remains dark. Fact is, no one really knows how they sustain themselves; it’s just conjecture that they feed upon the air they draw into themselves. They may not need anything at all to survive. Or perhaps, like the strange egarus fungi also found on the Quasiplane of vacuum, the creatures literally survive on nothing — that is, nothingness.
+
+=============================================================================================
+
+Quasielemental, Positive
+2635
+Quasielemental, Positive
+ 	Lightning	Mineral	Radiance	Steam
+Climate/Terrain:	Quasiplane of Lightning	Quasiplane of Mineral	Quasiplane of Radiance	Quasiplane of Steam
+Frequency:	Common	Common	Common	Common
+Organization:	Band	Band	Band	Band
+Activity Cycle:	Any	Any	Any	Any
+Diet:	Any energy	Any stone	Darkness	Any gas
+Intelligence:	Low to high (5-14)	Low to high (5-14)	Low to high (5-14)	Low to high (5-14)
+Treasure:	Nil	Nil	Nil	Nil
+Alignment:	Neutral	Neutral	Neutral	Neutral
+No. Appearing:	1d6	1d6	1d6	1d6
+Armor Class:	2	0	0	2
+Movement:	Fl 18 (E) (plus special)	6	Fl 48 (E)	Fl 12 (E)
+Hit Dice:	6, 9, or 12	6, 9, or 12	6, 9, or 12	6, 9, or 12
+THAC0:	6 HD: 15
+9 HD: 11
+12 HD: 9	6 HD: 15
+9 HD: 11
+12 HD: 9	6 HD: 15
+9 HD: 11
+12 HD: 9	6 HD: 15
+9 HD: 11
+12 HD: 9
+No. of Attacks:	1	1	1	1
+Damage/Attack:	1d6 + 1 hp/HD	1d8 + 1 hp/HD	1d3 + 1 hp/HD	1d6 + 1 hp/HD
+Special Attacks:	Lightning globe	Merging	Beams, blinding	None
+Special Defenses:	See below	See below	See below	See below
+Magic Resistance:	Nil	Nil	Nil	Nil
+Size:	S (3’ diameter)	L (9-12’ high)	S (3’ diameter)	G (60’ wide)
+Morale:	Champion (15-16)	Champion (15-16)	Champion (15-16)	Champion (15-16)
+XP Value:	6 HD: 2,000
+9 HD: 5,000
+12 HD: 8,000	6 HD: 3,000
+9 HD: 6,000
+12 HD: 8,000	6 HD: 3,000
+9 HD: 6,000
+12 HD: 9,000	6 HD: 2,000
+9 HD: 5,000
+12 HD: 8,000
+This entry sheds light on the positive quasielementals — the ones that come from Lightning, Mineral, Radiance, and Steam. Scholars think of them as “positive” because they’re natives of the quasiplanes formed from the conjunction of the Positive Energy Plane and Air, Earth, Fire, or Water.
+
+Note: For general information on quasielementals, refer to the first few paragraphs of the entry for negative quasielementals.
+
+Lightning Quasielemental
+The Quasiplane of Lightning is a wild and dangerous place, and the living embodiments of the realm are no different. If any of the quasielementals (or paraelementals, for that matter) could be said to lean a bit more toward chaos than pure neutrality. it’d have to be those of Lightning.
+
+These creatures look like small balls of lightning, with bolts of electricity constantly arcing from them toward the nearest conductor. Further, they can carry themselves along one of these arcs, effectively teleporting (as per the spell) up to 60 yards away to any grounded or metallic object with a mass greater than 5 pounds. Each round, a quasielemental can “teleport” in this fashion in addition to physically moving its normal rate (18).
+
+Combat: The touch of a lightning quasielemental carries with it a powerful jolt of electricity, enough to inflict 1d6 points of damage plus 1 additional point for each of the creature’s Hit Dice.
+
+The quasielemental can also discharge globes of electricity, one per round, for as many rounds per day as it has Hit Dice. (Thus, once per day a quasielemental of 6 HD can release six globes, one of 9 HD can release nine, and one of 12 HD can release 12.) These globes float near the creature, sticking close wherever it goes. When a significant amount of metal (such as a basher in armor) or any living being of 200 pounds or more comes within 5 feet of the quasielemental, the globes move toward the target and discharge. Each globe inflicts damage according to the strength of the quasielemental: 1d4 points (for 6-HD quasielementals), 1d6 points (for 9-HD), or 1d8 points (for 12-HD). The victim receives no saving throw versus the attack, which could prove exceedingly dangerous if many globes zap the sod at once.
+
+A lightning quasielemtntal can be struck only by a weapon of +1 or greater enchantment. Anyone who strikes it with a conductive material (such as a metal sword, even one that’s magical) suffers 1d4 points of electrical damage from the creature’s power. Not surprisingly, the quasielemental is immune to electricity. Fire- and acid-based attacks cause only half damage. Water, on the other hand, inflicts 1d8 points of damage per gallon to a lightning quasielemental.
+
+Ecology: Virtually nothing is known or the life cycle of lightning quasielementals. Still, it’s clear that they’re the undisputed masters of their plane. Should a need for hierarchy arise (which it hardly ever does), the creatures known as shockers are almost always subservient to the quasielementals.
+
+Mineral Quasielemental
+In many respects, the mineral quasielemental looks like an earth elemental, but one made of precious stones and metals. It can, however, take other forms. Fact is, it can mimic the basic shape of any other creature, though the new form is always made of sparkling minerals. When the poet Verismil wrote or “gem-studded dragons and multifaceted knights,” he was actually refering to a unit of mineral quasielemental warriors marching into the Great Crystalline War of a few hundred years ago.
+
+Combat: When a mineral quasielemental needs to bring down a foe, it simply clubs him with whatever sort of limbs it has in its current form. They always inflict 1d8 points of damage plus 1 additional point for each of its Hit Dice. The quasielemental can also pass through stone at will (at its normal movement rate) in the same manner as a xorn, but it rarely uses this ability with any craftiness or stealth. Rather, its attacks are straightforward and guileless.
+
+It’s bad enough when a berk has to fight just one mineral quasielemental, but things really take a turn for the worse when two of ’em are near. See, the pair can merge to form a single gigantic mineral being with all the hit points and combined Hit Dice of its component parts. Each blow landed by this creature inflicts 2d8 points of damage plus 1 additional point per Hit Die (using the combined HD total), and the merged quasielemental makes two attacks per round. No more than two quasielementals can join together in this fashion.
+
+Mineral quasielementals regenerate 2 hit points per round as long as they’re alive and in contact with solid, inorganic matter. They can be struck only by weapons of +1 or better enchantment. Furthermore, they’re immune to petrification and paralyzation, but they suffer twice the normal amount of damage from acid. Lightning-based attacks inflict normal damage, but they also force a merged quasielemental to break down into its component individuals if it fails a saving throw versus spell.
+
+Habitat/Society: Fairly warlike, mineral quasielementals gather into bands and patrol the glittering caverns of their plane. ’Course, who could blame them? Many bashers think that the quasiplane of Mineral is just a treasure-trove waiting to be plundered. The quasielementals despise creatures like xorn and khargra that seek to devour precious minerals, but, truth is, they’re generally hostile to any intruder who doesn’t offer a really good reason for being there.
+
+Ecology: When a mineral quasielemental is slain, its body becomes little more than uncut gems and valuable metal ore — approximately 200 gp worth for each of the creature’s Hit Dice. But few berks’re barmy enough to try to get rich by killing the plane’s guardians. See, there are far easier methods of obtaining the valuable materials — after all, the whole quasiplane is filled with them!
+
+If a quasielemental dies on any other plane, it simply falls apart into the gems and ore used to summon it in the first place. In other words, unless the creature stepped through a gate, its corpse probably won’t yield anything its slayer didn’t already have access to.
+
+Quasielemental, PositiveRadiance Quasielemental
+A basher new to the Inner Planes might mistake a radiance quasielemental for one made of lightning. That’s because a radiance quasielemental appears to be a glowing ball of energy, but unlike its lightning counterpart, it doesn’t crackle chaotically with arcs of energy. Instead, it emits a steady, orderly glow, varied only by the intensity of the creature’s continual, smooth spinning. The glow is equivalent to a double-strength continual light spell, though the quasielemental can dim the illumination if it chooses.
+
+Combat: The touch of a radiance quasielemental inflicts 1d3 points of damage plus 1 additional point for each of the creature’s Hit Dice. However, when forced to defend itself, the quasielemental usually prefers to drive off its attackers by emitting rays of light. It can release seven different beams, each with its own effect:
+
+Red beam: inflicts 1d6 points of cold damage +1 additional point for each of the quasielemental’s Hit Dice.
+Orange beam: inflicts 1d6 points of heat damage +1 point/HD.
+Yellow beam: inflicts 1d6 points of acidic damage +1 point/HD.
+Green beam: inflicts 1d6 points of poisonous damage +1 point/HD.
+Blue beam: inflicts 1d6 points of electrical damage +1 point/HD.
+Indigo beam: inflicts 1d6 points of “holy” damage +1 point/HD. This attack only affects creatures susceptible to damage from holy water.
+Violet beam: inflicts 1d6 points of impact damage +1 point/HD.
+Each beam is 1 foot wide and has a range equal to the Hit Dice of the quasielemental in tens of yards. The creature can emit only one beam each round, but it can otherwise use the rays as often as it likes. The beams don’t automatically hit their target; the quasielemental must make an attack roll. But it’s canny enough to notice if a particular ray fails to injure a given basher; if that occurs, it’ll try to hit him with a different colored beam next time.
+
+Finally, a quasielemental can harm its foes by spinning very quickly and blinding those looking at it. Anyone within 120 yards of the creature when it uses this power must make a saving throw versus death magic or be struck blind for 2d10 days.
+
+A radiance quasielemental can be struck only by weapons of +1 or better enchantment. Magical darkness of any kind wounds the creature, causing 1 point of damage per level of the caster. Attacks based on fire, cold, and electricity inflict only half damage, however.
+
+Habitat/Society: These light-based beings stick to small groups on their home plane. They rarely so much as move except to avoid the scile (other residents of the quasiplane). Chant is, the more intelligent radiance quasielementals are philosophers that remain in one position for eons in peaceful contemplation. ’Course, if disturbed, they grow quite temperamental.
+
+Quaslelementals that care less for philosophy move about a good deal more on their plane as well as on others, carrying out errands or simply looking to feed.
+
+Ecology: Since their plane is such a safe haven for creatures like themselves, radiance quasielementals have little to fear from predators or other threats. And the scile aren’t so much a danger as a minor annoyance. But a few planewalkers say they’ve heard that evil creatures from the Demiplane of Shadow occasionally invade Radiance and cause havoc. These raids are fairly trivial, but they could presage some thing larger and more dire.
+
+Steam Quasielemental
+Also known as mist quasielementals, these vaporous beings look like large clouds of virtually transparent gas. Their ghostly appearance should be a warning even to an addlecove that the creatures are best left alone.
+
+Combat: Steam quasielementals have full control of their temperature. They can become a mass of scalding steam or a cloud of freezing mist at will, even switching back and forth between the extremes every round.
+
+In battle, they simply surround and engulf their foes. Each round, anyone within a quasielemental’s area (which can fill a cube up to 60 feet on a side) suffers 1d6 points of either hot or cold damage plus 1 additional point for each of the creature’s Hit Dice. The quasielemental doesn’t need to make an attack roll, and the victim receives no saving throw. The gaseous creature can also strike those outside its area with a single misty tendril.
+
+A steam quasielemental can be struck only by weapons or +1 or greater enchantment. It’s immune to cold-based attacks, weather-affecting spells, and any harmful effects from water. Fire-based attacks cause only half damage. Electricity inflicts full damage, but it also can hurt anyone currently engulfed by the creature. (Sods in the cloud must make a saving throw versus spell; failure indicatesthat they suffer half damage from the electrical attack, and success means that they suffer none.)
+
+Steam quasielementals can move through the air or water with equal ease, and they can pass through the smallest of openings or cracks in solid objects.
+
+Habitat/Society: Steam quasielementals are said to slip their misty tendrils into all aspects or life on their home plane, where they’re virtually impossible to detect. The most intelligent ones organize their lessers into cadres of spies and agents. Thus, they not only know everything that happens on the Quasiplane of Steam (and other planes nearby), but they can try to control those events as well.
+
+These dangerous creatures don’t hesitate to attack whenever a berk stands in the way of their plans — or whenever it serves their purposes. More frequently, they try to take intruders as slaves, because their one limitation is their inability to manipulate objects. Planewalkers or other bashers made of solid matter prove useful for such tasks (which, admittedly. don’t arise too often).
+
+Ecology: Steam quasielementals absorb gases to sustain themselves and reproduce simply by absorbing a great deal and then splitting in two.
+

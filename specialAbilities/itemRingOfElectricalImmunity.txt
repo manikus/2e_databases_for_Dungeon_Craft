@@ -1,0 +1,8 @@
+\(BEGIN)
+name = itemRingOfElectricalImmunity
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(),"isRingImmuneElectricity", "");
+-$SET_CHARACTER_SA($CharacterContext(),"DispelLevelItem","12");
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(), "isRingImmuneElectricity");
+-$DELETE_CHARACTER_SA($CharacterContext(),"DispelLevelItem");
+\(END)
+

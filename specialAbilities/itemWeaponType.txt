@@ -1,0 +1,5 @@
+\(BEGIN)
+name = itemWeaponType
+Parameters = "blunt, piercing, slashing, piercing/slashing";
+\(END)
+

@@ -1,0 +1,9 @@
+\(BEGIN)
+name = spellNeutralizePoison
+[InvokeSpellOnTarget] = $VAR tgt;
+-tgt = $IndexOf($TargetContext());
+-$IF ($GET_CHARACTER_SA($TargetContext(), "isPoisoned") == "-?-?-"){$RETURN;};
+-$DELETE_CHARACTER_SA($CharacterContext(),"isPoisoned");
+-$IF ($GET_CHAR_HITPOINTS(tgt) <=# 0) {$SET_CHAR_HITPOINTS(tgt, "1"); $SET_CHAR_STATUS(tgt, "0");};
+\(END)
+

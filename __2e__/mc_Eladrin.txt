@@ -1,0 +1,335 @@
+Eladrin, General Information
+
+The eladrins are the native race of Arborea, just as the baatezu are associated with Baator and the tanar’ri with the Abyss. They’re wild and free beings who exult in their own existence and live a life of song and celebration. The eladrins aid all people of good hearts against the forces of evil, but seek to do so with individual acts of kindness or heroism.
+
+In Arborea, the eladrins move from place to place constantly, reveling in the natural beauty of the plane and seeking adventure. They’re defenders of goodness and freedom wherever it is threatened, and seek to counter the influences of tanar’ri and baatezu among mortals. To the eladrins, mortals should be free to choose their own destinies without fiendish interference; many of the more powerful eladrins constantly roam the planes and prime-material worlds, working against the baatezu and tanar’ri who seek to dominate these realms.
+
+Although the individual types of eladrins are diverse in power and appearance, as a race they’re creatures of faerie grace, quickness, and beauty. Eladrins fall into two categories:
+
+Lesser (bralani, coure, noviere, shiere)
+Greater (firre, ghaele, tulani)
+Lesser eladrins rarely leave the plane of Arborea, but greater eladrins can be found anywhere serving the cause of good.
+
+Combat: All eladrin can use the following spell-like powers once per round at will: alter self, comprehend languages, cure light wounds, detect evil, and phantasmal force. They’re partially immune to the effects of many attack forms, as shown below:
+
+Attack Form	Damage
+Acid					Full
+Cold					Half (None)
+Electricity (lightning)	None
+Fire (dragon, magical)	Half
+Gas (poisonous, etc.)	Half
+Iron weapon				Doubled (Full)
+Magic missile			None
+Poison					Full (Half)
+Silver weapon			Full
+Lesser eladrins’re vulnerable to weapons of cold-wrought iron and suffer double damage dice from any cold iron weapon that strikes them. If the cold iron weapon is enchanted, the eladrins ignore the double damage; the magic spoils the baneful properties of the blade. Greater eladrins don’t suffer double damage from a cold iron weapon, but they do suffer normal damage even if the weapon normally couldn’t hit them because of a lack of enchantment. For example, a greater eladrin normally hit only by +3 weapons or better can be damaged by a nonmagical cold iron weapon. Cold iron weapons have to be custom-made and cost twice as much as normal.
+
+Silver weapons inflict full damage if they are sufficiently enchanted to be able to damage the eladrin anyway.
+
+Planar Travel: Any eladrin can travel to any Upper Plane, Ysgard, the Outlands, and the Astral Plane. Greater eladrins can travel to any Outer or Inner Plane, the Ethereal Plane, or any prime-material world. Unlike many fiends, eladrins can freely enter any world they can reach; they don’t have to wait until they’re summoned. However, eladrins are required to veil themselves when traveling in prima-material worlds. The same laws that force a baatezu or tanar’ri to subject itself to the manipulations of a wizard also prevent an eladrin from revealing its true nature except under the direst of circumstances.
+
+When an eladrin is veiled, it takes on the guise of a creature native to the world it is journeying in. It may assume a human or demihuman form, pretending to be an adventurer or wandering bard. Once committed to its veil, it can’t do anything that its assumed identity couldn’t do whenever a mortal might be near enough to see. Should an eladrin violate its veil, it has to return to Arborea for 1,001 years before walking the prime-material worlds again. Usually the violator eladrin is allowed a brief time — a few minutes or an hour — to attend to any business it has to finish before it is called away.
+
+The Court of Stars: The magical and mysterious heart of the eladrin lies in the Court of Stars, where the beautiful Queen Morwel reigns over her people. Morwel is sometimes called the Faerie Queen, the Lady of the Lake, or the Lady of Stars; she’s probably a demipower in her own right, and she’s surrounded by the brightest and most gracious of the eladrins. The Court moves from place to place throughout Arborea, existing only where night falls over the realm. The Court of Stars isn’t really the government of the eladrins as much as it is the heart or spirit of the race.
+
+The eladrins’re on good terms with the elven pantheon and the Greek pantheon, but they tend to keep to the wilds of Arborea. When the eladrins visit Olympus, they often assume the forms of petitioners or forest spirits, veiling their true nature. In the elven realms, the eladrins feel free to show themselves for what they are.
+
+On rare occasions, the eladrins join with the aasimon who serve the Greek and elven powers when some profound evil threatens all of Arborea. But for the most part, they prefer powers be and govern their own affairs.
+
+=========================================================================================================
+Eladrin, Lesser, Bralani
+2613
+
+Climate/Terrain:	Arborea (Pelion)
+Frequency:			Uncommon (Common)
+Organization:		Band
+Activity Cycle:		Any
+Diet:				Omnivore
+Intelligence:		Very (13-14)
+Treasure:			Incidental
+Alignment:			Chaotic good
+No. Appearing:		1-3 (3-24)
+Armor Class:		2 (-2)
+Movement:			15, Fl 30 (A)
+Hit Dice:			6+9
+THAC0:				15
+No. of Attacks:		1 or 2
+Damage/Attack:		By weapon +4 or 1d10/1d10
+Special Attacks:	Whirlwind
+Special Defenses:	See below
+Magic Resistance:	35%
+Size:				M (5’ tall)
+Morale:				Elite (13-14)
+XP Value:			9,000
+The snowy, sandy wastes of Pelion are home to the bralani eladrins. They’re the wildest and most feral of their kind, existing from heartbeat to heartbeat in a glorious, never-ending passion. No eladrin can match the fury of an angry bralani, or the keening depths of her grief or sorrow, or the blissful heights of her joy. Bralani are tied to the plains of Pelion, but may occasionally be found dancing in the desert winds or arctic wastes of other realms, exulting in their freedom and the beauty of the open land.
+
+Bralani in their natural form resemble short, stocky elves, broad in the shoulders but graceful nonetheless. Their hair is usually a bright silvery-white, and their eyes are an everchanging rainbow of hues that flicker and shift with the vagaries of the bralani’s mood. Bralani can also take the shape of a whirlwind of dust, sand, or snow, racing across their beloved plains like living zephyrs.
+
+Bralani are the most distant and fey of the eladrins, dangerous to approach and fickle in temperament. Strangers might be greeted with wild celebration or attacked in a towering rage. Although the bralani’s purpose seems to be to dance and race about in the wastes, they’ll drop their endless dance in a moment if they come across evil in their domain. A few rare and unusual bralani sojourning in other worlds ally themselves with the local forces of good, siding with a tribe of noble desert savages or aiding a group of northern herdsmen.
+
+Combat: In humanoid form, bralani are surprisingly strong; they’ve got an 18/76 Strength with the resulting bonuses. Balani prefer the spear, the bow, and the scimitar — weapons of the desert nomads they most closely resemble. Bralani weapons’re often enchanted. These folk are superb archers, and gain a +4 bonus to bow attacks due to their great Dexterity and instinctive mastery of the wind.
+
+However, a bralani’s just as likely to abandon his weapons and attack as a living whirlwind. In this form, he’s AC -2 and can attack with two scourging sand- or snow-blasts for 1d10 points of damage each. The blasts have a 20-foot range and affect a cone 5’ in diameter. Any creature within 20 feet of the bralani in whirlwind form must successfully save vs. paralyzation or suffer a -2 to attacks due to stinging sand in its eyes. Any man-size or smaller creature that approaches within 5 feet of the bralani in its whirlwind form must successfully save vs. paralyzation again or be swept off its feet by thc raging winds and thrown 10 to 30 feet. Bralani love to careen through an enemy’s ranks, knocking their foes left and right as they dance right past them.
+
+In addition to the powers all eladrins possess, bralani can use the following abilities once per round: blur, charm person, control weather, cure disease, gust of wind, mirror image, and wind wall. Twice per day they can cast a lightning bolt (8d8 points of damage), and cure serious wounds or neutralize poison; once per week they can heal another person, but not themselves.
+
+Bralani can be hit only by +1 or better weapons, or weapons forged of cold-wrought iron. A bralani can gate 1d4 other bralani eladrins to his location with a 40% chance of success.
+
+Habitat/Society: In their native layer or Pelion, the bralani travel in loose bands in an unending dance of wind and sand. Each day the band travels hundreds of miles, stopping only to play pranks on travelers or deal with any unwanted intruders they find. The bralani don’t acknowledge any one individual as leader. The entire band acts merely on spontaneous impulses, which can make these eladrins very hard to deal with.
+
+When the bralani leave Pelion, they travel in small groups of only 1 to 3 individuals. In the rare instances where the bralani have mobilized for war, they act as scouts and skirmishers, harrying the enemies flanks and rear.
+
+
+=========================================================================================================
+Eladrin, Lesser, Coure
+2613
+
+Climate/Terrain:	Arborea
+Frequency:			Common
+Organization:		Band
+Activity Cycle:		Night
+Diet:				Omnivore
+Intelligence:		Very (11-12)
+Treasure:			Incidental
+Alignment:			Chaotic good
+No. Appearing:		2-40
+Armor Class:		5 (0)
+Movement:			9, Fl 24 (B) or 48 (A)
+Hit Dice:			2+1
+THAC0:				19
+No. of Attacks:		1
+Damage/Attack:		By weapon or 1d4+1
+Special Attacks:	Magic missile
+Special Defenses:	Magic use
+Magic Resistance:	10%
+Size:				S (2’ tall)
+Morale:				Unsteady (5-7)
+XP Value:			650
+The smallest eladrins are the coures, tiny, spritelike creatures who can be found throughout Arborea. They’re messengers, scouts, pranksters, and mischief-makers who pester and annoy any travellers or more serious eladrins they run across. The coures’ jests are not meant maliciously; in fact, it’s hard for even the most dour Doomguard to hang on to a frown when a flock of coure eladrins is dancing around his head.
+
+Despite their senses of humor and boundless energy for song, dance, and jest, coure eladrins tale a definite turn for the serious when confronting evil creatures. Harmless pranks develop into skilled guerilla tactics of hit-and-run nuisance attacks while messengers are sent to summon more suitable opposition to the threat.
+
+Coure eladrin resemble tiny, slender elves with long gossamer wings trailing from their shoulders. They appear in a variety of improbable colors and are fond of wearing bright apparel of questionable taste. A coure can assume the shape of a tiny (6” diameter) ball of faerie-light at will.
+
+Combat: Combat isn’t the main strength of a coure. These tiny eladrins go to great lengths to avoid physical confrontations, choosing flight over battle against all but the weakest foes. The only time coure eladrins gladly seek battle is when confronting their nemeses, the imps of Baator or the Abyss. (They’re not fond of mephits, either.)
+
+If a coure is forced to fihgt, she attacks with miniature weapons scaled perfectly to her size. Short swords and rapiers are favored; they’re treated as daggers +1. Like their larger cousins, the bralani, coures’re also archers of surprising skil; they gain a +4 attack bonus with their tiny bows, and their silver arrows are treated as darts +1.
+
+As noted above, coures can assume the shape of a non-corporeal ball of light. If a coure wins initiative, she can make this change immediatly after attacking. In this form, the coure is AC 0 and can fly at twice her normal speed. The coure has no physical attack as a globe of faerie-light, but in humanoid form she can cast a magic missile up to 3 times per day.
+
+Coure eladrins can also use the spell-like powers of audible glamer, cantrip, dancing lights, faerie fire, and sleep once per round at will. Once per day they can create a magical jest similar in effect to Tasha’s uncontrollable hideous laughter.
+
+Coure eladrins can be hit by normal weapons and suffer double damage from cold iron weapons. A coure cannot gate in any others of her kind.
+
+Habitat/Society: Great numbers of coure eladrins live within the wilkd forests and deep-riven gorges of Olympus, the first layer of Arborea. They gather in bands known as faerie circles or faerie courts. Unlike their larger cousins, the coures have a much closer connection to the land and linger in a favorite grove or mountainside for centuries before moving on. The coures of a faerie circle can be fiercely protective of their enchanted homes and may stand up to far more powerful invaders if necessary.
+
+The coures are the commoners of the eladrins. Like most eladrins, they look after their own affairs, but swarms of them can also be found as attendants to more powerful firre or tulani courts. Among more powerful eladrins, coures’re messengers, heralds, or pages.
+
+Coures are creatures of starlight and darkness. By day they spend much of their time sleeping, wrapping themselves in their gossamer wings.
+
+=========================================================================================================
+Eladrin, Lesser, Noviere
+2613
+
+Climate/Terrain:	Arborea
+Frequency:			Uncommon
+Organization:		Clan
+Activity Cycle:		Any
+Diet:				Omnivore
+Intelligence:		High (13-14)
+Treasure:			Incidental
+Alignment:			Chaotic good
+No. Appearing:		2-16
+Armor Class:		3 (-3)
+Movement:			15, Sw 24
+Hit Dice:			5+7
+THAC0:				15
+No. of Attacks:		1 weapon or 1 ram
+Damage/Attack:		By weapon +3 or 2d8
+Special Attacks:	Drowning
+Special Defenses:	Dolphin form
+Magic Resistance:	20%
+Size:				M (5’ tall or 7’ long)
+Morale:				Fanatic (17-18)
+XP Value:			5,000
+The seas and islands of Ossa, the second layer of Arborea, are the home of the noviere eladrins. Like the bralani, the novieres are a people who celebrate the beauty of the lands and emerald waters around them. They’re the most straightforward and approachable of the eladrins. The shieres are blocks of ice to the typical cutter traveling in Arborea, the bralani are fickle and flighty, and trying to talk seriously to a coure can drive a sod barmy — but the novieres’re willing to take a basher at his word and deal with him the way he deals with them.
+
+The novieres appear to be aquatic elves or nixies. Their skins are greenish, blue, or golden in hue, and their hair ranges from deep blue-green to pale blond. They’re equally at home in the water or on land. The novieres’re somewhat more human in appearance than a full-blooded aquatic elf; they’re stockier, and have no prominent gills or webbing in their fingers. Their eyes mirror the color of the seas around them. In addition to their demihuman form, novieres can take on the shape of golden dolphins made entirely of shimmering water.
+
+Novieres prefer to remain in the seas of Ossa, but sometimes journey to other planes or prime-material worlds to visit with ocean nymphs or merfolk. They love exploring a new coastline or listening to the sound of the surf on a strange shore. Of all eladrins, the novieres are most likely to be interested in trade or material things; they’re fascinated by gemstones and jewelry.
+
+Combat: The novieres’re slow to anger and try to avoid combat unless it’s absolutely necessary. If pressed, a noviere can fight fairly well — her lithe limbs and graceful frame conceal an 18/01 Strength. Novieres like weapons that can be used on water or land, and usually wield tridents +1, nets, or long-bladed daggers +2. Novieres can throw their nets 30 feet underwater or 60 feet on land; if they score a hit, their victim must successfully save vs. paralyzation or be entangled for 1d6 rounds. Entangled victims are attacked at a +4 bonus to hit. Novieres are usually careful not to allow air-breathers to drown while entangled in their nets.
+
+In dolphin form, a noviere’s body is composed of water bound together by her magical nature. She can attack by making a powerful ramming strike once per round and can use the surrounding water to shield herself from harm. In this body, the noviere is AC -3. If the noviere scores a hit with a natural 19 or 20, she can choose to envelop her opponent, effectively holding it motionless with a Strength of 20. Neither the held opponent nor the noviere can make any attacks while she holds it. To escape the noviere’s grasp, the victim must succeed at a bend bars/lift gates roll or find a way to drive the noviere away with magic.
+
+In any form, the noviere has the spell ability of a 5th-level priest. She can also use the following spell-like powers once per round at will: alter self, charm person, continual light, improved phantasmal force, mirror image, and slow. Once per day a noviere can confer water breathing for 6 hours or hurl a 60-foot water bolt that does 4d6 points of damage to all creatures in a 5-foot wide path (save vs. spell for half damage.)
+
+Habitat/Society: After the coures, the novieres are the most social of the eladrins. They do not travel much, but choose a favorite island or coastline and linger there for years at a time. A clan of noviere eladrins is loosely governed by a chieftain, but individuals are not bound to obey this leader. Novieres tend to keep to themselves aud are a rare sight in the high eladrin courts of Olympus.
+
+=========================================================================================================
+Eladrin, Lesser, Shiere
+2613
+
+Climate/Terrain:	Arborea
+Frequency:			Common
+Organization:		Company
+Activity Cycle:		Night
+Diet:				Omnivore
+Intelligence:		Very to Exceptional (11-16)
+Treasure:			Incidental
+Alignment:			Chaotic good
+No. Appearing:		3-24
+Armor Class:		4 (-4)
+Movement:			15, Fl 24 (A)
+Hit Dice:			8+12
+THAC0:				13
+No. of Attacks:		2
+Damage/Attack:		By weapon +6
+Special Attacks:	Glance
+Special Defenses:	Magic use
+Magic Resistance:	25%
+Size:				M (7’ tall)
+Morale:				Fearless (19-20)
+XP Value:			11,000
+The warriors of Arborea are the shieres, graceful eladrin knights who fight with skill, strength, and honor. They’re the defenders of the eladrin courts, a shining host that seeks out evil intruders and ensures that no darkness will trouble the Queen of Stars or her people. By night the shieres gather together in bright companies to ride the wilds of Olympus and drive away any who would do the folk of Arborea harm.
+
+The shieres appear to be exceptionally tall high elves of some kind. They’re long-limbed and slender, with lanky frames and long, narrow faces and hands. A shiere’s as strong as the mightiest mortal warrior despite his slender build. All shieres are very fair-skinned, with pale golden or silver hair and piercing eyes of blue, green, or violet.
+
+Unlike the other eladrins, shieres’re bound more permanently into their demihuman form and can change shape only into a harmless ball of faerie-light, similar to that of a coure eladrin. The shieres can transform only once per hour, so they don’t often use this ability, preferring to maintain their demihuman appearance.
+
+Combat: Shieres’ natural Armor Class is 4, but they commonly wear armor of glass and crystal equivalent to field plate armor +4 and use long, narrow shields +1. (If a shiere is slain, its armor is usually ruined by the damage.) Shieres favor any knightly weapon, especially the lance, battle axe, horseman’s mace, horseman’s flail, and long sword. A shiere’s weapon is always enchanted to a value of +3 or better and may have sharpness, quickness, or defender properties. As highly skilled warriors, shieres receive 2 attacks per round with their favored weapons.
+
+Shieres assume their faerie-light form only in extreme conditions, since they cannot easily resume their normal shape. A shiere may use this ability if he is badly wounded and needs to escape to warn others of trouble, or if he needs to maneuver with more stealth than his normal size allows.
+
+In addition to his formidable combat skills, a shiere’s gaze causes fear in any evil creature that meets his eyes. He also has the spell ability of a 5th-level priest and can use the following spell-like powers once per round at will: alter self, color spray, continual light, detect evil, detect invisibility, ice storm, spectral force, wall of ice, or cast a 10d4+10 cone of cold. Once per day the shiere can heal another creature.
+
+The Horses of the Shiere: When hunting, patrolling, or riding to war, shiere are always mounted. A shiere’s horse is the equivalent of a heavy war-horse (AC 7, 4+4 HD, THAC0 17, Dmg 1d8/1d8/1d3) but its morale is Fearless and it never has fewer than 5 hit points per Hit Die. In addition, the shiere’s war-horse has a movement rate of 24 and can fly as long as the sun is not in the sky.
+
+Habitat/Society: The shieres’re the most numerous eladrins that regularly inhabit the tulani courts, and are the highest of the common eladrins. Shieres of unusual wisdom or experience are often acknowledged as hunt leaders or captains in the service of a tulani lord, but when the battle is over all shiere companies share the same rank. Shieres’re exceptionally honorable and courageous creatures who celebrate similar qualities in others. They can be cold as ice when dealing with those who don’t measure up to their own high standards of behavior.
+
+=========================================================================================================
+Eladrin, Greater, Firre
+2613
+
+Climate/Terrain:	Arborea
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Omnivore
+Diet:				Genius (17-18)
+Intelligence:		Incidental
+Treasure:			Chaotic good
+Alignment:			Any
+No. Appearing:		1-4
+Armor Class:		-3
+Movement:			15, F1 36 (A)
+Hit Dice:			7+10
+THAC0:				13
+No. of Attacks:		1 or 2
+Damage/Attack:		By weapon +6 or 3d6/3d6
+Special Attacks:	Spellsong
+Special Defenses:	Magic use, shapechange; struck only by cold iron or weapon of +2 or better enchantment
+Magic Resistance:	40%
+Size:				M (6’ tall)
+Morale:				Champion (15-16)
+XP Value:			14,000
+It shouldn’t be any surprise that there are eladrins who devote themselves to art, music, and magic. The firres (pronounced feers) are creatures who live for beauty; their lives are consumed by a fiery passion for art of any kind, and they strive to make their own existence a living image of wonder and delight.
+
+The firre eladrins live as wandering minstrels and bards in Arborea, attending the courts of more powerful eladrins or tarrying to entertain a circle of coures in a forgotten dell. Their pursuit of beauty leads them to any place where art, skill, or grace is held in high esteem. A body could run across a firre traveling the Outlands or visiting the palaces of neutral-aligned powers just as easily as he’d find one in Arborea. Firres have a deep love and appreciation of mortal art, and often embark on lengthy sojourns on the Prime Material Plane to seek out works of excellence.
+
+In their natural form, firre eladrins resemble stocky elves with brilliant red hair and fiery red eyes. At first glance, a firre might be taken for a half-elf, but her eyes give her away; they have no iris or pupil, and glow brightly with the firre’s inner flame. Firres can also transform themselves into man-size pillars or balls of fire; in this form they can fly at the listed rate.
+
+Combat: Like the bralani or coures, firres often use weapons in their demihuman form. They’re far stronger than they look and possess an 18/00 Strength. Firres favor long, wavy-bladed swords equal to two-handed swords +3. They also may use slender javelins that become blazing bolts of fire when thrown, inflicting damage as a javelin +5. (The javelin’s consumed in the throw, but many firre carry up to four.) A creature that meets the fiery glance of an angry firre must successfully save versus paralyzation or be blinded for 2d10 rounds, suffering 1d10 points of damage.
+
+In her fiery form, a firre can strike twice per round for 3d6 points of damage per attack. Any creature within 10 feet of the burning firre must make a successful save versus spell or suffer 1d6 points of damage from the heat. Any weapon that strikes a fiery firre must survive an item saving throw versus magical fire or be destroyed, although the firre still takes damage from a successful hit.
+
+In any shape, the firre eladrin radiates protection from evil in a 10-foot radius. The firre can also use the following spell-like powers once per round at will: advanced illusion, affect normal fires, continual light, detect invisibility, ESP, improved invisibility, polymorph self, wall of fire, or cast a 10d6 fireball. Once per day the firre can create a prismatic spray. In addition to these spell-like powers, the firre has the spell ability of a 9th-level priest.
+
+In demihuman form, the firre can choose to sing instead of attack. Her unearthly voice functions as a charm, hold, sleep, or suggestion spell on any creature within 50 feet. (The firre chooses the exact effect.) Any listeners must successfully save versus spell or be affected, The firre’s sleep song can affect creatures normally unaffected by sleep spells.
+
+Firres can be hit only by weapons of +2 or greater enchantment, or cold-wrought iron weapons. They suffer normal — not doubled — damage from such weapons.
+
+=========================================================================================================
+Eladrin, Greater, Ghaele
+2613
+
+Climate/Terrain:	Arborea
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Omnivore
+Intelligence:		Exceptional to Genius (15-18)
+Treasure:			Incidental
+Alignment:			Chaotic good
+No. Appearing:		1 (1-3)
+Armor Class:		-5
+Movement:			18, Fl 60 (A)
+Hit Dice:			10+15
+THAC0:				11
+No. of Attacks:		1 or 2
+Damage/Attack:		By weapon +7 or 2d12/2d12
+Special Attacks:	Positive energy, gaze
+Special Defenses:	Struck only by cold iron or weapons of +3 or better enchantment
+Magic Resistance:	40%
+Size:				M (6’ tall) or L (20’ wingspan)
+Morale:				Fearless (19-20)
+XP Value:			19,000
+The ghaeles are the knights errant of the eladrins. Wherever evil and tyranny raise their ugly heads, the ghaeles respond. Working behind the scenes, they quietly muster resistance and offer guidance to any creatures of good heart with the courage to stand against their oppressors. More than any other eladrins, the ghaeles are accustomed to working from behind the veil.
+
+Ghaeles resemble tall, athletic high elves. They might easily be taken noble elves if not for their pearly, opalescent eyes and radiant aura. Of course, a ghaele may be wearing any manner of mortal guise when encountered away from Arborea. Ghaele eladrins can also take the form of an incorporeal globe of eldritch colors, 5’ in diameter.
+
+Combat: In demihuman form, ghaeles favor incandescent long swords +4 that inflict an extra 1d10 points of positive energy damage to any evil foe struck. Evil creatures of fewer than 5 Hit Dice meeting the gaze of an angry ghaele must successfully save versus spell or be slain; even if they succeed in their saving throw, they are stricken with fear for 2d10 rounds. Evil creatures of 5 Hit Dice or more, or any nonevil opponent, suffer the fear effect only if they miss their save; they are unaffected if they succeed. The ghaele’s gaze has a range of 60 feet.
+
+In their light form, ghaeles attack by firing beams of brilliant light that sear their enemies for 2d12 points of damage per strike. The beams have a range of 100 yards and strike with a +4 attack bonus. The ghaeles can’t gaze in this form.
+
+At all times, the ghaele is surrounded by a nimbus of light that functions as a double-strength protection from evil in a 20-foot radius. The nimbus also has the properties of a minor globe of invulnerabilily and confers protection from normal missiles on the ghaele. In addition, a ghaele has the spell ability of a 14th-level priest and can use the following spell-like powers once per round: advanced illusion, charm monster, color spray, continual light, dancing lights, detect invisibility, dispel magic, ESP, hold monster, improved invisibility, polymorph any object, prismatic spray, telekinesis, teleport without error, wall of force, or cast a 12d8 chain lightning bolt.
+
+The ghaele can be hit only by weapons of +3 or greater enchantment, or by cold-wrought iron weapons.
+
+Habitat/Society: The ghaeles are advisers and counselors to the great tulani eladrins, lords of the eladrin courts. It’s quite rare to find two or more ghaeles gathered together, but on rare occasions several may be in the service of one tulani. A ghaele is kind-hearted and compassionate, but his mission against evil weighs on his mind; even in blissful Arborea, he’s wondering how things arc going back on the last prime world he left. His frequent work with mortals and use of mortal veils makes him the most serious and heavy-hearted of the eladrins. Better than any others of his kind, he knows how hard it is to be human.
+
+=========================================================================================================
+Eladrin, Greater, Tulani
+2613
+
+Climate/Terrain:	Arborea
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Omnivore
+Intelligence:		Supra-genius (19-20)
+Treasure:			Incidental
+Alignment:			Chaotic good
+No. Appearing:		1 (1-2)
+Armor Class:		-7
+Movement:			18, Fl 30 (A)
+Hit Dice:			12+20
+THAC0:				7
+No. of Attacks:		3
+Damage/Attack:		2d4+12
+Special Attacks:	Gaze
+Special Defenses:	Aura; struck only by cold iron or weapons of +4 or better enchantment
+Magic Resistance:	50%
+Size:				M (7’ tall)
+Morale:				Fearless (19-20)
+XP Value:			27,000
+The greatest of the eladrins are the tulani, or faerie lords. Their courts are scattered throughout Olympus, never staying in the same place more than one night. The tulani are peaceful in nature and take up arms only when Arborea itself is threatened or the direst of emergencies requires their attention.
+
+Tulani’re creatures of unearthly beauty and grace; their voices are living music, and their faces shine so brightly that mortals find it difficult to look at them. In form they’re tall, stately elven lords dressed in shimmering robes of shifting color. A tulani is surrounded by a magical aura that evil creatures cannot bear to be near.
+
+Visitors to Arborea who seek out the tulani courts soon find out that the eladrins aren’t easy to find when they want to avoid someone. When a cutter finally gets to meet with a tulani, he’s wise to keep his bone-box shut and mind his manners. The tulani don’t tolerate insolence or disrespect from mortals, but are gracious hosts when their guests behave themselves.
+
+Combat: The tulani’ve got no need for weapons or armor; at will they can create a swordlike blade of fiery light in their fist that strikes as a sword of sharpness +4. The sword delivers an extra 2d8 points of positive energy damage to any evil foe struck. Tulani’s slender forms conceal an effective strength of 20, and they can fly unaided at will.
+
+An evil creature of fewer than 8 Hit Dice meeting the gaze of an angry tulani must successfully save versus spell or be slain; even if it survives its saving throw, it is blinded and stricken with fear for 2d10 rounds. If the opponent meeting the gaze is of any nonevil alignment, or is evil and of 8 Hit Dice or more, then it suffers fear and blindness only if it fails the save.
+
+Tulani can assume the secondary forms of any other eladrin at will. They keep their AC and THACO, regardless of form, but cause double the damage of a coure, bralani, noviere, or firre eladrin’s second form. In the ghaele’s form, their lightbeams strike for 3d12 points of damage and never miss.
+
+At all times, the tulani eladrin’s aura functions as a double-strength protection from evil in a 20-foot radius. The nimbus also has the properties of a minor globe of invulnerability and confers protection from normal missiles on the tulani. Any evil creature must make a successful saving throw versus spell to be able to approach within 20 feet of the tulani. The faerie lord has the spell ability of a 16th-level priest and can use the following spell-like powers once per round: color spray, dancing lights, continual light, detect invisibility, ESP, dispel magic, mass charm, improved invisibility, advanced illusion, hold monster, teleport without error, telekinesis, wall of force, prismatic spray, polymorph any object, or cast a 12d8 chain lightning bolt. Once per day the tulani can cast a meteor swarm, speak a power word kill, or use time stop. Once per year the tulani can grant another’s wish.
+
+The tulani eladrin can be hit only by weapons of +4 or greater enchantment, or by cold-wrought iron weapons.
+
+Habitat/Society: As rulers over the lesser eladrins, tulani rarely may be encountered. The tulani watch over Arborea and act as stewards over the realms of the eladrins. Typically, a tulani will have a host of shiere wamors, several ghaeles and firres, and uncounted numbers of coures in his domain.
+
+The tulani eladrins answer only to the Queen of Stars, who share Arborea with them. Within their own realms, tulani are free to rule as they see fit; generally, they’re compassionate but distant overlords who allow their subjects to do as they please.
+
+=========================================================================================================

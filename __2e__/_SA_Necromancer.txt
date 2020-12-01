@@ -1,0 +1,106 @@
+\(BEGIN)
+name = isDetectedUndead
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Undead"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+\(END)
+
+\(BEGIN)
+name = isEnervated
+[CanCureOrWhatever] = $VAR time; $VAR exp;
+-time = $GET_PARTY_TIME(); exp = $GET_CHARACTER_SA($CharacterContext(),"IsEvervatedExp");
+-$IF (time >=# exp)
+-	{
+-		$SA_REMOVE();
+-		// code to restore original levels, HP and MaxHP
+-	};
+[TrainingCharacter] = $SA_REMOVE();
+\(END)
+
+\(BEGIN)
+name = spellAnimateDead
+[InvokeSpellOnTarget] = $VAR tgt;
+-tgt = $IndexOf($TargetContext()); $SET_CHAR_STATUS(tgt,5); $AddCombatant("Zombie","1");
+[IsValidTarget] = $VAR tgt; $VAR stts;
+-tgt = $IndexOf($TargetContext()); $IF ($IsUndead != ""){$RETURN "N";};
+-stts = $GET_CHAR_STATUS(tgt); $IF (stts != 2 || stts != 9){$RETURN "N";};
+\(END)
+
+\(BEGIN)
+name = spellContagion
+[InvokeSpellOnTarget] = $VAR tgt;
+-tgt = $IndexOf($TargetContext()); $IF ($GET_CHAR_Lvl(tgt,"paladin") >=# 1){$RETURN;};
+-$IF($GET_CHARACTER_SA($TargetContext(),"IsImmuneDisease") != "-?-?-"){$RETURN;};
+-$SET_CHARACTER_SA($TargetContext(),"IsDiseased","Diseased");
+\(END)
+
+\(BEGIN)
+name = spellChontrolUndead
+[InvokeSpellOnTarget] = $VAR atk; $VAR tgt; $VAR cls; $VAR lvl;
+-tgt = $IndexOf($TargetContext()); atk = $IndexOf($AttackerContext()); $IF ($IsUndead == ""){$RETURN;};};
+-cls = $SA_PARAM_GET(); lvl = $GET_CHAR_Lvl(atk,cls); $SetFriendly(tgt,$GET_COMBATANT_SA($Myself(),"side"));
+-$SET_COMBATANT_SA($TargetContext(),"IsCharmed",lvl); $SET_CHARACTER_SA($TargetContext(),"DispelLevel",lvl);
+\(END)
+
+\(BEGIN)
+name = spellDetectundead
+[InvokeSpellOnTarget] = $VAR tgt;$VAR nm; $VAR monUn;
+-tgt = $IndexOf($TargetContext()); nm = $GET_CHAR_NAME(tgt); monUn = $GET_CHAR_UNDEAD(tgt);
+-$IF (monUn != ""){$SET_COMBATANT_SA($TargetContext(),"IsDetectedUndead",nm);};
+\(END)
+
+\(BEGIN)
+name = spell_Enervate
+[InvokeSpellOnTarget] = $VAR atk; $VAR tgt; $VAR bName; $VAR bLvl; $VAR bDie; $VAR bNum; $VAR nm;
+-$VAR monHit; $VAR rand; $VAR drain; $VAR prevDrain; $VAR count; $VAR atkName; $VAR atkLvl;
+-$IF ($IsUndead($TargetContext()) != ""){$RETURN;};
+-atk = $IndexOf($AttackerContext()); tgt = $IndexOf($TargetContext()); atkName = $GetHighestLevelBaseclass(atk);
+-atkLvl = $GetBaseclassLevel(atk,atkName); count = atkLvl /# 4;
+-$WHILE (count ># 0)
+-	{
+-		bName = $GetHighestLevelBaseclass(tgt); bLvl = $GetBaseclassLevel(tgt,bName); nm = $GET_CHAR_NAME(tgt);
+-		$SET_CHAR_Lvl(tgt,bName,bLvl -# 1);
+-		$IF ((bLvl -# 1) <=# 0)
+-			{$SET_CHAR_HITPOINTS(tgt,-11); $SET_CHAR_MAXHITPOINTS(tgt,-11); $SET_CHAR_STATUS(tgt,5); $RETURN ;};
+-		bDie = $RollHitPointDice(bName,bLvl,bLvl); 
+-		bNum = $DelimitedStringCount($GET_CHARACTER_SA($TargetContext(),"class_baseName"));
+-		$IF (bNum <# 1){bNum = 1;}; rand = $RANDOM(bDie) +# 1; drain = rand /# bNum;
+-		$IF (drain <# 1){drain = 1;}; $SET_CHAR_MAXHITPOINTS(tgt,$GET_CHAR_MAXHITPOINTS(tgt) -# drain);
+-		$IF ($GET_CHARACTER_SA($TargetContext(),"IsEnervated") == "-?-?-")
+-			{$SET_CHARACTER_SA($TargetContext(),"IsEnervated","#$" + bName + "$" + bLvl + "$" + drain + "#$99");}
+-		$ELSE
+-			{
+-				prevDrain = $GET_CHARACTER_SA($TargetContext(),"IsEnervated");
+-				$SET_CHARACTER_SA($TargetContext(),"IsEnervated","#$" + bName + "$" + bLvl + "$" + drain + prevDrain);
+-			};
+-		$SET_CHAR_Exp(tgt,bName,$DAT_Baseclass_Experience(bName,bLvl -# 1)); count = count -# 1;
+-	};
+-$SET_CHARACTER_SA($TargetContext(),"IsEnervatedExp",$GET_PARTY_TIME() +# (atkLvl*#60) +# 60 *# ($RANDOM(4)+#1);
+\(END)
+
+\(BEGIN)
+name = spell_HoldUndead
+[InvokeSpellOnTarget] = $VAR atk; $VAR cls; $VAR adj; $VAR lvl; $VAR exp;
+-$IF ($GET_CHARACTER_SA($TargetContext(),"saved")){$RETURN;};
+-$IF($GET_IsAUndead($TargetContext()) == ""){$RETURN;};
+-atk = $IndexOf($AttackerContext()); cls = $SA_PARAM_GET(); adj = $GET_SPELL_SA($SpellContext(),"adjLevel");
+-lvl = $GET_CHAR_Lvl(atk,cls) -# adj; exp = $GET_PARTY_TIME() +# (lvl +# $RANDOM(4) +# 1);
+-$SET_COMBATANT_SA($TargetContext(),"IsHeld",exp);
+\(END)
+
+\(BEGIN)
+name = spell_VampiricTouch
+[ComputeSpellDamage] = $VAR atk; $VAR tgt; $VAR nm; $VAR cls; VAR lvl; $VAR count; $VAR hp;
+-$VAR atkHp; $VAR atkMaxHp; $VAR tempPool;
+-atk = $IndexOf($AttackerContext()); tgt = $IndexOf($TargetContext()); nm = $GET_CHAR_NAME(tgt); cls = $SA_PARAM_GET();
+-lvl = $GET_CHAR_Lvl(atk,cls); $IF (lvl ># 12){lvl ==# 12;}; hp = 0; count = lvl /# 2;
+-$WHILE (count ># 0) {hp = hp +# $RANDOM(6) +# $RANDOM(6) +# 2; count = count -# 1;};
+-atkHp = $GET_CHAR_HITPOINTS(atk) +# hp; atkMaxHp = $GET_CHAR_MAXHITPOINT(atk);
+-$IF(atkHp <# atkMaxHp) {$SET_CHAR_HITPOINTS(atk,atkHp);}
+-$ELSE
+-	{
+-		$SET_CHAR_HITPOINT(atk,atkMaxHp); tempPool = $GET_CHARACTER_SA(atk,"TempHPPool");
+-		$IF (tempPool == "-?-?-"){tempPool ==# 0;};
+-		$SET_CHARACTER_SA($AttackerContext(),"TempHPPool",tempPool +# atkHp -# atkMaxHp);
+-	};
+-$RETURN hp;
+\(END)
+

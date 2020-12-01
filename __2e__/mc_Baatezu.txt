@@ -1,0 +1,676 @@
+Baatezu, General Information
+2118 • 2602
+Baatezu, General Information
+Baatezu are a strong, evil-tempered, well-organized race of fiends. In their rigid caste system, authority derives not only from power but from station. Changes in station come from participation in the Blood War or (as is more often the case) from the high attrition rate in the upper ranks. If a baatezu performs a great feat that cripples the enemy, it is rewarded by promotion — actually a physical transformation — to a higher station.
+
+The baatezu pursue two obsessive goals. First and foremost, they wish to destroy their ancient blood enemies, the tanar’ri. Both races treat the conflict not only as a war of annihilation, but as a definition of existence.
+
+Second, the baatezu have recently (by immortal standards) noticed a small but interesting group of beings: humanity. By infiltrating humankind’s world and gaining followers there, the baatezu gain magical energy and, thus, power over the tanar’ri. Toward this end they strive to dominate humanity by convincing victims they have godlike powers.
+
+In contrast to the chaotic evil tanar’ri, baatezu pursue a long-range goal of dominion by their whole race throughout the planes. They prefer to encourage humanity’s intellectual evils, such as pride and ambition, rather than the immediate sensual appetites tanar’ri exploit.
+
+In appearance the baatezu are diverse, though a Gothic gargoyle look, grotesque and unsightly by human standards, is common. Baatezu types fall into three divisions:
+
+Greater (amnizu, cornugon, gelugon, pit fiend).
+Lesser (abishai, barbazu, erinyes, hamatula, kocrachon, osyluth).
+Least (nupperibo, spinagon).
+The lemures (a fourth variety) rank so low that they don’t even qualify as “least” in the baatezu scheme. Baatezu consider them the very bottom in station. However, scholars customarily number them among the types for the sake of completeness.
+
+Combat: All baatezu except for lemures, nupperibo, and spinagons have the spell-like abilities advanced illusion, animate dead, charm person, infravision, know alignment (always active], suggestion, and teleport without error.
+
+The baatezu can summon their fellows, as detailed in their individual descriptions. Because they have a special form of telepathy, baatezu can understand and converse with any intelligent creature.
+
+Only least and lesser baatezu take damage from ordinary nonmagical weapons. The other varieties of baatezu are harmed only by magical weapons or weapons of silver. Baatezu are affected by the following attack forms:
+
+Attack					Damage
+Acid					Full
+Cold					Half*
+Electricity (lightning)	Full
+Fire (dragon, magical)	None*
+Gas (poisonous, etc.)	Half
+Iron weapon				None†
+Magic missile			Full
+Poison					None
+Silver weapon			Full‡
+* The gelugon takes half damage from fire and none from cold
+† Unless affected by normal weapons, in which case damage is according to weapon type.
+‡ Greater baatezu take only half damage from silver weapons.
+
+Planar Travel: Baatezu can travel to Baator, any lower plane, the Outlands, and the Astral Plane. However, they cannot enter the Prime Material Plane or Upper Planes unless properly summoned. Least and lesser baatezu are subject to a combination of magical signs that, when inscribed and a gate spell cast, bind them to service for nine days, keeping them, from harming the caster. The greater baatezu can likewise be commanded or kept at bay for nine hours.
+
+Accession: The baatezu, with their evil, twisted honor, have a definite path of progress. By performing deeds that further the cause of evil, one gains honors, station, and power. For instance, an enterprising spinagon might advance and, in a long and torturous process, transform into an abishai.
+
+Often, too, a baatezu simply disappears, whereupon its immediate subordinate takes its place in the chain of command. Covert assassination is common among the baatezu.
+
+The Dark Eight: The Dark Eight: In the fortress of Malsheem on the layer of Nessus there meet eight of the most powerful pit fiends in Baator: Furcas, Baalzephon, Zimimar, Zapan, Zaebos, Corin, Dagos, and Pearza. These ominous lords meet four times per year to determine policy, including strategy against the tanar’ri and promotions of lower baatezu. To draw the attention of these eight powerful beings is to invite destruction.
+
+Strangely, these eight rulers have reigned for many years, seemingly immune to the assassinations so common in the upper ranks
+
+=========================================================================================================================
+Baatezu, Lemure
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Common
+Organization:		Horde
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Semi- (2-4)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		10-100
+Armor Class:		7
+Movement:			3
+Hit Dice:			2
+THAC0:				19
+No. of Attacks:		1
+Damage/Attack:		1-3
+Special Attacks:	Battle drive
+Special Defenses:	Regeneration
+Magic Resistance:	Nil
+Size:				M (5’ tall)
+Morale:				See below
+XP Value:			120
+The lowliest denizens of Baator, lernures are grotesque, disfigured blobs of molten flesh, with a vaguely humanoid torso and head. Their faces are equally unrecognizable, with twisted, melted features molded into permanent expressions of horrid anguish. Sometimes, lemures display some slight vestige of their mortal life: a facial feature, nervous twitch, or a small shred of clothing. However, these fragments of their former lives become less and less apparent as the lemure passes its tortured, wretched existence as the weakest baatezu in Baator. Lemures have no minds and no means of communicating.
+
+Combat: Unless ordered otherwise, lemures relentlessly attack anything except another baatezu, regardless of danger. They never check morale.
+
+In combat, they claw for 1d3 points of damage. Their main strength is in their large numbers. Lemures attack in wave after wave, dozens of them, until they either wear down more powerful opponents or are destroyed.
+
+Lemures have no mind of their own, so they are immune to any mind-affecting spells such as charm person or illusions. They do not, however, have the spell-like abilities common to other baatezu.
+
+Lemures regenerate 1 hit point per melee round. Any piece of a lemure, even its burnt ashes, regenerates until the creature is whole again. The only way to permanently destroy lemures is with holy water, a holy sword, or other holy item.
+
+In desperate battles when success is more important than huge losses, baatezu leaders initiate a fearsome battle drive, a wedge formation of 1,000 or more lemures. On command from a superior, the lemures march slowly, mindlessly toward their destination. As they arrive, the lemure are invariably cut down by the dozens. Oblivious, they attack with +2 to their attack rolls. Eventually, the sheer number of lemures prevails, but they commonly see 70 to 90% casualties.
+
+Habitat/Society: Lemures are wretched creatures, forever tormented by the other baatezu. Their existence is both dismal and insignificant.
+
+They wander the first two layers of Baator in large hordes, avoiding other haatezu and relentlessly attacking intruders. Sages believe there are infinite numbers of lemures on Baator.
+
+Ecology: Occasionally a lemure is selected to form a spinagon, a least baatezu. This is done randomly, and is not based on merit, although sometimes, for the pleasure of the baatezu involved, more than one lemure is selected for such a promotion. The mindless lemures are pitted against each other in a brutal fight to the death. Winners of such a fight are either promoted to spinagons or slaughtered outright, depending on their entertainment value. Lemures are occasionally transformed into wraiths or spectres, as well. Other baatezu consider the lemures beneath notice.
+
+=========================================================================================================================
+Baatezu, Least, Nupperibo
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Common
+Organization:		Army
+Activity Cycle:		Any
+Diet:				None
+Intelligence:		Non- (0)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		1-100
+Armor Class:		9
+Movement:			6
+Hit Dice:			1
+THAC0:				19
+No. of Attacks:		2 or 1 (by weapon)
+Damage/Attack:		1d2/1d2 or by weapon
+Special Attacks:	Nil
+Special Defenses:	Regeneration
+Magic Resistance:	Nil
+Size:				M (5’ tall)
+Morale:				See below
+XP Value:			120
+Nupperibos are baatezu petitioners, slightly higher in station than the lemures. They are lowly and woeful beings, used as fighting, feeding, and tormenting stock by all baatezu from the pit fiends on down.
+
+Nupperibos are much like lemures in appearance, but are even less defined than those creatures. Nupperibos are amorphous, vaguely humanoid monsters with no discernible features. They have appendages that might be construed as arms and head.
+
+Nupperibos are blind, deaf, and mute.
+
+Combat: Nupperibos, like lemures, attack any nonbaatezu they encounter in Baator, heedless of their own safety. They need never check morale, for they fight until destroyed.
+
+A nupperibo attacks with two claws (1d2 points of damage each). When they form armies, they receive weapons, though seldom anything better than a club. In these cases, they do damage as per weapon type.
+
+They regenerate 1 hit point per round in Baatao or any other lower plane. Any piece of a nupperibo including its burnt ashes, regenerates. Only holy water, a holy sword, or other sanctified weapon can destroyone permanently.
+
+The mindless nupperibos are immune to all mind-affecting spells such as charm person or illusions. Of the special powers common to all baatezu, nupperibos use cause fear, and that only under orders and when at least 10 nupperibo all attack the same defender.
+
+Habitat/Society: Nupperibos exist by the hundreds of thousands on the first and second layers of Baator. They are remanants of lawful evil creatures not sufficiently malign to become lemures. Nupperibos readily obey all commands from superiors in order to lessen their torment, and thus are accorded a slightly higher station than lemures; they are considered least baatezu.
+
+There is, however, a unique and curious relationship between the lemures and the nupperibos. The nupperibos are slightly higher in station than the lemures, hut they can never become higher forms of baatezu without first being demoted to lemure status. Doubtless some greater power in Baator has set the advancement path that way for its own fiendish reasons.
+
+Nupperibos are commonly used as trading stock to the yugoloths in return for their mercenary services. Like the baatezu, the yugoloths treat the nupperibos horribly and ultimately consume them.
+
+Ecology: Nupperibos have no intelligence, but are sensitive to mental commands from stronger baatezu and never disobey those commands.
+
+When a nupperibo is destroyed, it reforms into another nupperibo. However, there is a 1% chance that it becomes a lemure. Although this means a reduction in station (however slight), it also means a chance to become a spinagon in the future.
+
+Whether left in Baator or traded to yugolotbs, nupperibos lead a completely wretched existence. Lower planar creatures consider them insignificant.
+
+=========================================================================================================================
+Baatezu, Least, Spinagon
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Common
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Average to very (8-12)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		1 or 1-3
+Armor Class:		4
+Movement:			6, Fl 18 (C)
+Hit Dice:			3+3
+THAC0:				17
+No. of Attacks:		3
+Damage/Attack:		1d4/1d4/by weapon
+Special Attacks:	Flame spikes
+Special Defenses:	See below
+Magic Resistance:	15%
+Size:				S (3’ tall)
+Morale:				Average (8-10)
+XP Value:			3,000
+Spinagons, the smallest baatezu, look like gargoyles — small humanoids with wings and a spiked tail. They carry small military forks or other nasty weapons. Spinagons have long, razor-sharp talons on their feet.
+
+Combat: Spinagons avoid combat, preferring to flee and alert more powerful baatezu. However, spinagons carry a small military fork (use javelin statistics; 1d6 points of damage). In flight, the spinagon can also rake with the claws on its feet (1d4 points of damage apiece).
+
+Small spikes and spines protrude from the spinagon’s body. In combat the spinagon can launch up to 12 of these spikes as projectiles while in flight, two per round. The spikes burst into flame when launched, causing flammable materials to ignite on contact. For purposes of range and damage, treat a spinagon’s spikes as darts. The spinagon can hurl itself at a target and wound it with 1d4 spikes (1d3 points of damage each); they hit automatically and are not used up, but the spinagon cannot otherwise attack that round.
+
+Although they do not have the spell-like abilities common to other baatezu, spinagons can use the spell-like powers affect normal fires, change self, command, produce flame, scare, and stinking cloud. Once per day they can attempt to gate in 1 to 3 additional spinagons (35% chance of success).
+
+Habitat/Society: Spinagons are common throughout the layers of Baator and plentiful in layers three through seven. They serve as messengers and lackeys for more powerful baatezu, which includes just about all of them. Spinagons are loyal messengers, seldom failing to properly deliver a letter or memorized missive. However, many baatezu scorn them as weak and ill-equipped for combat.
+
+Indirectly, the spinagons act as scouts for Baator. Because spinagons have a vast number of messages to deliver and errands to run, they travel everywhere in the plane. If these wretched, cowardly creatures discover intruders, they fly off to call a more powerful baatezu. They do not attack or fight unless cornered and unable to barter their way out. A spinagon might even compromise its message to avoid combat.
+
+Spinagons herd lemures and nupperibos and marshall them into large armies for more powerful baatezu. A greater baatezu that wants to form its army quickly for an upcoming battle treats the spinagons with respect.
+
+Ecology: Spinagons, though lowly, gain status quickly by gathering armies for greater baatezu. Often less influential baatezu get their armies last, whereas the more important baatezu get theirs immediately. Because of this, spinagons are subject to abuse and threats by middle-level baatezu disappointed with their performance.
+
+Baator is a strange place, ruled by a perverse discipline that simultaneously encourages both structured behavior and treachery. But stranger still is the advancement process of the spinagon. When a spinagon advances, those it has served decide how much advancement the spinagon receives. Therefore, if a spinagon serves a gelugon well, it may be promoted as high as amnizu. Stories tell of the pit fiend Greth advancing a spinagon to a hamatula.
+
+=========================================================================================================================
+Baatezu, Lesser, Abishai
+2118 • 2602
+					Black			Green			Red
+Climate/Terrain:	Baator			Baator			Baator
+Frequency:			Common			Common			Common
+Organization:		Solitary		Solitary		Solitary
+Activity Cycle:		Any				Any				Any
+Diet:				Carnivore		Carnivore		Carnivore
+Intelligence:		Average (8-10)	Average (8-10)	Average (8-10)
+Treasure:			Nil				Nil				Nil
+Alignment:			Lawful evil		Lawful evil		Lawful evil
+No. Appearing:		2-20			2-8				1
+Armor Class:		5				3				1
+Movement:			9, Fl 12 (C)	9, Fl 12 (C)	9, Fl 12 (C)
+Hit Dice:			4+1				5+2				6+3
+THAC0:				17				15				13
+No. of Attacks:		3				3				3
+Damage/Attack:		1d4/1d4/1d4+1	1d4/1d4/1d4+1	1d4/1d4/1d4+1
+Special Attacks:	Poison, dive	Poison, dive	Poison, dive
+Special Defenses:		---= +1 or better weapons to hit =---
+Magic Resistance:	30%				30%				30%
+Size:				L (8’ tall)		L (7’ tall)		M (6’ tall)
+Morale:				Average (8-10)	Average (8-10)	Steady (11-12)
+XP Value:			7,000			8,000			9,000
+Abishai are common to the first and second layers of Baator. They look like gothic gargoyles, thin and reptilian, with long, prehensile tails and large wings. The three varieties of abishai have different skin colors — in ascending order of station, black, green, and red. All have a vinegary smell and rasping voices. The air seems to warm perceptibly in their presence.
+
+Combat: In battle, the abishai strikes with two claws (1d4 points of damage each) and its flexible tail (ld4 + 1 points of damage and poison; note that the poison is fatal unless a successful save vs. poison is made).
+
+Abishai can fly high into the air and dive at their enemies, striking with both claws. They attack at +2, and a hit does double damage (2d4 points per claw).
+
+In addition to the powers of all baatezu, an abishai can change self, command, produce flame, pyrotechnics, and scare.
+
+Once per day they can attempt to gate in 2 to 12 lemures (60% chance of success) or 1 to 3 abishai (30% chance).
+
+Abishai are susceptible to holy water (2d4 points of damage per vial). They regenerate 1 hit point per round unless the damage is done by holy water or a holy magical weapon.
+
+Habitat/Society: Abishai are voracious and evil. They delight in tormenting those few baatezu lower in station than themselves. Abishai tempt mortals bold enough to travel to Baator by using their change self and charm person abilities to impersonate more powerful baatezu.
+
+Ecology: The abishai make up large, evil armies that fight the tanar’ri and intruders into Baator. In some cases, a red abishai may prove worthy enough to command a force of lemures. If successful, the red abishai may be promoted to a higher form of baatezu.
+
+As part of their efforts to corrupt mortals, abishai like to bestow powerful magic on inexperienced wizards. Usually the low-level spellcaster cannot control these enormous energies, and chaos and destruction result.
+
+=========================================================================================================================
+Baatezu, Lesser, Barbazu
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Common
+Organization:		Military
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Low (5-7)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		20-100
+Armor Class:		3
+Movement:			15
+Hit Dice:			6+6
+THAC0:				13
+No. of Attacks:		3 or 1 (weapon)
+Damage/Attack:		1d2/1d2/1d8 or 2d6 (weapon)
+Special Attacks:	Glaive, disease, battle frenzy
+Special Defenses:	+1 weapon to hit
+Magic Resistance:	30%
+Size:				M (6’ tall)
+Morale:				Steady (11-12)
+XP Value:			6,000
+The barbazu are the vilest soldiers in Baator, employed in large numbers as elite shock troops. A barbazu is a foul, humanoid creature with a long tail, clawed hands and feet, pointed ears, and a snaky, disgusting beard. Its skin is moist, though scaly like a reptile. It carries a cruel, saw-toothed glaive capable of heavy damage.
+
+Combat: The barbazu are the most violent baatezu, taking advantage of any excuse to attack. This makes them unpopular and subject to frequent, harsh discipline, but by the same token they make excellent shock troops. Deployed in large armies sometimes numbering in the thousands, barbazu guard the middle layers of Baator and launch devastating attacks against the tanar’ri. They also make popular guards for personal treasure or demesnes of the more powerful baatezu.
+
+The barbazu attacks with a saw-toothed glaive (2d6 points of damage, and wound bleeds for 2 points of damage each round until wound is bound or victim dies). Bleeding glaive wounds are cumulative (2 points of damage per round per wound). The barbazu can attack with two claws (1d2 points of damage each) and its wirelike beard (1d8 points of damage). If both claws hit, the beard automatically hits for maximum damage. Also, when the beard hits, there is a 25% chance the victim contracts a disease from the foul attack.
+
+A barbazu can use the following spell-like powers, in addition to those available to all baatezu: affect normal fires, command, fear (by touch), and produce flame. Once per day the barbazu can also attempt to gate in 2 to 12 abishai (50% chance of success) or 1 to 6 additional barbazu (35% chance).
+
+Barbazu are subject to a battle frenzy. In combat a group of barbazu is 10% likely per melee round to go berserk. The roll is cumulative per melee round, so that it they are 20% likely to go berserk on the second round, 30% on the third, and so forth. They stay berserk until combat ceases. While berserk, the barbazu need not make morale checks. They attack twice as many times per round at +2 on attack rolls and damage dice. Their Armor Class, however, takes a +3 penalty.
+
+Habitat/Society: The barbazu are bred for battle. All other denizens of Baator recognize their exceeding cruelty and extreme value in combat. Barbazu rush into combat and often do not stop until either they or their opponent is dead. Perhaps the most impetuous and chaotic of the baatezu, they have gained a bad reputation among outsiders.
+
+Although barbazu are lesser baatezu, they never command armies. They are simply too chaotic to lead. Sometimes an exceptional barbazu is promoted to osyluth, but most never survive to see promotion.
+
+Ecology: The barbazu fill the armies of Baator’s middle layers and commonly guard greater baatezu. They do not fight out of loyalty or comraderie, but rather out of their violent need to hurt and kill.
+
+=========================================================================================================================
+Baatezu, Lesser, Erinyes
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Uncommon
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		High (13-14)
+Treasure:			See below
+Alignment:			Lawful evil
+No. Appearing:		1
+Armor Class:		2
+Movement:			12, Fl 21 (C)
+Hit Dice:			6+6
+THAC0:				13
+No. of Attacks:		1
+Damage/Attack:		By weapon
+Special Attacks:	Charm, fear, rope of entanglement
+Special Defenses:	+1 weapons to hit
+Magic Resistance:	30%
+Size:				M (6’ tall)
+Morale:				Steady (11-12)
+XP Value:			7,000
+Erinyes, most unusual of the baatezu, do not appear gruesome or disgusting but attractive, a fitting characteristic considering their mission. Erinyes are female, but can look like mortal men or women of any race, and always the most perfect physical specimens. They cannot, however, pass for mortals, for their huge, feathery wings mark them as denizens of Baator.
+
+Erinyes can communicate through telepathy, but prefer direct speech when luring mortals. They can speak any known language.
+
+Combat: Erinyes prefer to use powers rather than fight physically, but they can wield any weapon with proficiency. An erinyes can cause fear in any creature that looks upon it. The victim must save vs. rod, staff, or wand or flee in panic for 1d6 rounds. Erinyes carry a rope of entanglement that they use in combat or to bind unsuspecting victims.
+
+Erinyes possess a powerful charm person ability that works against any target the erinyes looks on within 60 feet, even if the victim does not look back. The victim must immediately save vs. spells as if half his current level. For example, an 8th-level warrior would save as though he were 4th level. Failure means the victim becomes completely loyal to the erinyes and does anything to protect and obey it, even when that means the death of the victim or loved ones. Fortunately for mortal beings, an erinyes can only charm one person at a time. The effects of the charm last until the erinyes releases the victim or dies.
+
+In addition to those available to all baatezu, an erinyes can use the spell-like powers detect invisibility, invisibility, locate object, polymorph self, and produce flame. Once per day it can attempt to gate in either 1 to 8 spinagons (50% chance) or 1 to 4 barbazu (35% chance).
+
+Habitat/Society: Cunning and evil, the solitary erinyes have the special duty among the baatezu of tempting mortals. Even though the erinyes are lesser baatezu, they report directly to the Dark Eight outside the normal chain of command.
+
+Only 500 erinyes exist at any one time. Lesser baatezu are promoted to fill out their numbers.
+
+As tempters, the erinyes can do something no other baatezu can do, not even the pit fiends: enter the Prime Material Plane unsummoned. There it tries, through its charm person power and its comely form to lure mortals back to Baator. They cannot bring anyone or anything with them when they pass into the Prime Material Plane, and they can only bring one person back when they return. They cannot bring hack inorganic matter, so victims arrive in Baator without possessions.
+
+Mortals so trapped are doomed to die in the inhuman plains of Baator unless their own strength can save them. A mortal who dies this way becomes a lemure and serves forever as a soldier of Baator. Because of this power to tempt and doom mortals, most baatezu respect the erinyes.
+
+Ecology: Unlike other baatezu, the erinyes often refuse promotion from their station. Many do not wish to give up the special status afforded to them and return to the routine ranks of Baator.
+
+=========================================================================================================================
+Baatezu, Lesser, Hamatula
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Uncommon
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Very (11-12)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		1 or 3-12
+Armor Class:		1
+Movement:			12
+Hit Dice:			7
+THAC0:				13
+No. of Attacks:		3
+Damage/Attack:		2d4/2d4/3d4
+Special Attacks:	Fear, hug
+Special Defenses:	+1 weapons to hit
+Magic Resistance:	30%
+Size:				M (7’ tall)
+Morale:				Fearless (19-20)
+XP Value:			6,000
+Hamatula are solitary patrollers of the third and fourth layers of Baator. They are large humanoids, covered from head to toe with sharp barbs right down to their long, meaty tails. Each hamatula has unusually long, sharp claws on its hands, and keen eyes that shift and dart about, giving the creature a nervous look.
+
+Combat: Hamatula are guardians and patrol troops They are excellent guardians and are never surprised.
+
+Hamatula rarely use weapons in combat, preferring to attack with two raking claws (2d4 points of damage each) and bite (3d4 points of damage). If a hamatula hits in combat with both claw attacks, it can hug its victim, impaling him on its cruel barbs (2d4 points of damage, no attack roll required). The victim is now pinned and takes 2d4 points of damage per round until released. (A hamatula that takes 15 points of damage in a single round will release its victim at the end of the round.) A victim who has 16 or greater Strength can tear free with a successful Strength check.
+
+In addition to the magical abilities inherent to all baatezu, hamatula have the spell-like powers affect normal fires, hold person, produce flame, and pyrotechnics. Once per day they can also attempt to gate in either 2 to 12 abishai (50% chance) or 1 to 4 hamatula (35% chance)
+
+Hamatula radiate fear upon striking an opponent for the first time. The defender must save vs. rod, staff or wand or flee in panic for 1d6 rounds.
+
+Habitat/Society: Hamatula zealously patrol the third and fourth layers of Baator for intruders, knowing that promotion and increased status hinge on success.
+
+Relatively solitary, the hamatula travel in groups only when commanded to do so by a superior. They may be deployed in a small group to investigate a report of intrusion.
+
+On Phlegethos, the fourth layer of Baator, the pit fiend Gazra lives in a crystal castle. The hamatula cast captured intruders into the cells under the castle for torture. Gazra oversees the first four layers of Baator with an army of 5,000 hamatula. Twenty hamatula with maximum hit points guard him at all times. Loyal service to their lord is the fastest way to rise in status.
+
+Ecology: Unlike other baatezu, hamatula cannot pass from layer to layer on Baator or to other Lower Planes. Sages speculate that this ensures that the creatures do not wander from their duties.
+
+Hamatula are doubly unique among the baatezu because only they produce a useful byproduct. A gland behind their ears produces a powerful hallucinogen that is harvested by greater baatezu and used to torment and interrogate prisoners. A few brave (or wealthy) sages have obtained samples of this secretion, though not enough to perform any meaningful experiments. They believe that greater quantities of this secretion could produce an extremely potent potion of illusion.
+
+=========================================================================================================================
+Baatezu, Lesser, Kocrachon
+2607
+
+Climate/Terrain:	Baator
+Frequency:			Uncommon
+Organization:		Pack
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		High (13)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		3d6
+Armor Class:		2 (0 if attacked from behind)
+Movement:			12, Fl 12 (D)
+Hit Dice:			6+6
+THAC0:				13
+No. of Attacks:		3 or 2
+Damage/Attack:		1d6/1d6/2d6 or 1d8/1d8 (weapons)
+Special Attacks:	Cause disease, pain
+Special Defenses:	+1 or better weapon to hit; immune to normal cold and heat
+Magic Resistance:	30%
+Size:				M (5’ tall)
+Morale:				Elite (14)
+XP Value:			5,000
+
+The kocrachon is a loathsome, beetlelike fiend, with heady eyes staring out from beneath its enameled carapace. Its three antennae wave above its head, discerning subtle changes of atmosphere, sound, and smell in its environment. It has four arms and two legs; the arm end in opposable pincer-claws. A proboscis juts out from the creature’s forehead, located just above its eyes. The kocrachon’s wings are located underneath its shell, which parts when the fiend is ready to fly away to safety or to a new victim.
+
+Combat: The kocrachon would far rather flee than fight, for its job is to cause pain and extract information rather than to serve as militia. However, when backed into a corner, this baatezu is just as deadly as any of its brethren.
+
+The kocrachon is able to attack with only two of its four arms; this pair of claws causes 1d6 points of damage each. The other two claws, being considerably smaller, aren’t strong enough to clamp on an enemy and cause damage. However, these claws are highly manipulative, and the attached arms are strong enough for the kocrachon to wield small weapons such as scalpels and knives. The baatezu never uses these arms in combat if it is weaponless, but if it has some cutting instrument it causes 1d8 points of damage for each blade because of skill. Half of that damage is automatically healed in 4 hours.
+
+Kocrachons typically make three attacks per round: their two primary claws and a bite, which causes 2d6 points of damage. If they choose to forgo this routine, they can attempt to cause pain with a special attack using their scalpels. By making only one attack in the round, they can lay an opponent open to the bone or find the sensitive point in the exoskeleton, depending on the race of the creature. Any being hit when a kocrachon uses this attack must save versus spell at -6 or suffer a penalty of -4 to all attack and damage rolls. In addition, the victim’s AC value is reduced by 2 places, and movement by 3. These effects last for 2d6 rounds. Note that the kocrachon can only use this attack after it has studied its opponent for 3 rounds to determine where the incision would he most effective.
+
+The kocrachon is also able to cause disease as per the spell. If it can bite a victim and hold on to it (a successful bend bars/lift gates roll detaches the creature) for 3 rounds, it transmits a disease to its victim; it cannot attack while infecting its victim. This disease is fatal within 1-3 weeks after transmission. Oddly, the kocrachon can instead opt to transmit a healing fluid through its bite, healing 1d12 points of damage. This baatezu can use both bites three times per day.
+
+Kocrachons have all the standard abilities of baatezu of their rank; that is, they have the spell-like abilities advanced illusion, animate dead, charm person, infravision, know alignment (always active), suggestion, and teleport without error. They also have the standard baatezu immunities. However, they delight in pretending to suffer from an attack that causes no damage in order to lure their enemies closer.
+
+Habitat/Society: The kocrachon is a baatezu designed primarily to inflict pain. Upon creation, however, it isn’t immediately aware of this mission. Whether it is promoted or demoted to kocrachon status, the baatezu must study at the School of Pain, which is hidden underneath the Knoll of Blades in Dis, the second layer of Baator. Here, the kocrachons study the physiology of known mortal and immortal creatures — as well as the psychology of those minds. Thus, kocrachons learn how to inflict tortures both mental and physical on those unfortunate enough to fall into their clutches. Only rarely do they actually kill their victims, prefereng instead to inflict pain and still more pain.
+
+Kocrachons that capture archons, devas, or other aasimons are accorded respect and high honors; these creatures withstand incredible amounts of ahuse, which reflects well upon their torturers. The baatezu experiment on these and other good creatures until there’s nothing left but a shivering, screaming wreck of a celestial being. Naturally, the fiends love to sink their claws and knives into goodness. Sometimes, however, they also work on tanar’ri, but their performance isn’t as highly lauded as those who learn their work on the insufferable good.
+
+Kocrachons are almost never sent to the forefront of the Blood War, for their services are too valuable behind the lines. Some sages speculate that kocrachons torture petitioners and prisoners as preparation for molding them into various types of baatezu. The petitioners of Baator learn that only the powerful and strong can inflict pain, and this goads them into striving for higher status among the baatezu. Strangely, some prisoners develop a sort of kinship for thosc who give them such exquisite pain. Hatred for their captors may still burn in their breasts, but that emotion recedes before the craving for more pain. Some even experience a twisted devotion to their torturers and may willingly do as the kocrachons suggest.
+
+Ecology: A kocrachon can freely pass from layer to layer in Baator, though it prefers to remain in one place to concentrate on a particular set of victims. Still, it goes where it’s told — and usually without question. When it has served its time (around 223 years) faithfully and well, it can be promoted to the status of erinyes. From there, only its own imagination and ability limit it. Becoming an erinyes is a vital steppingstone for an ambitious baatezu; thus, other baatezu often seek to become kocrachon, viewing the position as a key step toward climbing the hierarchical ladder. Kocrachons themselves are eager to serve and torture, anticipating what lies ahead for them in the service of the Dark Eight.
+
+=========================================================================================================================
+Baatezu, Lesser, Mezzikim
+11431
+
+Climate/Terrain:	Any
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				None	
+Intelligence:		Average (8-10)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		1
+Armor Class:		As host
+Movement:			12, Fl 24
+Hit Dice:			1-6
+THAC0:				21, -1 per HD
+No. of Attacks:		1
+Damage/Attack:		As host
+Special Attacks:	Possession, cause disease
+Special Defenses:	Insubstantial
+Magic Resistance:	5%
+Size:				M
+Morale:				Elite (13-14)
+XP Value:			1 HD: 650
+					2 HD: 975
+					3 HD: 1,400
+					4 HD: 2,000
+					5 HD: 3,000
+					6 HS: 4,000
+
+Mezzikim are the tortured souls of devils in Hell, sent to the Prime Material Plane to cause pain and suffering among mortals. They are invisible to the naked eye, and insubstantial as well. Like ethereal creatures, they can travel through solid objects without hindrance. In their insubstantial state, they cannot interact with the Prime Material Plane. However, they can possess mortals and cause them to sicken and, in some cases, die.
+
+Those able to see invisible objects (through the detect invisibility spell, for instance) are confronted by a bestial-looking devil with scales, claws, and wings. This appearance, though frightful, is only an affectation. Mezzikim actually have little power while insubstantial.
+
+Combat: While insubstantial, mezzikim can neither make attacks nor be attacked. They can, however, use the following magical abilities, each three times per day: affect normal fires, audible glamer, cantrip, and ventriloquism. They use these abilities to spook mortals, and engender an atmosphere of fear. Note, however, that mezzikim lack the ordinary spell-like abilities and resistances of normal baatezu. These are linked to their physical bodies and are not available to them while on the Prime Material.
+
+The primary power of the mezzikim is possession. This power is used for a variety of purposes. Sometimes mezzikim are instructed to possess a particular mortal to find out information. They have also been known to start epidemics, sow confusion, or kill their hosts. Once the target has been chosen, the mezzikim can attempt possession. This takes 1 round, and the victim must make a save vs. spell with a -1 penalty for each hit die of the mezzikim. Those that fail are possessed. Should the mezzikim fail to possess the target, it cannot make another attempt for a full 24 hours. Also, the target will realize that something strange has just happened (this feeling manifests as a sudden chill or a sense of foreboding).
+
+Once a mezzikim has successfully possessed a mortal, he is in control of the victim’s body entirely. The mezzikim has no access to the memories or abilities of the victim, but can speak and interact normally. The victim’s consciousness is aware, but cannot act other than to try to oust the devil using willpower alone. The victim is allowed to make a further saving throw each day, modified by his magical defense (Wisdom) adjustment. Success indicates the devil was forced out, while failure means he remains in place.
+
+While controlling the victim, the mezzikim can levitate at will. Additionally, he increases the host’s Strength by 2, to a maximum of 19. Once per turn, he can spit needles covered with poisonous bile at an opponent within 10 feet. These needles inflict 1d8 damage and the target must save vs. poison or take an additional 1d6+1 damage from the bile. Other than this special attack, the mezzikim is limited to one attack per round using whatever weapons are handy.
+
+The presence of the mezzikim can corrupt the body of the host. At any point of the possession, the mezzikim can cause disease on the victim. The devil chooses the potency of the disease, as per the spell. There is also a 25% that the disease is contagious.
+
+Mezzikim are difficult to dislodge once in possession of a host. They can be driven out by causing their hit points in damage to the host, but this often kills the victim and is a dangerous proposition at best. The exception to this is holy water, which does damage only the mezzikim. The best way to oust mezzikim is through the spell exorcise.
+
+Habitat/Society: Mezzikim are the souls of devils whose bodies remain in Hell. For offenses against one of the lords or other baatezu nobles, they have been sentenced to spend time on the Prime Material Plane. Their physical bodies are restrained within magical circles and then tortured for six hundred sixty-six nights. When the ritual is complete, the souls of the devils are only too ready to flee the scarred and burned husks of their bodies. The magic of the ritual propels them to the Prime Material Plane, where they remain as insubstantial spirits until their sentence is complete.
+
+The pain of their torture remains, even though their bodies are left behind. This spiritual agony only abates when they cause suffering to the mortals of the Prime Material. The mezzikim are thus thoroughly motivated to possess mortals and reak havoc in their society.
+
+Ecology: The mezzikim are not really a race as such. They come from the ranks of the baatezu, and can represent any of the lesser devils. They are commonly the souls of abishai, barbazu, and hamatula.
+
+The mezzikim have no society. They usually operate individually, unless ordered otherwise. Agents of the Asmodeus and other baatezu on the Prime Material can command their services, and often use them for particular missions. In general, though, the mezzikim choose their victims quickly and randomly, their only interest the lessening of the pain of their souls.
+
+=========================================================================================================================
+Baatezu, Lesser, Osyluth
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Uncommon
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Very (11-12)
+Treasure:			Nil
+Alignment:			Lawful evil
+No. Appearing:		2-8
+Armor Class:		3
+Movement:			12
+Hit Dice:			5
+THAC0:				15
+No. of Attacks:		4
+Damage/Attack:		1d4/1d4/1d8/3d4
+Special Attacks:	Fear, poison
+Special Defenses:	+1 weapons to hit
+Magic Resistance:	30%
+Size:				L (9’ tall)
+Morale:				Steady (11-12)
+XP Value:			7,000
+The police officer of Baator, the osyluth is horrid: bony and wretched, almost a dried husk of a human form, with a fearsome human skull covered by sickly dried skin stretched tight. The osyluth has a large scorpionlike tail and a foul odor of decay and rot.
+
+Combat: Terrible opponents, osyluths attack ruthlessly, driven by hatred and rage. They have two claw attacks (1d4 points of damage each) and a bite (1d8 points of damage). Osyluth also attack with their tail, which does 3d4 points of damage and injects poison. The victim must save vs. poison with a -3 penalty. Failure means the victim loses 1d4 points of Strength for 1d10 rounds.
+
+In addition to those available to all baatezu, osyluths have the spell-like powers fly, improved phantasmal force, invisibility, and wall of ice. Osyluths can also generate fear in a 5-foot radius. Defenders must save vs. rod, staff, or wand or flee in panic for 1d6 rounds. Once per day they may also attempt to gate in either 1 to 100 nupperibo (50% chance) or 1 to 2 osyluths (35% chance). Osyluths can see perfectly in total darkness.
+
+Habitat/Society: Osyluths are the only baatezu to have power over baatezu of higher station. They roam the layers and observe the actions of other baatezu, ensuring that they act properly. An osyluth can send offenders into the Pit of Flame for 101 days of torment. After the torture, the offending baatezu returns to its former position. Osyluths have this power over any other baatezu save for pit fiends, who are above their discipline.
+
+But with this power comes danger. Any baatezu that has the opportunity to destroy an osyluth without being discovered usually does so. If caught in this act, however, the offender is instantly reduced to marked lemure status. These marked lemures never advance beyond their station and are particularly hated by all baatezu.
+
+Because the osyluths are charged with disciplining other baatezu, they are supposed to be absolutely loyal, never step out of line, nor do anything against the nature of baatezu. The osyluths generally obey the stricture, although several historical exceptions are known.
+
+The Ring of Cantrum: Once per century, 100 osyluths meet with the Dark Eight to promote gelugons to pit fiend status. The moot is named after the pit fiend Cantrum, the founder of the Dark Eight. The 100 osyluths gather in a ring around the pit fiends and present information on promising gelugons, including major campaigns and compliance with the nature of Baator. All 100 osyluths combined have one of the nine votes cast in the Ring.
+
+Ecology: Osyluths spend a century as such before advancing among the baatezu. Following every Ring of Cantrum, all 1,000 osyluths advance to hamatula status. Simultaneously, 1,000 new osyluths are formed. Despite this guaranteed advancement, osyluths still have incentives to surpass even their exacting standards. An osyluth that performs with distinction becomes an amnizu rather than a hamatula. This accelerated advancement is rare, but serves the pit fiends well for it guards against complacency in the osyluth ranks.
+
+=========================================================================================================================
+Baatezu, Greater, Amnizu
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Exceptional (15-16)
+Treasure:			V,Y
+Alignment:			Lawful evil
+No. Appearing:		1-2
+Armor Class:		-1
+Movement:			6, Fl 15 (C)
+Hit Dice:			9
+THAC0:				11 (see below)
+No. of Attacks:		1
+Damage/Attack:		2d4
+Special Attacks:	Energy channel, forget
+Special Defenses:	+2 weapons to hit
+Magic Resistance:	50%
+Size:				M (4’ tall)
+Morale:				Elite (13-14)
+XP Value:			11,000
+The amnizu dwell primarily on Stygia, the fifth plane of Baator. They often enter the upper layers of Baator on missions.
+
+The amnizu are gruesome and unseemly: short (4 feet tall) with elongated, bald heads, stubby legs and arms, and large, leathery wings. Amnizu have pug noses, large eyes, and snarling mouths tilled with jagged, razor-sharp teeth.
+
+Combat: The amnizu are greater baatezu and, as such, prefer to leave combat to underlings. Their touch, a channeling of harmful energy, does 2d4 points of damage. It bypasses ordinary armor, so the amnizu need only hit Armor Class 10 to cause damage. Magical pluses of armor, shield, or a protective device such as a ring of protection improve the defender’s Armor Class. Magical items that give a base Armor Class also protect against the touch.
+
+Because of the amnizu’s close ties to the river Styx, its attacks work as a powerful forget spell that causes the target to forget one whole day’s memory unless he saves vs. spells.
+
+In addition to those magical abilities available to all baatezu, an amnizu can use the following spell-like abilities, one per round: fireball (3 times per day) and imprisonment (once per day). Once per day amnizu can attempt to gate in 2 to 20 abishai (50% chance of success) or 1 to 8 erinyes (30% chance).
+
+A holy word drives an amnizu back to its own plane, Stygia.
+
+Habitat/Society: The amnizu, as greater baatezu, enjoy a nobility of sorts. They follow orders only because of their desire to advance and their fear of the pit fiends. The higher a fiend advances in Baator, the more closely the Dark Eight watch it. Given the opportunity, however, amnizu order their minions to attack anything under the control of the Dark Eight. Possibly an amnizu would even attack a pit fiend given sufficient reason, if it thought it could evade suspicion.
+
+The amnizu guard the river Styx, which enters Baator through Stygia as well as Avernus — a weak point in Baator’s defenses. For their own perverse ends as well as the protection of Stygia, amnizu individually command an army of thousands of abishai and erinyes.
+
+Ecology: The amnizu protect Baator from invaders, and thus they are given their power of imprisonment. Mortals who travel here to combat evil generally become fodder for the amnizu.
+
+=========================================================================================================================
+Baatezu, Greater, Cornugon
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Exceptional (15-16)
+Treasure:			D,S
+Alignment:			Lawful evil
+No. Appearing:		1-4
+Armor Class:		-2
+Movement:			9, F1 18 (C)
+Hit Dice:			10
+THAC0:				11
+No. of Attacks:		4 or 1 + weapon
+Damage/Attack:		1d4/1d4/1d4+1/1d3 or 1d3 + weapon +6 (Strength bonus)
+Special Attacks:	Fear, wounding, stun
+Special Defenses:	Regeneration, +2 weapons to hit
+Magic Resistance:	50%
+Size:				L (9’ tall)
+Morale:				Elite (13-14)
+XP Value:			10,000
+Cornugons are elite defense forces. They look frightening: 9 feet tall, only vaguely humanoid, and covered with grotesque scales. Their huge wings and snaking, prehensile tail add to their intimidating demeanor. In combat they favor a long barbed whip.
+
+Combat: Cornugons are fearless fighters, rarely retreating from combat even against overwhelming odds. They have 18/00 Strength (+6 damage adjustment). Cornugons attack with their tail for 1d3 points of damage, creating a wound that bleeds 1 point per round until treated. In addition, they attack with either claws (1d4 points of damage) and bite (1d4+1 points of damage), or with a barbed whip (1d6 points of damage and save vs. paralyzation or be stunned for 1d4 rounds).
+
+In addition to the magical abilities inherent in all baatezu, cornugons can use the spell-like powers detect magic, ESP, lightning bolt (3 times per day), produce flame, pyrotechnics and wall of fire (once per day). They can attempt to gate in the following: 2 to 12 barbazu (50% chance, once per day), 2 to 16 abishai (35% chance, once per day), and 1 to 3 additional cornugons (20% chance, once per day).
+
+All comugons radiate a fear aura in a 5-foot radius. Anyone entering the radius must save vs. rod, staff, or wand or flee in terror for 1d6 melee rounds. Cornugons regenerate 2 hit points per melee round.
+
+Habitat/Society: Cornugons, the elite fighting force in Baator, form terrifying armies up to 2,000 strong. Only pit fiends may lead these hideous fighting forces into battle. Pit fiends and gelugons prize cornugons as personal guardians and try to obtain them as personal retainers. The Dark Eight have 106 cornugons in their retinue.
+
+Cornugon armies usually form only in the lowest layers of Baator. In the upper layers, individual comugons serve as generals to vast armies of lesser baatezu. This duty is desirable for its rapid advancement, second only to guardian duty among the Dark Eight.
+
+Ecology: The cornugons are greater baatezu, and as such enjoy a certain prestige. Of all the baatezu, the cornugons and hamatula advance most rapidly.
+
+With several successful campaigns to their credit, heroic comugons receive promotions to the upper layer of Baator, where they command vast, gruesome legions of baatezu. From there, distinguished action leads to promotion to gelugons, the ruthless inhabitants of the frigid layer of Caina.
+
+Although powerful and cunning, the cornugons display treachery in their ranks least often of all baatezu, due to their militaristic nature. Their loyalty makes them an unusual asset. It is said that the 106 cornugons that guard the Dark Eight are completely loyal and would give their lives in defense of the council, behavior nearly unheard of in Baator. Whether this is due to genuine loyalty or fear of the pit fiends is unknown, but seldom in the history of the Dark Eight has a cornugon guardian displayed traitorous behavior.
+
+=========================================================================================================================
+Baatezu, Greater, Gelugon
+2118 • 2602
+
+Climate/Terrain:	Baator (Caina)
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Genius (17-18)
+Treasure:			A,W
+Alignment:			Lawful evil
+No. Appearing:		1-8
+Armor Class:		-3
+Movement:			15
+Hit Dice:			11
+THAC0:				9
+No. of Attacks:		4
+Damage/Attack:		1d4+4/1d4+4/2d4+4/3d4+4 (Strength bonus)
+Special Attacks:	Tail freeze, fear
+Special Defenses:	Regeneration, +2 weapons to hit
+Magic Resistance:	50%
+Size:				H (12’ tall)
+Morale:				Champion (15-16)
+XP Value:			19,000
+Gelugons are ferocious baatezu that live in frigid Caina. They look alien, with 12-foot insectlike bodies, claws on hands and feet, and sharp pincers at the mouth. Their heads bulge with multifaceted eyes. The gelugon has a long, thick tail covered with razor-sharp spikes.
+
+Combat: Gelugons are extremely strong, with 18/76 Strength (+4 damage adjustment). They attack four times per round with their two claws (1d4 points of damage), pincers (2d4 points), and tail (3d4 points and paralysis) instead of weapons. The tail radiates cold like the wind of Caina itself: the victim must save vs. paralyzation or be paralyzed by numbing cold for 1d6 rounds. The gelugon may direct each of its four attacks against a different opponent.
+
+One in four gelugons carries a long spear (2d6 points of damage plus Strength bonus). Those struck by the spear must save vs. paralyzation or be numbed by cold (slow for 2d4 rounds).
+
+In addition to those available to all baatezu, the gelugon can use these spell-like powers: detect invisibility (always active), detect magic, fly, polymorph self, and wall of ice. They can attempt to gate in 2 to 12 barbazu (50% chance, once per day), 2 to 8 osyluth (35% chance, once per day), and 1 to 2 gelugons (20% chance, once per day). Because gelugons guard the front of Baator’s lowest layer, there is a 25% chance that a pit fiend comes to aid them if the gelugons are losing in combat.
+
+Gelugons can see perfectly in total darkness, and regenerate 2 hit points per round. They radiate fear in a 1 foot radius (save vs. rod, staff, wand or flee in panic for 1 melee rounds).
+
+Habitat/Society: Second in power and station only to the pit fiends, gelugons are the guardians of Caina, the frigid eighth layer of Baator. Because Caina is a single layer away from the heart of Baator, the pit fiends have placed great trust in the gelugons.
+
+Gelugons are the only baatezu native to Caina. Although other varieties of baatezu occasionally come to this cold place, they dislike it and prefer the hotter layers. Gelugons are unique in baatezu society in that they both lead and serve in their layer’s armies. It is unknown how they choose their leaders.
+
+The only portal to the fortress of Malsheem on Nessus, the lowest layer of Baator, lies at the bottom of a deep pit in Caina, guarded at all times by 9,999 gelugons.
+
+Ecology: Wholly unnatural creatures, gelugons can only be created by promotion from lower stations.
+
+When a gelugon has performed well, it may be promoted to pit fiend. Such promotion is difficult: First, the gelugon must serve flawlessly for 777 years. Any blemish on its record eliminates it from the promotion list. But 777 years of perfect service is the easy part. If the gelugon is selected to become a pit fiend, it enters the Pit of Flame, where it is tormented for 1,001 days. After almost three years of hideous, painful torture, the former gelugon emerges as a pit fiend.
+
+=========================================================================================================================
+Baatezu, Greater, Pit Fiend
+2118 • 2602
+
+Climate/Terrain:	Baator
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Genius (17-18)
+Treasure:			G,W
+Alignment:			Lawful evil
+No. Appearing:		1-4
+Armor Class:		-5
+Movement:			15, Fl 24 (C)
+Hit Dice:			13
+THAC0:				7
+No. of Attacks:		6
+Damage/Attack:		1d4/1d4/1d6/1d6/2d6/2d4 or weapon +6 (Strength bonus)
+Special Attacks:	Fear, poison, tail constriction
+Special Defenses:	Regeneration, +3 weapons to hit
+Magic Resistance:	50%
+Size:				L (12’ tall)
+Morale:				Fearless (19-20)
+XP Value:			21,000
+The most terrible baatezu, pit fiends are giant winged humanoids, gargoylish in appearance, with huge bat-wings that can wrap around their body in defense, large fangs that drip with vile, green liquid, and hulking red, scaly bodies that burst into flame when thev are angered or excited.
+
+Combat: : No baatezu is more terrifying in combat than a pit fiend. The pit fiend uses its 18/00 Strength (+6 damage adjustment) to attack six times per round, dividing its attacks among up to six different opponents if necessary. It can attack with two hard, scaly wing buffets (1d4 points of damage each), powerful claws (1d6 points), and a bite (2d6 points and poison; save vs. poison or die in 1d4 rounds). The bite also infects the victim with a disease, whether or not he saves against the poison.
+
+Pit fiends can also attack with their tail every round (2d4 points of damage). The tail can then hold and constrict the victim for 2d4 points of damage per round until the victim makes a successful Strength check to break free. Pit fiends also carry jagged-toothed clubs which inflict 1d6+1 points of damage; this replaces one claw attack.
+
+In addition to those magical abilities inherent to all baatezu, a pit fiend can use one of the following spell-like powers once per round: detect magic, detect invisibility, fireball, hold person, improved invisibility, polymorph self, produce flame, pyrotechnics, and wall of fire, Once per year, a pit fiend can cast a wish spell. Once per round, it may automatically gate in two lesser baatezu or one greater baatezu. Once per day, a pit fiend can use a symbol of pain; the victim must save vs. rod, staff, or wand or suffer a -4 penalty on attack rolls and a -2 penalty to Dexterity for 2d10 rounds.
+
+Pit fiends regenerate 2 hit points per round. They radiate a powerful fear aura in a 20-foot radius (save versus rod, staff, or wand at a -3 penalty or flee in panic for 1d10 rounds).
+
+Habitat/Society: Pit fiends are the lords of Baator, the baatezu with the greatest power and station. Pit fiends are found throughout Baator, but are very rare on the upper layers and in the frigid cold of Caina, the eighth layer. Pit fiends are very rare on Avernus, Dis, and Minauros. They are rare on phlegethos, Stygia, Malbolge, and Maladomini. In the fearful realm of Nessus, the pit fiends are common.
+
+Wherever they are, pit fiends wield enormous power. They lead legions of dozens of complete armies into battle against the tanar’ri. These huge forces are terrifying to behold, and any non-native of the Lower Planes of less than 10 Hit Dice who sees them flees in panic for 1 to 3 days. Those of 10 Hit Dice and greater must save vs. rod, staff, or wand or flee in panic for 1d12 turns.
+
+It is rumored that pit fiends are not the most powerful beings in Baator, but themselves servants of some greater power. If there are greater beings in Baator, certainly they are powerful enough to hide their presence from mere mortal sages.
+
+Ecology: Pit fiends are spawned from the powerful gelugons of Baator’s eighth layer. When gelugons are found worthy, they are cast into the Pit of Flame for 1,001 days. They emerge as pit fiends.
+
+=========================================================================================================================

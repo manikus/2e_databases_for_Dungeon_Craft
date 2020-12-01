@@ -1,0 +1,9 @@
+\(BEGIN)
+name = spellAnimateDead
+[InvokeSpellOnTarget] = $VAR tgt;
+-tgt = $IndexOf($TargetContext()); $SET_CHAR_STATUS(tgt,5); $AddCombatant("Zombie","1");
+[IsValidTarget] = $VAR tgt; $VAR stts;
+-tgt = $IndexOf($TargetContext()); $IF ($IsUndead != ""){$RETURN "N";};
+-stts = $GET_CHAR_STATUS(tgt); $IF (stts != 2 || stts != 9){$RETURN "N";};
+\(END)
+

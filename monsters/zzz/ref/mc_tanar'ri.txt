@@ -1,0 +1,1281 @@
+Tanar’ri, General Information
+2118 • 2613
+Tanar’ri, General Information
+In Sigil the streets teem with denizens of a thousand planes, and each claims to have visited a thousand more. In every back-alley gambling haunt in the Lower Ward, in half the tiefling halfway houses, in the incense-heavy air of vapor shops where old men debate weird philosophies, tales pass back and forth. Those tales debate the absolutes of the Outer Planes, the greatest and least, loftiest and most base, best and worst. Every tale that turns upon the worst inevitably stops with the place of despair, the infinite bleak layers that represent the suffering and toil of existence made tangible. There chaos and hopelessness reign.
+
+There in the Abyss, where others endure endless torment, the tanar’ri thrive.
+
+Like the baatezu, tanar’ri are fiends (Lower planar creatures of enormous power), but they embody evil of a different type. Baatezu, lawful evil beings, pursue calculated doctrines as part of a grand plan to advance their race to dominion of all the planes. Most baatezu tempt mortals into intellectual evils such as pride, ambition, and subversion. Tanar’ri, chaotic evil personified, are motivated not by doctrines but by insane, violent inner drives. They tempt mortals into crimes of passion and vice, evils of appetite. Less intelligent tanar’ri often attack without question and fight until slain. True and greater tanar’ri roam the Astral and Ethereal planes, driven ceaselessly to seek fresh victims.
+
+Combat: All tanar’ri (even the least) share the spell-like powers darkness, 15’ radius, infravision, and teleport without error. They also can gate in other tanar’ri at will, as defined for each type. Tanar’ri are affected by attack forms as noted below:
+
+Attack					Damage
+Acid					full
+Cold					half
+Electricity (lightning)	none
+Fire (magical)			half
+Fire (nonmagical)		none
+Gas (poisonous, etc.)	half
+Iron weapon				full
+Magic missile			full
+Poison					none
+Silver weapon			full*
+* Greater tanar’ri take half damage from silver weapons.
+
+All tanar’ri have a form of telepathy that lets them communicate with any intelligent life form regardless of language barriers. Tanar’ri with Average or better Intelligence can converse.
+
+The Abyss-forged magical weapons of the tanar’ri dissolve upon the owner’s death. When one doesn’t, the weapon probably originated elsewhere.
+
+Habitat/Society: The tanar’ri have five divisions, listed here in order of ascending power with member varieties:
+
+Least: dretch, manes, rutterkin
+
+Lesser: alu-fiend, armanite, bar-lgura, bulezau, cambion, maurezhi, succubus, uridezu, yochlol
+
+Guardian: molydeus
+
+Greater: babau, chasme, goristro, nabassu, wastrilith
+
+True: alkilith, balor, glabrezu, hezrou, marilith, nalfeshnee, vrock
+
+These classifications actually mean little in their lives. They are merely broad estimates of destructive power. The tanar’ri have little use for anything besides power, and a strong lesser tanar’ri who bests a greater cousin gains higher status in the Abyss. Their petty battles for position are endless. The only class free from these power struggles is the molydeus, a guardian tanar’ri that seems curiously divorced from the tanar’ri power structure.
+
+There are also the spyder fiends, a subrace of the tanar’ri.
+
+The tanar’ri are one of the two major factions in the Blood War. For as long as the tanar’ri have existed, they have waged war against their ancient enemies, the baatezu. The tanar’ri and baatezu wage war in strikingly different ways. The baatezu are organized and fight their battles with planned tactics for strategic goals. The tanar’ri, however, are a horde of chaos and disorder, using their endless numbers in wars of attrition. It is difficult to estimate tanar’ri populations, considering they inhabit an infinite number of infinitely large planes, but there are easily 100 times as many tanar’ri as baatezu. This disordered race wages the Blood War only because true tanar’ri seem to have a primal urge to destroy baatezu. They force those less powerful than themselves to serve their wishes.
+
+Ecology: Most tanar’ri feed on either flesh or the life force of other living beings. It appears that they derive more nutrition from a victim by instilling terror in it before the kill. Whereas most predators simply stalk and then kill, tanar’ri add a third step: stalk, terrify, kill.
+
+=========================================================================================================================
+Tanar’ri, Least, Dretch
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Common
+Organization:		Group
+Activity Cycle	:	Any
+Diet:				Carnivore
+Intelligence:		Low (5-7)
+Treasure:			Nil
+Alignment:			Chaotic evil
+No. Appearing:		4-40
+Armor Class:		4
+Movement:			9
+Hit Dice:			2
+THAC0:				19
+No. of Attacks:		3
+Damage/Attack:		1d4/1d4/1d4+1
+Special Attacks:	See below
+Special Defenses:	See below
+Magic Resistance:	10%
+Size:				S (3-4’ tall)
+Morale:				Steady (11-12)
+XP Value:			1,400
+DretchPetty and wicked, dretches are the most common tanar’ri, found in massive hordes everywhere in the Abyss. Along with the manes, the dretches are the rank-and-file of the Blood War.
+
+Dretches are gaunt, squat humanoids with rubbery, almost hairless bodies. Their skin is pale white to beige, giving way to sickly blue in some areas, stretched over pulsing varicose veins. Dretches’ mouths are slack and slobbery with many small fangs. Their hair is sparse and bristly, exposing pointed ears that hang limply from either side of the head. A dretch’s eyes slant downward and the nose appears squashed.
+
+Dretches communicate using telepathy.
+
+Combat: Only their vast numbers allow dretches to survive the rigors of the Abyss. These creatures will not flee combat if a greater or true tanar’ri is present. Dretches are so wretched they would rather die than fall further into disfavor by fleeing. Their natural attack form consists of a claw/claw/bite routine (1d4/1d4/1d4+1).
+
+In addition to those available to all tanar’ri, dretches can use these spell-like abilities: scare, stinking cloud (once per day), and telekinesis. Once per day, they can attempt to gate in 1-4 dretches with a 50% chance of success. They like to gate in companions, then have the companions immediately attempt gates in turn, and so on until a vast horde of dretches appears.
+
+Habitat/Society: Dretcbes are the lowest form of actual tanar’ri; their inferiors, the manes, are merely dead spirits from the Prime Material Plane. Dretches mill around and torment the manes to avoid considering their own lowly position.
+
+Some dretches try to be extremely useful, hoping for promotion. Others consider themselves so lowly that they have nothing to lose, and they rebel. By virtue of their numbers, they feel they can go their own way and ignore the more powerful tanar’ri. This leads to a huge slaughter of the rebellious dretches by more powerful tanar’ri. These civil outbreaks temporarily divert the tanar’ri from the Blood War, sometimes with disastrous results.
+
+Ecology: Dretches are important to the Blood War. The primary strength of the tanar’ri is their sheer numbers, and those numbers consist largely of dretches. Unlike the hordlings, they are actual tanar’ri and have concern for their position. This makes them more reliable than hordlings, if the term applies to any creature in the Abyss.
+
+The dretches’ weakness makes them a perfect choice for food in an environment where food is scarce. Greater fiends eat them in great quantities.
+
+=========================================================================================================================
+Tanar’ri, Least, Manes
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Common
+Organization:		Horde
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Semi- (2-4)
+Treasure:			Nil
+Alignment:			Chaotic evil
+No. Appearing:		50-500
+Armor Class:		8
+Movement:			6
+Hit Dice:			1
+THAC0:				20
+No. of Attacks:		3
+Damage/Attack:		1d2/1d2/1d4 or by weapon
+Special Attacks:	Acidic vapor
+Special Defenses:	Immune to mind-affecting spells
+Magic Resistance:	10%
+Size:				S (3’ tall)
+Morale:				See below
+XP Value:			975
+ManesManes are the most pathetic beings on the Lower layers of the Abyss, vast and endless as the layers themselves. They have pale white skin that appears bloated. Manes have long, cruel claws; sharp teeth; sparse hair; and pale white eyes that constantly drip disgusting liquids. Their bodies crawl with carrion creatures that literally feed on them.
+
+Manes cannot communicate.
+
+Combat: Manes are nearly mindless, senseless creatures. They are immune to mind-affecting spells. They wander the Abyss in endless hordes, attacking all non-tanar’ri they encounter with two raking claws (1d2 damage each) and bite (1d4 damage).
+
+When formed into legions, manes carry maces (1d8 damage). One major problem with arming the manes, however, is that they quickly forget how to use the maces, drop them, and fight with claws and teeth.
+
+These creatures disregard their own existence. They never check morale and fight until slain. Killing a manes simply dissipates it into a noxious, stinking vapor that reforms in 24 hours. Anyone within 10’ of a manes when it dies must save vs. poison or sustain 1d6 damage from the acidic vapor.
+
+Habitat/Society: Manes travel in gibbering, snarling hordes that sometimes number in the thousands. Physically weak, they attack in such great numbers that non-tanar’ri fear them.
+
+These wretched armies are difficult to maintain, for the manes are literally too stupid to understand commands. They can temporarily form a regiment, but they eventually wander about aimlessly, paying no heed to orders. If brought to a battle, however, they make excellent soldiers; once they see the enemy, they attack tirelessly. Sometimes they attack even when such a tactic does not favor their army, but such is war in the Abyss.
+
+In the Abyss, manes are viewed as sub-tanar’ric and scorned by everything there. This does not bother the witless manes.
+
+Like the dretches, the manes represent a major fighting force that is highly expendable. Unaware of their position in the Blood War, the manes have no way to improve the cruel treatment they receive.
+
+Ecology: When chaotic evil mortals from the Prime Material Plane die, their spirits go to the Abyss and become manes. Those who were particularly cruel and evil in life are confined to the Pits of Despair on the 400th layer of the Abyss. Of this place, wizards and sages know only the name, because none have ever seen it. The Pits are thought to be hidden beneath the Mountain of Woe, but again, little is known.
+
+The lowly manes, plentiful and weak, have the dubious honor of serving as the primary food source in the Abyss. When a manes is eaten, it is destroyed utterly and will not reform.
+
+=========================================================================================================================
+Tanar’ri, Least, Rutterkin
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Average (8-10)
+Treasure:			Nil
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		0
+Movement:			12
+Hit Dice:			4
+THAC0:				17
+No. of Attacks:		1 or 2
+Damage/Attack:		By weapon or 1d6+1/1d6+1
+Special Attacks:	Snap-tong
+Special Defenses:	None
+Magic Resistance:	10%
+Size:				M (5-7’ tall)
+Morale:				Steady (11-12)
+XP Value:			2,000
+RutterkinThe rutterkin are pathetic, malformed tanar’ri. They wander the planes of the Abyss, outcasts in their own deranged society. Rutterkin resemble terribly ugly humans. They are hairless or nearly so, with pointed skulls, distorted features, and backward-pointing ears.
+
+Rutterkin communicate using telepathy.
+
+Combat: Rutterkin are known for the strange weapons they carry. Some of their favorites include: a snap-tong device that inflicts 2d4 points upon hitting and then continues to inflict like damage each round until the opponent breaks free by scoring a hit on the weapon (AC 5); a polearm with a double crescent head; a saw-toothed flatchet (broad-headed sword that is +1 damage versus unarmored opponents); and a 3-armed blade thrown from a sling-like device. Here are the weapon statistics:
+
+Item	Weight (lbs)	Size	Speed Factor	Damage S-M/L
+Crescent polearm	8	S	8	1-10/1d8
+Flatchet			3	S	4	2-8/1d6
+Snap-tong			5	P	8	2-8/1d4
+3-armed blade		2	S	3	1-6/1d6
+ 
+
+Range Weapon	ROF	S	M	L
+3-armed blade	3	2	4	6
+A rutterkin can also attack with two claws (1d6+1 damage each). They dislike this attack because their malformed bodies feel pain if they strike (as one with a sprained wrist would feel pain from punching). Rutterkin groan and yelp when they attack with their claws.
+
+In addition to those available to all tanar’ri, rutterkin have the following spell-like abilities: fear (by touch), fly, and telekinesis (3 times per day). Rutterkin can gate in 1-8 least tanar’ri once per day with a 50% chance of success.
+
+Habitat/Society: Rutterkin are tanar’ri mutated by energies unknown. They are complete outcasts, not even cannon fodder in the Blood War.
+
+However, rutterkin do unwittingly serve the tanar’ri. Rutterkin so hate their position that they wander the Abyss in solitude. There, they never attack any tanar’ri save for least tanar’ri. However, they savagely attack non-tanar’ri they see. Although the rutterkin are usually far too weak to stop intruders, these pathetic creatures try to gate in reinforcements, thereby spreading the alarm.
+
+Ecology: The nalfeshnee might create the rutterkin directly from the life forces of evil but incompetent beings who come before them for judgment. Rutterkin more truly represent chaos than their kin, for they are bound to no cause, have no society, and serve no master. Even the chasme ignore them.
+
+Ancient stories of the origin of the rutterkin say that many millennia ago, a race of humans in a distant corner of the Prime Material Plane experimented with plane and probability travel. These cerebral beings explored the Prime Material Plane and eventually expanded into the Inner and Outer Planes. When they discovered the Abyss, they were enslaved by the tanar’ri, who had never before encountered beings other than themselves. Originally, tanar’ri abuse changed the rutterkin into what they are, but now other types of creatures can become rutterkin as well.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Alu-Fiend
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Average to genius (8-18)
+Treasure:			Nil
+Alignment:			Chaotic evil (see below)
+No. Appearing:		1-2
+Armor Class:		5 (base; see below)
+Movement:			12, Fl 15 (D)
+Hit Dice:			2
+THAC0:				19
+No. of Attacks:		1
+Damage/Attack:		By weapon
+Special Attacks:	Magical weapon, spell use
+Special Defenses:	Magical armor, cold iron or +1 or better weapons to hit, intuition
+Magic Resistance:	30%
+Size:				M (5’ tall)
+Morale:				Steady (11-12)
+XP Value:	Normal: 4,000
+Genius (L1-4): 		5,000
+Genius (L5-12):		 6,000
+Alu-FiendAlu-fiends, the horrid female offspring of succubus and human, look like comely human females with attractive, powerful features. Only their sharp, upsloping eyebrows and wings indicate the truth.
+
+Alu-fiends usually communicate using telepathy, but can sometimes speak additional languages.
+
+Combat: Alu-fiends have an innate intuition that warns them of impending danger 75% of the time. They have no natural attack forms save fists and teeth (normal human damage). About 75% of them carry enchanted weapons, often gifts from their evil mothers. These weapons are most likely of common make (i.e. +1, +2, etc.), but there is a 15% chance for a special weapon. The fiend relies heavily on a special weapon and never willingly parts with it.
+
+Alu-fiends can restore their own bit points at the expense of their opponents. This requires a normal melee hit (1d8 damage, of which the alu-fiend gets half, rounded up).
+
+These creatures have base Armor Class 5, the heritage of their unnatural mother. Enchanted armor or protective items can improve the base AC. As with weapons, 75% of ah-fiends wear enchanted armor of common make (+1, +2, etc.). There is a 5% chance such armor is special (e.g. plate mail of etherealness, etc.).
+
+For both magical armor and weapons, choose appropriate items from the tables on pages 139-140 of the DMG.
+
+In addition to those available to all tanar’ri, all alu-fiends, regardless of intelligence, have the following spell-like powers: charm person, dimension door (once per day), ESP, shape change (to a humanoid form of approximately their own height and weight only), and suggestion.
+
+All alu-fiends have infravision to 240’. Alu-fiends are affected only by cold-wrought iron or magical weapons.
+
+Fully 10% of alu-fiends have Genius intelligence; they have all the spell-like powers of their sisters and are also actual mages. Genius alu-fiends are 1st- to 12th-level mages with full spell ability and can choose spells from any school. Genius alu-fiends are never specialist wizards.
+
+Habitat/Society: Alu-fiends tend to be hateful, even by tanar’ri standards, because of their dual nature. They view themselves as outcasts, neither human or tanar’ri. Other tanar’ri view them the same way, as lowly and without purpose. Only the alu-fiends’ power keeps them in contention as a lesser tanar’ri race.
+
+Ecology: If an alu-fiend can somehow hide her wings, she is mistaken for a human 70% of the time.
+
+Interestingly, about 20% of alu-fiends are chaotic neutral or true neutral in alignment. This usually occurs when a succubus mates with a non-evil human and the offspring retains a hint of her father’s morality.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Armanite
+2603
+
+Climate/Terrain:	The Abyss
+Frequency:			Rare
+Organization:		Troop
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Average (8-10)
+Treasure:			A,D,I
+Alignment:			Chaotic evil
+No. Appearing:		2d10
+Armor Class:		2
+Movement:			18, Fl 18 (C)
+Hit Dice:			5
+THAC0:				15
+No. of Attacks:		2 and 1
+Damage/Attack:		2d6/2d6 and by weapon type
+Special Attacks:	Spark bolts, crushing hooves
+Special Defenses:	Immune to poison, cold, and electricity
+Magic Resistance:	Nil
+Size:				L (10’ tall, 6’ at the haunches)
+Morale:				Champion (15-16)
+XP Value:			2,000
+Knecht:				 7,000
+Konsul:				 14,000
+Armanites resemble pale, undead centaurs with the horns of rams or bulls. They wear the full armor of knights. Their tails and the manes down their spines are stiff bristels, and the flesh on their bellies sags so much that older armanites sometimes look like gutted half-horses, dragging their entrails beneath them.
+
+Some breeds of armanite are more kangaroolike in their nonhuman half. Their front limbs are hands, capable of manipulating weapons and small items.
+
+All armanites wear black, fluted armor that seems more ornamental than functional. Because of their great strength, the armor is much heavier than ordinary armor and more effective than it might appear. Armanites are never without their weapons: flanged maces, wavy flamberge swords, and heavy crossbows or composite bows.
+
+Combat: Armanites are mobile shock troops in the Blood War, able to strike and retreat quickly. They travel in troupes loyal to a single leader. They depend on the rush and fury of their charges to preserve them rather than on tactics, spellpower, or careful timing.
+
+The armanites’ primary mode of attack is a set of withering strikes from their spiked hooves. On a roll of 20, an armanite can crush a shield (75% of the time the strike hits the shield) or a breastplate (25% chance), reducing AC by 1. Magical armor is entitled to a saving throw versus crushing blow.
+
+In addition, armanites can attack with the troupe’s weapon of choice, usually a horseman’s mace (20%), a two-handed sword called a flamberge (30%), a halberd (20%), a scimitarlike sabre (20%), or a lance and sabre (10%). Some troupes also carry heavy crossbows (10%) or short, recurved composite bows with wicked barbed arrows (20%, damage as +1 sheaf arrows). Armanites who have crossbows or bows can fire spark bolts. Just before these bolts are fired, they become magically charged by their contact with the amanites. If they hit, the spark bolts do 248 points of electrical damage, with a saving throw for half damage.
+
+Armanites can gallop into the skies once per day for a maximum of 1 hour. This form of flight allows them to gallop slowly up from the grounds, as if they were climbing an invisible hill. They must stay in motion once they start. Flying armanites cannot change direction quickly, but the assault of an aerial charge can be devastating on opposing groundbased troops.
+
+All armanites are immune to attack by weapons of less than +2 enchantment and are immune to poison, cold, and electricity, like all tanar’ri. They suffer 3d6 points of damage from holy water, 1d6 points from splashes. Armanites also have the abilities common to all tanar’ri types.
+
+Each pack of armanites always follows a single charismatic leader who rules through promises of plunder and threats of punishment. Called the Pathwarden or the Knecht, this leader has AC 0, 8 HD, Dmg 3d6/3d6, MV 21, and a 19 Strength. A Knecht can infuse not just his missile weapons but also his melee weapons with spark bolts each round. Packs that lose their leader roam without direction, destroying everything they meet until either they are destroyed or a new Knecht rises from among the ranks.
+
+The 24 known towns of the armanites are each ruled by a Konsul, a master of as many as a hundred packs. The Konsul has AC -3, 11 HD, Dmg 4d6/4d6, MV 24, and 20 Strength. In addition to charging spark bolts as Knechts do, all Konsuls can throw 11-HD lightning bolts three times per day. A few of the Konsuls are also spellcasters: they can be mages of up to 8th level, or priests of up to 5th level. Rumors claim that two or the Konsuls are multiclassed priest/mages. The known immobile towns are Amber, Basalt, Bloodstone, Bone, Clay, Cold Iron, Dark Spring, Gray Glass, Jade, Mageblood, Maroon, Obsidian, Ochre, Oxblood, Purpure, Silver Spike, and Steelshank. The seven remaining towns are the towns or the female armanites. These small encampments of tents, carts, and large, wheeled towers change their name whenever they move.
+
+Habitat/Society: Armanites are the mercenaries and scavengers of the Blood War, living by devouring the flesh and spirits of the fallen. They serve their masters well but expect plunder in return; failure to provide it results in desertion or rebellion, even on the eve of battle. Most herds of armanites specialize in a particular battlefield duty, such as scouting, foraging for quartermasters, skirmishing, archery, or the like. They never take part in sieges. Their reputation for fickleness is well earned; if they receive orders they don’t like, they simply leave.
+
+Female armanites number only half that of their male counterparts. The sexes are strictly segregated for most of their lives, for they inevitably fight among themselves if allowed to mix. Males and female herds only mingle during mating, which occurs after a successful battle against the baatezu. Young are herded along with the servants and camp folLowers until the seize weapons of their own from a fallen member of the troupe and slay an enemy, at which point they join the adults.
+
+Each armanite troupe carries an individual troupe banner and the banner of their current master or mistress, such as Graz’zt’s diagonal black-and-white slash or Pazrael’s golden talon on dark red. If the banner is lost in battle, the troupe disband to take up service in the household of one of the lords of the Plain of Infinite Portals or to attempt to join annother troupe. The banner is the symbol and unifying principle of each warband; without it, the armanites feud among themselves and soon their group falls apart.
+
+Because they operate well as independent groups, armenites are often selected to undertake special missions for the Abyssal lords. They are called the Dark Horsemen or the Dark Riders in the Upper Planes and are feared there. They are a common sight in Sigil as well, where they sometimes serve as bloodthirsty bodyguards.
+
+Ecology: Armanites devour the blood and spirits of their fallen foes, rendering them unresurrectablc, and some stories say that they prefer this sustenance to any other. Their favorite prey are varrangoin, baatezu, and yugoloths, in that order. Somc armanites take on rutterkin as grooms, smiths, riding auxiliaries, and servants, though this is rare. They despise all forms of least tanar’ri and abuse them mercilessly.
+
+Armanites prefer raucous, chaotic group combat to formal duels or feats of arms. They often brawl like warhounds in the halls and citadels of the tanar’ri, and provoking a fight with one armanite means a grudge match with the entire troupe. Armanites despise the bariaur and attack them on sight.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Bar-Lgura
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Uncommon
+Organization:		Pack
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Low to average (5-10)
+Treasure:			Nil
+Alignment:			Chaotic evil
+No. Appearing:		2-12
+Armor Class:		0
+Movement:			9, Climb 15
+Hit Dice:			6+6
+THAC0:				15
+No. of Attacks:		3
+Damage/Attack:		1d6/1d6/2d6
+Special Attacks:	Spring attack
+Special Defenses:	Camouflage
+Magic Resistance:	30%
+Size:				M (5’ tall)
+Morale:				Elite (13-14)
+XP Value:			8,000
+Bar-LguraThe bar-lgura are hulking, brutish creatures that roam the Abyss in small packs. They sometimes serve as scouts for armies in the Blood War.
+
+Bar-lgura look like orangutans. Their fur is a deep, red dish brown and their skin, where exposed, is grayish brown They have frightening visages and six digits per limb, sharp, wicked claws extending from each digit. They shamble along the ground using both arms and legs for movement, but prefer to move among trees, rafters, vines, etc., for they have increased movement there.
+
+Bar-lgura communicate using telepathy.
+
+Combat: Bar-lgura favor ambush tactics, springing forth at opponents from cover. Experts at camouflage, they change their coloration to that of their surroundings, chameleon-like. The transformation requires one complete round and acts as a thief’s hide in shadows ability (95%). They can spring up to 40’ and attack savagely in the same round.
+
+Bar-lgura attack in numbers, often trying to overwhelm a single unfortunate opponent with claws (1d6 damage) and bite (2d6 damage).
+
+In addition to those available to all tanar’ri, the bar-lgura have the following spell-like powers at 6th level of spell use: change self (twice per day), detect invisibility, dispel magic, entangle, fear (by touch), invisibility (twice per day), plant growth, spectral force (twice per day), and telekinesis. Once per day they can also attempt to gate in 1-6 additional bar-lgura with a 35% chance of success.
+
+Habitat/Society: Bar-lgura dislike other tanar’ri and prefer to hunt among their own kind. They obey only tanar’ri of obviously greater power than themselves, acting as scouts for the Blood War when commanded.
+
+In certain areas of the Abyss, the bar-lgura form tribes of 300 or more. These societies divorce themselves from the day to day dealings of the Abyss and form their own crude “government”, the only government in the Abyss. Tribal bar-lgura do not obey other tanar’ri, for their numbers protect them from the wrath of the true tanar’ri. Still, there are tales of a balor summarily laying waste to an entire tribe of rebellious bar-lgura.
+
+Ecology: Bar-lgura are not quite beasts, but are not terribly intelligent. They do not hate baatezu as do other tanar’ri. The closest thing to animals among the tanar’ri, they receive especially cruel treatment by more powerful tanar’ri when they get out of line.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Bulezau
+2613
+
+Climate/Terrain:	The Abyss
+Frequency:			Uncommon
+Organization:		Group
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Low-Average (5-10)
+Treasure:			A
+Alignment:			Chaotic evil
+No. Appearing:		3-12
+Armor Class:		-1
+Movement:			9
+Hit Dice:			7+3
+THAC0:				13
+No. of Attacks:		4 or 3
+Damage/Attack:		1d4+1/1d4+1/2d8/1d3 or 2d8/1d3 and weapon +6
+Special Attacks:	Head-butt, rage
+Special Defenses:	Struck only by +1 or better weapons
+Magic Resistance:	25%
+Size:				L (8’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			9,000
+Bulezau tanar’ri are born and bred to fight in the Blood War. With the exception of the vrocks, bulezau are the toughest front-line troops of the tanar’ri hordes. Bulezau are used as heavy infantry, assault leaders, and personal guards; they lack the mobility or magical prowess of a similar band of vrocks, but they’re strong and fearless bashers who’re too stubborn and stupid to ever give up.
+
+A bulezau resembles a minotaur, but it’s gaunt and skeletal, and its flesh is filthy and diseased. The creature isn’t covered with fur, but instead with patches of wiry bristles over battered, boil-covered skin. Its feet are clawed, not hoofed, and it has a long, serpentine tail with a clump of iron-hard spines at its end. The bulezau’s horns and head are more ramlike than bull-like, and its mouth is filled with small, needle-sharp fangs. Bulezau are often armed with great tridents, pole arms, or morning stars of wicked design.
+
+Bulezau can speak the common trade-jargon of the planes with difficulty or communicate with a weak form of telepathy at will. It’s a good idea for a cutter to make out like he understands the bulezau perfectly no matter how animallike its speech is, since it’s not a patient basher. If a bulezau decides it’s easier to tear the arms off a sod than talk to him it won’t wait long to act on its impulses.
+
+Combat: Bulezau are built for a fight. They can deal out raw damage just as well as many kinds of greater or true tanar’ri, but their chief vulnerability’s found in the hollow space between their ears. Strategy, discipline, and common sense’ve got no lace in the world of a bulezau, and if there’s anything dumber than a bulezau, it’s two of ’em together. ’Course, strength and energy’ll make up for a lot of failings of strategy, and that’s an approach bulezau are happy to take.
+
+Like all tanar’ri, bulezau suffer no damage from nonmagical fire, electricity, or poison. Cold, magical fire, and gas cause only half damage to a bulezau.
+
+Unarmed bulezau strike with each of their clawed forelimbs for 1d4+1 points of damage, deliver a powerful head-butt for 2d8 points of damage, and lash out with their bristly tails for another 1d3 points of damage. If the bulezau rolls a natural 19 or 20 with its head-butt, it knocks a man-size or smaller opponent back 5 to 10 feet (d6+4) and stuns the sod for 1 to 3 rounds. If the bulezau’s armed, it substitutes the weapon attack for its claw attacks. Bulezau weapons’re huge (size H) and inflict double normal damage, +6 for the creature’s Strength. A bulezau fighting with a morning star’ll do 4d4+6 points of damage with a hit. The bulezau can also butt and lash with its tail in the same round.
+
+Once a bulezau’s in a fight, it’s likely to go berserk. There’s a 25% chance each round that it goes on a rampage of destruction, refusing to stop until either it or its opponent is dead. This rises to a 75% chance in a round in which bulezau takes damage without managing to hit its foe. (They don’t take failure well.) A berserk bulezau’s Armor Class falls to 1, since it ignores any defensive tactics whatsoever, but it gains a +2 bonus to all attack rolls. While berserk, the bulezau gains a +4 bonus to its saving throws versus any fear, emotion, or mind-affecting spells, including hold monster and the like. The bulezau doesn’t recover from its rage until all opponents are dead, routed, or the bulezau’s been unable to engage in melee for 5 rounds or more.
+
+In addition to the powers common to all tanar’ri, bulezau can use the following spell-like abilities (at will unless otherwise specified) at the 7th level of ability: cause fear, command, detect invisibility, shout (1/day), and wall of fog. Bulezau can be injured only by cold iron or weapons of +1 or better value. Once per day they can attempt to gate 1 to 3 rutterkin (40%) or 3 to 12 dretches (60%) with a 25% chance of success.
+
+Habitat/Society: Bulezau are quarrelsome, bullying creature that often fall into lethal disagreements with each other. Only the authority of a powerful greater or true tanar’ri can keep them from each other’s throats, and even then only if the promise of battle is near. Bulezau live for combat, and regard all other activities as a waste of time. They make poor pickets, sentries, or scouts since they’ve got no patience for waiting around or attempts at stealth — if a bulezau sees an enemy, it charges, and if it doesn’t see an enemy, it goes looking for one.
+
+Bulezau may be difficult troops to keep control of, but they’re very good at what they do. Once committed to a battle, they hold nothing back and plunge into the thick of the fight with reckless abandon. For a tanar’ri commander, the bulezau are a slavering band of maniacs that’ll attempt any attack and never retreat, no matter how long the odds are. Loyalty of that kind is hard to find in the Abyss, even if it’s uncontrollable bloodlust instead of iron discipline.
+
+Tanar’ri commanders’ve long recognized that it’s a good idea to keep bulezau near the war front. They’re just too stupid and aggressive to remain in a noncombat situation for long.
+
+With a strong and charismatic commander, bulezau can hold themselves in check — just barely. High-ups in the Abyss sometimes create a ruthless and fanatical guard of bulezau, deciding that it’s worth the headaches to have such capable and loyal (for tanar’ri) fighters at their back and call.
+
+Ecology: It’s rumored that the tanar’ri lord Baphomet, the patron demipower of minotaurs, was responsible for the creation of the bulezau. The chant goes that Baphomet bred his minotaur servants with some of the tanar’ri in his service, but there’s no way to know if this’s a peel or not. It’s also said that Baphomet maintains a bodyguard of fierce bulezau of unusual loyalty and discipline.
+
+Bulezau are generally well-regarded by tanar’ri of higher station, since bulezau pursue the Blood War with so much enthusiasm that a more subtle tanar’ri can drop out of sight when they’re around. Tanar’ri commanders place a high value on bulezau formations and go out of their way to gather such units when possible. On the other hand, less powerful tanar’ri rarely want to be anywhere near a bulezau since the creature’s likely to fly off into a murderous rage at the least provocation, regardless of the consequence. There’ve been engagements where more dretches and rutterkin were lost to bulezau impatience than to baatezu action.
+
+Bulezau’ve got a bitter rivalry with vrocks, and encounters between the two almost always break out into a fight unless there are baatezu nearby to deal with.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Cambion
+2118 • 2602
+
+					Major			Baron/Marquis
+Climate/Terrain:	The Abyss		The Abyss
+Frequency:			Very rare		Very rare
+Organization:		Solitary		Solitary
+Activity Cycle:		Any				Any
+Diet:				Carnivore		Carnivore
+Intelligence:		Average to exceptional (9-16)	High to genius (13-18)
+Treasure:			R,C				Z,A
+Alignment:			Chaotic evil (see below)	Chaotic evil (see below)
+No. Appearing:		1				1
+Armor Class:		6				2
+Movement:			15				15
+Hit Dice:			4				6
+THAC0:				17				15
+No. of Attacks	:	2				2
+Damage/Attack:		By weapon		By weapon
+Special Attacks:	See below		See below
+Special Defenses:	See below		See below
+Magic Resistance:	30%				30%
+Size:				M (6-7’ tall)	M (6-7’ tall)
+Morale:				Elite (13-14)	Elite (13-14)
+XP Value:			4,000			6,000
+CambionIn the event that a tanar’ri mates with a human female, the resulting offspring is a cambion. The type sired depends on its parentage: a lesser or greater tanar’ri fathers a major cambion, whereas a true tanar’ri fathers a Baron/marquis. In either case, the mother does not survive the birth.
+
+Cambions are ugly and terrifying. They are humanoid, but have pitch-black, slightly scaly skin covered with pockmarks; sharply pointed ears: and mouths filled with crooked, sickly fangs. Cambions often adorn themselves with spiked armor and weapons. They can communicate using telepathy.
+
+Cambions have ability scores like characters. The range is determined by the type of cambion:
+
+Major	Baron/marquis
+Strength	17-18	18-20
+Dexterity	13-18	15-20
+Constitution	13-18	15-18
+Intelligence	9-16	13-18
+Wisdom	5-8	13-18
+Charisma	1-6	2-24
+Charisma scores over 18 indicate the cambion is considered charming. Charming cambions can, at will, produce a reaction identical to a charm person spell.
+
+Combat: Cambions have keen senses and are never surprised. Cambions use ornate weapons and armor. Many have a magical weapon (75% chance), most likely of common make (i.e. +1, +2, etc.), but 15% likely to be special (referee's choice). Magical armor is likely (75% chance), most likely of common make (+1, +2, etc.), but also 15% likely to be special.
+
+In addition to those available to all tanar’ri, cambions have one to four of these spell-like powers: detect magic, fear (by touch), levitate (7 times per day), and polymorph self (3 times per day). Any cambion with 16 or higher Intelligence has wizard abilities. They have spells as wizards of a level equal to their Hit Dice (major 4th level, baron/marquis 6th level) and a randomly determined spellbook.
+
+As stealthy as thieves, they can climb walls (95%), hide in shadows (80%), and move silently (80%) in bulky metal armor without penalty.
+
+Habitat/Society: Cambions, like alu-fiends, are freaks and outcasts. Never accepted in human society and only poorly tolerated in the Abyss, they feel bitter and hateful towards all things.
+
+However, their stealth and detachment make them excellent assassins. The balors use them as personal bodyguards and advisors. Most cambions overcome their bitterness and take pnde in serving so high a power.
+
+One in ten cambions is not chaotic evil, but neutral or even good, because its human mother was of good alignment. These wretched creatures are doomed to a miserable existence as lone wolves because they are rarely accepted by a good-aligned community.
+
+Ecology: Evil cambions serve in the Blood War as assassins.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Maurezhi
+2613
+
+Climate/Terrain:	The Abyss
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Average-Genius (8-18)
+Treasure:			B
+Alignment:			Chaotic evil
+No. Appearing:		1 (1-4 in the Abyss)
+Armor Class:		5 (base)
+Movement:			12, Jp 3
+Hit Dice:			5 to 5+8
+THAC0:				15
+No. of Attacks:		3
+Damage/Attack:		1d6/1d6/2d4
+Special Attacks:	Leap, assume shape
+Special Defenses:	Struck only by + 1 or better weapons
+Magic Resistance:	40%
+Size:				M (6’ tall)
+Morale:				Steady (11-12)
+XP Value:			Unimproved: 2,000
+					Mature: 6,000
+The maurezhi are a plague in the worlds beyond the Abyss, a scourge of evil that taints any plane it seeps onto. Maurezhi prey on mortals, spreading chaos and evil through their fearsome appetites. Like the nabassu, maurezhi gain strength with each mortal they devour — but instead of absorbing mortal life forces, the maurezhi feed upon corpses, stealing portions of their victims’ memories, skills, and appearance.
+
+A maurezhi hears a strong resemblance to a common ghoul. Its posture is hunched and feral, its skin gray and leathery, and its hands filthy talons. The maurezhi’s face slopes into a short, fang-filled muzzle, and its ears are catlike. Maurezhi leap and caper in sudden, unpredictable movements when excited or angered. They can communicate by means of telepathy, but the only sounds their rattling bone-boxes can make’re gibbering howls, grunts, and shrieks.
+
+Maurezhi seek opportunities to slay and devour mortals wherever they can find ’em. Most maurezhi’re doomed to serve as marauders and skirmishers in the Blood War, but a few find ways to escape onto the Outlands or the Prime and begin a career of bloody murders and vile feasts.
+
+Combat: Maurezhi enjoy stalking and terrifying their victims. They prefer a sudden surprise attack to a head-on challenge, but they’re not afraid of a fight. They strike with each of their filthy claws for 1d6 points of damage and rend with their slavering jaws for 2d4 points of damage. Maurezhi can make lightning-swift leaps to close with their prey, gaining a +2 bonus to their first round of attacks. If the creature strikes from concealmeant this way, the victim suffers a -2 penalty to his surprise check. Regardless of its current ability scores, a maurezhi saves as a 10-HD monster.
+
+Like nabassu, maurezhi grow stronger and more dangerous with their voracious feedings. For each human or human corpse a maurezhi consumes, it gains 1 bonus hit point, its Armor Class improves by one place from its base, and the damage of each claw attack increases by 1 point to the maximum allowable of 5+8. A maurezhi that’s consumed five bodies has 5+5 Hit Dice, an AC of 0, and inflicts 1d6+5 points of damage with its claws.
+
+In addition, the maurezhi’s able to call upon the memories of any victim it’s consumed and assume its appearance at will. Normally, only a true seeing spell or similar magic reveals the maurezhi’s identity, but some bloods say that a faint odor of death lingers near a maurezhi masquerading as one of its victims. The maurezhi can use any physical talent its victim possessed, including the use of weapons the victim was proficient in, proficiences such as endurance, jumping, or tumbling, and thief skills. It can’t utilize magical abilities such as spells or some class-related abilities such as a paladin’s aura of protection from evil. Maurezhi can speak while in assumed form, and know all the languages the victim did.
+
+Maurezhi can use the following spell-like powers (at will unless otherwise specified) at the 6th level of ability: blur, cause fear, chill touch, paralysis by touch (3/day), and summon 1d4 ghouls (1/day) A full-grown maurezhi (one with 5+8 Hit Dice) gains the additional powers: animate dead, fear (3/day), hold person, and invisibility. Once per day a maurezhi can attempt to gate 2d4 manes with a 60% chance of success. Maurezhi can be struck only by cold iron or +1 or better weapons.
+
+Habitat/Society: Maurezhi live only to consume the most powerful and intelligent mortals they can find. They’re especially fond of waylaying lone travelers or adventurers, consuming them, and then assuming their appearance and using their acquaintances to seek out another victim while concealing the disappearance of the previous one. Between suitable victims, maurezhi’re fond of haunting graveyards and barrows, sating their taste for the flesh of mortals.
+
+Most maurezhi aren’t given much of a chance to begin their growth in this fashion, though. They’re frequently recruited by the babaus or hezrous and sent to fight in the Blood War. In the Abyss, a typical maurezhi’s never had the chance to consume a human. However, a small percentage of maurezhi encountered in the Abyss will be full-grown creatures that’ve completed their expedition and returned to the Abyss at the peak of their power. These tanar’ri function as assassins and spies, roaming the Lower Planes to keep an eye on the baatezu war efforts.
+
+The DM can decide what kinds of sods the maurezhi’s already consumed and what they may or may not have known. Whenever possible, maurezhi seek out and consume mortals of exceptional skill and power. Each previous victim can be determined using the chart below:
+
+d%	Victim
+01-40	0-level character (possible proficiencies, identity, or information gained by the maurezhi)
+41-65	Warrior of level 1-8 (possible improved THAC0, weapon specialization, tracking, or ranger skills)
+66-70	Wizard of level 1-6
+71-80	Priest of level 1-8
+81-95	Thief of level 1-10 (with appropriate thief abilities)
+96-00	Bard of leyel 1-8 (with appropriate thief and non-magical bard abilities)
+A maurezhi begins with average Intelligence, but each victim it consumes adds 1-2 points to its basic Intelligence rating if the victim was more intelligent than the maurezhi. As noted before, the memories and skills of each of their victims are available to the maurezhi, and it’s possible for the fiend to have very unusual or rare secrets in its head.
+
+Ecology: Although maurezhi devour all kinds of carrion and corpses on a daily basis, this doesn’t increase their power. To consume a corpse, the maurezhi must personally kill the victim and devour him or her within one turn (10 minutes) of the murder. The grisly process requires no less than half an hour, and if the fiends interrupted, it can’t completely consume its prey. A character who’s been thus consumed can’t he raised or resurrected, and can be returned to life only with a very carefully worded wish.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Succubus
+2118 • 2602
+
+Climate/Terrain:	The abyss
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Exceptional (15-16)
+Treasure:			I,Q
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		0
+Movement:			12, F1 18 (C)
+Hit Dice:			6
+THAC0:				15
+No. of Attacks:		2
+Damage/Attack:		1d3/1d3
+Special Attacks:	Energy drain
+Special Defenses:	+2 or better weapons to hit, immune to fire, never surprised
+Magic Resistance:	30%
+Size:				M (6’ tall)
+Morale:				Elite (13-14)
+XP Value:			11,000
+SuccubusBeautiful and seductive, the succubi are the temptresses of mortals. Whereas the glabrezu tempt men of power, the succubi choose men of passion and energy.Succubi appear most often polymorphed into stunningly beautiful women with perfect figures and smooth, milky skin. They may also appear as any demihuman race. However, they do not often deal with demihumans, because humans’ fiery nature makes them easier prey.
+
+Succubi look more tanar’ric in their true form: that of a beautiful woman with large wings and sinister, glowing eyes.
+
+Succubi can speak the language of their victims. They also communicate using telepathy.
+
+Combat: Succubi are never surprised. They are not warriors. When pressed, they defend themselves, but flee when possible. When trapped, they can attack with two fists (1d3 damage each).
+
+Succubi are affected only by +2 or better weapons. They are immune to all fire-based attacks, magical or otherwise.
+
+The kiss of a succubus drains energy from its victim, causing the loss of one level of life energy. The succubus lures a mortal man into activities of passion and then drains energy from him. Even after a drain, the heat of the moment is so strong that most men do not notice (Wisdom check at -4 penalty to notice each drain). If he fails the check, he continues, heedless of danger.
+
+In addition to those available to all tanar’ri, succubi also have the following spell-like powers: become ethereal (as if using oil of etherealness), charm person, clairaudience, ESP, plane shift, shapechange (to a humanoid form of about their own height and weight), and suggestion. They can also attempt to gate in 1 balor once per day with a 40% chance of success.
+
+Habitat/Society: The temptresses of the Lower Planes are subtle and slow. They seduce mortals with their charms, ultimately killing them and taking their life forces to the Abyss.
+
+Succubi act independently of tanar’ri society. They work of their own volition and ultimately answer to no one. The greater and true tanar’ri seem content with this situation.
+
+Ecology: The destruction of mortals increases the power of the Abyss. With this power the succubi aid the eternal war effort of the tanar’ri, who therefore tolerate them.
+
+Incubus
+
+lncubi are the male counterparts to succubi, but they are far less common. These creatures travel to the Prime Material Plane to tempt female mortals. These creatures always appear as the most perfect male specimen of whatever race they are tempting. However, succubi and incubi do not mate to perpetuate their kind.
+
+It is uncertain why there are more succubi than incubi. Sages suggest that mortal men are far more susceptible to the temptations of beauty than are women.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Uridezu
+2173 • 9444
+
+Climate/Terrain:	The Abyss and Prime Material Plane
+Frequency:			Very Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Low (5-7)
+Treasure:			Nil (B, Prime Material Plane)
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		0
+Movement:			18
+Hit Dice:			7
+THAC0:				13
+No. of Attacks:		3
+Damage/Attack:		1d8/1d8/2d6
+Special Attacks:	Paralysis, command rats
+Special Defenses:	Never surprised, immune to sleep and cold-based spells, cold iron or magical weapons to hit
+Magic Resistance:	Nil
+Size:				M (6’ tall)
+Morale:				Steady (11-12)
+XP Value:			3,000
+UridezuUridezu, called rat-fiends are hulking, man-sized creatures resembling leprous, muscular hunch-backed rodents walking on two short legs. They inhabit the Abyss, where they serve the various tanar’ri. Highly resistant to the effects of other planes, rat-fiends are often sent on errands by powerful tanar’ri. Their services may also be awarded to favored allies on other planes, or they may be compelled to service by powerful wizards. On occasion, they are stranded on the Prime Material Plane, where they can terrorize entire communities.
+
+When encountered in the Abyss, rat-fiends have no treasure. Those rat-fiends that set up lairs on the Prime Material Plane accumulate treasure, both from victims and in the form of loot brought by their rat-servitors. Rat-fiends’ lairs on the Prime Material contain Treasure Type B.
+
+Marginally intelligent, rat-fiends are capable of carrying out simple commands, and are bright enough to change tactics or flee if they are threatened with destruction. A rat-fiend’s body is maintained on planes other than the Abyss by its life energies. If killed on another plane, a rat-fiend’s body will completely disintegrate within five minutes of its death.
+
+Combat: Rat-fiends slash with their claws and bite with their sharp incisors. Victims struck by a rat-fiend’s bite attack must save vs paralyzation or be paralyzed for 2-8 hours. Paralyzed victims may be carried off by the rat-fiend, who will then take them back to its home plane.
+
+Although they are vulnerable to other attacks, rat-fiends are completely immune to sleep spells and cold-based enchantments such as cone of cold, ice storm and the like. In addition rat-fiends never roll for surprise. Like other tanar’ri, they have infravison and can create darkness 15’ radius. They are immune to electrical attacks, normal fire, and poison. They take half damage from magical fire and gasess. A rat fiend has a 40% chance to gate in its masters, although this is often worse for the uridezu than for any foes it might face.
+
+Apparently created from magically-mutated or particularly ferocious rodent-like creatures of the Abyss, rat-fiends retain a connection to the rats of the Prime Material Plane. A rat-fiend can command 2-12 normal or 1-6 giant rats to do its bidding, but only in areas where rats are normally found; in other areas, a rat-fiend is on its own.
+
+Rat-fiends are highly vulnerable while returning to their home plane, for they must remain stationary for 3-12 turns and not be disturbed. For this reason they usually arrive on or leave the Prime Material Plane at an isolated area where they will not be disturbed.
+
+Habitat/Society: Rat-fiends serve higher-level tanar’ri such as balor, succubi and glabrezu as slaves, servitors, messengers, and assassins. They are very low on the Abyss’s social ladder, abused and tormented by other tanar’ri. Particularly accomplished rat-fiends are treated well by powerful tanar’ri lords as long as they continue to be useful. Old or unsuccessful rat-fiends often find themselves served up as dinner by their masters.
+
+Because they are so ill-treated on their home plane, rat-fiends prefer traveling to other locales such as the Prime Material Plane, where they are sometimes found as familiars or servants of powerful spellcasters. Tanar’ri sometimes loan rat-fiends to mortal servants or allies, but such individuals are often incompetent or quarrelsome.
+
+Ecology: Rat-fiends are unnatural creatures, and act as predators or scavengers when on the Prime Material Plane, sometimes setting up lairs in urban areas and preying on local animals and unfortunate inhabitants. In such cases, they usually dwell in ruins, cellars, slums, or other regions with large numbers of rats, using their rodent-control abilities to command local creatures to do their bidding. Such rats act as scouts and bodyguards for their masters, scavenging for their own food.
+
+In the Abyss, rat-fiends who do not serve other tanar’ri are scavengers by nature, filling a niche similar to that of ordinary rats on the Prime Material Plane. They are a constant nuisance, lurking in shadows, grabbing scraps of food and attacking rutterkin, dretch, and other low-level tanar’ri.
+
+=========================================================================================================================
+Tanar’ri, Lesser, Yochlol
+2613
+
+Climate/Terrain:	The Abyss
+Frequency:			Very rare
+Organization:		Group
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		High (13-14)
+Treasure:			None
+Alignment:			Chaotic evil
+No. Appearing:		1-4
+Armor Class:		10 (4 as spider)
+Movement:			12, Wb 6 as spider
+Hit Dice:			6+6
+THAC0:				15
+No. of Attacks:		8 (1 as spider or humanoid)
+Damage/Attack:	1	d4+4 ×8
+					1d8 as spider
+					By weapon +4 as humanoid
+Special Attacks:	Poison (spider), psionics
+Special Defenses:	Struck only by +2 or better weapons
+Magic Resistance:	50%
+Size:				M (6’ tall)
+Morale:				Champion (15-16)
+XP Value:			11,000
+Psionics Summary
+Level	Dis/Sci/Dev	Attack/Defense	Score	PSPs
+6	1/3/10	MT,II,EW/All	14	90
+Telepathy — Sciences: domination, mind link, probe; Devotions: attraction, contact, ESP, invisibility, phobia amplification, psionic impersonation.
+
+YochlolLolth, the Queen of Spiders, is one of many powers that call the Abyss home. Her infinte maze of black webs fills an entire layer. Whiel Lolth is preoccupied with the affairs of drow throughout the multiverse, she doesn’t ignore the balance of power within the Abyss. The yochlol are her servants in her home layer and her agents on the Outer Planes. No other type of tanar’ri has such a close relationship with a power that inhabits the Abyss; in fact, the yochlol are known as the Handmaidens of Lolth in some circles.
+
+In their natural form, the yochlol bear a passing resemblance to a roper or an alkilith — they’re man-size heaps of amorphous slime, with eight powerful tentacles and a single, glaring, red eye. However, they can also assume the form of beautiful young woman of human or elven race (usually drow), or take the form of a giant black spider. Like alkiliths, yochlol can assume gaseous form, taking the shape of a small stinking cloud. Some bloods’ve guessed that Lolth chose her handmaidens from the most suitable tanar’ri at hand and modified them for her own purposes, but there’s no way to prove this short of a trip to the Abyss. It’s not surprising that most sages’re happy to leave this particular question unanswered.
+
+Yochlol stand apart from the common tanar’ri causes, existing only to serve their dark mistress in whatever tasks she sets before them. They couldn’t care less about the Blood War. The only part of the Abyss where the yochlol are common is in Lolth’s pits; they don’t leave their home layer except when Lolth commands them to, and even then they’re more likely to be sent to the Prime than any other part of the Abyss.
+
+Combat: Yochlol’ve got no fewer than four different body forms, and possess different powers and vulnerabilities in each. In the Abyss, they’re most commonly found in their amorphous or natureal state. In the Outlands or the Prime, yochlol prefer to travel in their humanoid or spider shapes. Regardless of their shape, yochlol can be struck only by cold iron or weapons of +2 or better enchantment. They’re immune to nonmagical fire, gasses, poison, and electricity and take only half damage from magical fire or cold.
+
+In their natural amorphous forms, yochlol are AC 10. They can attack with each of their 8 tentacles, striking for 1d4 points of damage each, +4 for the yochlol’s Strength.
+
+In spider-form, yochlol can move freely in weby, have an AC of 4, and can attack once per round for 1d8 points of damage. As spiders, their poisonous bite immediatly kills their victim unless he or she succeeds with a saving throw vs. poison.
+
+In human form, yochlol are AC 10 but often use chain or plate mail of drow make to improve their Armor Class. They favor weapons used by drow, including short swords, hand crossbows, and javelins. Yochlol retain their 18/51 Strength rating in humanoid form, and strike with a +2 attack bonus and inflict +4 points of damage with whatever weapon they use.
+
+Last but not least, yochlol can assume gaseous form, creating a stinking cloud roughly 10 feet tall and 5 feet in diameter. Yochlol can’t use any physical attacks or spell-like abilities in this form, but they can make use of their psionic powers. In gaseous form, yochlol are immune to all physical damage and can be injured only by magical cold, magical fire, or magic missiles. A gust of wind spell inflirts 6d6 points of damage to a yachlol in this form, and a wind walk spell slays the yochlol instantly with no saving throw or magic resistance check.
+
+Yochlol’ve got the spell-like powers common to all tanar’ri, and can also use the following abilities at will as 6th-level spellcasters: charm person, spider climb, stone shape, and web. Yochlol also command modest psionic powers, as shown above. Generally, a yochlol’ll carefully evaluate a situation and decide if its mistress’s interests are best served through a deceptive approach of misdirection and subtlety, or a naked show of force. In the first instance, the yochlol hides its true form and uses its beauty and charm to beguile its opponents; in the latter case, it shows itself in its true form.
+
+Habitat/Society: As Lolth’s chosen servants, yochlol are not well-liked by other tanar’ri, but they are guaranteed free passage in the layers controlled by most Abyssal Lords. Even a demipower such as Demogorgon or Graz’zt prefers not to aggravate the Spider Queen needlessly, and interfering with Lolth’s handmaidens is a quick way to draw her attention. A cutter who meets a yochlol somewhere other than Lolth’s webs usually finds that the creature’s too busy with the Spider Queen’s business to bother with him.
+
+’Course, things’re a lot different if the cutter himself is Lolth’s business.
+
+Yochlol cooperate with each other surprisingly well. They’re unswervingly loyal to Lolth and place her interests before their own — a rare characteristic in creatures of chaos and evil. It’s been suggested that the Spider Queen maintains some kind of charm or control over her minions to ensure their continued loyalty, but it’s more likely that the yochlol are terrified of what their might do to a cross-trader or stag-turner.
+
+Ecology: The chant’s that Lolth personally creates each of her handmaidens. but this ain’t true. The yochlol are recruited from the numberless ranks of least tanar’ri and subjected to unspeakable ceremonies and torture to win their elevated station. It’s worth noting that some yochlol may be far more powerful and important than typical, since Lolth rewards those who serve her well.
+
+=========================================================================================================================
+Tanar’ri, Guardian, Molydeus
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		High to exceptional (15-16)
+Treasure:			Nil
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		-5
+Movement:			15
+Hit Dice:			12
+THAC0:				9
+No. of Attacks:		3
+Damage/Attack:		2d6/1d6/battle axe (2d10+5)
+Special Attacks:	Vorpal and dancing battle axe, poison
+Special Defenses:	Cold iron weapons to hit, never surprised
+Magic Resistance:	90%
+Size:				H (12’ tall)
+Morale:				Fearless (19-20)
+XP Value:			21,000
+MolydeusThe only guardian tanar’ri, the molydeus enforces the war effort as a sort of political officer.
+
+Molydei are powerful, muscular humanoids with dark red skin. They could be mistaken for giant red men, except for their two grotesque heads. One is a snarling dog’s head that misses nothing in front of it. The other, a long prehensile snake head, observes everything that happens behind it. These creatures carry ornate twin-bladed battleaxes.
+
+Molydei have a form of ESP that lets them communicate with intelligent creatures and read the thoughts of others.
+
+Combat: A molydeus is never surprised. It attacks fearlessly and seldom retreats. Its enchanted axe inflicts 2d10 damage per hit and is +5 to both attack and damage rolls. The axe has the powers of a vorpal weapon and a dancing sword.
+
+Molydei also attack with both heads. The dog head inflicts 2d6 damage; the snake head does ld6 damage and injects a powerful venom (save vs. poison or transform into a manes in 1d6 turns). A neutralize poison spell followed by remove curse eliminates the poison. Once transformed, the victim is beyond restoration, short of divine intervention or a very carefully worded wish.
+
+In addition to those available to all tanar’ri, a molydeus has the following spell-like abilities: affect normal fires, animate object, blindness, charm person or mammal, command, Evard’s black tentacles, fear, improved invisibility, know alignment, lightning bolt (7 times per day), polymorph other, sleep, suggestion, true seeing (always active), and vampiric touch. Molydei can also gate in 1 molydeus, 1-2 chasme, or 1-4 babau once per hour with a 35% chance of success.
+
+Molydei are immune to damage by most normal or magical weapons. Only cold-wrought iron weapons and magical spells can affect these creatures.
+
+When a molydeus dies, its axe disappears. The only way to get this powerful weapon is to take it from a living molydeus. A molydeus does not rest until it recovers its weapon, stalking the thief day and night without end until the axe is recovered and the thief horribly killed.
+
+Habitat/Society: The molydei are the greatest enigma in the Abyss. These powerful police wander the layers of the Abyss and search for true tanar’ri that stray from the cause of the Blood War. They report directly to the balors, but even balors are not above reproach, and the molydei would turn against one that strays.
+
+Ecology: By enforcing the loyalty of the true tanar’ri, the molydei play an important role in the Blood War. These creatures exist only to serve the cause. They have no loyalty towards any tanar’ri and will try to destroy any of them at the slightest sign of infidelity. They do not enforce their doctrine on nontrue tanar’ri, for they assume that these are all disloyal by nature, and that only constant threats and punishments keep them in line.
+
+=========================================================================================================================
+Tanar’ri, Greater, Babau
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Uncommon
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Genius (17-18)
+Treasure:			D
+Alignment:			Chaotic evil
+No. Appearing:		1 (rarely: 1-2)
+Armor Class:		-3
+Movement:			15
+Hit Dice:			8+14
+THAC0:				13
+No. of Attacks:		1 or 3
+Damage/Attack:		2d4+1/1d4+1/2d4 or by weapon +7 (Strength bonus)
+Special Attacks:	Corrosion, gaze, backstab
+Special Defenses:	+1 or better weapons to hit, thief abilities
+Magic Resistance:	50%
+Size:				M (7’ tall)
+Morale:				Champion (15-16)
+XP Value:			17,000
+BabauBabaus are greater tanar’ri that roam the layers of the Abyss recruiting lesser and least tanar’ri for the vast armies of the Blood War. They look like tall skeletons covered with dark, form-fitting leather. A great horn protrudes from the back of their skulls. Babaus have long, wicked claws covered with dirt, blood, and decaying flesh. Their movements are very quick, sharp, and mechanical, emphasizing their alien nature.
+
+Babaus communicate using telepathy.
+
+Combat: Any creature who meets a babau’s glowing red gaze must save vs. spells or be affected as by a ray of enfeeblement. Gaze range is 20’. The gaze affects one opponent per round, in addition to normal attacks. Babaus are immune from attacks by nonmagical weapons.
+
+Babaus can use any weapon they find. They have enchanted and magical weapons 20% of the time (determine magical weapon randomly). Babaus have Strength 19 and gain a +7 damage bonus.
+
+Babaus attack with two claws (1d4+1 damage each) and their sharp horn (2d4 damage). Babaus are intelligent and prefer other means of attack, but they fight fiercely unarmed when necessary.
+
+Babaus generate a slick, dark red substance that covers their bodies. This slippery jelly halves damage from all slashing and piercing weapons (type S and P), and it has a corrosive quality. It has a 20% chance per hit of corroding a metal weapon. Normal metal weapons must save vs. acid with each hit or corrode and become useless. Magical metal weapons lose one “plus”. Further, if the liquid comes into contact with exposed flesh (during grappling attacks or other contact), it burns for 1d6 of acid damage.
+
+In addition to those available to all tanar’ri, babaus have the spell-like powers dispel magic, fear, fly, heat metal, levitate, and polymorph self. Once a day they can attempt to gate in 1-6 cambions or 1 babau with a 40% chance of success. There is also a chance that a true tanar’ri comes to the aid of a babau in trouble (see below).
+
+Babaus have the abilities of a 9th-level thief (pick pockets 30%, open locks 30%, find/remove traps 25%, move silently 95%, hide in shadows 80%, detect noise 35%, climb walls 90%, read languages 30%, backstab (×4)).
+
+Habitat/Society: Other tanar’ri hate babaus because they roam around recruiting for the vast Abyss armies. To escape service, numbers of lesser tanar‘ri sometimes gang up on a pursuing babau and try to kill it. However, the babau defend themselves well.
+
+True tanar’ri have close ties with babaus. If a babau is attacked, a true tanar’ri (randomly determined) is 20% likely to notice and come to its aid — not through any sense of loyalty, but rather to further the Blood War. This causes the lesser tanar’ri to fear babaus even more.
+
+Ecology: According to the true tanar’ri (presumably among the greatest powers of the Abyss), the only purpose of the lesser and least tanar’ri is to fight in the Blood War. Because the babaus are the grim recruiters of those armies, they are integral to the Abyss and important in the Blood War.
+
+=========================================================================================================================
+Tanar’ri, Greater, Chasme
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Common
+Organization:		Group
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Average to very (8-12)
+Treasure:			Nil
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		-5
+Movement:			6, Fl 24 (D)
+Hit Dice:			8+2
+THAC0:				13
+No. of Attacks:		3
+Damage/Attack:		2d4/2d4/1d4
+Special Attacks:	Terror, sleep drone, wounding
+Special Defenses:	See below
+Magic Resistance:	50%
+Size:				M (7’ long)
+Morale:				Champion (15-16)
+XP Value:			14,000
+ChasmeWretched and horrifying, the chasme travel the layers of the Abyss in search of tanar’ri that evade participation in the Blood War.
+
+The chasme are abominable crosses between human and fly: the body of a giant fly with unnatural human arms in place of forelegs and a vaguely human head. Their mouths are tiny, but their sharp, horn-like noses can bite and draw blood. These creatures can walk on floors, walls, and ceilings as they wish.
+
+Chasme communicate using telepathy.
+
+Combat: Anyone viewing a chasme must save vs. spells or flee in terror for 1-4 hours.
+
+The chasme live to fight. Their physical attacks consist of a claw/claw/nose routine (2d4/2d4/1d4 damage). Claw wounds bleed profusely for 2 hp damage per round until magically healed (cure light wounds, etc.).
+
+Chasmes buzz in a rasping voice. Living creatures who hear this drone must save vs. spell or fall into a comatose sleep. Sleeping victims must be splashed with water or vigorously stimulated to wake up. Otherwise, sleep persists for 2d4 hours or until the chasme starts to drain the victim’s blood (1d4 hp per round). A creature can be affected by this power only once per encounter.
+
+In addition to those available to all tanar’ri, chasmes have the following spell-like powers at 8th level of spell use: detect good (always active), detect invisibility (always active), insect plague, ray of enfeeblement, and telekinesis. Three times per day a chasme can try to gate in the following: 2-20 manes, 2-5 cambion, or 1 chasme. There is a 40% chance of success.
+
+Habitat/Society: The chasme act as the punishers of the tanar’ri. They travel the Abyss to punish those who do not fight in the Blood War. This punishment is, of course, lingering, painful death.
+
+How the chasme spot Blood War evaders is a mystery. Although tanar’ri as a race are not psychically aware, perhaps these creatures have a psychic power that lets them read the thoughts or emotions of tanar’ri. If this ability extends to non-tanar’ri (a matter for speculation), these monsters would indeed be fearsome opponents.
+
+In return for this duty, the chasme avoid going to the “front lines” to fight in combat formations. Instead they fill those ranks with other hapless tanar’ri. This makes them extremely unpopular among the tanar’ri, who often attack chasme on sight. Only their power and the backing of the true tanar’ri protect the chasme from annihilation.
+
+Note, however, that the destructive activities of the chasme do not affect the war effort, for the fiends of the Abyss are nearly infinite.
+
+Ecology: Chasme reproduce from eggs. Any adult chasme can lay up to 10 eggs per year. Eggs hatch in three months, and hatchlings growing to adults in seven years
+
+Chasme wings have been used in brews to create potions of flying.
+
+=========================================================================================================================
+Tanar’ri, Greater, Goristro
+2603
+
+Climate/Terrain:	Abyss
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Low (5-7)
+Treasure:			B,C
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		-2
+Movement:			15
+Hit Dice:			20
+THAC0:				1
+No. of Attacks:		2 and 1
+Damage/Attack:		6d4+6/6d4+6 and 5d8
+Special Attacks:	Spells, stamp, hurl boulders
+Special Defenses:	Immunities, regenerate, +1 or better weapon to hit
+Magic Resistance:	60%
+Size:				H (21-24’ tall)
+Morale:				Champion (15-16)
+XP Value:			23,000
+Collectively known as goristroi, these huge tanar’ri can be found on nearly any plane of the Abyss, for they are adaptable and much desired by the rulers of the place to serve as engines of destruction. Abyssal lords and powers are able to command the goristroi and keep them serving as guardians, enforcers, siege engines, and so on. The hulking goristroi are too stupid and bestial to do more than carry out their orders, and thus their status never reaches that or the true tanar’ri.
+
+Gorislroi are vaguely reminiscent of giant bears, although their shoulder are broader, their visages a nightmarish cross beztween bison and human, and their hands and feet disproportionately large, splayed, and humanlike. Their arms are extremely long, like an ape’s. Individual colors vary from dark brown through sickly greenish yellow to a peculiar purplish gray.
+
+Combat: The attack mode of these monsters consists of two clubbing smashes with their long and very powerful arms for 6d4+6 points or damage each. Each is equal to a crushing blow, so material struck must be saved for. In addition, these brutes can make a stamping attack against any 6 feet tall or shorter opponent within 10 feet of them for 5d8 points of damage. They hurl boulders as cloud giants (240 yard range for 2d12 points of damage).
+
+In addition to standard tanar’ri abilities, goristroi have the following spell-like powers, which they can employ one at a time, one per round, at will: detect invisibility, detect magic, fear (as a wand, by gaze), levitation, and spider climb.
+
+Even the lowliest of goristroi can be harmed only by +1 or better magical weapons. All of them are immune to cold, fire, poison, and poison gas. They regenerate 1 hit point per turn. They have infravision to 360 feet.
+
+As noted in the statistics above, gorislroi gain 6 hit points per hit die in addition to whatever is rolled, giving each hit die a range of from 7-14 instead of the usual 1-8. Goristroi that have 140-160 hit points are only 21 feet tall and can be hit by magical weapons of +1 or better. Those with 161-200 hit points are 22 feet tall, and are also hit only by +1 or better weapons. If a goristro’s hit points fall in the range of 201-240, the beast is 23 feet tall and is hit only by +2 or better weapons. The largest goristroi have 241-280 hit points, are 24 feet tall, and are hit only by +3 weapons or better.
+
+From the third volume of Deception And Strategems, by the pit fiend Mellagorus:
+
+Though the lumbering goristroi are excellent at climbing sheer stone faces and though these assaults can break our fortications, such strategies also present us with an opportunity to destroy the beasts. Their powerful clawed fingers can make handholds in sheer stone, but their enormous size makes them vulnerable to falls, and they suffer twice the damage a smaller creature might from a fall. The goristroi are especially afraid of Bigby’s forceful hand, dig, fly, levitation, and other spells that can push them off the heights to be broken on the rocks below or, even more amusingly, onto the weapons of their fellow tanar’ri. Weak-minded goristroi are also vulnerable to spells such as cause fear, fear, symbol of fear, and repulsion, which drive them off walls. For all these reasons, arcanaloth are the best countermeasures to employ against goristroi assaults on an entrenched position on the height. Fools though they are, tanar’ri commanders rarely order a goristro over the walls unless the situation is desperate or a diversionary attack has drawn off most of the defenders. Take this as a sign of weakness and counterattack.
+
+Habitat/Society: Usually solitary, goristroi are only important among their kin because of their ability to absorb damage and to mete it out. They are stupid and otherwise limited in power, unable even to gate in other tanar’ri. The vast majority of goristroi encountered are in the service of some Abyssal ruler, blindly carrying out the duties assigned to them with complete fanaticism. There is never a question of retreat or morale when dealing with these brutes, though the threat of long falls can induce paralysis on the field of action. In all other respects, they always continue to follow their given commands until completion or death occurs.
+
+In the Blood War the goristroi serve as siege engines and rallying points for lesser tanar’ri, much as elephants do among some prime-material worlds. A goristroi citadel is a platform strapped to the creature’s head and shoulders like a helmet. The tanar’ri carries this citadel as a lesser creature might carry a knapsack; it hardly seems aware of it. The fortification usually provides excellent cover (-7 to AC) for two to four riders, depending on the size of the gorislroi.
+
+Again from Mellagorus’ Deception And Strategems:
+
+Goristroi citadels are dangerous and best kept busy with cannon fodder and inferior troops, but if they can be broken the lesser troops surrounding them are usually routed. The best way to accomplish this is to harry a goristro from two directions. The retarded behemoth will turn from one attack to the other, unconscious of the fact that its rapid movements are shaking and battering the creatures within the citadel to death. At this point flying troops such as abishai can take the citadel and slay the goristro by a surgical strike to the neck with axes, polearms, and cleavers.
+
+
+Goristroi ruled by an Abyssal lord or power always wear some symbol of servitude, such as a collar, an arm or wrist band, or an implanted symbol. Such devices zypically have the power to conves telepathic commands to the wearer as well as serve as tracking devices should the masters wish to know the whereabouts of their servants. Without direct command or supervision, goristroi tend to wander off on destructive rampages of their own direction and desire.
+
+Goristroi do not breed naturally. They are carefully mated by their owners after extensive negotiations, eventually resulting in a single young. The goristroi are carefully watched throughout the entire process, for fear of foul play by the other side, such as an attempt to slay these valuable beasts. Generally, the terms are that the owner of the male goristroi gains the female young, and the owner of the mother is entitled to the male young produced. The young grow to maturity within five voracious, screaming years. This allows the lucky owner to breed further young on his own, albeit inbred ones. However, abductions, infanticide (if the young is the wrong gender), and even outright purchases of the live young are fairy common. Under no circumstances are the parents allowed to have any influence on the young goristro.
+
+Ecology: Goristroi are predators that make no distinction between various types of prey. They eat anything that moves, even among their own kind, devouring lesser tanar’ri when their dim minds believe no one is watching. They are exclusively carnivorous, unable to eat vegetable matter even if no other food is available. If forced to go without living or recently slain meat, goristroi wither and die within two weeks, so tanar’ri commanders usually sacrifice lesser troops for the sake of keeping their citadels going.
+
+Goristroi flesh is itself poisonous if ingested, so not even powerful planar creatures or pack hunters like trolls and armanites attack them.
+
+=========================================================================================================================
+Tanar’ri, Greater, Nabassu
+2118 • 2602
+
+Climate/Terrain:	The Abyss or Prime
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		High (13-14)
+Treasure:			Q×10
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		4 to -5
+Movement:			12, Fl 15 (C)
+Hit Dice:			7+2 to 7+20
+THAC0:				13
+No. of Attacks:		3
+Damage/Attack:		2d4/2d4/3d4 or weapon +7 (Strength bonus)
+Special Attacks:	Death gaze, backstab, paralyzation
+Special Defenses:	+1 or better weapon to hit
+Magic Resistance:	50%
+Size:				M (7’ tall)
+Morale:				Champion (15-16)
+XP Value:			Mature: 16,000
+					Fledgling: 8-11,000
+NabassuNabassu are creatures spawned in the Abyss but nurtured on other planes, where they grow and gain power by slaying and devouring humans. They communicate using telepathy.
+
+Nabassu, unmistakably fiends, are gargoylish in appearance, standing 7’ tall. They are gaunt with leathery wings, tightly corded muscles, long claws on hands and feet, steely gray eyes, and a wide mouth lined with sharp fangs.
+
+Combat: Nabassu go through two distinct phases, fledgling and mature, that have different combat abilities. However, in both phases the nabassu can attack with two claws (2d4 damage each) and bite (3d4 damage). They can attack with magic but prefer natural attacks, especially against a helpless enemy. These create greater terror in the victim and, therefore, greater pleasure for the nabassu.
+
+Fledgling
+
+Fledglings begin life with AC 4 and 7 Hit Dice. When they enter another plane (usually the Outlands or the Prime), they gain 2 more hp. Each victim killed and eaten on the foreign plane adds 1 hp and a “half factor“ of AC. For example, a fledgling that devours two humans would have 7+4 HD and AC 3. After 18 meals it reaches full growth (AC -5 and 7+20 HD).
+
+Immature nabassu do not gain the spell-like abilities available to other tanar’ri but have the following spell-like abilities: darkness, 15’ radius and its death gaze (once per day). The death gaze forces the target to save vs. spell or transform, over 10 days, into a ghast (or ghoul if the victim is a demihuman). The death of the nabassu or a remove curse spell reverses the process, but once the process is complete, the change is irrevocable.
+
+Immature nabassu also have some thief abilities: move silently (40%), hide in shadows (50%), detect noise (55%), and backstab (×2). They are affected only by attacks from magic or cold-wrought iron weapons. Nabassu have Strength 19 (+7 damage adjustment).
+
+Habitat/Society: Nabassu are a scourge of humanity. They are the only fiends that live a part of their lives on a foreign plane. Unlike other tanar’ri, nabassu seem to have no place in the Blood War. Once they return to the Abyss from their tour of carnage on the Prime Material, they will reside in one of the fortress of the Abyss for the rest of their immortal existence.
+
+Ecology: What role these monsters play is unknown. Perhaps the slaying of humans and spilling of innocent blood somehow bring the tanar’ri power.
+
+=========================================================================================================================
+Tanar’ri, Greater, Wastrilith
+1089 • 2602
+
+Climate/Terrain:	The Abyss Water
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Nil
+Intelligence:		High (13-14)
+Treasure:			25-50,000 gp
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		-1
+Movement:			9, sw 15
+Hit Dice:			15
+THAC0:				5
+No. of Attacks:		3
+Damage/Attack:		1d8/1d8/1d12
+Special Attacks:	See below
+Special Defenses:	See below
+Magic Resistance:	25%
+Size:				L (10’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			19,000
+Fiend, Water LordThe standoffish wastrilith, or water lords, inhabit watery parts of the Lower Planes (and, rarely, other planes), content in their isolation. Though they have no apparent magical power over other creatures, they intimidate undersea denizens so much that even unintelligent creatures serve them. Wastrilith are horrendous creatures with jaws full of needle-sharp teeth. Their bulging eyes give them the appearance of leering fish with humanoid torsos.
+
+Combat: Wastrilith are canny opponents, rarely giving their enemies advantage and certainly no quarter. Because they do not believe in suffering needlessly, they send their minions forth to combat enemies: 2d6 sharks, 3d6 sahuagin, 1d4 ixitxachitl, or 1d3 water elementals. As long as the minions continue the attack and the fiend itself is not threatened, it lets them fight by themselves.
+
+A wastrilith can breathe a blast of boiling water three times per day in a cone 30’ long with a 10’ diameter base (3d10 damage). They can attack with two claws (1d8 damage each) and bite (1d12 damage).
+
+Electrical attacks inflict full damage. However, due to the water lords’ nature, such attacks reach them only half the time; the other half rebound on the caster, causing full damage. Fire-based attacks inflict double full damage if the fiend has left the water, but none if the creature remains fully immersed.
+
+Water- and cold-based attacks cause no damage to the wastrilith. In addition, water elementals sent against the fiend do not attack it. Indeed, a water lord has a 50% chance of wresting control of water elementals from the summoner, as long as the water elementals have approached within 100’of it.
+
+Habitat/Society: Wastrilith are territorial and do not allow other powerful creatures to establish themselves nearby. Once they have established their territory, they do not stray far from it. They protect what is theirs and don’t meddle in matters outside their territory. Many are found on the 88th level of the Abyss, the Maw of Demogorgon, a watery plane that is dark and cold.
+
+Wastrilith require no conventional food or drink, but they enjoy devouring creatures foolish enough to venture near their homes. They leave the remains outside to feed sharks and warn away other curiosity seekers.
+
+Ecology: Wastrilith are nasty-tempered and try to break free of the bonds imposed by spellcasters. There is a 20% chance that a summoned wastrilith ignores the wishes of the summoner, kills him, and rampages until such time as it wearies of the plane. Until that time comes, the water lord can amass considerable power beneath the waves, creating havoc in the area. It is unknown why wastrilith do this, inasmuch as they rarely take their treasure back to their home plane.
+
+On the Prime Material, a wastrilith’s territory typically includes a 25-mile diameter circle, at the center of which is the fiend’s palace. The palace can be a marvel of undersea engineering or a simple hole in a coral reef. A wastrilith that has not established its territory will often terrorize shipping in the area, destroying boats on a whim and driving out such creatures as sea dragons and aquatic elves.
+
+=========================================================================================================================
+Tanar’ri, True, Alkilith
+2613
+
+Climate/Terrain:	The Abyss
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		High (13-14)
+Treasure:			F
+Alignment:			Chaotic evil
+No. Appearing:		1-3
+Armor Class:		3
+Movement:			6
+Hit Dice:			11
+THAC0:				9
+No. of Attacks:		4
+Damage/Attack:		2d4/2d4/2d4/2d4
+Special Attacks:	Acid, poison
+Special Defenses:	½ damage from Type S or B weapons; struck only hy +2 or better weapons
+Magic Resistance:	40%
+Size:				L (6’ diameter)
+Morale:				Champion (15-16)
+XP Value:			17,000
+The horrors of the Abyss are uncountable. Layers upon layers of seething, pustulent evil wait for the unwary traveler. At first glance, it’d seem that some of the Abyssal layers are uninhabitable, even for tanar’ri — but a body’d be addle-coved to believe that. The alkiliths’re a type of tanar’ri that thrives in the foulest and most inhospitable places of the Ahyss, acting as personal agents of the unspeakable Abyssal Lords.
+
+Alkiliths’ve got an unusual purpose among the true tanar’ri: They exist to corrupt all they touch, extending the reach of the Ahyss by despoiling anything that comes into contact with it. The alkiliths seek to pollute the world beyond the Ahyss physically and morally. While fiends such as the glabrezu and succubi bring mortals to the Abyss, the alkiliths work to bring the Abyss itself to any world unfortunate enough to he within reach. Alkiliths destroy things that’re beautiful, desecrate things that’re sacred, and fan the embers of fear or resentment into raging hatred. By spreading chaos and evil throughout the multiverse, they’ll increase the power of the Abyss.
+
+Alkiliths‘re closely tied to the various slimes, jellies, and oozes found on many prime worlds. They’re not remotely humanoid, taking the form of a disgusting blob of phosphorescent green corruption. Their hodies’re surrounded by a cracked, leathery coating or secretion that constantly oozes more of their vile protoplasm in a continual process of exuding and reabsorbing hide. Alkiliths’re capable of assuming a semi-rigid form, and their pseudopods can wield weapons and manipulate objects with surprising precision. Dark, swollen eye-globules dot an alkilith’s surface; normally the creature’s got anywhere from 3 to 7 of these spread out around its body to observe what’s happening around it.
+
+Combat: Alkiliths’re never surprised in the Abyss, and only on a roll of 1 elsewhere. They can he injured only by weapons of cold iron or a +2 or better enchantment. Like all tanar’ri, alkiliths’re resistant to many attack forms; they suffer no damage from electricity, nonmagical fire, or poison, and only half damage from cold or magical fire. In addition, the alkilith’s unusual physical form renders it immune to all acids or harmful gasses. Slashing or bludgeoning weapons don’t cause alkiliths serious harm , and inflict only half normal damage against the monster. Piercing weapons can reach their vitals and cause full damage.
+
+Alkiliths’re extremely dangerous in close combat. Each round, they can strike with four lightning-fast pseudopods, each inflicting 2d4 points of damage. If the alkilith hits, a vile, corrosive slime is smeared across its victim. The victim has to make a successful saving throw versus poison or suffer an additional 1d6 points of damage per round for the next 1 to 6 rounds or until the slime is cleaned off. Whether or not the victim succeeds in his saving throw, some portion of his equipment may he endangered by the potent acid. Check the chart below:
+
+% roll	Equipment threatened
+01-60	Victim’s armor degrades one place per round of corrosion until an item saving throw vs. acid is successful.
+61-75	Victim’s shield is ruined unless an item saving throw vs. acid is successful.
+76-90	Victim’s weapon is ruined or degrades by one plus per round until an item saving throw vs. acid is successful.
+91-00	A random item (backpack, worn or carried magical item, etc.) is ruined unless an item saving throw vs. acid is successful.
+Alkiliths also have the ability to assume gaseous form, but in doing so they expand to create a 20’x20’×10’ cloud of foul, stinking vapors. The vapors are impenetrable to normal vision and duplicate the effects of a cloudkill spell. An alkilith is impervious to physical damage in this form, but it requires a full round of no other activity for the fiend to make the transition to cloud and back again. Alkiliths can move at a rate of only 1 in gaseous form, and if struck by a gust of wind or similar effect suffer 1d6 points of damage per level of the caster with no saving throw.
+
+In addition to the powers available to all tanar’ri, alkiliths can also make use of the following spell-like abilities (at will unless otherwise specified) at the 11th lwel of spell use: cause disease, command any ooze, jelly, slime, or fungus-based monster, cone of cold (3/day), detect magic, dispel magic, enervation, hold person, putrefy food and drink (by touch), stinking cloud, and wall of ice. Once per day an alkilith may attempt to gate 1 to 3 chasme (30%) or 1 hezrou (70%) with a 50% chance of success.
+
+Habitat/Society: Alkiliths’re the envoys, agents, and assassins of the Abyssal Lords. A great number of their missions take place within the Abyss, as the lords of the tanar’ri spend much of their time scheming and feuding with each other. From time to time they’re sent into the Great Wheel or onto the Prime Material Plane on an errand of vile corruption. Alkiliths take an unholy delight in tasks that allow them to mar things or places of beauty.
+
+The Blood War’s only a tangential concern for the alkiliths. They’ll fight when they have to, but normally they steer clear of the babaus and molydei by retreating into regions so despicable and unclean that even other tanar’ri hesitate to follow. However, an alkilith’ll savagely attack any baatezu it encounters while it’s about its work.
+
+Alkiliths aren’t very common in the Abyss, but they’re greatly feared because other tanar’ri have no innate resistance to their horrible acid or vile cloud of poisonous gas. As creatures of the Abyssal Lords, the alkiliths aren’t well-liked by their peers, but they’re guaranteed a certain measure of protection. An alkilith’s fortunes wax and wane with those of its master, and when the Abyssal Lord suffers a setback, the alkilith often ends up lost.
+
+Ecology: Whenever possible, alkiliths bring the hateful spite and corruption of the Abyss to unfortunate prime-material worlds. In some cases, the seeds of evil and pestilence planted by an alkilith can ovenvhelm an entire land, plunging thousands of mortals into a living nightmare of senseless war and devastation.
+
+=========================================================================================================================
+Tanar’ri, True, Balor
+2118 • 2140 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Supra-genius (19-20)
+Treasure:			H×3
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		-8
+Movement:			15, Fl 36 (B)
+Hit Dice:			13
+THAC0:				7
+No. of Attacks:		2 (sword, whip)
+Damage/Attack:		1d12/1d4 + special
+Special Attacks:	Terror, body flames, death throes, explosion
+Special Defenses:	+3 or better weapons to hit
+Magic Resistance:	70%
+Size:				L (12’ tall)
+Morale:				Fearless (19-20)
+XP Value:			26,000
+Tanar’ri, BalorGreatest and most terrible of the true tanar’ri, the balors are the undisputed terrors of the Abyss. They motivate the tanar’ri involvement in the Blood War and derive immense pleasure from others’ suffering.
+
+Balors are repulsive, towering humanoids with dark red skin; huge wings that propel them with unnatural speed and agility; long, wicked claws; and grotesque fangs that drip venom. Each balor carries a sword of lightning and a many-tailed whip, and searing flames surround the creature.
+
+Balors communicate using telepathy.
+
+Combat: Balors are cannot be surprised. They are immune to all nonmagical attacks including fire, gas, poison, and weapons, and all attacks with magical weapons of less than +3 enchantment.
+
+Balors prefer their primary weapon, a vorpal sword that looks like a bolt of lightning and can detect evil/good in a 30’ radius. Any creature picking up a balor’s sword suffers 10d6 damage and must save vs. spell or die.
+
+Balors also use a long whip with many tails (1d4 damage). These magically wrap around the victim, who is drawn into the balor’s bodily flames (4d6 damage per round). Escaping the whip requires a successful check against half the victim’s Strength score. A whip that holds a victim cannot be used in attacks.
+
+Balors can also attack with their fists (2d6 damage and save vs. spell at -6 or flee in terror for 1-6 turns). If slain in the Abyss, a balor explodes in a blinding flash of light, inflicting 50 hp damage to everything in a 100‘radius (save vs. spell for half damage).
+
+In addition to those available to all tanar’ri, balors can use the following spell-like powers at 20th level of spell use: detect invisibility (always active), detect magic (always active), dispel magic, fear, pyrotechnics, read magic, suggestion, symbol (any type), telekinesis, and tongues. Once per hour they can automatically gate in 1-8 least, 1-6 lesser, 1-4 greater, or 1 true tanar’ri.
+
+Habitat/Society: At least twenty-four balors are known to exist. They wander the Abyss, forming armies and commanding them in battle with the baatezu.
+
+Balors recognize all planes as potential battlegrounds in the War. They make pacts with mortals to perform services in return for power in the mortals’ planes. The more folLowers or allies they gain there, the more magical power they command in the Blood War.
+
+Ecology: Nothing is more important in the Abyss than the Blood War. The balor, in a sense, are the Blood War from a tanar’ri perspective. In that sense they are the ecology of the Abyss, driving the creation of new beings and mandating their survival.
+
+=========================================================================================================================
+Tanar’ri, True, Glabrezu
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Exceptional (15-16)
+Treasure:			H (see below)
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		-7
+Movement:			15
+Hit Dice:			10
+THAC0:				11
+No. of Attacks:		5
+Damage/Attack:		2d6/2d6/1d3/1d3/1d4+1
+Special Attacks:	Grab
+Special Defenses:	+2 or better weapons to hit
+Magic Resistance:	50%
+Size:				H (15’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			12,000
+GlabrezuGlabrezu are the tanar’ri that typically respond to summonings from other planes. They go forth and secure power for their cause.
+
+Glabrezu are towering, broad and well-muscled, with four arms, two that end in clawed hands and two with powerful pincers. They have dog-like heads with sharp fangs and penetrating violet eyes. Their skin color ranges from a deep russet to pitch black. These commanding tanar’ri are terrifying to see.
+
+Glabrezu communicate using telepathy.
+
+Combat: Glabrezu usually avoid combat with mortals, preferring guile, trickery, and evil bargains. However, if things do not go as planned, the glabrezu thinks nothing of slaying the mortal (who, to the glabrezu’s thinking, will probably end up in the Abyss anyway).
+
+A glabrezu can attack with two claws (1d3 damage each), two pincers (2d6 damage each), and a bite (1d4+1 damage). With a successful claw attack it can attempt to grab and pick up an opponent of 150 pounds or less (Dexterity check to avoid this). A grabbed opponent can still attack at a -4 penalty, or can break free with a successful Strength check instead of attacking. A glabrezu rarely drops a grabbed opponent unless it faces imminent death.
+
+In addition to those available to all tanar’ri, glabrezu can use the following spell-like powers at 10th level of spell use: burning hands, charm person, confusion, detect magic (always active), dispel magic, enlarge, mirror image, power word stun (7 times per day), reverse gravity, and true seeing (always active). Once per day a glabrezu can gate in one greater tanar’ri with a 50% chance of success.
+
+These creatures are immune to all nonmagical attacks such as fire, gas, acid, etc., and to weapons of less than +2 magical enchantment.
+
+Due to their role in tanar’ri society, glabrezu can plane shift at will. They rarely do this of their own volition, however, prefening to leave the Abyss only when summoned.
+
+Habitat/Society: Glabrezu are the covert agents of the underworld. They lure weak and impulsive mortals into giving them power. When a mortal mage summons a glabrezu, the mage is confident that strong magic will master the situation. But mags are short-sighted compared to the immortal glabrezu. The glabrezu knows that with each summoning, its power there, like a seed of evil, germinates and begins to grow.
+
+Glabrezu possess rich treasure that they hoard in vast subterranean lairs in the Abyss. With these masses of gold, magic, and wealth they tempt mortals into summoning them.
+
+Ecology: Glabrezu leech power from other planes and exert their influence there with surgical precision. Although they take little part in the shughter of the Blood War, their subtle manipulations and subjugations are a deeper evil. They do not get on well with mariliths.
+
+=========================================================================================================================
+Tanar’ri, True, Hezrou
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Common
+Organization:		Group
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Average to high (8-14)
+Treasure:			C
+Alignment:			Chaotic evil
+No. Appearing:		1-6
+Armor Class:		-6
+Movement:			12
+Hit Dice:			9
+THAC0:				11
+No. of Attacks:		3
+Damage/Attack:		1d6/1d6/4d4
+Special Attacks:	Bearhug, stench
+Special Defenses:	+2 or better weapons to hit, half damage from other nonmagical attacks, never surprised
+Magic Resistance:	70%
+Size:				L (7’+ tall)
+Morale:				Fanatic (17-18)
+XP Value:			14,000
+HezrouThe hezrou, among the least powerful of the true tanar’ri, are still creatures of formidable power. They perform the will of the nalfeshnee by wandering the Abyss and overseeing the formation of armies.
+
+Hezrou look like large, roughly humanoid toads with arms in place of forelegs. They stand upright or on all four limbs by turns. They have rows of blunt, powerful teeth; spines run the length of their back.
+
+Hezrou communicate using telepathy.
+
+Combat: Hezrou are impossible to surprise. They are immune to attacks from nonmagical weapons and take half damage from all nonmagical attack forms (fire, poison, acid, etc.) Hezrou have infravision to 120’ and have double human normal auditory and olfactory senses.
+
+Hezrou are foul-tempered and mean. They attack even those that follow their instructions, just for sheer entertainment. Their claw attacks inflict 1d6 damage, and their blunt, crushing teeth inflict 4d4 points per bite.
+
+If both claw attacks successfully hit a target in the same round, the victim is in a powerful hear hug and cannot attack. The victim takes 2d4 damage per round and the hezrou’s bite attacks automatically hit. The victim must succeed in a Strength check against one half its Strength score to escape the hug. A hezrou that takes 20 hp damage in one round releases its victim.
+
+The amphibious, frog-like skin of a hezrou emits a foul liquid that coats its skin. Anyone within 10 feet of the creature must save vs. paralyzation or be overcome by its powerful stench. Anyone so overcome lies helpless on the ground, gagging and vomiting. Those that do successfully make their saving throw still take a -2 penalty to their attack and initiative rolls.
+
+In addition to those available to all tanar’ri, hezrou have the following spell-like powers, at 9th level of spell use: animate object, blink, duo-dimension (3 times per day), produce flame, protection from normal missiles, summon insects, unholy word (reverse of holy word), and wall of fire. Three times per day they can attempt to gate in 4-40 least, 1-10 lesser, or 1-4 greater tanar’ri with a 5O% chance of success. Once per day, they can attempt to gate in 1 true tanar’ri with a 20% chance of success.
+
+Habitat/Society: Hezrou are the long arm of the imperious nalfeshnee. They walk among the layers of the Abyss enforcing directions of the higher true tanar’ri. Due to the chaotic nature of the Abyss, the hezrou’s services are vital.
+
+At certain times in a century, the hezrou can plane shift at will. During these Dark Walks, as they are known, the hezrou go forth and make pacts with mortals. They willingly enter into service to a mortal, typically one in dire need, but exact a heavy toll. In exchange for a major service, such as destroying an enemy’s castle or retrieving a lost artifact, the hezrou secure eternal subservience by the mortal, a family member, friend, or lover. The victims come to the Abyss and serve as manes.
+
+Ecology: As true tanar’ri, the hezrou are integral to the Blood War. They enforce the will of true tanar’ri, so they are spared certain death in frontline duty.
+
+Hezrou are not as intelligent or intuitive as the other true tanar’ri. This is ideal for their duties, however, for theirs is to obey and enforce.
+
+=========================================================================================================================
+Tanar’ri, True, Marilith
+2118 • 2140 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Genius (17- 18)
+Treasure:			C,F
+Alignment:			Chaotic evil
+No. Appearing:		1-2
+Armor Class:		-9
+Movement:			15
+Hit Dice:			12
+THAC0:				9
+No. of Attacks:		7
+Damage/Attack:		4d6 (tail) and six weapons
+Special Attacks:	Magical weapons, constriction
+Special Defenses:	+2 or better weapons to hit, never surprised, spell immunity
+Magic Resistance:	70%
+Size:				L (7’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			23,000
+MarilithBold and cunning, mariliths are the generals and tacticians for the Blood War. Where balors are the influence and energy behind the war effort, mariliths are the brains and tactics.
+
+Mariliths appear as half snake, half humanoid. From the waist down, these creatures have the bodies of giant snakes, with huge, green, scaly coils. Above the waist they are beautiful, comely females. Besides the obvious snake body, the feature that identifies a marilith is its six arms. They are commonly adorned with precious jewelry and bear highly decorated weapons: marilith usually carry a different weapon in each hand. They communicate using telepathy.
+
+Combat: Mariliths are never surprised. Although they are strategists and tacticians, Mariliths love physical combat when opportunity presents. They size up any combat before getting involved and take full advantage of terrain, obstacles, and the opponent’s disadvantages. They can attack with each of their six arms and constrict a victim with their snaky tails, as well.
+
+Weapons of +1 or lesser magical enchantment cannot harm a marilith. They cannot be fooled by illusions and are immune to mind-affecting spells.
+
+Mariliths favor exotic swords and axes. The DM should assign specific weapons; 90% of them should be magical (+1, +2, etc.), and 15% of these should be special. Marilith cherish their weapons; if one is lost or stolen, the owner will go to great lengths to recover it.
+
+A marilith can constrict with its deadly tail. If the tail hits in combat, it wraps around a victim to crush the life out of him. The tail inflicts 4d6 points of crushing damage and drives the breath from a victim. Once constricted, the victim automatically takes 4d6 damage each round. Additionally, the trapped creature must make a Constitution check every round or fall unconscious. No opponent with less than 15 Strength can even hope to break free of the coils. Each round, there is a 10% chance per round per point of Strength over 14 that the victim can escape.
+
+In addition to those available to all tanar’ri, mariliths have the following spell-like powers: animate dead, cause serious wounds (reverse of cure serious wounds), cloudkill, comprehend languages, curse (reverse of bless), detect evil, detect magic, detect invisibility, polymorph self (7 times per day), project image, pyrotechnics, and telekinesis. They can also attempt to gate in 2-20 least tanar’ri, 1-6 lesser tanar’ri, 1-4 greater tanar’ri, or 1 true tanar’ri once per hour with a 35% chance of success.
+
+Habitat/Society: As noted, marilith are the strategists of the Blood War. They devise battle tactics and coordinate the true tanar’ri (except for the balors, of course). Due to the chaotic nature of the other tanar’ri, coordinating their activities is nearly impossible.
+
+Mariliths hate the glabrezu. They feel that the subtle warfare of the glabrezu is a childrens’ game and inferior to proper warfare. Mariliths try to discredit the glabrezu in any way they can. They would completely destroy the subtle beasts, but the all-powerful balors favor the glabrezus’ tactics.
+
+Ecology: Marilith secretly feel that they are the true force behind the Blood War, that the balors have their place only because of their great power, and are otherwise unnecessary. They may be right, but the power of the balors remains unchallenged.
+
+=========================================================================================================================
+Tanar’ri, True, Nalfeshnee
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Very rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		Godlike (21+)
+Treasure:			H×2
+Alignment:			Chaotic evil
+No. Appearing:		1
+Armor Class:		-8
+Movement:			12, Fl 15 (D)
+Hit Dice:			11
+THAC0:				9
+No. of Attacks:		3
+Damage/Attack:		1d4/1d4/2d4
+Special Attacks:	Magical spray
+Special Defenses:	Never surprised, cold iron or +2 or better weapons to hit
+Magic Resistance:	70%
+Size:				H (20’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			17,000
+NalfeshneeFew beings terrify mortals more than the nalfeshnee. Mortals who pass into the Abyss eventually come before one of these “lords of woe”, there to suffer judgment and the pain of transformation.
+
+Nalfeshnee are 20’ tall; most of their immense strength goes simply to support their bodies. They combine the worst features of ape and boar, and their small wings appear unable to bear their ponderous bodies. Nalfeshnee have red, glowing eyes that pierce the mind and seem to draw energy from just a glance.
+
+Nalfeshnee can communicate with any being using a powerful form of telepathy.
+
+Combat: Nalfeshnee are never surprised. They are immune to weapons of less than +2 enchantment, but can be hit by weapons of cold-wrought iron.
+
+Though the nalfeshnee usually sit atop their thrones and judge the masses of mortal lives in the Abyss, they are capable in battle. They can attack with two claws (1d4 damage each) and bite (2d4 damage), but prefer a special attack that looks like the color spray spell (usable three times per day). They must concentrate for an entire melee round; hits on the creature during that round do not break concentration. Then the nalfeshnee releases multiple rainbow beams that shoot in every direction. All creatures within 60’ suffer 15 hp damage (save vs. spell for half damage). They must then again save vs. spell with -2 penalty. Failure means they are temporarily stricken dumb and wander in a trance for 1d10 rounds. In that trance each creature a vision of its greatest fear.
+
+In addition to the standard abilities of all tanar’ri, nalfeshnee have the following spell-like powers: alter self, bind, call lightning, chill touch, detect invisibility (always active), distance distortion, ESP (always active), feeblemind, forget, giant insect, invisibility, know alignment (always active), mirror image, protection from good (always active), raise dead, slow, and web. Nalfeshnee can also attempt to gate in 1-6 babaus or 1 vrock, twice per day, with a 50% chance of success.
+
+Habitat/Society: Nalfeshnee are the most intelligent tanar’ri, considering themselves superior even to the balors. Nalfeshnee do not act on this feeling because they recognize the balors’ greater strength. However, a nalfeshnee seldom passes up an opportunity to secretly embarrass a balor, foil its plans, or even prolong the Blood War. The nalfeshnee rule the 400th layer of the Abyss, where they sit on flaming thrones on the Mountain of Woe. There they judge the mortal life forces that pass into the Abyss.
+
+Ecology: Nalfeshnee feed on hatred and despair, emotions they can draw out of any being they see. They devour these feelings from the life forces they judge, leaving empty husks of useless thoughts. These husks then transform into other forms of tanar’ri in ceremonies involving unimaginable torture.
+
+=========================================================================================================================
+Tanar’ri, True, Vrock
+2118 • 2602
+
+Climate/Terrain:	The Abyss
+Frequency:			Uncommon
+Organization:		Group
+Activity Cycle:		Any
+Diet:				Carnivore
+Intelligence:		High (12-14)
+Treasure:			Nil
+Alignment:			Chaotic evil
+No. Appearing:		2-8
+Armor Class:		-5
+Movement:			12, Fl 18 (C)
+Hit Dice:			8
+THAC0:				13
+No. of Attacks:		5
+Damage/Attack:		1d4/1d4/1d8/1d8/1d6 or by weapon +7 (Strength bonus)
+Special Attacks:	Spores, screech, first attack, dance of ruin
+Special Defenses:	+2 or better weapons to hit, never surprised
+Magic Resistance:	70%
+Size:				L (8’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			19,000
+VrockThe vrock serve as elite fighting troops in the Blood War. Vrock look like a cross between a large human and a vulture, with strong, sinewy limbs covered with fine gray feathers; long necks and vulture heads; and wicked claws and beak.
+
+Vrock communicate using telepathy.
+
+Combat: Vrocks are never surprised and always attack first in melee. These creatures have Strength 19 (+7 damage adjustment) and infravision to 120’. Vrocks are immune to attacks from nonmagical weapons.
+
+Vicious fighters, the vrocks can attack five times per melee round. Because of their dexterity and extreme battle prowess, vrocks can direct each of these attacks against different opponents. Their hand claw attacks each inflict 1d8 damage. Their beaks inflict 1d6 damage per successful hit. Vrocks can also attack with their foot claws, inflicting only 1d4 damage because the vrock is off balance when attacking this way.
+
+The vrocks also attack with a stinging ejection of spores from small glands about the creatures’ bodies. They can attack once every three melee rounds with a spore attack. A spray of spores automatically inflicts 1d8 damage on all opponents within 5 feet. Once the spores have hit, they implant themselves just below the surface of the skin and begin to grow and sprout. Victims suffer 1d2 damage per round from spore growth. The spores continue to grow for 10 melee rounds, at which time the victim is covered with thick, vine-like growths. The spores can be killed by a bless, neutralize poison, or similar spell or by being sprinkled with holy water. Slow poison stops the growth.
+
+Once per battle, a vrock can emit a loud, deafening screech. This screech deafens everyone within 30’, stunning them for 1 round (Constitution check to avoid the stun). Vrock usually save their screech for emergencies and typically use it when near death, screeching just before they teleport away.
+
+In addition to those available to all tanar’ri, vrocks have the following spell-like powers at 10th level of spell use: detect invisibility, detect magic, dispel magic, mass charm, mirror image, and telekinesis. They can attempt once per day to gate in 2-20 manes, 1-6 bar-lgura, or 1 nalfeshnee. There is a 50% chance of success.
+
+When five or more vrocks fight together in battle, they can attempt a special power called dance of ruin. The vrocks join hands in a circle, then dance wildly, screeching and chanting in ancient languages. After three rounds, a weave of energy crackles and scintillates in the air like lightning. Anyone within 100 feet of the dance of ruin must save vs. death magic or suffer 2d20 damage (save vs. spells for half damage). If any vrock takes 20 or more points of damage during the three melee rounds, the dance is disrupted and must be started again. All creatures, including the vrock, are affected.
+
+Habitat/Society: Vrocks are an elite fighting force used in important battles. They are often sent on missions such as infiltration and other covert missions.
+
+Ecology: Vrocks eat their fallen foes after combat. They are powerful fighting machines from birth. Vrocks are loyal to their own. They travel in groups of up to eight (more when entering battle) and in battle coordinate with each other with perfect timing.
+
+=========================================================================================================================

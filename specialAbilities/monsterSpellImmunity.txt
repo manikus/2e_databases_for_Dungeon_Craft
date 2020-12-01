@@ -1,0 +1,5 @@
+\(BEGIN)
+name = monsterSpellImmunity
+Parameters = "parameter is delimited string";
+\(END)
+

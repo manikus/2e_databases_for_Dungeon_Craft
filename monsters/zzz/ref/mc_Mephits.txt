@@ -1,0 +1,707 @@
+						AIR					SMOKE
+CLIMATE/TERRAIN:		Any					Any
+FREQUENCY:				Common				Common
+ORGANIZATION:			solitary			Solitary
+ACTIVITY CYCLE:			Any					Any
+DIET:					Nil					Special
+INTELLIGENCE:			Average (8- 10)		Average (8- 10)
+TREASURE:				N					Nil
+ALIGNMENT:				Neutral				Neutral
+NO. APPEARING:			1-10				1-10
+ARMOR CLASS:			4					4
+MOVEMENT:				12, f1 24 (A)		12, F1 24 (B)
+HIT DICE:				3					3
+THACO:					17					17
+NO. OF ATTACKS:			2					2
+DAMAGE/ATTACK:			1d3 / 1d3			1d2 / 1d2
+SPECIAL ATTACKS:		See below			See helow
+SPECIADLE FENSES:		See below			See helow
+MAGIC resistance:		Nil					Nil
+SIZE:					M (5'tall)			M (5'tall)
+MORALE:					Average (8-10)		Average (8-10)
+XP VALUE:				420					420
+
+AIR mephit
+Most maneuverable in flight of all mephits, air mephits are
+flighty in personality as well. Fickle, untrustworthy, and
+empty-headed, these mephits make excellent messengers and
+couriers - for their first mission. Thereafter they flee their creators
+to explore the planes, attach themselves to whomever
+looks interesting and make entertaining trouble.
+Air mephits look like pure white muscular humanoids
+from the waist up and white tornadoes from the waist down.
+Unlike most other mephits, they have no wings but fly on
+their airstreams; they display astonishing agility. They are
+bald with broad grins and small ears, and they often wear one
+gold earring.
+COMBAT: Air mephits favor sudden ambush attacks and quick
+escapes. An air mephit attacks with two claws (Id3 damage
+each). To use its breath weapon, the mephit inhales sand, dirt,
+or other particles in the vicinity and then blows the grit at
+high velocity at one target within 10’ (hits automatically for
+ld6 damage). The mephit can blow once every other round
+3rd level of magic use. Once per day they can cast gus
+wind.
+Once per hour an air mephit can attempt to gate
+another air mephit. They avoid this unless pressed, becau
+they dislike one another.
+Air mephits are immune to air and gas attacks of al
+kinds. They regenerate 1 hp per turn automatically. They die
+instantly and vanish in a vacuum.
+ECOLOGYA: confined mephit can freshen and cool the air in
+stuffy rooms. Spellcasters unaccustomed to hot weather sometimes
+bring them along on trips to hot Lower Planes.
+
+smoke mephit
+Smoke mephits are crude and lazy. They spend most of their
+time sitting around invisible, smoking pipeweed, telling had
+jokes about their creators, and generally shirking their responsibilities.
+combat: A smoke rnephit's two clawed hands cause 1d2 damage
+each. Its breath weapon consists of a sooty hall usable
+every other melee round, an unlimited number of times per
+day. This sooty hall automatically strikes one creature of the
+mephit's choice within 20’ (d1adm4a ge and blinded for 1-2
+rounds), no saving throw.
+Smoke mephits can cast invisibility and dancing lights
+once each per day. Once per hour, they can attempt to gate in
+1-2 other mephits, fire, magma, smoke, or steam. If two
+rnephits arrive, they are the same type.
+Contact with any kind of smoke lets a smoke rnephit
+regenerate 1 hp per turn. When a smoke mephit dies, it disappears
+in a flash of flame. This flash causes 1 hp damage to all
+creatures within 10’
+ECOLOGY: ower-planar beings traditionally dispatch a smoke
+mephit as a gift to enemies, a gesture of insolence and contempt
+that amounts to a declaration of vendetta.
+
+						EARTH				OOZE
+CLIMATE/TERRAIN:		Any					Any
+FREQUENCY:				Common				Common
+ORGANIZATION:			Solitary			Solitary
+ACTIVITY CYCLE:			Any					Any
+DIET:					Special				Special
+TREASURE:				N					N x2
+ALIGNMENT:				Nutral				Neutral
+INTELLIGENCE:			Average (8-10)		Average (8-10)
+NO. APPEARING:			
+ARMOR CLASS:			
+MOVEMENT:				
+HIT DICE:				
+THACO:					
+NO. OF ATTACKS:			
+DAMAGE/ATtACK:			
+SPECIAL ATTACKS:		
+SPECIAL DEFENSES:		
+SIZE:					
+MAGICRE SISTANCE:		
+MORALE:					
+XP VALUE:				
+1-10
+5
+12, FI 24 (C)
+3+2
+17
+2
+1 d4/ 1 d4
+See below
+See below
+Nil
+M (5'tall)
+Average (8-10)
+420
+1-10
+6
+12, f1 24 (B)
+3
+17
+2
+ld3/ld3
+Stinking cloud
+None
+Nil
+M (5'tall)
+Irregular (5-7)
+420
+earth mephit
+These heavy, rocky mephits have stolid, humorless personalities.
+Stubborn and immune to insult, they look like small, thin
+earth elementals, with stony skin, glittering eyes, and rigid
+wings of dull metal. Their wings, which never flap, seem to
+play no role in the mephit's magical flight. Earth mephits fly
+clumsily and smell like dirt.
+combat Earth mephits have two fist attacks (ld4 damage
+each). Once per day, they can grow to a height of 10' for one
+turn; their fists do 2d6 damage at this size.
+Three times a day an earth mephit can spit a rock at one
+target within 15’ hitting automatically (1d6 damage). Additional
+uses of this attack beyond the third cost the mephit 2
+hp apiece from its current total.
+Once per hour an earth mephit can attempt to gate in 1-2
+other mephits, either earth or magma. If two arrive, they are
+the same type.
+Earth mephits regenerate 1 hp per round they spend
+buried in earth to at least waist level. passwall and transmute
+rock to mud spells destroy them instantly.
+ECOLOGYE: arth mephits need no food or drink to survive, but
+they enjoy the taste of gems and jewelry. To gain these they
+pursue money-making schemes, always with single-mindedness
+but also singular ineptitude.
+ooze mephit
+These unctuous creatures sidle up to strangers and, in purring,
+sibilant voices, use flattery to ingratiate themselves. "Oooh,
+what sssplendid armor! You know, you wear that armor with
+sssuch, sssuch authority, I feel myssself quite overwhelmed."
+After a few minutes of this, or as much as the target can
+stand, the mephit asks for "a loan" of 100 gold pieces.
+Ooze mephits are made of ochre muck, just like their home
+plane. They have a rough humanoid form hut no clear joints, and
+their wings are transparent green bubble membranes that seldom
+break. They have dark green eyes and mouth with a mooning
+expression, and they smell absolutely terrible in a 30' radius.
+Contact with an ooze mephit stains clothing permanently.
+COMBAT: Ooze mephits attack with two claws (ld3 damage
+each), hut avoid combat when possible. Their breath weapon,
+usable every other round without limit, is an invisible cloud
+of gas that works as a stinking cloud (no range, 10' radius)
+cast at 3rd level of magic use. Other rnephits are immune.
+Once per hour an ooze mephit can gate in another ooze
+mephit. Ooze mephits are immune to cutting or impaling
+damage and to fire and water attacks of all types, but transmute
+mud to rock destroys them instantly. They regenerate 1
+hp per round in stagnant water.
+eco OGY: Ooze mephits are created to clean sewage lines,
+maintain garbage dumps, and carry out other necessary but
+unpleasant duties. They quickly desert and become beggars.
+With the money they beg, ooze mephits hire wizards to transform
+them into more desirable forms: humans, elves, dwarves,
+even koholds.
+2 +
+
+						FIRE				RADIANT
+CLIMATE/TERRAIN			Any					Any
+FREQUENCY:				Common				Common
+ORGANIZATION:			Solitary			Solitariy
+ACTIVITY CYCLE:			Any					Any
+INTELLIGENCE:			Average (8-10)		Average (8-10
+ALIGNMENT:				Neutral				Neutral
+MOVEMENT:				12, FI 24 (B)		12, FI 24 (B) -
+HIT DICE:				3					3
+THACO:					17					17
+NO. OF attacks:			2					2
+damage/attack:			ld3+1 / 1d3+1		ld3 / 1d3
+SPECIAL ATTACKS:		See below			Color spray
+SPECIAL DEFENSES:		See below			See below
+MAGIC RESISTANCE:		Nil					Nil
+SIZE:					M (5’tall)			M (5’ tall)
+MORALE:					Average (8-10)		Irregular (5-7)
+XP VALUE:				420					420
+
+FIRE mephit
+The most mischievous of all mephits, these fiends play terrible
+pranks on other mephits, such as pushing magma mephits
+into water and watching them harden.
+Fire mephits are small, wiry humanoids with bright red
+skin and bat-wings. Some fire mephits affect a mustache,
+goatee, and tiny horns on their forehead, but these are always
+faked.
+COMBAT. Touching a fire mephit causes 1 hp heat damage. Its
+two clawed hands rake for ld3 damage each plus 1 hp heat
+damage per hit.
+Fire mephits can use their breath weapon three times a
+day. In one form it is a flame jet 15’ long and 1 ‘ wide that automatically
+hits one chosen target (1d8+ 1 damage; save vs.
+breath weapon for half damage). The second form, a fan of
+flame, covers a 120 arc in front of the mephit to a distance of
+five feet. Any creature in the arc suffers 4 hp damage (no save].
+Fire mephits can also cast magic missile (two missiles)
+and heat metal spells once each per day. Once per hour a fire
+mephit can attempt to gate in another mephit, either fire,
+magma, smoke or steam.
+ecology Fire mephits sometimes prove useful heating forges,
+warming bedclothes, or lighting cigars.
+’
+RADIANT mephit
+Prone to non sequiturs and glazed looks, radiant mephits
+appear permanently, blissfully dazed by the glories of the
+quasi-plane of Radiance. They peer fixedly at people and say
+things like, “Have you too seen the majesty of the Ultimate
+Light? Oh, look at that amazing reflection on your armor
+there! Nice . . . Sorry, was I talking?” They take overblown
+names as do other mephits, hut never remember them.
+Radiant mephits have silvery bodies that perfectly reflect
+their surroundings like a mirror, large black eyes, and thin
+prismatic wings. They have wide mouths, but their faces are
+usually expressionless, except during their sudden fits of
+crazed giggling.
+COMBAT: Radiant mephits can attack with two claws (Id3 damage
+each). They can cast color spray once per turn at 6th level
+of magic use. However, unless directly attacked, they usually
+become distracted and forget their opponents.
+Once per hour a radiant mephit can attempt to gate in
+another radiant mephit.
+Radiant mephits are immune to all spells that affect or
+work through vision, including color spray and visual illusions,
+but they receive no saving throws against mind-affecting
+magic. They have infravision to 120’. In strong light they
+regenerate 1 hp per turn.
+ECOLOGYR: adiant mephits lack the attention span to carry out
+missions. They are created primarily because some powerful
+beings of lawful alignment find their color sprays (dim recreations
+of the plane of Radiance) soothing or mesmerizing.
++ 73 +
+
+mephit, water/ice
+WATER ice
+climate/terrain : Any Any
+activity CYCLE: Any Any
+FREQUENCY: Common Common
+ORGANIZATIO: N Solitary Solitary
+diet: Any liquid Nil
+INTELLIGENCE: Average (8-10) Average (8-10)
+TREASURE: N N
+ALIGNMENT: Neutral Neutral
+No. APPEARING: 1-10 1-10
+ARMOCRL ASS: 5 5
+MOVEMENT: 12, FI 24 (B) 12, FI 24 (B)
+HIT DICE: 3 3
+THACO: 17 17
+No. OF AITACKS: 2 2
+damage/attack ld3/ 1 d3 ld2/ Id2
+SPECIAALI TACKS: Acid stream See below
+SPECIADLE FENSES: See below See below
+MAGIC RESISTANCE: Nil Nil
+SIZE: M (5‘tall) M (5’tall)
+MORALE: Average (8- 10) Average (8- 10)
+XP VALUE: 420 420
+WAtER mephit
+These thin, finny humanoids are covered with sea-green
+scales, and webs of skin connect the spines of their ears, toes,
+and wings. They have fishy, staring eyes and fish lips. An
+odor of brine accompanies them, and they drip salt water.
+Manifesting an irritating joviality, water mephits make
+remarkably tactless comments on their companions’ actions
+and situations: “Buck up, you can handle these fiends. Or if
+not, you’ll make good dretches.” They attach themselves to
+adventuring parties (unasked) out of an appetite for novelty.
+COMBAT: Water mephits can attack with two claws (ld3 damage
+each), but they prefer their breath weapon, a stream of
+acidic greenish water (2d4 acid damage for two rounds; one
+save vs. breath weapon halves damage on both rounds). The
+mephit can breathe every other round, automatically hitting
+one target.
+The semi-liquid forms of water mephits are immune to
+cutting or impaling damage from nonmagical weapons and to
+fire damage (including magical fire), but they take double
+damage from cold attacks. Of course they can breathe water,
+and they can drink any liquid, such as mercury or poison
+without damage. They regenerate 1 hp per round spent only
+drinking liquid.
+Water mephits can attempt to gate in one other water or
+ice mephit once per hour.
+ecology Captured water mephits stand watch in kitchens,
+ready to put out fires, or maintain aquaria for the wealthy.
+ICE mephit
+Ice mephits are angular, with translucent, ice-blue skin. They
+live on the colder Lower Planes and thus never mix with fire.
+magma, smoke, or steam mephits. Ice mephits act aloof and
+cruel, surpassing other mephits in torture and wanton
+destruction.
+COMBATI:c e mephits attack with two clawed hands (Id2 damage
+each). In addition, their chilling touch reduces the victim’s
+attack rolls by 1 per hit. These effects are cumulative and last
+three turns, or until the victim is healed to full hit points,
+whichever comes first.
+Ice mephits can breathe a volley of ice shards every other
+melee round, up to three times per day. This volley automatically
+hits a single victim within 15’ (ld6 damage, save vs.
+breath weapon for half damage).
+Once per hour an ice mephit can attempt to gate in one
+other mephit, either mist or ice.
+Ice mephits are of course immune to all cold-based
+attacks, but take full damage from fire- or heat-based attacks.
+ECOLOGYC: onfined ice mephits chill small rooms for the cold
+storage of perishables.
+
+
+me PH I t, DU st/salt
+DUST SALT wet, which causes them excruciating pain and makes them
+climate/terrain Any Any smell briny. The sarcastic and acidulous wit of salt mephits
+FREQUENCY: Common Common Lowers their life expectancy dramatically.
+ORGANIZATION: Solitary Solitary
+activity CYCLE: h Y Any COMBAT: Salt mephits attack with two claws (ld3 damage
+DIET: Special Nil each); if any claw damage penetrates armor, the pain of the
+INTELLIGENCE: salted wound requires a save vs. petrification or the victim is
+TREASURE: Nil N stunned for 1-2 rounds. Similarly, the salt mephit’s breath
+ALIGNMENT: Neutral Neutral weapon is a shower of salt crystals against a single enemy
+within 15’ (damage ld4, save vs. petrification or be stunned
+No. appearing: 1-10 1-10 1-2 rounds).
+ARMOCRL ASS: 6 5 Once per day a salt mephit can taunt (as the 1st-level
+MOVEMENT: wizard spell); this taunting can be made to originate within 10
+hit DICE: 3 3 yards of the mephit. A salt mephit can contaminate any
+thac0: 17 17 amount of water up to a barrel by touch, turning it into
+NO. OF attacks: 2 2 undrinkable brine.
+damage/attack: ld2/ld2 Once per hour a salt mephit can attempt to gate in
+SPECIAALT TACKS: See below See below another salt mephit. Salt mephits are immune to fire and heat
+SPECIAL DEFENSES: See below See below damage of all kinds, but take maximum damage from liquid-
+MAGICRE SISTANCE: Nil nil based attacks, and even ordinary water does 1 hp damage per
+SIZE: M (5’tall) M (5’ tall) round of contact. They regenerate 1 hp per turn automatically,
+MORALE: Average (8-10) Average (8-10) as long as they stay dry.
+xp VALUE: 420 420
+Average (8-10) Average (8-10)
+12, FI 24 (B) 12, FI 24 (B)
+ld3/1d3 + stun
+ECOLOGY Spellcasters who deliver a nasty, foulmouthed salt
+mephit to an enemy thereby declare open warfare.
+dust mephit
+These ghoulish things find death morbidly fascinating. They
+pose as tragic yet fashionable victims of a gloomy fate, heroically
+holding out against utter insanity. They favor lines like
+“A dust mephit I am, lest dust I become!”
+Gaunt even by mephit standards, dust mephits have
+dusky brown skin, eyes, and wings. Unlike other mephits, they
+prefer to wear clothing (always black), altered so as not to
+interfere with flight.
+COMBAT. Dust mephits attack with two weak claws (ld2 damage
+each). Three times a day they can breathe a 15’-radius
+cloud of imtating glassy dust (range 0). Those who fail to save
+vs. breath weapon can avoid the effect by scratching for one
+round. Otherwise the itching Lowers AC by 4 and attack rolls
+by 2 for three rounds. Other mephits and creatures with thick
+or insensitive skins (elephant, scaly, buffalo) are immune.
+Once per hour a dust mephit can attempt to gate in 1-2
+other dust mepbits, usually to share their tragic alienation.
+They regenerate 1 hp per turn in dusty, waterless areas. They
+take half damage from cutting and impaling weapons and are
+immune to heat and fire damage of all types, but take maximum
+damage from liquid- and wind-based attacks.
+ECOLOGYI: n the complex social code of some Lower-planar
+spellcasters, the gift of a dust mephit symbolizes a subtle ,
+threat, with the connotation that the giver has recognized
+some plot of the recipient against him.
+salt mephit
+Salt mephits look like grainy white humanoids with wings
+made of cubical white crystals. They have large red eyes and
+gaping, grinning mouths. They have no odor unless they get
+.
+’
+-.
+8
+
+mephit, lightning/mineral
+FREQUENCY: Common Common
+ORGANIZATIO: N Solitary/band Solitary
+DIET: Special Nil
+INTELLIGENCE: Average (8-10) Avg (8-10)
+TREASURE: Nil N
+ALIGNMENT: Neutral Neutral
+activity CYCLE: Any Any
+No. APPEARING:
+ARMOCRL ASS:
+MOVEMENT:
+HIT DICE:
+THACO:
+No. OF attacks:
+damage/attack :
+SPECIAALT TACKS:
+SPECIADLE FENSES:
+magic RESISTANCE:
+MORALE:
+XP VALUE:
+SIZE:
+1-20
+4
+12, F1 36 (C)
+3
+7
+2
+ld3/1d3
+Lightning bolt
+See below
+Nil
+M (5‘ tall)
+Average (8- 10)
+420
+1-20
+4
+12, FI 24 (C)
+3+2
+17
+2
+ld4/ Id4
+Glitterdust
+See below
+Nil
+M (5’tall)
+Average (8-10)
+420
+lightning mephit
+A lightning mephit’s torso and limbs are thin, jagged bolts of
+black lightning; its hands and feet are oversized, bulbous, and
+white. Its earless head smells like ozone and glows with a permanent
+light spell-like effect that cannot be dispelled; this
+expires when the mephit dies.
+A lightning mephit has no wings. It races through the air
+like a lightning bolt, the fastest of all mephits. Unfortunately,
+it maneuvers poorly.
+Lightning mephits are energetic, even hyperactive, with
+an incessant curiosity and desire for activity. They talk very,
+very fast, with many mistakes, false starts, and malapropisms.
+COMBAT: Lightning mephits dislike combat and prefer to
+befriend opponents. They have no claws but have the spelllike
+ability to cast a lightning bolt three times a day. Unlike
+the wizard spell, this bolt does 3d6 damage automatically to
+one target within 80’. A mephit can cast additional bolts, hut
+each extra bolt damages the mephit (2 hp from its current
+total per bolt cast).
+Once per hour a lightning mephit can attempt to gate in
+1-4 more lightning mephits.
+Attacks with nonmagical metal weapons on a lightning
+mephit do it no harm but, may harm the attacker (save vs.
+paralysis or take ld3 shock damage). Lightning mephits are
+immune to tire, heat, and electrical damage of all kinds, but
+dousing with liquid (at least a gallon) destroys them in a flash
+(3 hp damage to everyone in a 5’ radius).
+Lightning mephits instantly regenerate all damage on
+contact with an electrical source, such as another mephit’s
+lightning bolt. This reinforces the mephit’s natural desire to
+congregate with others of its kind. A force of mephits that can
+recharge one another is unstoppable by anything short of a
+glass of water.
+phit
+These thickly-built mephits look like earth mephits. Their skin
+and wings glitter with ground mica. The rigid metallic wings
+have no obvious function in the mephit’s magical flight. Like
+their earthy kin, mineral mephits are clumsy in flight. They
+have no odor.
+These suspicious, greedy, and self-righteous mephits
+show an attitude common in their native plane of Minerals:
+They style themselves guards of all treasure, whether or not
+they own it.
+COMBAT: Mineral mepbits attack with two claws (Id4 damage
+each). Their breath weapon works as glitterdust (no range, 10’
+radius) three times a day at 3rd level of magic use. They can
+move through stone walls less than a foot thick as though
+insubstantial.
+Once per hour, mineral mephits can attempt to gate in 1-
+2 other mephits, either earth or mineral. If two arrive, they are
+the same type.
+Mineral mephits do not breathe and are immune to gas
+attacks of all kinds. Vacuum and nonmagical impaling weapons
+do no damage. Passwall or transmute rock to mud
+destroys them instantly.
+Mineral mephits regenerate 1 hp per turn in contact with
+stone. Gems and jewelry also restore hit points but are consumed
+in the process, 10 gp of value lost per hp restored.
++ 76 +
+-1 .L
+
+
+climate/terrain :
+FREQUENCY:
+ACTIVITCYYC LF:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+ORGANIZATION:
+MAGMA
+Common
+Solitary
+Special
+N
+Neutral
+Any
+Any
+Low (5-7)
+ASH
+Common
+Solitary
+Special
+Average (8-10)
+Nil
+Neutral
+Any
+Any
+No. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THACO:
+NO. OF ATTACKS:
+DAMAGE/ATTACK:
+SPECIAALT TACKS:
+SPECIADLE FENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
+1
+6
+12, FI 24 (C)
+3
+17
+2
+ld8+ 1/1d8+ 1
+Breath, heat
+Regenerates
+Nil
+M (5’tall)
+Average (8-10)
+420
+1
+5
+12, F1 24 (B)
+3
+17
+2
+ld3/ ld3
+Belabormen t
+See below
+Nil
+M (5‘ tall)
+Average (8- I0)
+420
+magma mephit
+Magma mephits, or lava mephits, are the least intelligent of
+all mephits and hence the brunt of fire mephit jokes. They are
+sensitive to these insults and anger easily when offended, but
+otherwise they are passive and less temperamental than other
+mephits. They generate extreme heat that can be felt 30’
+away.
+combat: Magma mephit claws are small and soft, causing only
+1 hp damage when they hit, but each hit inflicts an additional
+Id8 heat damage and automatically melts or bums most nonmagical
+materials. The rate of destruction varies from three
+rounds (melting plate armor) to one hour (burning through an
+inch of wood).
+Their breath weapon, usable once every three rounds, is a
+blob of lava that automatically hits one target within 10’ (Id6
+damage). A magma mephit can use this weapon eight times,
+then must recharge for one hour in a lava pool. Mephits in
+lava regenerate 2 hp per round.
+Magma mephits can shapechange into a pool of lava 3’ in
+diameter and six inches deep. This maneuver does not
+recharge their breath weapon. They take damage normally in
+Once per hour a magma mephit can attempt to gate in
+1-2 other mephits of fire, magma, smoke, or steam. If two
+arrive they are the same type.
+Water in large quantities (a barrel or more) causes the
+magma mephit to harden, halving its movement. However,
+this releases large quantities of sulfurous steam, necessitating
+a save vs. poison for any creatures within 10‘. Failure causes
+dizziness and nausea for two rounds, and the victim takes -2
+on attack rolls.
+pool form.
+ASH mephit
+Profoundly depressed and lugubrious, ash mephits make adequate
+sentries and messengers, but they impose upon
+passersby with endless tales of their sorrows, boredom, and
+frustrations.
+Ash mephits have powdery gray skin and wings (“You’re
+so lucky not to have wings, they get fouled in everything and
+it’s not like I ever asked to fly”), no external ears (“And even
+so I hear this persistent ringing, a ringing, you know, it just
+never stops”), and a nasal whining voice (“Am 1 boring you?
+I’d haaate to think I was boring you”). Scholars suppose that
+Lower-planar beings can create ash mephits more easily than
+those of other types: why else would anyone create one?
+COMBAT: Ash mephits cannot claw or bite, but they can spray a
+cloud of choking ash in a 10’ radius at a cost of 1 hp from
+their current total (ld6 damage, save vs. breath weapons for
+half damage).
+Once per day an ash mephit can harangue good and neutral
+creatures with a lengthy recitation of its woes. This works
+as Leomund’s lamentable belaborment (It does not work on
+evil creatures, who care nothing for the mephit’s troubles.)
+Ash mephits are immune to nonmagical cutting and
+impaling weapons, to fire, heat, and cold (magical and nonmagical),
+and to poison. They take double damage from liquid-
+based attacks, and wind-based attacks inflict maximum
+damage. They do not breathe.
+can gate in another ash
+mephit (usual
+Once an hour an ash
+hr
+
+Mist STEAM
+climate/terrain Any Any
+FREQUENCY: Common Common
+ORGANIZATION: Solitary Solitary
+activity CYCLE: Any Any
+diet: Special Special
+INTELLIGENCE: Average (8-10) Average (8-10)
+treasure: N N x 2
+ALIGNMENT: Neutral Neutral
+No. APPEARING: 1-10 1-10
+armor CLASS: 7 7
+MOVEMENT: 12, F1 24 (B) 12, FI 24 (B)
+hit DICE: 3+2 3+3
+thac0: 17 17
+no. OF ATTACKS: 2 2
+damage/attack: 1/1 ld4+ l/ld4+ 1
+SPECIAALTT ACKS: See below See below
+SPECIADLE FENSES: See below See below
+magic RESISTANCE: Nil Nil
+SIZE: M (5’tall) M (5‘tall)
+MORALE: Average (8-10) Average (8-10)
+XP VALUE: 420 420
+Both mist and steam mephits originate on the quasielemental
+Plane of Steam, the only known plane that has spawned two
+varieties of mephits. Possibly for this reason, the two varieties
+have developed an intense rivalry bordering on hatred. They
+insult one another constantly and fight inconclusive skirmishes.
+mist mephit
+Mist mephits fancy themselves spies of the highest caliber.
+They quickly report other mephits who show mercy or other
+treasonous behavior, and they seldom engage in idle banter
+with other mephits.
+Mist mephits can see clearly in fog or mist. Their skin is
+pale green.
+combat Mist mephits seldom engage in melee unless trapped.
+Their soft claws inflict 1 hp damage. They can breathe a
+sickly-green ball of mist every other round, up to three times
+an hour, that automatically envelops one victim within 10‘
+(save vs. poison or take ld4+1 points of choking damage and
+blinded for 1-4 rounds).
+Mist mephits can create a wall of fog once per day, as a
+3rd-level wizard. They can also assume gaseous form once per
+day, and often do so to spy on others or escape combat. Once
+per hour, a mist mephit can attempt to gate in 1-2 other
+mephits, either ice or mist. If two arrive, they are the same type.
+Powerful winds, including a gust of wind spell, cause
+mist mephits to flee in confusion.
+steam mephit
+Bossy and hypeisensitive, steam mephits are the selfappointed
+overlords of all mephits and, in their own minds,
+lords of the quasiplane of Steam. Mist mephits refuse to obey
+them, and this disobedience has led to a millennia-long
+rivalry between the types.
+In addition to the hissing steam that escapes from their
+pores, steam mephits leave a trail of near-boiling water where
+they walk.
+combat: Unlike other mephits who delay attacking as long as
+possible, steam mephits, ruled by oversized egos, ambush
+even large, well-armed parties. They strike first with their
+boiling rainstorm, then concentrate their breath weapons on
+the nearest wizard or priest.
+The mephit’s two hardened claws cause ld4 damage
+each, plus 1 hp heat damage per touch. In addition, the victim
+is 50% likely to be stunned for one round. These effects are
+cumulative, so a victim raked twice could be stunned for two
+rounds.
+Steam mephits can breathe a scalding jet of water every
+other round with a 20’ range, automatically hitting one target
+(ld3 damage, with a 50% chance of stunning the victim for
+one round).
+Once per day a steam mephit can create a rainstorm of
+boiling water over a 20’x20’ area. This storm inflicts 2d6 damage
+to all victims in the area of effect. Steam mephits can also
+use putrefy food & drink (reverse of purify food and drink)
+once per day to contaminate water.
+Once per hour a steam mephit can attempt to gate in 1-2
+other mephits (fire, magma, smoke, or steam). If two arrive,
+they are the same type.
+Steam mephits are immune to fire and heat damage.
+ECOLOGYS:t eam mephits heat confined areas qr power small
+engines.
+

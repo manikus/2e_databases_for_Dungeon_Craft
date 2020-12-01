@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Roc
+icon file = icon_Roc.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 1
+armor class = 4
+movement rate = 30
+hit dice = 18
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 5
+magic resistance = 0
+size = large
+morale = 28
+experience point value = 9000
+Special Ability = monsterLevel,18
+Class = Fighter
+Race = Animal
+form = animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 6,3,0,attacks,
+attack = 6,3,0,attacks,
+Undead = none
+\(END)
+

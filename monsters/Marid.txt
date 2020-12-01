@@ -1,0 +1,40 @@
+\(BEGIN)
+name = Marid
+icon file = icon_Marid.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 16
+armor class = 0
+movement rate = 15
+hit dice = 13
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 7
+magic resistance = 25
+size = large
+morale = 40
+experience point value = 16000
+Special Ability = homePlane,Water
+Special Ability = isDetectingEvil,1
+Special Ability = isDetectingGood,1
+Special Ability = isDetectingMagic,1
+Special Ability = isImmuneWater,1
+Special Ability = isInvisible,1
+Special Ability = isSeeingInvisible,1
+Special Ability = monsterLevel,13
+Class = Fighter
+Race = Genie
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageWall Of Fog
+item = monsterMaridWaterJet
+item = monsterMaridWaterJet
+item = monsterMaridWaterJet
+attack = 8,4,0,attacks,
+Undead = none
+\(END)
+

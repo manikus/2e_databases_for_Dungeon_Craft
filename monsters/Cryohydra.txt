@@ -1,0 +1,46 @@
+\(BEGIN)
+name = Cryohydra
+icon file = icon_Cryohydra.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 3
+armor class = 5
+movement rate = 9
+hit dice = 64
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 12
+magic resistance = 0
+size = large
+morale = 25
+experience point value = 3000
+Special Ability = monsterLevel,8
+Special Ability = monsterHydraAttacks
+Class = Fighter
+Race = Animal
+form = animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterCryohydraBreath
+item = monsterCryohydraBreath
+item = monsterCryohydraBreath
+item = monsterCryohydraBreath
+item = monsterCryohydraBreath
+item = monsterCryohydraBreath
+item = monsterCryohydraBreath
+item = monsterCryohydraBreath
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+// cryohydra breath - 10 wide 20 long 8 points damage save v berath weapon for half, cold damage
+

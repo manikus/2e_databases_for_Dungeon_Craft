@@ -1,0 +1,15 @@
+\(BEGIN)
+name = isSlow
+[Dispel] = $SA_REMOVE();
+[GetAdjMaxMovement] = $VAR exp;
+-exp = $SA_PARAM_GET(); $IF ($GET_PARTY_TIME() >=# exp){$SA_REMOVE();}; $RETURN $GET_HOOK_PARAM(5) /# 2;
+[GetNumberOfAttacks] = $VAR attackNum;
+-attackNum = $GET_HOOK_PARAM(5);
+-$IF ((attackNum %# 2) ==# 0){$RETURN attackNum /# 2;}
+-$ELSE
+-	{
+-		$IF (($GetCombatRound() %# 2) ==# 0){$RETURN (attackNum +# 1) /# 2;}
+-		$ELSE{$RETURN (attackNum -# 1) /# 2;};
+-	};
+\(END)
+

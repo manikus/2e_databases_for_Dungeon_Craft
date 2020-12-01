@@ -1,0 +1,44 @@
+Baatezu:
+1st layer (Avernus)
+	Bel (Pit Fiend)
+		Amduscius, Malphas, Goap (all dukes)
+2nd layer (Dis)
+	Dispater (Archduke)
+		Titivulus (duke) erinyes
+3rd layer (Minauros)
+	Minauros (viscount)
+		Glasya (duchess) Morsch (duke)
+4th layer (Phlegethos)
+	Belial (archduke), Fierana (lady) 
+		Chamo (duke), Naome (), Zaebos and Zappan (pit fiends)
+5th layer (Stygia)
+	Levistus (prince)
+		Amon (duke)
+6th layer (Malbolge)
+	Malagard (contess)
+		Bileth (pit fiend)
+7th layer (Maladomini)
+	Triel (archduke)
+		Abigor (duke), Zepar (duke), Neabaz (herald)
+8th layer (Cania)
+	Molikroth (baron)
+		Nexroth (duke), Hutijin (duke), Barbas (chamberlain)
+9th layer (Nessus)
+	Asmodeus
+		Alastor (executioner)
+		
+Tanar'ri:
+lords:
+	Alvarez
+	Eldanoth
+	Fraz Urblu
+	Lupercio
+	Lynkhab
+	Pale Night
+	Verin
+
+Yugoloth:
+	Oinoloth (current Mydianchlarus) (previous Anthraxus)
+	Baernaloths
+	
+	

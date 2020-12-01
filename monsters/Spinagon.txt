@@ -1,0 +1,46 @@
+\(BEGIN)
+name = Spinagon
+icon file = icon_Spinagon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 12
+armor class = 4
+movement rate = 18
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 17
+magic resistance = 15
+size = small
+morale = 25
+experience point value = 7500
+Special Ability = monsterLevel,4
+Special Ability = alignmentEvil,1
+Special Ability = homePlane,Lower
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = isImmuneMagicalFire
+Special Ability = isImmuneNonmagicalFire,1
+Special Ability = isImmuneIronWeapons,1
+Special Ability = isImmunePoison,1
+Special Ability = monsterInfravision,60
+Special Ability = monsterSpinagonGateSpinagon,1-3 spinagons 35%
+Class = Fighter
+Race = Baatezu
+form = none
+penalty = none
+immunity = death magic + confusion + none
+Misc Options = none
+item = monsterMageCharm Person
+item = monsterMageKnow Alignment
+item = monsterMageSuggestion
+item = monsterMageTeleport Without Error
+item = monsterMageStinking Cloud
+attack = 4,1,0,hits,
+attack = 4,1,0,hits,
+attack = 4,1,0,attacks,
+Undead = Special
+\(END)
+

@@ -1,0 +1,132 @@
+// gauntlets
+\(BEGIN)
+name = Gauntlets|Dexterity
+id name = Gauntlets of Dexterity
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 2000
+hands to carry = 0
+baseclass = cleric
+baseclass = bard
+baseclass = fighter
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 10
+cursed = no
+non lethal = no
+readied location = HANDS 
+bundle quantity = 1
+Special Ability = item_GauntletsDexterity,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Gauntlets of Dexterity increase overall Dexterity by 4 points if the wearer's Dexterity is 6 or less, by 2 points if at 7-13, and by 1 point if Dexterity is 14 or higher. Furthermore, wearing these gloves enables a nonthief character to pick pockets (45% chance) or open locks (37% chance) as if he were a 4th-level thief. If worn by a thief, they increase these two abilities by 10%.
+
+\(BEGIN)
+name = Gauntlets|Fumbling
+id name = Gauntlets of Fumbling
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 200
+hands to carry = 0
+baseclass = cleric
+baseclass = bard
+baseclass = fighter
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 10
+cursed = yes
+non lethal = no
+readied location = HANDS 
+bundle quantity = 1
+Special Ability = item_GauntletsFumbling,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//the wearer will become very clumsy, with a 50% chance each round of dropping anything held in either hand—not from both singly. The gauntlets will also lower overall Dexterity by 2 points
+
+\(BEGIN)
+name = Gauntlets
+id name = Gauntlets of Ogre Power
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 3000
+hands to carry = 0
+baseclass = cleric
+baseclass = bard
+baseclass = fighter
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 10
+cursed = no
+non lethal = no
+readied location = HANDS 
+bundle quantity = 1
+Special Ability = item_GauntletsOgrePower,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

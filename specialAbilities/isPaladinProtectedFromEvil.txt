@@ -1,0 +1,19 @@
+\(BEGIN)
+name = isPaladinProtectedFromEvil
+[CharDisplayStatus] = $SET_HOOK_PARAM(7,"Protected From Evil"); $SET_HOOK_PARAM(6,""); $RETURN 1;
+[DoesAttackSucceed] = $IF ($GET_CHARACTER_SA($TargetContext(),"isPaladinProtectedFromEvil") != "-?-?-")
+-	{
+-		$IF ($GET_COMBATANT_SA($AttackerContext(),"homePlane") != "-?-?-")
+- 			{$SET_HOOK_PARAM(6,$GET_HOOK_PARAM(6) +# 90);};
+-		$IF ($AlignmentEvil($AttackerContext()))
+-			{$SET_HOOK_PARAM(6,$GET_HOOK_PARAM(6) +# 2);};
+-	};
+-$IF ($GET_HOOK_PARAM(5) >=# $GET_HOOK_PARAM(6)){$RETURN "Y";}
+-$ELSE {$RETURN "N";};
+[SaveVsBW_Save] = $IF ($AlignmentEvil($AttackerContext())){$RETURN $GET_HOOK_PARAM(0) -# 2;};
+[SaveVsPPDM_Save] = $IF ($AlignmentEvil($AttackerContext())){$RETURN $GET_HOOK_PARAM(0) -# 2;};
+[SaveVsPP_Save] = $IF ($AlignmentEvil($AttackerContext())){$RETURN $GET_HOOK_PARAM(0) -# 2;};
+[SaveVsRSW_Save] = $IF ($AlignmentEvil($AttackerContext())){$RETURN $GET_HOOK_PARAM(0) -# 2;};
+[SaveVsSp_Save] = $IF ($AlignmentEvil($AttackerContext())){$RETURN $GET_HOOK_PARAM(0) -# 2;};
+\(END)
+

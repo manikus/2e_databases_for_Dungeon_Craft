@@ -1,0 +1,35 @@
+\(BEGIN)
+name = spellSleep
+[Dispel] = $SA_REMOVE();
+-$RUN_CHAR_SE_SCRIPTS($TargetContext(),"Dispel SE");
+[Dispel SE] = $REMOVE_SPELL_EFFECT($CharacterContext(),$GET_HOOK_PARAM(5));
+[InvokeSpellOnTarget] = $VAR atk; $VAR tgt; $VAR cls; $VAR nm; $VAR index; $VAR lvl; $VAR tLevel;
+-$VAR bCls; $VAR opr; $VAR round; $VAR pv; $VAR adj;
+-atk = $IndexOf($AttackerContext()); tgt = $IndexOf($TargetContext());
+-$IF ($GET_CHAR_STATUS(tgt) != 0){$RETURN;}; $IF ($GET_CHAR_UNDEAD(tgt) != "none"){$RETURN;};
+-nm = $GET_CHAR_NAME(tgt); $IF ($GET_MONSTERTYPE_SA(nm,"monsterImmuneSleep") != "-?-?-") {$RETURN;};
+-$IF ($GET_COMBATANT_SA($TargetContext(),"isSleeping") != "-?-?-") {$RETURN;};
+-opr = $GET_COMBATANT_SA($AttackerContext(),"CombatRoundStart");
+-$IF (opr  == "-?-?-" || opr  <# 2)
+-	{
+-		$SET_COMBATANT_SA($AttackerContext(),"CombatRoundStart",5);
+-		round = ($RANDOM(4) +# $RANDOM(4) +# $RANDOM(4) +# $RANDOM(4) +# 4);
+-		$SET_COMBATANT_SA( $AttackerContext(), "PointPool", round);
+-	};
+-round = $GET_COMBATANT_SA($AttackerContext(), "PointPool"); $IF (round <# 1){$RETURN;};
+-tLevel = $GET_MONSTERTYPE_SA(nm,"monsterLevel"); $IF (tLevel != "-?-?-") {lvl = tLevel;}
+-$ELSE {bCls = $GetHighestLevelBaseclass(tgt); lvl = $GetBaseclassLevel(tgt,bCls);};
+-$IF (lvl ># 0){pv =# 1;}; $IF (lvl ># 1){pv =# 2;}; $IF (lvl ># 2){pv =# 4;};
+-$IF (lvl ># 3){pv =# 6;}; $IF (lvl ># 4){pv = "";};
+-$IF (pv != "" )
+-	{
+-		$IF ( round >=# pv )
+-			{
+-				round = round -# pv; $SET_COMBATANT_SA($AttackerContext(),"PointPool",round);
+-				$SET_COMBATANT_SA($TargetContext(),"isSleeping","Sleeping");
+-			};
+-	};
+-adj = $GET_SPELL_SA($SpellContext(),"adjLevel"); lvl = $GET_CHAR_Lvl(atk,cls) -# adj;
+-$SET_CHARACTER_SA($TargetContext(),"DispelLevel",lvl);
+\(END)
+

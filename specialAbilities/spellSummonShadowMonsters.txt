@@ -1,0 +1,9 @@
+\(BEGIN)
+name = spellSummonShadowMonsters
+[InvokeSpellOnTarget] = $VAR list; $VAR count; $VAR n; $VAR caster; $VAR class; $VAR hd; $VAR string; $VAR monster; $VAR sCount;
+-list = "#$Shadow Gnoll$2#$Shadow Goblin$1#$Shadow Ogre$4"; count = $DelimitedStringCount(list); n = $RANDOM(count);
+-caster = $IndexOf($AttackerContext()); class = $SA_PARAM_GET(); string = $DelimitedStringSubstring(list,n);
+-monster = $DelimitedStringSubstring(string,0); hd = $DelimitedStringSubstring(string,1);
+-sCount = $GET_CHAR_Lvl(caster,class) /# hd; $WHILE (sCount >=# 0) {$AddCombatant(monster,"1"); sCount = sCount -# 1;};
+\(END)
+

@@ -1,0 +1,23 @@
+\(BEGIN)
+name = spellRestoration
+[InvokeSpellOnTarget] = $VAR tgt; $VAR feebled; $VAR drained; $VAR head; $VAR cls; $VAR level; $VAR
+-hp; $VAR done; $VAR tHP; $VAR tMaxHP; tgt = $IndexOf($TargetContext()); done = 0;
+-drained = $GET_CHARACTER_SA($TargetContext(),"isDrained");
+-$IF (drained != "-?-?-")
+-	{
+-		tHP = $GET_CHAR_HITPOINTS(tgt); tMaxHP = $GET_CHAR_MAXHITPOINTS(tgt); $WHILE (done <# 1)
+-			{
+-				head = $DelimitedStringHead(drained); cls = $DelimitedStringSubstring(head,0);
+-				$IF ($GET_CHAR_Lvl(tgt,cls) <# $DelimitedStringSubstring(head,1))
+-					{
+-						level = $DelimitedStringSubstring(head,1); $SET_CHAR_Lvl(tgt,cls,level);
+-						$SET_CHAR_Exp(tgt,class,$DAT_Baseclass_Experience(cls,level)); hp = $DelimitedStringSubstring(head,2);
+-						$SET_CHAR_MAXHITPOINTS(tgt,tMaxHP +# hp); $SET_CHAR_HITPOINTS(tgt,tHP +# hp);  done = 2;
+-					};
+-				$SET_CHARACTER_SA($TargetContext(),"isDrained",$DelimitedStringTail(drained));
+-				$IF ($GET_CHARACTER_SA($TargetContext(),"isDrained") == "$|99")
+-					{$DELETE_CHARACTER_SA($TargetContext(),"isDrained"); done = 3;};
+-			};
+-	};
+\(END)
+

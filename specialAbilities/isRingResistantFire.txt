@@ -1,0 +1,7 @@
+\(BEGIN)
+name = isRingResistantFire
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7, "Fire Resistant"); $SET_HOOK_PARAM( 6, ""); $RETURN 1;
+[ComputeDamage] = $VAR resist; resist = $SA_ITEM_GET("damageFire"); $IF (resist != "-?-?-"){$RETURN $GET_HOOK_PARAM(5) /# 2;};
+[ComputeSpellDamage] = $VAR resist; resist = $SA_ITEM_GET("damageFire"); $IF (resist != "-?-?-"){$RETURN $GET_HOOK_PARAM(5) /# 2;};
+\(END)
+

@@ -1,0 +1,12 @@
+\(BEGIN)
+name = Priest/Thief
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = cleric
+baseclass = thief
+Special Ability = class_Thief,$cleric$thief
+Special Ability = class_baseName,$cleric$thief
+\(END)
+

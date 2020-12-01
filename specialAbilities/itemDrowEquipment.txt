@@ -1,0 +1,6 @@
+\(BEGIN)
+name = itemDrowEquipment
+[itemDrowEquipment] = $TAKE_CHAR_ITEM($CharacterContext(), $ItemContext());
+-$RETURN "2";
+\(END)
+

@@ -1,0 +1,34 @@
+\(BEGIN)
+name = Gorgon
+icon file = icon_Gorgon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 1
+armor class = 2
+movement rate = 12
+hit dice = 8
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 13
+magic resistance = 0
+size = large
+morale = 25
+experience point value = 1400
+Special Ability = alignmentEvil,1
+Special Ability = monsterLevel,8
+Class = Fighter
+Race = Animal
+form = large + animal + mammal
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterGorgonBreath
+item = monsterGorgonBreath
+item = monsterGorgonBreath
+item = monsterGorgonBreath
+attack = 6,2,0,attacks,
+Undead = none
+\(END)
+

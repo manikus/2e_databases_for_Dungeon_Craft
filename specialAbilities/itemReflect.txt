@@ -1,0 +1,6 @@
+\(BEGIN)
+name = itemReflect
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(), "isReflecting", "1");
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(),"isReflecting");
+\(END)
+

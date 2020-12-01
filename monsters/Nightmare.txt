@@ -1,0 +1,35 @@
+\(BEGIN)
+name = Nightmare
+icon file = icon_Nightmare.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 12
+armor class = -4
+movement rate = 36
+hit dice = 6
+treat HD as hit points = yes
+hit dice bonus = 6
+THAC0 = 15
+magic resistance = 0
+size = large
+morale = 35
+experience point value = 2000
+Special Ability = alignmentEvil,1
+Special Ability = homePlane,Lower
+Special Ability = monsterLevel,7
+Special Ability = monsterNightmaeNoxiousCloud,10
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 4,2,2,attacks,
+attack = 4,2,2,attacks,
+attack = 4,2,0,attacks,
+Undead = none
+\(END)
+

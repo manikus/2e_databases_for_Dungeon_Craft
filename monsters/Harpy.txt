@@ -1,0 +1,37 @@
+\(BEGIN)
+name = Harpy
+icon file = icon_Harpy.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 6
+armor class = 7
+movement rate = 15
+hit dice = 7
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 13
+magic resistance = 0
+size = medium
+morale = 35
+experience point value = 1400
+Special Ability = alignmentEvil,1
+Special Ability = isFlying,C
+Special Ability = monsterHarpySong,9
+Special Ability = monsterLevel,7
+Special Ability = orderChaotic,7
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 3,1,0,attacks,
+attack = 3,1,0,attacks,
+attack = 6,1,0,attacks,
+Undead = none
+\(END)
+// monsterHarpySong - aura, save vs charm or be held
+

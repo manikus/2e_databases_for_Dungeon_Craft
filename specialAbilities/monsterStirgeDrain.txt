@@ -1,0 +1,42 @@
+\(BEGIN)
+name = monsterStirgeDrain
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,$SA_PARAM_GET()); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[GetAdjMaxMovement] = $RETURN 0;
+[GetNumberOfAttacks] = $RETURN 0;
+[OnStartCombatantAction] = $VAR tgt; $VAR nm; $VAR cap; $VAR dmg;
+-// Test Target and Compute & Apply Drain
+-tgt = $GET_COMBATANT_SA($CombatantContext(),"monsterStirgeLink"); nm = $GET_CHAR_NAME(tgt);
+-$IF ($GET_CHAR_STATUS(tgt) ==# 0) 
+-  {
+-    cap = $GET_COMBATANT_SA($CombatantContext(),"monsterStirgeBloodCap"); dmg = $RANDOM(4) +# 1;
+-    $IF (cap <# dmg) {dmg = cap;}; cap = cap -# dmg; $SET_COMBATANT_SA($CombatantContext(),"monsterStirgeBloodCap",cap);
+-    $SET_CHAR_HITPOINTS(tgt, $GET_CHAR_HITPOINTS(tgt) -# dmg);
+-// is Target Dead?
+-    $IF ($GET_CHAR_HITPOINTS(tgt) <# 1)
+-      {
+-// Target
+-        $SET_CHAR_STATUS(tgt,1);
+-// Attacker
+-        $DELETE_COMBATANT_SA($CombatantContext(),"monsterStirgeDrain");
+-        $DELETE_COMBATANT_SA($CombatantContext(),"monsterStirgeLink");
+-      };
+-// Am I Full?
+-    $IF (cap <# 1)
+-      {
+-        $SET_CHAR_STATUS($MyIndex(),8);
+-        $DELETE_COMBATANT_SA($CombatantContext(),"monsterStirgeDrain");
+-        $DELETE_COMBATANT_SA($CombatantContext(),"monsterStirgeLink");
+-        $SET_COMBATANT_SA($CombatantContext(),"isFleeing","Fleeing Stirge");
+-// Target
+-        $DELETE_CHARACTER_SA($Name(nm),"isHugged");
+-      };
+-  }
+-$ELSE
+-  {
+-// Someone Else Killed It
+-// Attacker
+-    $DELETE_COMBATANT_SA($CombatantContext(),"monsterStirgeDrain");
+-    $DELETE_COMBATANT_SA($CombatantContext(),"monsterStirgeLink");
+-  };
+\(END)
+

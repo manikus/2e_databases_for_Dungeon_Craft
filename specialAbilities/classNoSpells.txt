@@ -1,0 +1,6 @@
+\(BEGIN)
+name = classNoSpells
+[CanCastSpells] = $RETURN "N";
+[CanMemorizeSpells] = $RETURN "N";
+\(END)
+

@@ -1,0 +1,12 @@
+\(BEGIN)
+name = Priest/Illusionist
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = cleric
+baseclass = illusionist
+Special Ability = class_MageScribe,cleric/illusionist
+Special Ability = class_baseName,$cleric$illusionist
+\(END)
+

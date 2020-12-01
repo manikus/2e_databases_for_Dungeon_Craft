@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Giant Bat
+icon file = icon_GiantBat.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 1
+armor class = 8
+movement rate = 18
+hit dice = 1
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 9
+magic resistance = 0
+size = medium
+morale = 15
+experience point value = 35
+Special Ability = isFlying,
+Special Ability = monsterLevel,1
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 4,1,0,attacks,
+Undead = none
+\(END)
+

@@ -1,0 +1,30 @@
+\(BEGIN)
+name = Giant Goat
+icon file = icon_GiantGoat.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 1
+armor class = 5
+movement rate = 30
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 4
+THAC0 = 17
+magic resistance = 0
+size = large
+morale = 40
+experience point value = 70
+Special Ability = monsterLevel,4
+Class = Fighter
+Race = Animal
+form = mammal + animal + large
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 3,2,0,attacks,
+Undead = none
+\(END)
+

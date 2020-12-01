@@ -1,0 +1,11 @@
+\(BEGIN)
+name = Illusionist
+HitDiceLevelBonus = illusionist,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = mageIllusionist
+Special Ability = class_MageScribe,illusionist
+Special Ability = changeClassIllusionist
+\(END)
+

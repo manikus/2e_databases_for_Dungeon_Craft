@@ -1,0 +1,5 @@
+\(BEGIN)
+name = itemSpiritualHammerPaladin
+[OnReady] = $SET_ITEM_SA("Spiritual Hammer|Paladin","itemMagicalWeapon",$GET_CHAR_Lvl($MyIndex(), $SA_PARAM_GET() -# 8) /# 3);
+\(END)
+

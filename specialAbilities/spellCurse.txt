@@ -1,0 +1,10 @@
+\(BEGIN)
+name = spellCurse
+[InvokeSpellOnTarget] = $VAR atk; $VAR tgt; $VAR cls; $VAR adj; $VAR lvl; $VAR exp;
+-$IF ($GET_CHARACTER_SA($TargetContext(),"saved")){$RETURN;};
+-atk = $IndexOf($AttackerContext()); tgt = $IndexOf($TargetContext());
+-$IF ($RANDOM(20) +# 1 <# $GET_CHAR_THAC0(atk) -# $GET_CHAR_AC(tgt)){$RETURN;};
+-cls = $SA_PARAM_GET(); adj = $GET_SPELL_SA($SpellContext(),"adjLevel"); lvl = $GET_CHAR_Lvl(atk,cls) -# adj;
+-exp = $GET_PARTY_TIME() +# (10 *# lvl); $SET_CHARACTER_SA($TargetContext(),"isBestowedCurse",exp);
+\(END)
+

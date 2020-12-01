@@ -1,0 +1,12 @@
+\(BEGIN)
+name = isBlinking
+[CanCastSpells] = $IF ($GET_PARTY_TIME() ># $SA_PARAM_GET())
+-	{
+-		$DELETE_COMBATANT_SA($CharacterContext(),"isBlinking1"); $DELETE_COMBATANT_SA($CharacterContext(),"isBlinking2");
+-		$DELETE_CHARACTER_SA($CharacterContext(),"blinking"); $SA_REMOVE();
+-	};
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Blinking "); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[Dispel] = $SA_REMOVE();
+[spawn] = $SET_COMBATANT_SA($Myself(),"isBlinking1",1);
+\(END)
+

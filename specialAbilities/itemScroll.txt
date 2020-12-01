@@ -1,0 +1,7 @@
+\(BEGIN)
+name = itemScroll
+[OnReady] = $VAR nm; $VAR cls;
+-nm = $MyIndex(); cls = $SA_PARAM_GET();
+-$IF ($GET_CHAR_Lvl(nm,cls) <# 1 && $GET_CHAR_Lvl(nm,"thief") <# 10) {$SET_CHAR_Ready($CharacterContext(),WEAPON,"",0);};
+\(END)
+

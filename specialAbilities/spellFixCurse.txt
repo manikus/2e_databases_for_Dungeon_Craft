@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellFixCurse
+[FixCharacter] = $VAR curse;
+-curse = $GET_CHARACTER_SA($CharacterContext(),"isCursed"); $RETURN curse != "-?-?-";
+Info = "remove curse for FIX";
+\(END)
+

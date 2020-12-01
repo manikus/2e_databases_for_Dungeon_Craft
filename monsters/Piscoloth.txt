@@ -1,0 +1,56 @@
+\(BEGIN)
+name = Piscoloth
+icon file = icon_Piscoloth.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 12
+armor class = -5
+movement rate = 6
+hit dice = 9
+treat HD as hit points = yes
+hit dice bonus = 18
+THAC0 = 11
+magic resistance = 40
+size = medium
+morale = 35
+experience point value = 40500
+Special Ability = monsterLevel,13
+Special Ability = elementalImmuneAcid
+Special Ability = elementalImmuneIronWeapons
+Special Ability = elementalImmunePoison
+Special Ability = elementalResistantFire
+Special Ability = isResistantGas,1
+Special Ability = elementalVulnerableCold
+Special Ability = isBlinking
+Special Ability = isProtectedFromGood
+Special Ability = casterLevel,10
+Special Ability = alignmentEvil,1
+Special Ability = isImmuneMagicalFire
+Special Ability = monsterNeverSurprised
+Special Ability = monsterPiscolothGateMezzoloth,1-8 100% x3
+Special Ability = monsterPiscolothGatePiscoloth,1-2 35%
+Special Ability = monsterPiscolothWaterDamage,-1 per die
+Special Ability = homePlane,Lower
+Special Ability = isWeaponImmune,1
+Class = Fighter
+Race = Yugoloth
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterClericCause Disease
+item = monsterMageCharm Person
+item = monsterMageTeleport Without Error
+item = monsterMageBinding
+item = monsterMagePhantasmal Killer
+item = monsterMagePhantasmal Killer
+item = monsterMageScare
+item = monsterMageStinking Cloud
+attack = 8,2,0,attacks,monsterPiscolothVorpal
+attack = 8,2,0,attacks,monsterPiscolothVorpal
+Undead = none
+\(END)
+// monsterPiscolothVorpal, natural 20 save v paralysis or 5% instant death, 60% lose arm, 35% lose leg, save v paralysis +2 for each +1 to magic armor
+

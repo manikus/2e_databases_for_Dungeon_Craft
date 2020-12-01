@@ -1,0 +1,13 @@
+\(BEGIN)
+name = Illusionist/Thief
+HitDiceLevelBonus = Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = illusionist
+baseclass = thief
+Special Ability = class_MageScribe,$illusionist$thief
+Special Ability = class_Thief,$illusionist$thief
+Special Ability = class_baseName,$illusionist$thief
+\(END)
+

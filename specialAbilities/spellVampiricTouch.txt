@@ -1,0 +1,18 @@
+\(BEGIN)
+name = spellVampiricTouch
+[ComputeSpellDamage] = $VAR atk; $VAR tgt; $VAR nm; $VAR cls; VAR lvl; $VAR count; $VAR hp;
+-$VAR atkHp; $VAR atkMaxHp; $VAR tempPool;
+-atk = $IndexOf($AttackerContext()); tgt = $IndexOf($TargetContext()); nm = $GET_CHAR_NAME(tgt); cls = $SA_PARAM_GET();
+-lvl = $GET_CHAR_Lvl(atk,cls); $IF (lvl ># 12){lvl ==# 12;}; hp = 0; count = lvl /# 2;
+-$WHILE (count ># 0) {hp = hp +# $RANDOM(6) +# $RANDOM(6) +# 2; count = count -# 1;};
+-atkHp = $GET_CHAR_HITPOINTS(atk) +# hp; atkMaxHp = $GET_CHAR_MAXHITPOINTS(atk);
+-$IF(atkHp <# atkMaxHp) {$SET_CHAR_HITPOINTS(atk,atkHp);}
+-$ELSE
+-	{
+-		$SET_CHAR_HITPOINT(atk,atkMaxHp); tempPool = $GET_CHARACTER_SA(atk,"TempHPPool");
+-		$IF (tempPool == "-?-?-"){tempPool ==# 0;};
+-		$SET_CHARACTER_SA($AttackerContext(),"TempHPPool",tempPool +# atkHp -# atkMaxHp);
+-	};
+-$RETURN hp;
+\(END)
+

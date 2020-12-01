@@ -1,0 +1,31 @@
+\(BEGIN)
+name = Mountain Giant
+icon file = icon_MountainGiant.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 9
+armor class = 4
+movement rate = 12
+hit dice = 15
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 5
+magic resistance = 0
+size = large
+morale = 40
+experience point value = 7000
+Special Ability = monsterLevel,16
+Special Ability = alignmentEvil,1
+Class = Fighter
+Race = Giant
+form = giant
+penalty = DwarfAC + GnomeAC + RangerDmg
+immunity = vorpal weapon
+Misc Options = can be held/charmed
+item = none
+attack = 8,1,10,attacks,
+Undead = none
+\(END)
+

@@ -1,0 +1,38 @@
+\(BEGIN)
+name = Imp
+icon file = icon_Imp.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveWings.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 9
+armor class = 2
+movement rate = 18
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 19
+magic resistance = 0
+size = small
+morale = 25
+experience point value = 1400
+Special Ability = alignmentEvil,1
+Special Ability = isDetectingGood,1
+Special Ability = isDetectingMagic,1
+Special Ability = isFlying,1
+Special Ability = isImmuneFire,1
+Special Ability = isImmuneWeapon,0
+Special Ability = isInvisible,1
+Special Ability = monsterLevel,7
+Special Ability = orderLawful,1
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = confusion
+Misc Options = none
+item = monsterMageSuggestion
+attack = 4,1,0,stings,monsterImpPoison
+Undead = none
+\(END)
+

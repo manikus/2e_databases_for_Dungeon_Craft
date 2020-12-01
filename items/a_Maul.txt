@@ -1,0 +1,42 @@
+\(BEGIN)
+name = Maul of the Titans
+id name = Maul of the Titans
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 2
+combat range = 2
+cost = 2
+hands to carry = 1
+baseclass = cleric
+baseclass = fighter
+baseclass = mage
+small/medium damage dice = 7D6 + 0
+large damage dice = 7D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 750
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemHurledWeapon,hammer
+Special Ability = damageTypeBludgeoning,1
+Special Ability = item_UsableByTitans,1
+weapon type = hand held blunt
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

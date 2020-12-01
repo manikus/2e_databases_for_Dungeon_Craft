@@ -1,0 +1,7 @@
+\(BEGIN)
+name = spellFixDrain
+[FixCharacter] = $VAR drain;
+-drain = $GET_CHARACTER_SA($CharacterContext(),"isDrained"); $RETURN drain != "-?-?-";
+Info = "restoration for FIX";
+\(END)
+

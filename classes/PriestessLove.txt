@@ -1,0 +1,16 @@
+\(BEGIN)
+name = Priestess of Love
+HitDiceLevelBonus = cleric,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = Club
+Starting Equipment = Short Bow
+Starting Equipment = Arrow,20
+baseclass = priestLove
+Special Ability = changeClassPriestLove
+Special Ability = dualClassPriestLove
+Special Ability = genderFemale,1
+Special Ability = powersPriestLove
+\(END)
+//	from The Complete Priest's Handbook
+

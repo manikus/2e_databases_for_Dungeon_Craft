@@ -1,0 +1,538 @@
+// boots
+\(BEGIN)
+name = Boots
+id name = Boots
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 0
+combat range = 0
+cost = 1
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 0D0 + 0
+large damage dice = 0D0 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Boots|Dancing
+id name = Boots of Dancing
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 1000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = -2
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsOfDancing,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Boots of Dancing: These magical boots expand or contract to fit any foot size, from halfling to giant (just as other magical boots do). They radiate a dim magic if detection is used. They are indistinguishable from other magical boots, and until actual melee combat is engaged in they function like one of the other types of useful boots below—DM's choice.
+//When the wearer is in (or fleeing from) melee combat, the boots of dancing impede movement, begin to tap and shuffle, heel and toe, or shuffle off to Buffalo, making the wearer behave as if Otto's irresistible dance spell had been cast upon him (-4 penalty to Armor Class rating, saving throws with a -6, and no attacks possible). Only a remove curse spell will enable the boots to be removed once their true nature is revealed.
+
+\(BEGIN)
+name = Boots|Elvenkind
+id name = Boots of Elvenkind
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 1000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = -2
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsOfElvenkind,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Boots of Elvenkind: These soft boots enable the wearer to move without sound of footfall in virtually any surroundings. Thus the wearer can walk across a patch of dry leaves or over a creaky wooden floor and make only a whisper of noise—95% chance of silence in the worst of conditions, 100% in the best.
+
+\(BEGIN)
+name = Boots|Levitation
+id name = Boots of Levitation
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 3000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsOfLevitation,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Boots of Levitation: As with other magical boots, these soft boots expand or contract to fit giant to halfling-sized feet. Boots of levitation enable the wearer to ascend or descend vertically, at will. The speed of ascent/descent is 20 feet per round, with no limitation on duration.
+//The amount of weight the boots can levitate is randomly determined in 14-pound increments by rolling 1d20 and adding the result to a base of 280 pounds (i.e., a given pair of boots can levitate from 294 to 560 pounds of weight). Thus, an ogre could wear such boots, but its weight would be too great to levitate. (See the 2nd-level wizard spell, levitation.)
+
+\(BEGIN)
+name = Boots|North
+id name = Boots of the North
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 1500
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsOfTheNorth,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//Boots of the North: This footgear bestows many powers upon the wearer. First, he is able to travel across snow at normal rate of movement, leaving no tracks. The boots also enable the wearer to travel at half normal movement rate across the most slippery ice (horizontal surfaces only, not vertical or sharply slanted ones) without falling or slipping. Boots of the north warm the wearer, so that even in a temperature as low as -50 degrees F., he is comfortable with only scant clothing—a loin of cloth and cloak, for instance. If the wearer of the boots is fully dressed in cold-weather clothing, he can withstand temperatures as low as -100 degrees F.s
+
+\(BEGIN)
+name = Boots|Speed
+id name = Boots of Speed
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 4000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = -2
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsOfSpeed,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Boots|Striding
+id name = Boots of Striding and Springing
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 4000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsOfStridingAndSpringing,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+//oots of Striding and Springing: The wearer of these magical boots has a base movement rate of 12, regardless of size or weight. This speed can be maintained tirelessly for up to 12 hours per day, but thereafter the boots no longer function for 12 hours—they need that long to "recharge."
+//In addition to the striding ability, these boots allow the wearer to make great leaps. While "normal'' paces for the individual wearing this type of footgear are three feet long, the boots also enable forward jumps of up to 30 feet, backward leaps of 9 feet, and vertical springs of 15 feet.
+//If circumstances permit the use of such movement in combat, the wearer can effectively strike and spring away when he has the initiative during a melee round. However, such activity involves a degree of danger—there is a base 20% chance that the wearer of the boots will stumble and be stunned on the following round. Adjust the 20% chance downward by 3% for each point of Dexterity the wearer has above 12 (i.e., 17% at Dexterity, 14% at 14, 11% at 15, 8% at 16, 5% at 17, and only 2% at 18 Dexterity). In any event, the boots better Armor Class by 1 due to the quickness of movement they allow, so Armor Class 2 becomes 1, Armor Class 1 becomes 0, etc.
+
+\(BEGIN)
+name = Boots|WingedA
+id name = Winged Boots (A)
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 4000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsWingedA,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Boots|WingedB
+id name = Winged Boots (B)
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 4000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsWingedB,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Boots|WingedC
+id name = Winged Boots (C)
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 10000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsWingedC,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Boots|WingedD
+id name = Winged Boots (D)
+launch sound = none
+hit sound = none
+miss sound = none
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 1
+cost = 4000
+hands to carry = 0
+baseclass = bard
+baseclass = cleric
+baseclass = druid
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 60
+cursed = no
+non lethal = no
+readied location = FEET  
+bundle quantity = 1
+Special Ability = item_BootsWingedD,1
+weapon type = not weapon
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+
+//Boots, Winged: These boots appear to be ordinary footgear. If magic is detected for, they radiate a faint aura of both enchantment and alteration. When they are on the possessor's feet and he or she concentrates on the desire to fly, the boots sprout wings at the heel and empower the wearer to fly, without having to maintain the concentration.
+//The wearer can use the boots for up to two hours per day, all at once or in several shorter flights. If the wearer tries to use them for a longer duration, the power of the boots fades rapidly, but it doesn't abruptly disappear—the wearer slowly descends to the ground.
+//For every twelve hours of uninterrupted non-use, the boots regain one hour of flying power. No amount of non-use allows the boots to be used for more than two hours at a time, however.
+//Some winged boots are better than others. To determine the quality of a given pair, roll 1d4 and consult the table below:
+
+//D4	Flying	Maneuverability
+//Roll	Speed	 Class
+//1	15	A
+//2	18	B
+//3	21	C
+//4	24	D
+

@@ -1,0 +1,40 @@
+\(BEGIN)
+name = Pyrohydra
+icon file = icon_Pyrohydra.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 3
+armor class = 5
+movement rate = 9
+hit dice = 64
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 12
+magic resistance = 0
+size = large
+morale = 25
+experience point value = 2000
+Special Ability = monsterLevel,8
+Special Ability = monsterHydraAttacks
+Class = Fighter
+Race = Animal
+form = animal + none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed + none
+item = monsterPyrohydraBreath
+item = monsterPyrohydraBreath
+item = monsterPyrohydraBreath
+item = monsterPyrohydraBreath
+item = monsterPyrohydraBreath
+item = monsterPyrohydraBreath
+item = monsterPyrohydraBreath
+item = monsterPyrohydraBreath
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+// monsterHydraAttacks (hp / 8) + 1 when hp less than 64
+// pyrohydra breath - 5 wide 20 long 8 points damage save v breath weapon for half, fire damage
+

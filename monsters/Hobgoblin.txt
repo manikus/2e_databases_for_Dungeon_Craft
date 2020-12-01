@@ -1,0 +1,34 @@
+\(BEGIN)
+name = Hobgoblin
+icon file = icon_Hobgoblin.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 9
+armor class = 10
+movement rate = 9
+hit dice = 1
+treat HD as hit points = yes
+hit dice bonus = 1
+THAC0 = 19
+magic resistance = 0
+size = medium
+morale = 30
+experience point value = 35
+Special Ability = alignmentEvil,1
+Special Ability = isPerson,monster
+Special Ability = monsterLevel,2
+Class = Fighter
+Race = Monster
+form = mammal + none
+penalty = DwarfTHAC0 + RangerDmg
+immunity = none
+Misc Options = can be held/charmed
+item = Helm
+item = Short Sword
+item = Leather Armor
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+

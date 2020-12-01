@@ -1,0 +1,40 @@
+\(BEGIN)
+name = Tridrone
+icon file = icon_Tridrone.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 9
+armor class = 5
+movement rate = 12
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 3
+THAC0 = 17
+magic resistance = 0
+size = medium
+morale = 50
+experience point value = 270
+Special Ability = monsterLevel,4
+Special Ability = homePlane,Mechanus
+Special Ability = isImmuneIllusions,1
+Special Ability = isImmuneCharm,1
+Special Ability = isImmuneEnchantment,1
+Special Ability = isImmuneAttackNegativePlane,1
+Special Ability = isImmuneAttackPositivePlane,1
+Special Ability = monsterModronSave,fire and acid +1
+Special Ability = monsterModronDamageReduction,cold and fire and acid -1 per die
+Class = Fighter
+Race = Modron
+form = none
+penalty = none
+immunity = confusion + vorpal weapon
+Misc Options = none
+item = none
+attack = 4,1,2,hits,
+attack = 4,1,2,hits,
+attack = 4,1,2,hits,
+Undead = none
+\(END)
+

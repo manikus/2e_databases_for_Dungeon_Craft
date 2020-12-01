@@ -1,0 +1,10 @@
+\(BEGIN)
+name = isVulnerableCold
+[ComputeDamage] = $VAR item;$VAR vuln;
+-item = $SA_ITEM_GET("damageCold"); vuln = $GET_CHARACTER_SA($TargetContext(),"isVulnerableCold");
+-$IF (item == "-?-?-"){$IF (vuln != "-?-?-"){$RETURN $GET_HOOK_PARAM(5) *# 2;};};
+[ComputeSpellDamage] = $VAR spell;$VAR vuln;
+-spell = $SA_SPELL_GET("damageCold"); vuln = $GET_CHARACTER_SA($TargetContext(),"isVulnerableCold");
+-$IF (spell == "-?-?-"){$IF (vuln != "-?-?-"){$RETURN $GET_HOOK_PARAM(5) *# 2;};};
+\(END)
+

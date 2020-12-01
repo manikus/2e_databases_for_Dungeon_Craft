@@ -1,0 +1,36 @@
+\(BEGIN)
+name = Chimera
+icon file = icon_Chimera.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 3
+armor class = 5
+movement rate = 9
+hit dice = 9
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 11
+magic resistance = 0
+size = large
+morale = 35
+experience point value = 5000
+Special Ability = monsterLevel,9
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 3,1,0,claws,
+attack = 3,1,0,claws,
+attack = 4,1,0,gores,
+attack = 4,1,0,gores,
+attack = 4,2,0,bites,
+attack = 4,3,0,bites,monsterChimeraBreath
+Undead = none
+\(END)
+// monsterChimeraBreath 3-24 fire damage, 5"
+

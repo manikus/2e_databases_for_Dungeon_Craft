@@ -1,0 +1,48 @@
+\(BEGIN)
+name = Yagnoloth
+icon file = icon_Yagnoloth.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 15
+armor class = -1
+movement rate = 18
+hit dice = 10
+treat HD as hit points = yes
+hit dice bonus = 20
+THAC0 = 11
+magic resistance = 40
+size = large
+morale = 35
+experience point value = 26500
+Special Ability = alignmentEvil,1
+Special Ability = homePlane,kower
+Special Ability = isImmuneAcid,1
+Special Ability = isImmuneIronWeapons,1
+Special Ability = isImmuneNonmagicalFire,1
+Special Ability = isImmunePoison,1
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = isWeaponImmune,1
+Special Ability = monsterLevel,15
+Special Ability = monsterStrengthDamageBonus,10
+Class = Fighter
+Race = Yugoloth
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterClericCause Disease
+item = monsterMageCharm Person
+item = monsterMageTeleport Without Error
+item = monsterYagnolothBreathWeapon
+item = monsterYagnolothShockingGrasp
+item = Short Sword|1
+attack = 2,1,0,attacks,
+attack = 12,1,10,attacks,
+Undead = none
+\(END)
+// monsterYagnolothBreathWeapon: 6d6, save v breath weapon for half damage
+// monsterYagnolothShockingGrasp: 1d8+10 (x3)
+

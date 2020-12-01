@@ -1,0 +1,16 @@
+\(BEGIN)
+name = monsterAuraDragon
+[AURA_Create] = $VAR chr; // character
+-chr = $IndexOf($CharacterContext());
+-$AURA_Attach("Combatant"); $AURA_Combatant(chr); $AURA_Size(0,10,0,360); $AURA_Shape("AnnularSector"); $AURA_Wavelength("Xray");
+[AURA_Enter] = $VAR com; $VAR race; $VAR cLvl; $VAR mLvl; $VAR rndm; $VAR prm;
+-com = $IndexOf($CombatantContext()); race = $GET_CHAR_NAME(com); cLvl = $GetHighestLevelBaseclass(com);
+-mLvl = $GET_COMBATANT_SA($CombatantContext(),"monsterLevel"); rndm = $RANDOM(2); prm = $SA_PARAM_GET();
+-$IF (race == "Dragon"){$RETURN;}; $IF (cLvl >=# 6){$RETURN;}; $IF (mLvl >=# 6){$RETURN;};
+-$IF (cLvl >=# 3){$RETURN $SET_COMBATANT_SA($CombatantContext(),"isDragonAdj","");};
+-$IF (rndm ==# 0){$SET_COMBATANT_SA($CombatantContext(),"isDragonFear","");};
+-$IF (rndm ==# 1){$SET_COMBATANT_SA($CombatantContext(),"isDragonFlee",prm);};
+[CreateMonsterCombatant] = $VAR prm;
+-prm = $SA_PARAM_GET(); $AURA_Create("monsterAuraDragon",prm,0,0,0);
+\(END)
+

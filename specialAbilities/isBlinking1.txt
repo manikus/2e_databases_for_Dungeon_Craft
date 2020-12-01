@@ -1,0 +1,6 @@
+\(BEGIN)
+name = isBlinking1
+[OnStartCombatantAction] = $SET_COMBATANT_SA($CharacterContext(),"isBlinking2",1);
+[StartCombatRound] = $DELETE_COMBATANT_SA($CharacterContext(),"isBlinking2");
+\(END)
+

@@ -1,0 +1,47 @@
+\(BEGIN)
+name = Knife
+id name = Knife
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = item_Dagger.png,150,8,48,48,1,1,4,1,0,0
+hit sprite = none
+ROF per round = 1
+combat range = 3
+cost = 5
+hands to carry = 1
+baseclass = bard
+baseclass = fighter
+baseclass = illusionist
+baseclass = mage
+baseclass = necromancer
+baseclass = paladin
+baseclass = ranger
+baseclass = thief
+small/medium damage dice = 1D3 + 0
+large damage dice = 1D1 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 5
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemHurledWeapon,knife
+Special Ability = damageTypePiercing,1
+Special Ability = damageTypeSlashing,1
+weapon type = hand held or thrown
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

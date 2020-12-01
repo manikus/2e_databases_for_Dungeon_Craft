@@ -1,0 +1,11 @@
+\(BEGIN)
+name = Thief
+HitDiceLevelBonus = thief,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+baseclass = thief
+Special Ability = class_NoSpells,Thief
+Special Ability = changeClassThief
+\(END)
+

@@ -1,0 +1,6 @@
+\(BEGIN)
+name = monsterWeaponDamageOnlyOne
+[ComputeDamage] = $VAR oneDamage;
+-oneDamage = $SA_ITEM_GET("itemMagicalWespon"); $IF (oneDamage >=# 3){$RETURN "1";};
+\(END)
+

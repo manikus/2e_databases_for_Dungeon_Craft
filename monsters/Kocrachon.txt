@@ -1,0 +1,54 @@
+\(BEGIN)
+name = Kocrachon
+icon file = icon_Kocrachon.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 13
+armor class = 2
+movement rate = 12
+hit dice = 3
+treat HD as hit points = yes
+hit dice bonus = 6
+THAC0 = 19
+magic resistance = 30
+size = medium
+morale = 35
+experience point value = 5000
+Special Ability = alignmentEvil,1
+Special Ability = homePlane,Baator
+Special Ability = isImmuneFire,1
+Special Ability = isImmuneIronWeapons,1
+Special Ability = isImmunePoison,1
+Special Ability = isImmuneWeapon,1
+Special Ability = isKnowingAlignment,1
+Special Ability = isResistantCold,1
+Special Ability = isResistantGas,1
+Special Ability = monsterInfravision,60
+Special Ability = monsterLevel,4
+Class = Fighter
+Race = Baatezu
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageAnimate Dead
+item = monsterMageAnimate Dead
+item = monsterMageAnimate Dead
+item = monsterMageCharm Person
+item = monsterMageCharm Person
+item = monsterMageCharm Person
+item = monsterMageSuggestion
+item = monsterMageSuggestion
+item = monsterMageSuggestion
+item = monsterMageTeleport Without Error
+item = monsterMageTeleport Without Error
+item = monsterMageTeleport Without Error
+attack = 6,1,0,claws,
+attack = 6,1,0,claws,
+attack = 6,2,0,bites,monsterKocrachonBite
+Undead = none
+\(END)
+// monsterKocrachonBite - if successfully held for 3 rounds (save vs lift gates) cause disease as per spell, it cannot make any attacks while doing this
+

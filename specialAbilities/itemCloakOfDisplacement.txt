@@ -1,0 +1,6 @@
+\(BEGIN)
+name = itemCloakOfDisplacement
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(),"isCloakDisplaced",1);
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(),"isCloakDisplaced");
+\(END)
+

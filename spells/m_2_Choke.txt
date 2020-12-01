@@ -1,0 +1,52 @@
+\(BEGIN)
+name = Choke
+casting sound = sound_Cast.wav
+cast msg = /c chokes /t.
+missile sound = none
+coverage sound = none
+hit sound = none
+linger sound = none
+cast art = spell_cast_MU.png,210,2,48,48,0,1,0,1,0,0
+missile art = none
+target cover art = none
+target hit art = none
+target linger art = none
+school = Wizard
+cast by = mage
+can target friend = yes
+can target enemy = yes
+cumulative = yes
+can memorize = yes
+allow scribe = yes
+auto scribe = no
+in camp = no
+in combat = yes
+can be dispelled = yes
+lingers = yes
+linger affects once = no
+save versus = spell
+save result = half damage
+Special Ability = casterLevel,$mage$0
+Special Ability = spellClass,mage
+Special Ability = school,necromancy
+Special Ability = school2,alteration
+Special Ability = standardDisplaySpellEffect,default
+targeting type = selectByCount
+target quantity = 1
+target range = 3
+level = 2
+casting time = 2
+casting time units = initiative
+duration = level
+duration units = rounds
+target duration = 
+price = 0
+priority = 500
+spell effect 1 = $CHAR_HITPOINTS,-(1d4),delta,target,yes
+savingThrowScript = 
+savingThrowSucceededScript = 
+savingThrowFailedScript = 
+begin script = $IF ($SET_CHARACTER_SA($TargetContext(),"IsPerson") != "-?-?-") {$RETURN "TRUE";};
+end script = 
+\(END)
+

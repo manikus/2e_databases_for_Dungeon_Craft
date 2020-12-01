@@ -1,0 +1,283 @@
+GUARDINALS
+The guardinals are the people of Elysium, just as the eladrins are the folk of Arhorea or the tanar’ri are natives of the Abyss. Most resemble beautiful, muscular humans with noticeable animal traits — a thick, lionlike mane for hair, a flat muzzlelike nose and mouth, or pawlike hands. The degree of animalistic features vanes between individuals, but guardinals frequenting the Beastlands appear most beastlike (and least human) of all.
+
+The guardinals aren’t a numerous race, even compared to the eladrins or the archons. In Elysium they live in small groups, watching the upper layers for any signs of trouble, or roaming the magnificent landscapes in nomadic hands. Guardinals are quick to laugh and slow to anger on Elysium; they’re living embodiments of the peacefulness of the plane, and don’t lightly disturb it.
+
+While guardinals’re peaceful enough in their home, they show a different face away from Elysium. They’ve got no tolerance for evil of any type and often journey into the Great Ring or the Outlands to seek out evil and confront it. Guardinals’ve even been known to mount lightning raids into the first layers of the Gray Waste, Carceri, or Gehenna just to strike hack at the evil fiends living there. Unlike the eladrins, who respect mortals’ freedom of choice as much as their right to live untroubled hy evil, guardinals make no secret of who or what they are and take whatever steps’re necessary to defeat evil wherever they find it.
+
+Combat: All guardinals boast the spell-like powers of detect illusion, detect invisibility, detect evil with a 100’range, dimension door, dispel magic, infravision, and protection from evil in a 10-foot radius. Much like paladins, all guardinals can also lay on hands, healing a number of hit points equal to their own total every day. (This healing can be divided among several individuals as the guardinal sees fit.) Guardinals are affected hy attack forms as noted below:
+
+Attack					Effect
+Acid					Full
+Cold					Half
+Electricity (lightning)	None
+Fire (magical)			Full
+Fire (nonmagical)		Full
+Gas (poisonous)			Half
+Iron weapon				None*
+Magic missile			Half
+Poison					Half
+Silver weapon			Full**
+* Iron weapons inflict damage only if the guardinal can he hit by normal weapons. Otherwise they have no unusual effect.
+** Silver weapons can hit a guardinal regardless of whether or not an enchanted weapon is required.
+
+Guardinals have a special form of telepathy that allows them to communicate with intelligent, nonmonstrous creatures or natural creatures of any kind. A beholder or catoblepas wouldn’t fall into these categories, but a human, dog, or giant eagle would. In addition, normal, nonmagical animals or giant animals will never attack a guardinal, even under magical compulsion.
+
+Planar Travel: Guardinals’re unrestricted in planar travel. They can leave Elysium by an innate ability resembling probability travel, which allows them to enter the Astral Plane with their physical bodies. They can also make use of any gate, portal, or conduit they find. In addition, guardinals can travel directly to the first layer of Bytopia, the Beastlands, or the Outlands from any point in Elysium.
+
+Habitat/Society: Guardinals are basically unorganized; in Elysium there’s little need for laws or orderly societies. A cutter traveling across Elysium won’t find guardinal cities or fortresses scattered across the landscape. Instead, he’ll find guardinals living wherever they feel comfortable — some can be found in the peaceful towns of Amoria, others prefer the solitude and beauty of Eronia or Belierin. Guardinals of any type tend to be solitary, introspective creatures who like being left to their own devices when the land‘s at peace. On the other hand, they’re also capable of handing together with military discipline when evil threatens.
+
+Although the guardinals don’t have any real hierarchy or structure, they’re led by the mighty leonals. These noble creatures are the most vigilant and powerful of the guardinals and act as gathering points for guardinal causes. A typical cause might he the defeat of a powerful evil empire on the Prime Material Plane, the recovery of a good artifact stolen from its rightful place by fiends, or the monitoring of a powerful organization that might begin to lean toward evil activities. The guardinals associated with a cause rarely abandon it, although they might temporarily turn aside to attend to a more immediate issue.
+
+Guardinals are creatures of exceptional honor and integrity, and do not lie, cheat, or attack needlessly unless the cause at hand is in the direst jeopardy.
+
+Talisid and the Five Companions: The mightiest guardinal is the leonal prince Talisid, a wise and ancient being who has survived uncounted confrontations with evil. He is accompanied by his Five Companions - the strongest and wisest of the avorals, the equinals, the lupinals, the cervidals, and the ursinals. Talisid’s abilities and intelligence are on par with some quasi or demipowers, and the pantheons native to Elysium hold him in the highest regard. His companions have powers far beyond those typical of their type, and many songs are sung about their deeds in battle or their wisdom in peacetime.
+
+====================================================================================================
+AVORAL
+CLIMATE/TERRAIN:		Elysium
+FREQNECY:				Uncommon
+ORGANIZATION:			Solitary
+ACTIVITCYYC LE:			Day
+DIET:					Omnivore
+INTELLIGENCE:			Exceptional (15-16)
+TREASURE:				Incidental
+ALIGNMENT:				Neutral good
+ARMOR CLASS:			-1
+MOVEMENT:				15, Fl 36 (B)
+HIT DICE:				7+4
+THACO:					13
+No. OF ATTACKS:			2  wing buffets or 2 talons
+DAMAGEIATTACK:			1d8/ld8 or 2d6/2d6
+SPECIAL ATTACKS:		Dive, spell-like powers
+SPECIAL DEFENSES:		Hit only by silver or + 1 or better weapons
+MAGICR ESISTANCE:		40%
+SIZE:					M (6 1/2' tall, 20' wingspan)
+MORALE:					Champion (15-16)
+XP VALUE:				8,000
+
+Avorals’re guardinals with the wings of mighty eagles. They’re the scouts and skirmishers of their race, keeping watch over the peaceful skies of Amoria. No other guardinals can fly, so aerial vigilance falls to the avorals who confront any invaders who try that avenue. Avorals are born with a deep-rooted wanderlust that can take them on fantastic journeys through hundreds of worlds. Some leave Elysium and never return because they’ve just got to see what lies over the next hill or beyond the next sea.
+
+Avorals have the bodies of tall, muscular men or women, but their arms are long, powerful wings and their lower legs feature strong talons and feathery vanes to act as a tail in flight. Their faces are more human than avian, but their hair seems to be a feathery cowl around their heads, and their eyes are bright and golden. Avorals’ chests are exceptionally deep and powerful, anchoring their wing muscles; their bones are strong but hollow, so even the largest avorals weigh no more than 120 pounds despite their appearance.
+
+An avoral’s wings feature small hands at the midpoints. When its wings are folded beside its body, these wing-hands are carried about where a human’s would be, and can do just about anything a human hand could do.
+
+Combat: On the ground, the avoral can lash out with its wings and deliver powerful, punishing blows. Just as a swan can kill a man with its wings, an avoral is easily capable of defending itself while on the ground. However, this isn’t its preferred mode of combat. The avoral’d much rather meet its foes in the air, where it can employ its rock-hard talons and make full use of its wonderful speed and agility in the air. (The avoral can’t make wing-buffet attacks while it’s flying; it’s too busy using its wings to stay in the air, berk.)
+
+If the avoral can dive 100 feet or more to attack a target standing on the ground, it gains a +2 bonus to hit, and its talons inflict double damage with each successful hit. Normally, the avoral requires a round to climb and circle before it can attempt to stoop on its enemy again. An avoral can carry bashers weighing up to 300 pounds in its talons; it has to hit with both talons in order to get a hold of its foe, and can climb at a rate of 120 feet per round while burdened with an enemy in its grasp. It has to be really angry to drop a nonevil creature from on high.
+
+Avorals also boast several spell-like powers. Once per round they can use blur, command, gust of wind, hold person, light, or magic missile (4 missiles). Once per day they can cast an 8d6 lightning bolt or create fear in a 20’ radius. Their visual acuity is unbelievable; avorals can see detail on objects up to 10 miles away, and can employ true sight to a range of 100 feet by concentrating for one round. It’s said the avorals can see the color of a cutter’s eyes at 200 paces.
+
+Avorals can be struck only by silver weapons or weapons enchanted to +1 or better.
+
+Habitat/Society: Like most guardinals, avorals don’t often gather together. They prefer to spend their time soaring on the winds of Elysium. Eronia and Belierin are their favorite layers, since they’re particularly fond of the isolation of these wild places. On rare occasions, a family group may be encountered in a temporary aeriyon some spectacular mountain peak.
+
+Avorals are excelent hunters that enjoy stalking small game. They don’t kill needlessly or just for sport, however, and prefer their dinners prepare in a civilized fashion.
+
+====================================================================================================
+CERVIDAL
+CLIMATE/TERRAIN:		Elysium
+FREQUENCY:				Common
+ORGANIZATION:			Family
+ACTIVITY CYCLE:			Day
+DIET:					Herbivore
+INTELLIGENCE:			High (11-12)
+TREASURE:				Incidental
+ALIGNMENT:				Neutral Good
+NO. APPEARING:			1 (2-5)
+ARMOR CLASS:			2
+MOVEMENT:				18, Ju 3
+HIT DICE:				4+2
+THACO:					17
+No. OF ATTACKS:			2 hooves and 1 butt
+DAMAGE/ATTACK:			ld6+2/1d6+2/1d12+3
+SPECIAL ATTACKS:		Charge
+SPECIAL DEFENSES:		Negate poison or illusion
+MAGICR ESISTANCE:		20%
+SIZE:					M (5 1/2' tall)
+MORALE:					Elite (13-14)
+XP VALUE:				3,000
+
+Cervidals are the most common of the guardinals. They’re the people of Amoria, the uppermost layer of Elysium. In times of war, cervidals and equinals form the backbone of any guardinal army; one-on-one, they’re more than a match for the typical rank-and-file of a baatezu or tanar’ri force, even if they can’t rival the numbers of a fiendish horde. Cervidals are the most peaceful of the guardinals and the last to join a fight, seeking physical violence only when no other solutions present themselves. However, once they’re committed, cervidals won’t be the first to walk away.
+
+Cervidals bear a passing resemblance to a faun or satyr, but are more regal in appearance. They’re slim but strong, and their bodies are covered in short, reddish-brown fur. Over their chests, faces, and upper arms the fur thins enough to reveal smooth, golden skin. A cervidal‘s head is crowned with magnificent horns or antlers, and his feet are small, hard hooves. The hands of a cervidal are backed by hooflike material, and make for effective bludgeons when closed in a fist, but their preferred weapons’re their antlers.
+
+Combat: Cervidals attack with two punches or kicks and a head-butt. Their effective Strength is an 18 (no percentage score), and they inflict 1d6+2 points of damage with their hard hooflike fists. The cervidals’ remarkable antlers are the equivalent of a +3 weapon for both hit probability and damage.
+
+A cervidal’ll usually begin a fight by launching a determined charge, head lowered, that inflicts double antler damage (2d12+3) if it hits, although it can’t attack with its hooves in the same round.
+
+Unlike the other guardinals, cervidals don’t have a special magical attack such as a whinny or roar. However, they do have three unusual abilities. First of all, the touch of a cervidal’s antlers instantly negates the ill effects of anry kind of poison or harmful substance such as acid or contamlnated food or water. By touching an affected creature with its antlers, the cervidal gives it a chance to immediately attempt one additional saving throw with a +6 bonus. Illusions of any type’re dispelled automatically by contact with the cervidal‘s antlers. Lastly, any summoned, conjured, or extraplanar creature wounded by a cervidal’s antlers must survive an immediate saving throw versus spell or be returned to wherever it came from. (Of course, if the creature’s native to the plane the cervidal’s currently on, it’s not extraplanar!)
+
+In addition to the power of its antlers, cervidals can use the following spell-like abilities at will: bless, command, detect poison, and light. Once per day they can hold person (one target only), cast a magic missile (two missiles), or use suggestion. Cervidals can be damaged by any weapon.
+
+Habitat/Society: Cervidals gather in small family bands in the forests and woodlands of Elysium. They typically select one area as their home and remain there, rarely moving or wandering away. Most cervidals remain with the same family group for their entire lives, leaving only to find a mate or to enlist in a leonal’s cause.
+
+Along with equinals, cervidals are the commoners of Elysium, but they’re much shyer and more reclusive than their boisterous kin. They pefer to keep their own company and don’t welcome strangers. In times of war, cervidals are light infantry, skirmishers, and auxiliaries. They’d rather fight a war of maneuver and skill than participate in a bloody slugfest.
+
+====================================================================================================
+GUARDINAL, EQUINAL
+Climate/Terrain:	Elysium
+Frequency:			Common
+Organization:		Solitary (Band)
+Activity Cycle:		Day
+Diet:				Herbivore
+Intelligence:		High (13-14)
+Treasure:			Incidental
+Alignment:			Neutral good
+No. Appearing:		1-2 (3-18)
+Armor Class:		0
+Movement:			24
+Hit Dice:			6+3
+THAC0:				15
+No. of Attacks:		2 hoof-strikes
+Damage/Attack:		1d8+8/1d8+8
+Special Attacks:	Whinny
+Special Defenses:	None
+Magic Resistance:	25%
+Size:				L (7½’ tall)
+Morale:				Champion (15-16)
+XP Value:			5,000
+Equinals are one of the two most common types of guardinals. They resemble huge humans with some of the qualities of a draft horse. Their chests and shoulders’re of truly heroic proportions, and their long arms end in thick, iron-hard fingers that make a creditable hoof when curled in a fist. The equinal’s legs’re even more horselike, with a reversed knee and true horse’s hooves for feet. Its lower limbs are covered with short, bristly horsehair, and its face is long and narrow. A long, wild mane runs from the crest of their head down to the center of their backs.
+
+Equinals enjoy each other’s company and are more likely to be found together than other kinds of guardinals. Their home is the open fields and farmlands of Amoria, and they like to gather in small bands. (Call a group of equinals a “herd”, and a body’s likely to wake up with hoofprints where his nose used to be.) Equiinals enthusiastically embrace any cause that allows stand hoof-to-toe with evil and beat it senseless.
+
+Combat: Equinals are strong - very strong. The typical equinal’s got the Strength of a stone giant (20), but an exceptional individual might be a shade stronger (21 or 22). In a fight, they disdain the use of weapons and wade in with a boxerlike routine of devastating jabs and uppercuts. A blow from an equinal’s fist can splinter stone or crumple plate armor like paper.
+
+In addition to attacking with its powerful fists, an equinal can whinny once per turn. This piercing shriek can stun creatures of 4 HD or fewer, or deafen creatures of more than 4 HD, if they fail their saving throw versus spell. The effects last 1d6 rounds, and the whinny affects any nonequinal within 20 feet. Deafened creatures suffer a -1 penalty to surprise checks and have a 20% chance to miscast any spell with a verbal component.
+
+An equinal also has the following spell-like powers, usable once per round: bless, command, fog cloud, light, and magic missile (3 missiles). Once per day equinals can create a wall of stone or use slow.
+
+Equinals can be damaged by any magical weapon, regardless of its degree of enchantment, or any silver weapon.
+
+Habitat/Society: Equinals often settle down in a favorite meadow or glen, living there for months at a time before moving on. They’re fond of athletic contests and games of skill, and while away many hours in such pasttimes. They’re good-natured creatures who welcome travelles, but they’re often a little too boisterous and a basher ought to be careful about joining in equinal games. Equinals love a good brawl, and never back down from a fight — not even when any addlecove can see the equinal’s outmatched.
+
+In times of war, equinals are the heavy foot troops of Elysium. They’re tough, tenacious, and courageous; once a number of equinals have it in their heads to do something, they’ll make herculean efforts to achieve their objective. This can be a fault when equinals disregard new commands to doggedly pursue old ones to their conclusion.
+
+====================================================================================================
+LEONAL
+Climate/Terrain:		Elysium
+Frequency:				Very rare
+Organization:			Solitary
+Activity Cycle:			Any
+Diet:					Omnivore
+Intelligence:			Genius (17-18)
+Treasure:				Incidental
+Alignment:				Neutral good
+No. Appearing:			1
+Armor Class:			-5
+Movement:				24
+Hit Dice:				12+6
+THAC0:					9
+No. of Attacks:			3
+Damage/Attack:			2d4+9/2d4+9/1d8
+Special Attacks:		Roar
+Special Defenses:		See below
+Magic Resistance:		50%
+Size:					M (6’ tall)
+Morale:					Fearless (19-20)
+XP Value:				18,000
+
+Leonals are the wisest and most powerful of the guardinals. They’re chieftains and leaders when guardinals gather, but a leonal prefers to keep to itself when the forces of good allow it to rest. A leonal resembles a tall, muscular human with short, tawny-golden fur covering its body and a great red mane for hair. Its lower legs are formed like a great cat’s, and its arms conceal steal-hard talons. The leonal’s face is noble and terrifying at the same time: its mouth and nose meet in a subtle, flattened, lionlike muzzle, and a yawn reveals long, sharp fangs.
+
+Leonals’re at home in the wilds of Eronia, but they travel widely throughout Elysium. When they’re not marshalling the guardinals against the threat of evil, they’re often busy on some important mission or task. At rest, a leonal’s a patient and regal creature; but when it confronts the forces of darkness, it’s a remorseless and tireless warrior of good.
+
+Combat: A word of advice: Don’t pick a fight with a leonal. They’re superhumanly strong, packing the power of a frost giant (21 Strength) in their compact, athletic frames. Their talons can inflict devastating damage, and their bite can be lethal. Leonals’re incredibly fast and agile, and gain a -4 initiative bonus in any round they choose to make physical attacks. This agility allows them to dodge any missile or missilelike magical attack with a successful saving throw versus paralyzation. (This includes any thrown weapon, any missile fired by bow, crossbow, or sling, and spells such as burning hands, flame arrow, Melf’s acid arrow, and other physical manifestations of magic except magic missiles.)
+
+A leonal can roar three times per day. This roar affects a cone-shaped area 60 feet long and 20 feet wide at the end, and is the equivalent of a holy word. In addition, all creatures in this area suffer 2d10 points of damage and must successfully save vs. spell or be deafened for a day. (Deafened creatures suffer a -1 penalty to any surprise checks and have a 20% chance to miscast any spell.) Any evil creature within 200 yards must survive an additional saving throw vs. spell or be affected by fear for 2d6 rounds.
+
+Leonals are surrounded by an aura of double-strength protection from evil, 20’ radius. Once per round, they can use the following spell-like powers: continual light, ESP, cast a 10d6 fireball, hold monster, know alignment, magic missile (5 missiles), polymorph self, or create a wall of force. A leonal can cure critical wounds, cure disease, or neutralize poison three times per day, and once per day it can heal other. Once per year the leonal can grant a wish.
+
+Leonals are never surprised, and can be hit only by +3 or better magical weapons.
+
+Habitat/Society: Even in peaceful Elysium, leonals are loners. They keep to themselves, roaming the forests and mountains of the more remote areas of the plane. Among other guardinals, leonals are considered to be nobility or royalty; at their command, other guardinals embark on missions or organize armies. The leonals use their authority carefully and only when they feel that a matter can’t be attended to personally.
+
+Leonals travel the planes extensively, keeping an eye open for trouble and dealing with it whenever they can. On rare occasions a leonal serves under a good power, acting as a proxy or adviser of some kind.
+
+
+
+====================================================================================================
+LUPINAL
+Climate/Terrain:	Elysium
+Frequency:			Rare
+Organization:		Pack
+Activity Cycle:		Any
+Diet:				Omnivore
+Intelligence:		Exceptional (15-16)
+Treasure:			Incidental
+Alignment:			Neutral good
+No. Appearing:		1-8
+Armor Class:		-2
+Movement:			18
+Hit Dice:			8+4
+THAC0:				13
+No. of Attacks:		3
+Damage/Attack:		1d4+4/1d4+4/2d6
+Special Attacks:	Howl, pull-down
+Special Defenses:	Struck only by silver or +2 or better weapons
+Magic Resistance:	35%
+Size:				M (6’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			9,000
+The lupinals’re the front-line troops of Elysium. Packs of ’em roam all over the plane, and often into the Outlands, Bytopia, or the Beastlands, searching aggressively for any hint of evil intrusion. While the other guardinals take their rest in Elysium, the lupinals hold themselves ready for battle at a moment’s notice. Their organization and outlook are distinctly lawful at times, far more so than those of the other guardinals.
+
+Lupinals are half-man and half-wolf. Their bodies are long, lean, and rangy. Their rear legs are bent like a wolfs, and they have long, pronounced muzzles with rows of sharp teeth. Lupinals are covered in short, fine, silvery-gray fur. At a distance, a lupinal could be taken for a werewolf in its hybrid form, but on closer inspection the lupinal is far less bestial and has a much more intelligent and expressive face - until it finds an evil quarry encroaching on its hunting grounds.
+
+Like the equinals, lupinals are social creatures who often gather in small packs that hunt, play, and fight together. However, they’re also comfortable being alone, and many lupinals prefer to keep their own company.
+
+Combat: Lupinals are exceptionally dangerous in a fight. They are natural-born hunters and stalkers who use terrain, concealment, and ambush to great effect. When the time comes to break cover and join the fray, lupinals fight with a fierce animal savagery. Like leonals, they’re very quick; they gain a -2 bonus to initiative rolls and can dodge normal, nonmagical missiles by making a successful saving throw versus paralyzation. Lupinals have exceptionally keen senses and are surprised only on a roll of 1.
+
+The natural stalking abilities of a lupinal allow it to track by scent, move silently, or hide in shadows with a 95% chance of success in natural settings. In urban environments the lupinal’s abilities are reduced to a 50% chance of success.
+
+Lupinals attack with their front claws and a powerful bite. Their rangy bodies are surprisingly strong; a lupinal’s Strength is equal to 18/76. If a lupinal hits with its bite by a margin of 4 or more, it seizes its prey and forces its opponent to make a successful saving throw versus death magic or be dragged to the ground. The lupinal automatically hits with its bite each round thereafter until its foe is helpless or dead, or it’s been seriously wounded.
+
+The howl of a lupinal causes fear in any evil creature within 200 yards (unless the target survives a save versus spell, of course.) In addition, the lupinal can use the following spell-like abilities: blink, blur, change self, darkness 15’ radius, and wraithform. Three times per day the lupinal can cure serious wounds, fly for up to 3 turns (move 30, MC A), cast magic missile (4 missiles), or breathe a cone of cold 40 feet long and 10 feet wide that inflicts 8d4+8 points of damage. Once per day the lupinal can cure disease or neutralize poison.
+
+Lupinals can be hit only by silver or +2 or better magical weapons.
+
+Habitat/Society: Lupinals like to run in packs, but have little loyalty to any particular group. A lupinal might run with three different groups on three consecutive nights, or stay with the same band for months or years at a time. The most intelligent or wisest lupinal is always recognized as the pack leader, and the others obey him or her without reservation.
+
+Lupinals’re naturally suspicious of strangers and evaluate almost any creature they meet in terms of threat potential. They’re wary of humans and the like, since they regard any mortal adventurer as a disaster waiting to happen. However, once the friendship of a lupinal is won, a body couldn’t have a more loyal or steadfast companion.
+
+Lupinals celebrate the hunt as a social gathering and bonding ritual. They never take sentient prey, but love the challenge and excitement of tracking a quarry that’s trying to evade them. Lupinal packs are Elysium’s first line of defense against invasion, and they take their responsibilities seriously.
+
+====================================================================================================
+URSINAL
+Climate/Terrain:	Elysium
+Frequency:			Rare
+Organization:		Solitary
+Activity Cycle:		Any
+Diet:				Omnivore
+Intelligence:		Genius (17-18)
+Treasure:			Incidental
+Alignment:			Neutral good
+No. Appearing:		1 (1-2)
+Armor Class:		-4
+Movement:			12
+Hit Dice:			10+5
+THAC0:				11
+No. of Attacks:		3
+Damage/Attack:		2d6+7/2d6+7/1d10
+Special Attacks:	Spell-like powers
+Special Defenses:	Struck only by silver weapons or those of +3 or better enchantment
+Magic Resistance:	45%
+Size:				L (8’ tall)
+Morale:				Fanatic (17-18)
+XP Value:			14,000
+The scholars and philosophers of the guardinals are the ursinals, benevolent beings who resemble huge men and women with distinctive bearlike attributes. They’re advisers to the leonals, and the record-keepers and magic-users of their race. Ursinals are open with their knowledge but love to digress endlessly and often free-associate through many iterations until they’re holding forth on a subject with no relation to the original topic.
+
+Ursinals stand 8 feet tall, with thick-set bodies. They’re covered with light golden, red, or golden-brown fur that’s long on their forearms, backs, and lower legs and too fine to see on their torsos and faces. An ursinal’s face has a pronounced muzzle and high ear-tufts, but its expression is kindly. It’s very difficult to move an ursinal to anger, but the powers pity the poor sod who manages the trick — it’s said that a fighting-mad ursinal can tear his way through any three gehreleths.
+
+Combat: Ursinals dislike combat and avoid physical confrontations until they become inevitable. However, a body’d be wise to watch out when the ursinal finally decides to stand his ground. An ursinal’s as strong as a hill giant (Strength 19) and can dish out terrible damage with his sharp-clawed paws. If an ursinal hits an enemy with both paws, he can automatically hug his victim for an additional 2d10 points of damage and gains a +4 bonus to his bite attack against the hugged victim.
+
+Ursinals’re skillful mages and have the spell powers of a wizard of level 9 to 16 (d8+8). They prefer spells of enchantment, misdirection, or divination, and rarely memorize many heavy-damage spells. Of course, under the right circumstances, an ursinal’ll make use of any spell in his books. They’re also fond of magical items such as rings, rods, or wands, and miscellaneous magic that enhances their spell-casting ability.
+
+Like the other guardinals, ursinals have several spell-like powers that can be used once per round: continual light, ESP, hold monster, know alignment, polymorph self, magic missile (5 missiles), sleep (4d6 Hit Dice worth, affects creatures up to 7 HD), or create solid fog. An ursinal can cure disease, heal, or neutralize poison three times per day, and once per day he can speak a holy word. Once per year the ursinal can grant alimited wish.
+
+Ursinals can be hit only by silver weapons or those that have been enchanted to +3 or better. They’re never surprised in Elysium.
+
+Habitat/Society: The advice of an ursinal is a much sought-after commodity. As librarians, scholars, and record-keepers, they carefully catalogue and sort all manner of information. They’re especially knowledgeable about magical matters and also have a keen interest in prime-material histories and linguistics. In Elysium it’s said that if an ursinal doesn’t know something, he knows where to go to find out.
+
+Ursinals are solitary creatures, but almost all are linked by constant correspondence and magical communications. They’re also fond of the company of lesser guardinals or petitioners who can “benefit” from the ursinal’s wisdom. Some view ursinals as intrusive busybodies, but most of their advice is strikingly accurate and always well intended.
+
+====================================================================================================
+

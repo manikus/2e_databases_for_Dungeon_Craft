@@ -1,0 +1,15 @@
+\(BEGIN)
+name = isGrowthFire
+[DoesSpellAttackSucceed] = $VAR tgt; $VAR hp; $VAR nm; $VAR item; $VAR spell;
+-item = $SA_ITEM_GET("damageFire"); spell = $SA_SPELL_GET("damageFire");
+-$IF (item != "-?-?-" || spell != "-?-?-")
+-	{
+-		tgt = $IndexOf($TargetContext()); hp = $RANDOM(8) +# 1; nm = $GET_CHAR_NAME(tgt);
+-		$SET_CHAR_MAXHITPOINTS(tgt,$GET_CHAR_MAXHITPOINTS(tgt) +# hp); $SET_CHAR_HITPOINTS(tgt,$GET_CHAR_HITPOINTS(tgt) +# hp);
+-		$SET_CHAR_THAC0(tgt,$GET_CHAR_THAC0(tgt) -# 1);
+-		$SET_COMBATANT_SA($TargetContext(),"monsterLevel", $GET_MONSTERTYPE_SA(nm,"monsterLevel") +# 1);
+-		$SET_HOOK_PARAM(5,nm +" grows");
+-		$RETURN "N";
+-	};
+\(END)
+

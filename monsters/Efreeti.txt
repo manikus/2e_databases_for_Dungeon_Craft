@@ -1,0 +1,41 @@
+\(BEGIN)
+name = Efreeti
+icon file = icon_Efreeti.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 12
+armor class = 2
+movement rate = 24
+hit dice = 10
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 11
+magic resistance = 0
+size = large
+morale = 40
+experience point value = 8000
+Special Ability = alignmentEvil,1
+Special Ability = homePlane,Fire
+Special Ability = isDetectingMagic,1
+Special Ability = isImmuneFire,1
+Special Ability = isInvisible,1
+Special Ability = monsterEfreetResistantMagicalFire,1
+Special Ability = monsterLevel,10
+Class = Fighter
+Race = Genie
+form = large
+penalty = none
+immunity = none
+Misc Options = none
+item = monsterMageEnlarge
+item = monsterMageWall Of Fire
+item = monsterMagePyrotechnics
+item = monsterMagePyrotechnics
+item = monsterMagePyrotechnics
+item = monsterEfreetCreateIllusion
+attack = 8,3,0,attacks,
+Undead = none
+\(END)
+

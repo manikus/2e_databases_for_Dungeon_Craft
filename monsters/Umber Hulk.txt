@@ -1,0 +1,34 @@
+\(BEGIN)
+name = Umber Hulk
+icon file = icon_UmberHulk.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 9
+armor class = 2
+movement rate = 6
+hit dice = 8
+treat HD as hit points = yes
+hit dice bonus = 8
+THAC0 = 11
+magic resistance = 0
+size = large
+morale = 32
+experience point value = 4000
+Special Ability = alignmentEvil,1
+Special Ability = monsterLevel,10
+form = large
+Class = Fighter
+Race = Monster
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = 4,3,0,attacks,
+attack = 4,3,0,attacks,
+attack = 5,2,0,attacks,
+attack = 1,1,0,gazes,monsterConfusionGaze
+Undead = none
+\(END)
+

@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Hydra
+icon file = icon_Hydra.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 3
+armor class = 5
+movement rate = 9
+hit dice = 64
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 12
+magic resistance = 0
+size = large
+morale = 25
+experience point value = 2000
+Special Ability = monsterLevel,8
+Special Ability = monsterHydraAttacks,8
+Class = Fighter
+Race = Animal
+form = animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = none
+attack = 8,1,0,attacks,
+Undead = none
+\(END)
+// monsterHydraAttacks (hp / 8) + 1 when hp less than 64
+

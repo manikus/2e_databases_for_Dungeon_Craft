@@ -1,0 +1,51 @@
+\(BEGIN)
+name = Couatl
+icon file = icon_Couatl.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 18
+armor class = 5
+movement rate = 18
+hit dice = 9
+treat HD as hit points = yes
+hit dice bonus = 
+THAC0 = 11
+magic resistance = 0
+size = large
+morale = 35
+experience point value = 6000
+Special Ability = alignmentGood,1
+Special Ability = casterLevelPriest,7
+Special Ability = casterLevelWizard,5
+Special Ability = monsterLevel,9
+Class = Fighter
+Race = Monster
+form = none
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = monsterClericCause Light Wounds
+item = monsterClericCause Light Wounds
+item = monsterClericCurse
+item = monsterClericCharm Person or Mammal
+item = monsterClericCharm Person or Mammal
+item = monsterClericHold Person
+item = monsterClericBestow Curse
+item = monsterClericCause Blindness
+item = monsterClericCause Serious Wounds
+item = monsterMageMagic Missile
+item = monsterMageMagic Missile
+item = monsterMageSleep
+item = monsterMageSleep
+item = monsterMageRay Of Enfeeblement
+item = monsterMageStinking Cloud
+item = monsterMageFireball
+attack = 3,1,0,attacks,monsterCouatlPoison
+attack = 4,2,0,attacks,monsterCouatlConstrict
+Undead = none
+\(END)
+// monsterCouatlPoison save v poison or die instantly
+// monsterCouatlConstrict 2-8 dam/rd until target or couatl is dead
+

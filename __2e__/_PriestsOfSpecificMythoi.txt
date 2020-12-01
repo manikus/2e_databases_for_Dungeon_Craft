@@ -1,0 +1,152 @@
+In the simplest version of the AD&D game, clerics serve religions that can be generally described as "good" or "evil." Nothing more needs to be said about it; the game will play perfectly well at this level. However, a DM who has taken the time to create a detailed campaign world has often spent some of that time devising elaborate pantheons, either unique creations or adaptations from history or literature. If the option is open (and only your DM can decide), you may want your character to adhere to a particular mythos, taking advantage of the detail and color your DM has provided. If your character follows a particular mythos, expect him to have abilities, spells, and restrictions different from the generic cleric.
+Priesthood in any mythos must be defined in five categories: requirements, weapons allowed, spells allowed, granted powers, and ethos.
+
+Requirements
+//
+//Before a character can become a priest of a particular mythos, certain requirements must be met. These usually involve minimum ability scores and mandatory alignments. All priests, regardless of mythos, must have Wisdom scores of at least 9. Beyond this, your DM can set other requirements as needed. A god of battle, for example, should require strong, healthy priests (13 Str, 12 Con). One whose sphere is art and beauty should demand high Wisdom and Charisma (16 or better). Most deities demand a specific type of behavior from their followers, and this will dictate alignment choices.
+//
+Weapons Allowed
+//
+//Not all mythoi are opposed to the shedding of blood. Indeed, some require their priests to use swords, spears, or other specific weapons. A war deity might allow his priests to fight with spears or swords. An agricultural deity might emphasize weapons derived from farm implements -- sickles and bills, for example. A deity of peace and harmony might grant only the simplest and least harmful weapons -- perhaps only lassoes and nets. Given below are some suggested weapons, but many more are possible (the DM always has the final word in this matter).
+//
+//Deity			Weapon
+//
+//Agriculture 	Bill, flail, sickle
+//Blacksmith	War hammer
+//Death   		Sickle
+//Disease		Scourge, whip
+//Earth			Pick, HealingMan-catcher, quarterstaff
+//Hunt 			Bow and arrows, javelin, light lance, sling, spear
+//Lightning 	Dart, javelin, spear
+//Love			Bow and arrows, man-catcher
+//Nature		Club, scimitar, sickle
+//Oceans		Harpoon, spear, trident
+//Peace			Quarterstaff
+//Strength		Hammer
+//Thunder		Club, mace, war hammer
+//War			Battle axe, mace, morning star, spear, sword
+//Wind			Blowgun, dart
+//
+//Of course there are many other reasons a deity might be associated with a particular weapon or group of weapons. These are often cultural, reflecting the weapons used by the people of the area. There may be a particular legend associated with the deity, tying it to some powerful artifact weapon (Thor's hammer, for example). The DM has the final choice in all situations.
+//
+Spells Allowed
+//
+//A priest of a particular mythos is allowed to cast the spells from only a few, related spheres. The priest's deity will have major and minor accesses to certain spheres, and this determines the spells available to the priest. (Each deity's access to spheres is determined by the DM as he creates the pantheon of his world.) The 16 spheres of influence are defined in the following paragraphs.
+//
+//A priest whose deity grants major access to a sphere can choose from any spell within that sphere (provided he is high enough in level to cast it), while one allowed only minor access to the sphere is limited to spells of 3rd level or below in that sphere. The combination of major and minor accesses to spheres results in a wide variation in the spells available to priests who worship different deities.
+//
+//All refers to spells usable by any priest, regardless of mythos. There are no Powers (deities) of the Sphere of All. This group includes spells the priest needs to perform basic functions.
+//
+//Animal spells are those that affect or alter creatures. It does not include spells that affect people. Deities of nature and husbandry typically operate in this sphere.
+//
+//Astral is a small sphere of spells that enable movement or communication between the different planes of existence. The masters of a plane or particularly meddlesome powers often grant spells from this sphere.
+//
+//Charm spells are those that affect the attitudes and actions of people. Deities of love, beauty, trickery, and art often allow access to this sphere.
+//
+//Combat spells are those that can be used to directly attack or harm the enemies of the priest or his mythos. These are often granted by deities of war or death.
+//
+//Creation spells enable the priest to produce something from nothing, often to benefit his followers. This sphere can fill many different roles, from a provider to a trickster.
+//
+//Divination enables the priest to learn the safest course of action in a particular situation, find a hidden item, or recover long-forgotten information. Deities of wisdom and knowledge typically have access to this sphere.
+//
+//Elemental spells are all those that affect the four basic elements of creation--earth, air, fire, and water. Nature deities, elemental deities, those representing or protecting various crafts, and the deities of sailors would all draw spells from this sphere.
+//
+//Guardian spells place magical sentries over an item or person. These spells are more active than protection spells because they create an actual guardian creature of some type. Protective, healing, and trickster deities may all grant spells of this sphere.
+//
+//Healing spells are those that cure diseases, remove afflictions, or heal wounds. These spells cannot restore life or regrow lost limbs. Healing spells can be reversed to cause injury, but such use is restricted to evil priests. Protective and merciful deities are most likely to grant these spells, while nature deities may have lesser access to them.
+//
+//Necromantic spells restore to a creature some element of its life-force that has been totally destroyed. It might be life, a limb, or an experience level. These spells in reverse are powerfully destructive, and are used only by extremely evil priests. Deities of life or death are most likely to act in this sphere.
+//
+//Plant spells affect plants, ranging from simple agriculture (improving crops and the like) to communicating with plant-like creatures. Agricultural and nature Powers grant spells in this sphere.
+//
+//Protection spells create mystical shields to defend the priest or his charges from evil attacks. War and protective deities are most likely to use these, although one devoted to mercy and kindness might also bestow these spells.
+//
+//Summoning spells serve to call creatures from other places, or even other dimensions, to the service of the priest. Such service is often against the will of the creature, so casting these spells often involves great risk. Since creatures summoned often cause great harm and destruction, these spells are sometimes bestowed by war or death powers.
+//
+//Sun spells are those dealing in the basic powers of the solar universe--the purity of light and its counterpart darkness. Sun spells are very common with nature, agricultural, or life-giving powers.
+//
+//Weather spells enable the priest to manipulate the forces of weather. Such manipulation can be as simple as providing rain to parched fields, or as complex as unbridling the power of a raging tempest. Not surprisingly, these tend to be the province of nature and agricultural powers and appear in the repertoire of sea and ocean powers.
+//
+//Additional spheres can be created by your DM. The listed spheres are typical of the areas in which deities concentrate their interest and power. Spells outside the deity's major and minor spheres of influence are not available to its priests.
+//
+//Furthermore, the priest can obtain his spells at a faster or slower pace than the normal cleric. Should the character's ethos place emphasis on self-reliance, the spell progression is slower. Those deities associated with many amazing and wondrous events might grant more spells per level. Of course, your DM has final say on this, and he must balance the gain or loss of spells against the other powers, abilities, and restrictions of the character.
+//
+Granted Powers
+//Another aspect of a specific mythos is the special powers available to its priests. The cleric's granted power is the ability to turn undead. This ability, however, is not common to all priests. Other deities grant powers in accordance with their spheres. If your DM is using a specific mythos, he must decide what power is granted to your priest. Some possible suggestions are given below.
+//
+//*Incite Berserker Rage, adding a +2 bonus to attack and damage rolls (War).
+//
+//*Soothing Word, able to remove fear and influence hostile reactions (Peace, Mercy, Healing).
+//
+//*Charm or Fascination, which could act as a suggestion spell (Love, Beauty, Art).
+//
+//*Inspire Fear, radiating an aura of fear similar to the fear spell (Death).
+//
+//These are only a few of the granted powers that might be available to a character. As with allowed weapons, much depends on the culture of the region and the tales and legends surrounding the Power and its priests.
+//
+Ethos
+//All priests must live by certain tenets and beliefs. These guide the priests' behavior. Clerics generally try to avoid shedding blood and try to aid their community. A war deity may order its priests to be at the forefront of battles and to actively crusade against all enemies. A harvest deity may want its priests to be active in the fields. The ethos may also dictate what alignment the priest must be. The nature of the mythos helps define the strictures the priest must follow.
+//
+Priest Titles
+//Priests of differing mythoi often go by titles and names other than priest. A priest of nature, for example (especially one based on Western European tradition) could be called a druid (see below). Shamans and witch doctors are also possibilities. A little library research will turn up many more unique and colorful titles, a few of which are listed here:
+//
+//Abbess, Abbot, Ayatollah, Bonze, Brother, Dom, Eye of the Law, Friar, Guru, Hajji, Imam, Mendicant, Metropolitan, Mullah, Pardoner, Patriarch, Prelate, Prior, Qadi, Rector, Vicar, and Yogi
+//
+Balancing It All
+//When creating a priest of a specific mythos, careful attention must be given to the balance of the character's different abilities. A priest strong in one area or having a wide range of choice must be appropriately weakened in another area so that he does not become too powerful compared to the other priests in the game. If a war deity allows a priest the use of all weapons and armor, the character should be limited in the spells allowed or powers granted. At the other extreme, a character who follows a deity of peace should have significant spells and granted powers to make up for his extremely limited or non-existent choice of weapons. A druid, for example, has more granted powers than a normal cleric to compensate for his limited armor and spell selection.
+
+//
+//Deity		Weapon
+//Death	Sickle
+//Love	Bow and arrows, man-catcher
+//War	Battle axe, mace, morning star, spear, sword
+//
+//Armor & Shields
+//Death	any & no
+//Love	banded, chain, plate & metal only
+//War	any & yes
+//
+//Spell Spheres:
+//Death	All, Charm, Creation, Divination, Healing, Necormantic, Protection, Summoning (Hades)
+//Love:	All, Charm, Creation, Guardian, Healing (Aphrodite) minor - divination
+//War	All, Combat, Elemental, Healing, Protection, Weather (Ares) minor - divination
+//
+//Priest	All, Animal, Elemental, Healing, Plant, Weather minor - divination
+//
+//Granted Powers:
+//Death	Inspire Fear
+//Love	Charm
+//War	Berzerker
+
+from The Complete Priest's Handbook:
+Death	any allignment, W9, all races
+		Weapons Permitted: Battle axe (usually styled as a headman’s axe), dagger/dirk, knife, lasso (often tied in the fashion of a noose), scythe, sickle, stiletto, sword/ khopesh, sword/short.
+		Armor Permitted: None; no shields.
+		Major Access to All, Astral, Charm, Divination, Protection
+		Minor Access to Guardian, Necromantic, Sun, Weather
+		Powers: Inspire Fear (x2 / day as Fear spell), Command Undead (instead of Turn)
+Love	any good alignment, W10 CH13, any race
+		Weapons Permitted: Bow (short), club, lasso, mancatcher, net
+		Armor Permitted: None; no shields
+		Major Access to All, Animal, Charm, Healing, Necromantic, Protection, Summoning
+		Minor Access to Creation, Divination, Guardian, Plant, Sun, and Weather
+		Powers: Charm/Fascination (x3 / day, as Suggestion spell), Incite Berzerker Rage (no limit see below), Inspire Fear (x2 / day, as Fear spell), Soothing Word (x3 / day, remove Fear or Berzerker Rage), Turn Undead
+		Limitation: d4 instead of d8
+War		NE, TN, NG alignment, S13 W9, all races
+		Weapons Permitted: Battle axe, bows (all), dagger/dirk, knife, lance, mace, maul, polearm, spear, swords (all), warhammer.
+		Armor Permitted: All armor and shields
+		Major Access to Combat, Healing
+		Minor Access to Necromantic, Protection
+		Powers: Incite Berzerker Rage (no limit see below), at 5th level Inspire Fear (x2 / day, as Fear spell)
+
+Incite Berzerker Rage: 1 target, takes 1 round to cast lasts for 6 turns
+	+2 to hit, cannot flee only once / day for a specifc target, friendly only
+	
+from Player's Handbook:
+Druid	TN alignment, W12 Ch15, human and Half-elf
+		Weapons Permitted: 
+		Armor Permitted: 
+		Major acces to: All, Animal, Elemental, Healing, Plant, Weather
+		Minor access to: Divination
+		Powers: 
+		

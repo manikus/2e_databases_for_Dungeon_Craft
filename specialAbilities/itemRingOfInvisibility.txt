@@ -1,0 +1,12 @@
+\(BEGIN)
+name = itemRingOfInvisibility
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(),"isInvisibleRing",1);
+-$SET_COMBATANT_SA($CharacterContext(),"isInvisibleRing",1);
+-$SET_COMBATANT_SA($CharacterContext(),"isInvisible",1);
+-$SET_CHARACTER_SA($CharacterContext(),"DispelLevelItem","12");
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(),"isInvisibleRing");
+-$DELETE_COMBATANT_SA($CharacterContext(),"isInvisibleRing");
+-$DELETE_COMBATANT_SA($CharacterContext(),"isInvisible");
+-$DELETE_CHARACTER_SA($CharacterContext(),"DispelLevelItem");
+\(END)
+

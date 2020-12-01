@@ -1,0 +1,10 @@
+\(BEGIN)
+name = isImmuneWeaponPiercing
+[ComputeDamage] = $VAR item;$VAR imm;
+-item = $SA_ITEM_GET("damagePiercing"); imm = $GET_CHARACTER_SA($TargetContext(), "isImmuneWeaponPiercing");
+-$IF (item == "-?-?-") {$IF (imm != "-?-?-") {$RETURN 0; };};
+[ComputeSpellDamage] = $VAR item;$VAR imm;
+-item = $SA_ITEM_GET("damagePiercing"); imm = $GET_CHARACTER_SA($TargetContext(), "isImmuneWeaponPiercing");
+-$IF (item == "-?-?-") {$IF (imm != "-?-?-") {$RETURN 0; };};
+\(END)
+

@@ -1,0 +1,214 @@
+Fundamental, All Elements
+2635
+
+Climate/Terrain:	Inner Planes
+Frequency:			Common
+Organization:		Flock
+Activity Cycle:		Any
+Diet:				Varies
+Intelligence:		Semi- (3)
+Treasure:			Nil
+Alignment:			Neutral
+No. Appearing:		2d10
+Armor Class:		3-6 (see below)
+Movement:			9-24 (see below)
+Hit Dice:			1+1
+THAC0:				19
+No. of Attacks:		1
+Damage/Attack:		1d6
+Special Attacks:	Nil
+Special Defenses:	Struck only by +1 or better weapons, surprise, partial invisibility, immune to own element and sleep and charm
+Magic Resistance:	Nil
+Size:				T (1-2’ “wingspan”)
+Morale:				Average to steady (10-12)
+XP Value:			175
+Fundamentals are the weakest of the true elemental creatures (as opposed to other creatures native to the Elemental Planes). Still, no one knows the real dark of their nature, purpose, or how they fit into the mysterious scheme of the Inner Planes.
+
+One of the most difficult-to-dispel myths regarding the fundamentals is the idea that they all appear as a pair of bodiless, headless bat-wings made of the appropriate element, flying eternally through the air. Although it’s easy to see how a body might confuse their appearance, fundamentals are much more accurately described as narrow, nearly two-dimensional beings of elemental matter or energy. These little strips flutter and flap in the manner of a bat or certain birds. Fundamentals “fly” only in the sense that they pass through their own element unhindered and unhampered by forces like gravity. Sometimes fundamentals briefly “leap” from their element into another; earth or water fundamentals leaping into a nearby area of air might look as though they were flying low to the ground. Fundamentals that accidentally “leap” into their antithetical elements — say, fire fundamentals into a water pocket — don’t immediately die, but they can’t stay there long. They can resist the opposite element for 1d4 rounds before fizzling out, dissolving, or otherwise dissipating.
+
+The bat-wing idea probably originated when some fire fundamentals were confused with fire bats, who do indeed have batlike wings.
+
+Combat: All fundamentals defend themselves by simply ramming their bodies into an opponent, causing 1d6 points of damage. This is a relatively ineffective way to fight, but since they don’t really “fly”, such an attack doesn’t actually hinder or throw off their movement. The fundamentals aren’t harmed by this ramming attack in any way.
+
+The stats above give a range of Armor Classes and movement rates. These depend on the relative composition (energy or solid), weight, and speed of the fundamentals.
+
+Fundamental Element						MV	AC
+Air, Ash, Dust, Smoke, Steam, Vacuum	24	6
+Fire, Lightning, Radiance				18	5
+Magma, Ooze, Water						12	4
+Earth, Ice, Mineral, Salt				 9	3
+Within their own element, fundamentals are hard to detect. In fact, they are 90% invisible when not moving. (Contrary to some reports, fundamentals do sometimes stop flying and simply drift.) When fundamentals attack creatures within their own elements, opponents suffer a -2 penalty to surprise rolls due to the creatures’ natural coloration. These advantages lead wizards on the Prime or other terrestrial settings to summon air fundamentals to attack their enemies more often than say, ooze fundamentals (which’d be spotted easily).
+
+Fundamentals are entirely immune to the element that they represent. They are unaffected by spells involving sleep or cham. In addition, a body needs a +1 or better weapon to strike them.
+
+Habitat/Society: Fundamentals don’t fit into the standard “society” of the Inner Planes very well. They’re not intelligent enough to work with (or against, for that matter) any of the organized forces there, and they’re not powerful enough for anyone to really take notice of them. For example, the archomentals — the Elemental Princes of Good and Evil — don’t make any attempts to win over the fundamentals for their respective elements. The fundamentals just simply are.
+
+Ecology: Fundamentals consume very little. They produce next to nothing and don’t seem to product at all. They may not actually be living creatures at all, but rather some mysterious animate (but not sentient) extension of the element that they represent. A few cutters have suggested that fundamentals are to the Elemental, Paraelemental, and Quasielemental Planes what plant life is to more terrestrial settings. Such an idea is just strange enough to be true, but it’s certainly difficult to prove.
+
+Others still believe the theories of the explorer Revorus that fundamentals are just that — the fundamental expression of their element. Sure, they’re not as powerful as actual elementals, but they’re still more basic, intrinsic, and … well, fundamental to the element and to the plane. Again, though, that’s just conjecture.
+
+At one time some graybeards thought that fundamentals might be young elementals, perhaps in a larval stage. This theory has definitely been discounted, simply because few (if any) of the elementals on any of the Inner Planes reproduce in that way.
+
+==============================================================================================
+
+Fundamental, Negative
+1162
+
+Climate/Terrain:	Negative Energy Plane
+Frequency:	Rare
+Organization:	Murder
+Activity Cycle:	Any
+Diet:	Life Force
+Intelligence:	Semi- (3)
+Treasure:	Nil
+Alignment:	Neutral Evil
+No. Appearing:	2-20
+Armor Class:	3
+Movement:	Fl 18 (B)
+Hit Dice:	1+1
+THAC0:	19
+No. of Attacks:	1
+Damage/Attack:	1d6 (ram)
+Special Attacks:	Teem
+Special Defenses:	Immune to normal weapons, cold, and mind-affecting attacks
+Magic Resistance:	10%
+Size:	T (2’ wingspan)
+Morale:	Steady (12)
+XP Value:	420
+Negative fundamentals are weakly empowered manifestations of the Negative Energy Plane. They resemble pairs of flapping bat-like wings devoid of bodies, heads, or other features. These creatures infest the Negative Energy Plane in great murders (flocks), winging their way endlessly through the final Void.
+
+Negative fundamentals are only semi-intelligent; they have no language of their own and are unable to learn other languages. However, these creatures share a low-level empathic bond amongst themselves. With this bond, they are able to congregate and maneuver in unison, even though they possess no overt means of sensing their environment. A negative fundamental is always aware of others of its kind within 100 feet.
+
+Combat: Negative fundamentals target living beings as prey, drawn by raw life force (negative fundamentals can sense living beings within 100 feet). When a murder senses life, the fundamentals rise as a group into the air, then descend upon their prey; because of the fundamentals’ dead-black coloration, opponents suffer a -2 penalty on surprise checks in conditions of low light.
+
+Negative fundamentals most often attack by ramming their prey; contact with living flesh drains life force, causing 1d6 points of damage.
+
+Negative fundamentals can coordinate their efforts through their empathic bond, greatly increasing the efficiency of each individual’s attack; this is referred to as a teem attack. When a murder teems (30% chance each enccounter), the flock swams a particular victim, buffeting and wheeling with their midnight wings so thickly that the THAC0 of each teeming fundamental drops by 1 for every fundamental involved in the attack. For example, if a group of 10 negative fundamentals successfully teem, the THAC0 of each is 9 rather than 19. Teem attacks last for 1d4+4 rounds, and the creatures’ THAC0 can be reduced to a minimum of 5.
+
+Negative fundamentals are harmed only by magical weapons, and 10% of spells cast upon these creatures are merely drained harmlessly into their bodies. Mind-affecting powers and attacks involving cold have no effect upon negative fundamentals.
+
+Habitat/Society: Negative fundamentals are native to the Negative Energy Plane, and it is only very seldom that any ever find their way to more populated planes and realms. From time to time, however, 1d10 of these creatures will be drawn to the Prime Material Plane when a powerful undead creature is created. For example, when a vampire rises from the dead, a link between it and the Negative Energy plane is formed for the first time. A murder of these creatures can sometimes be drawn down this conduit, so that when the vampire first breaches its tomb, a burst of midnight wings also emerges.
+
+Ecology: Natives to the Negative Energy Plane, these creatures are sustained in their unending flights by the medium of their own existence. However, when drawn into any plane other than their home plane, negative fundamentals are drawn to feed on the life force of living creatures.
+
+A negative fundamental that is able to absorb at least six points of life force a week for six weeks has a 50% chance to split into two in a sort of asexual fission. Each new creature has exactly the statistics of the previous single creature. A negative fundamental which is unable to absorb at least six points of life force in one week while on a plane other than its home plane simply evaporates into nothing.
+
+====================================================================================================
+
+Fundamental, Air/Earth
+2501 • 2635
+
+ 	Air	Earth
+Climate/Terrain:	Any windy	Any cavern
+Frequency:	Rare	Rare
+Organization:	Flock	Flock
+Activity Cycle:	Any	Any
+Diet:	Air	Earth or metal
+Intelligence:	Semi- (3)	Semi- (3)
+Treasure:	Nil	Nil
+Alignment:	Neutral	Neutral
+No. Appearing:	2d10	2d10
+Armor Class:	6	3
+Movement:	Fl 24 (A)	Fl 9 (B)
+Hit Dice:	1+1	1+1
+THAC0:	19	19
+No. of Attacks:	1	1
+Damage/Attack:	1d6 (ram)	1d6 (ram)
+Special Attacks:	Nil	Nil
+Special Defenses:	See below	See below
+Magic Resistance:	Nil	Nil
+Size:	T (1’ wingspan)	S (2½’ wingspan)
+Morale:	Average (8)	Steady (12)
+XP Value:	120	120
+Among the least powerful creatures inhabiting the elemental planes are the fundamentals. Each of these creatures resembles a pair of bat-like wings without a head or body. Fundamentals never cease their flying, not even to land or rest a moment.
+
+Air Fundamental
+Air fundamentals have a wingspan of approximately 1 foot. Their extraordinarily thin wings look transparent, while the creatures’ color nearer their middle ranges from translucent, pearly white to pale blue. The only sound these elementals make is a whispery hum created by the minute vibrations of their tissue-thin wings.
+
+Combat: In combat, air fundamentals flock together and swoop down on their target. It is not known how fundamentals “see” victims, although they may detect their body heat.
+
+Due to these creatures’ natural coloration, their opponents suffer a -2 penalty to surprise rolls.
+
+A fundamental’s only attack is a ramming dive in which the creature strikes its target with its own body, inflicting 1d6 points of damage. This attack does no damage to the fundamental itself.
+
+These creatures can be harmed only by magic or magical weapons and remain immune to mind-affecting spells such as sleep and charm. Treat them as enchanted creatures for the purposes of spells such as protection from evil.)
+
+Habitat/Society: Air fundamentals usually appear on the Prime Material Plane in parhcularly windy plces or at the tops of jagged mountains. Characters always encounter them in flocks, and they occasionally accompany more powerful elemental creatures to the Prime Material Plane.
+
+Just how or why fundamental come to reside on the Prime Material Plane is unknown. Some theorize that these rather weak elementals find themselves inadvertently drawn into the Prime Material Plane when a more powerful elemental intentionally crosses over or is summoned from its home plane. Possibly, the more powerful elementals send these creatures to the Prime Material Plane for their own unknown purposes.
+
+Ecology: Fundamentals, as foreigners to the Prime Material Plane, do not play an important role in the overall ecology of any area.
+
+The body of an an air fundamental can be used to help create a potion of flying. However, when one of the creatures dies on the Prime Material Plane, its body quickly returns to the Elemental Plane of Air unless someone places it in a blessed container within two rounds of the creature’s death.
+
+Earth Fundamental
+Earth fundamentals, larger than the other three types, have a wingspan of up to 2½ feet. These very solid creatures boast thick wings of deep brown and black.
+
+Combat: Earth fundamentals attack with the same swooping dives as their airy brethren. However, their ttactics often involve sweeping very low along the ground and attempting to knock their targets over. When an earth fundamental gets a 20 on an attack roll, its victim must make a successful saving throw vs. paralyzation or fall to the ground.
+
+Earth fundamentals have the same immunities as air fundamentals.
+
+Habitat/Society: Flocks of earth fundamentals gather on the Prime Material Plane in places where the element of earth seems particularly concentrated, including tar pits and deep caverns.
+
+Ecology: Earth fundamentals consume earth, gems, and metal. They occasionally dine on the remains of an unfortunate adventuring party’s armor.
+
+If collected in a blessed container, the essence of an earth fundamental can help recharge a wand of metal and mineral detection.
+
+==================================================================================================
+
+Fundamental, Fire/Water
+2501 • 2635
+
+					Fire		Water
+Climate/Terrain:	Any fiery	Any water
+Frequency:			Rare		Rare
+Organization:		Flock		Flock
+Activity Cycle:		Any			Any
+Diet:	A			ny combustible	Any liquid
+Intelligence:		Semi- (3)	Semi- (3)
+Treasure:			Nil			Nil
+Alignment:			Neutral		Neutral
+No. Appearing:		2d10		2d10
+Armor Class:		5			4
+Movement:			Fl 18 (B)	Fl 12 (B)
+Hit Dice:			1+1			1+1
+THAC0:				19			19
+No. of Attacks:		1			1
+Damage/Attack:		1d6 (ram)	1d6 (ram)
+Special Attacks:	Nil			Nil
+Special Defenses:	See below	See below
+Magic Resistance:	Nil			Nil
+Size:				T (2’ wingspan)	T (1-2’ wingspan)
+Morale:				Steady (12)	Steady (12)
+XP Value:			175			120
+Among the least powerful creatures inhabiting the elemental planes are the fundamentals. Each of these creatures resembles a pair of bat-like wings without a head or body. Fundamentals never cease their flying, not even to land or rest a moment.
+
+Fire Fundamental
+This deep bluish-black creature appears constantly enshrouded in flames. Fire fundamentals have 2-foot wingspans and occasionally cause small fires when they brush by particularly flammable objects, such as dry leaves or paper.
+
+Combat: In combat, fire fundamentals flock together and swoop around their opponents in a kinetic whirlwind of activity. It is unknown how fundamentals “see” their targets, although they may detect body heat.
+
+A fundamental’s only attack is a ramming dive in which the creature strikes its target with its own body, inflicting 1d6 points of damage. This attack does no damage to the fundamental itself.
+
+These creatures can be harmed only by magic or magical weapons and remain immune to mind-affccting spells such as sleep and charm. Treat them as enchanted creatures for the purposes of spells such as protection from evil. In addition to the above immunities, these fundamentals suffer no damage from fire attacks.
+
+Habitat/Society: Fire fundamentals usually appear on the Prime Material Plane in spots such as volcanoes or places where natural gas commonly burns. They always move in flocks and often accompany more powerful elemental creatures to the Prime Material Plane.
+
+Just how or why fundamental come to reside on the Prime Material Plane is unknown. Some theorize that these rather weak elementals find themselves inadvertently drawn into the Prime Material Plane when a more powerful elemental intentionally crosses over or is summoned from its home plane. Possibly, the more powerful elementals send these creatures to the Prime Material Plane for their own unknown purposes.
+
+Ecology: Fundamentals, as foreigners to the Prime Material Plane, do not play an important role in the overall ecology of any area.
+
+The body of a fire Fundamental can help create a potion of fire resistance. As with others of its kind, when one of the these fundamentals dies on the Prime Material Plane, its body quickly returns to the Elemental Plane of Fire, unless placed inside a blessed container within two rounds of the creature’s death.
+
+Water Fundamental
+Water fundamentals bear translucent wings spanning 1 to 2 feet. Tiny droplets of water continually spray from these wet, glistening wings. In bright sunlight, they appear as fantastically beautiful, rainbow-colored creatures, casting pools of colored light over the surface of the water as they skim above it.
+
+Combat: Water fundamentals attack with the same swooping dives as their fiery brethren. Tactically, these water-based creatures tend to charge a target straight on, en masse.
+
+Water fundamentals share the normal immunities of their kind. In addition, their lack of coloration means that the creatures surprise their foes easily (except in direct sunlight): opponents suffer a -2 penalty to their surprise rolls.
+
+Habitat/Society: Characters always see water fundamentals flying above large bodies of water. They are most often found above deep water, particularly oceans and the deepest of lakes. Not only do they consume water for sustenance, they must immerse themselves in it at least once an hour per day in order to survive.
+
+Ecology: The water that composes much of this creature’s body can be used in the creation of a potion of water breathing. However, a fundamental that dies on the Prime Material Plane quickly vanishes, returning to the Elemental Plane of Water. In order to use this fundamental fluid, a character must collect it in a blessed container or mix it into the potion within two rounds of the creature's death.
+
+

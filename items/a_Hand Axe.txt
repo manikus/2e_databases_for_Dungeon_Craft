@@ -1,0 +1,42 @@
+\(BEGIN)
+name = Hand Axe
+id name = Hand Axe
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = item_HandAve.png,0,8,48,48,1,1,4,1,0,0
+hit sprite = none
+ROF per round = 1
+combat range = 3
+cost = 1
+hands to carry = 1
+baseclass = bard
+baseclass = fighter
+baseclass = paladin
+baseclass = ranger
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D4 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 50
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemHurledWeapon,axe
+Special Ability = damageTypeSlashing,1
+weapon type = hand held or thrown
+ammo type = 
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+Examine Event ID = 0
+Examine Label = EXAMINE
+recharge rate = never
+spell effect = none
+\(END)
+

@@ -1,0 +1,8 @@
+\(BEGIN)
+name = spellDeathSpell
+[InvokeSpellOnTarget] = $VAR atk; $VAR lvl;
+-atk = $IndexOf($AttackerContext()); lvl = $GET_CHAR_Lvl(atk,$SA_PARAM_GET());
+-$SET_CHARACTER_SA($TargetContext(),"isDispellingEvil",$GET_PARTY_TIME() +# lvl);
+-$SET_CHARACTER_SA($TargetContext(),"CanDispel",1);
+\(END)
+

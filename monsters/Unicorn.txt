@@ -1,0 +1,35 @@
+\(BEGIN)
+name = Unicorn
+icon file = icon_Unicorn.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 9
+armor class = 3
+movement rate = 24
+hit dice = 4
+treat HD as hit points = yes
+hit dice bonus = 4
+THAC0 = 15
+magic resistance = 0
+size = large
+morale = 35
+experience point value = 650
+Special Ability = alignmentGood,1
+Special Ability = isImmuneCharm,monster
+Special Ability = isImmuneHold,monster
+Special Ability = monsterLevel,5
+Class = Fighter
+Race = Animal
+form = mammal + animal
+penalty = none
+immunity = death magic
+Misc Options = none
+item = none
+attack = 6,1,0,attacks,
+attack = 6,1,0,attacks,
+attack = 6,2,0,attacks,
+Undead = none
+\(END)
+

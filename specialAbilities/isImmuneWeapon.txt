@@ -1,0 +1,10 @@
+\(BEGIN)
+name = isImmuneWeapon
+[ComputeDamage] = 
+[DoesAttackSucceed] = $VAR item; $VAR slvr; $VAR iron; $VAR imm; $VAR vSlvr; 
+-item = $SA_ITEM_GET("itemMagicalWeapon"); slvr = $SA_ITEM_GET("itemSilverWeapon"); iron = $SA_ITEM_GET("itemIronWeapon");
+-imm = $GET_CHARACTER_SA($TargetContext(),"isImmuneWeapon); vSlvr = $GET_CHARACTER_SA($TargetContext(),"isVulnerableSilver);
+-$IF ((vSlvr == "-?-?-") || ((vSlvr != "-?-?-") && (slvr == "-?-?-")) &&  (vIron == "-?-?-") || ((vIron != "-?-?-") && (iron == "-?-?-")))
+-	{$IF (item == "-?-?-") [$RETURN "0";}; $IF (imm != "-?-?-") {$IF (item <=# imm) [$RETURN "0";};};};
+\(END)
+

@@ -1,0 +1,2 @@
+// possible damage types in form damageXyz
+// acid, bludgeoning, charm, charm, cold, crushing, disease, electricity, fear, fire, gas, mind, paralysis, petrification, piercing, poison, psionic, slashing, spell, venom

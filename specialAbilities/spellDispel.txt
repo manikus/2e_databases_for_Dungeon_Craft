@@ -1,0 +1,30 @@
+\(BEGIN)
+name = spellDispel
+[InvokeSpellOnTarget] = $VAR atk; $VAR tgt; $VAR nm; $VAR cls; $VAR cLvl; $VAR iLvl; $VAR dLvl; $VAR percent; $VAR rndm;
+-atk = $IndexOf($AttackerContext()); tgt = $IndexOf($TargetContext());
+-nm = $GET_CHAR_NAME(tgt); cls = $SA_PARAM_GET(); cLvl = $GET_CHARACTER_SA($TargetContext(),"DispelLevel");
+-iLvl = $GET_CHARACTER_SA($TargetContext(),"DispelLevelItem"); dLvl = $GET_CHAR_Lvl(atk,cls); rndm = $RANDOM(100) +# 1;
+-// potions
+-$IF (dLvl ># 21){$ForEachPossession($CharacterContext(),"itemPotion");};
+-$IF (iLvl != "-?-?-"){cLvl = iLvl;};
+-$IF (dLvl ># cLvl){percent = (dLvl -# cLvl) *# 5 +# 50;}
+-$ELSE{percent = 50 -# (cLvl -# dLvl) *# 2;};
+-$IF (rndm <=# percent){$ForEachPossession($CharacterContext(),"itemPotion");};
+-// spells and spell effects
+-$IF (dLvl ># cLvl){percent = (dLvl -# cLvl) *# 5 +# 50;}
+-$ELSE{percent = 50 -# (cLvl -# dLvl) *# 2;};
+-$IF (rndm <=# percent)
+-	{
+-		$RUN_CHAR_SCRIPTS(tgt,"Dispel");
+-		$RUN_CHAR_SE_SCRIPTS($TargetContext(),"Dispel SE");
+-		$SET_SPELL_SA($SpellContext(),"Dispelled","yes");
+-		$RETURN;
+-	};
+[SpellLingeringScripts] = $VAR cLvl; $VAR dLvl; $VAR percent; $VAR rndm;
+-$IF ($GET_SPELL_SA($SpellContext(),"Dispelled") != "-?-?-"){ $RETURN "RemoveLinger"; };
+-cLvl = $GET_HOOK_PARAM(7); dLvl = $GET_HOOK_PARAM(6); rndm = $RANDOM(100) +# 1;
+-$IF (dLvl ># cLvl){percent = (dLvl -# cLvl) *# 5 +# 50;}
+-$ELSE{percent = 50 -# (cLvl -# dLvl) *# 2;};
+-$IF (rndm <=# percent){$RETURN "RemoveLinger";};
+\(END)
+

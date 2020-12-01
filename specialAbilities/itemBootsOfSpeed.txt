@@ -1,0 +1,6 @@
+\(BEGIN)
+name = itemBootsOfSpeed
+[OnReady] = $SET_CHARACTER_SA($CharacterContext(),"isFastBoots","1");
+[OnUnReady] = $DELETE_CHARACTER_SA($CharacterContext(),"isFastBoots");
+\(END)
+

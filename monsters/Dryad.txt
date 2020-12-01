@@ -1,0 +1,34 @@
+\(BEGIN)
+name = Dryad
+icon file = icon_Dryad.png,0,2,48,48,0,1,0
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_CharMove.wav
+death sound = sound_CharDeath.wav
+intelligence = 14
+armor class = 9
+movement rate = 12
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 19
+magic resistance = 50
+size = medium
+morale = 30
+experience point value = 975
+Special Ability = monsterLevel,2
+Class = Fighter
+Race = Monster
+form = mammal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = Knife
+item = monsterDryadCharmPerson
+item = monsterDryadCharmPerson
+item = monsterDryadCharmPerson
+attack = 2,1,0,attacks,
+Undead = none
+\(END)
+// charm person save v spell -3 penalty (x3)
+

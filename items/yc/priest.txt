@@ -1,0 +1,64 @@
+Animal Summoning I
+Animal Summoning II
+Animal Summoning III
+Barkskin
+Bestow Curse
+Blade Barrier
+Bless
+Cause Blindness
+Cause Critical Wounds
+Cause Disease
+Cause Light Wounds
+Cause Serious Wounds
+Charm Person or Mammal
+Confusion|Priest
+Conjure Earth Elemental
+Conjure Fire Elemental
+Cure Blindness
+Cure Critical Wounds
+Cure Disease
+Cure Light Wounds
+Cure Serious Wounds
+Curse
+Destruction
+Detect Evil|Priest
+Detect Magic|Priest
+Dispel Evil
+Dispel Good
+Dispel Magic|Priest
+Endure Cold
+Endure Fire
+Energy Drain
+Entangle
+Faerie Fire
+Find Traps
+Flame Strike
+Harm
+Heal
+Hold Animal
+Hold Person
+Insect Plague
+Invisibility to Animals
+Neutralize Poison
+Poison
+Prayer
+Protection From Evil 10' Radius|Priest
+Protection From Evil|Priest
+Protection From Good 10' Radius|Priest
+Protection From Good|Priest
+Protection from Fire
+Protection from Lightning
+Raise Dead
+Remove Curse
+Resist Cold
+Resist Fire
+Restoration
+Resurrection
+Shillelagh
+Silence 15' Radius
+Slay Living
+Slow Poison
+Snake Charm
+Speak with Animals
+Spiritual Hammer
+Sticks to Snakes

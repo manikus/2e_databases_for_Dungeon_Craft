@@ -1,0 +1,30 @@
+\(BEGIN)
+name = Fire Beetle
+icon file = icon_FireBeetle.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveInsect.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 1
+armor class = 4
+movement rate = 12
+hit dice = 1
+treat HD as hit points = yes
+hit dice bonus = 2
+THAC0 = 19
+magic resistance = 0
+size = small
+morale = 30
+experience point value = 35
+Special Ability = monsterLevel,2
+Class = Fighter
+Race = Insect
+form = animal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed 
+item = none
+attack = 4,2,0,attacks,
+Undead = none
+\(END)
+

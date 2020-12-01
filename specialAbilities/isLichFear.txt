@@ -1,0 +1,26 @@
+\(BEGIN)
+name = isLichFear
+[CanAim] = $RETURN "N";
+[CanCastSpells] = $RETURN "N";
+[CharDisplayStatus] = $IF ($GET_PARTY_TIME() ># $SA_PARAM_GET()){$RETURN $SA_REMOVE();};
+-$SET_HOOK_PARAM( 7,"Paralyzed with fear"); $SET_HOOK_PARAM( 6,""); $RETURN 1;
+[ComputeDamage] = $VAR dmg; $VAR tgt;
+-tgt = $IndexOf($TargetContext());
+-$IF ($GET_COMBATANT_SA($TargetContext(),"isLichFear") != "-?-?-")
+-	{
+-		$SET_CHAR_ASL(tgt,"lichfear","");
+-		$SET_HOOK_PARAM(5,$GET_CHAR_HITPOINTS(tgt) +# 10);
+-		$RETURN $GET_HOOK_PARAM(5);
+-	};
+[DoesAttackSucceed] = $IF ($GET_COMBATANT_SA($TargetContext(),"isLichFear") != "-?-?-")
+-  {$SET_HOOK_PARAM(6,$GET_HOOK_PARAM(6) -# 30);};
+-$IF ($GET_HOOK_PARAM(5) >=# $GET_HOOK_PARAM(6)){$RETURN "Y";}
+-$ELSE {$RETURN "N";};
+[DrawMoveMenu] = $SET_HOOK_PARAM(1,0);
+[GetAdjMaxMovement] = $DELETE_CHARACTER_SA($CharacterContext(),"isFastBoots");
+-$RETURN 0;
+[GetItemTargetHitBonus] = $DEBUG("ILF githb");
+[IsCombatReady] = $IF ($GET_PARTY_TIME() ># $SA_PARAM_GET()){$RETURN $SA_REMOVE();};
+-$RETURN "N";
+\(END)
+

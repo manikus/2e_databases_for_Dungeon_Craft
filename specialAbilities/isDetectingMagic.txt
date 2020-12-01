@@ -1,0 +1,7 @@
+\(BEGIN)
+name = isDetectingMagic
+[CanCastSpells] = $VAR exp; exp = $SA_PARAM_GET(); $IF ($GET_PARTY_TIME() ># exp){$SA_REMOVE();};
+[CanCharacterDetectMagic] = $VAR exp; exp = $SA_PARAM_GET(); $IF ($GET_PARTY_TIME() ># exp){$SA_REMOVE();}; $RETURN "Y";
+[Dispel] = $SA_REMOVE();
+\(END)
+

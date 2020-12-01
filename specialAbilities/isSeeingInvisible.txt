@@ -1,0 +1,5 @@
+](BEGIN)
+name = isSeeingInvisible
+[CharDisplayStatus] = $SET_HOOK_PARAM( 7,"Seeing Invisible"); $SET_HOOK_PARAM( 6,""); $RETURN "1";
+\(END)
+

@@ -1,0 +1,34 @@
+\(BEGIN)
+name = Iron Golem
+icon file = icon_IronGolem.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathLarge.wav
+intelligence = 0
+armor class = 3
+movement rate = 6
+hit dice = 80
+treat HD as hit points = no
+hit dice bonus = 0
+THAC0 = 3
+magic resistance = 0
+size = large
+morale = 50
+experience point value = 13000
+Special Ability = isGrowthFire,1
+Special Ability = isImmuneSpellsIronGolem,monster
+Special Ability = isImmuneWeapon,3
+Special Ability = isSlowingElectricity,1
+Special Ability = monsterLevel,18
+Class = Fighter
+Race = Golem
+form = none
+penalty = none
+immunity = poison + death magic + confusion + vorpal weapon
+Misc Options = none
+item = monsterPoisonCloud
+attack = 10,4,0,attacks,
+Undead = none
+\(END)
+
