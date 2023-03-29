@@ -8,26 +8,27 @@ death sound = sound_MonsterDeathLarge.wav
 intelligence = 0
 armor class = 8
 movement rate = 6
-hit dice = 4
+hit dice = 4.000000
 treat HD as hit points = yes
 hit dice bonus = 0
-THAC0 = 17
+THAC0 = 15
 magic resistance = 0
 size = large
 morale = 25
-experience point value = 650
-Special Ability = isImmuneElectricity,1
-Special Ability = isImmuneFear,monster
-Special Ability = isSlowingCold,1
+experience point value = 214
 Special Ability = monsterLevel,4
+Special Ability = elemental_ImmuneElectricity
+Special Ability = elemental_SlowingCold
+Special Ability = monster_ImmuneFear,monster
 Class = Fighter
 Race = Monster
-form = large + none
+form = large
 penalty = none
 immunity = vorpal weapon
 Misc Options = none
 item = none
-attack = 4,2,0,attacks,monsterParalysis
+attack = 4,2,0,attacks,monsterGelatinousCubeParalysis
 Undead = none
 \(END)
+// MM p43
 

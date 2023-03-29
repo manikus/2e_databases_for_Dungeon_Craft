@@ -1,20 +1,24 @@
 \(BEGIN)
-name = isDispellingGood
-[CharDisplayStatus] = $SET_HOOK_PARAM( 7, "Dispelling Good"); $SET_HOOK_PARAM( 6, ""); $RETURN 1;
+name = IsDispellingGood
+[CharDisplayStatus] = $VAR exp; // time effect expires, gotten from SA that called this one
+-exp = $SA_PARAM_GET();
+-$IF ($GET_PARTY_TIME() >=# exp){$RETURN $SA_REMOVE();};
+-$SET_HOOK_PARAM( 7, "Dispelling Good"); $SET_HOOK_PARAM( 6, ""); $RETURN 1;
 [Dispel] = $SA_REMOVE();
-[DoesAttackSucceed] = $IF ($GET_CHARACTER_SA($TargetContext(),"isDispellingGood") != "-?-?-")
+[DoesAttackSucceed] = $IF ($GET_COMBATANT_SA($TargetContext(),"IsDispellingGood") != "-?-?-")
 -	{
--		$IF ($AlignmentEvil($AttackerContext()) == "" && $GET_COMBATANT_SA($AttackerContext(),"homePlane") != "-?-?-")
+-		$IF ($AlignmentEvil($AttackerContext()) == "" && $GET_COMBATANT_SA($AttackerContext(),"Summoned") != "-?-?-")
 -			{
 -				$SET_HOOK_PARAM(6,$GET_HOOK_PARAM(6) +# 7);
 -			};
 -	}
 -$ELSE
 -	{
--		$IF ($AlignmentEvil($TargetContext()) == "" && $GET_COMBATANT_SA($TargetContext(),"homePlane") != "-?-?-" && $GET_HOOK_PARAM(6) <# $GET_HOOK_PARAM(5) && $GET_CHARACTER_SA($AttackerContext(),"canDispel") != "-?-?-")
+-		$IF ($AlignmentEvil($TargetContext()) == "" && $GET_COMBATANT_SA($TargetContext(),"Summoned") != "-?-?-" && $GET_HOOK_PARAM(6) <# $GET_HOOK_PARAM(5) && $GET_COMBATANT_SA($AttackerContext(),"CanDispel") != "-?-?-")
 -			{
 -				$CastSpellOnTargetAs($TargetContext(),"Banish",$AttackerContext());
--				$DELETE_CHARACTER_SA($AttackerContext(),"canDispel"); $RETURN;
+-				$DELETE_COMBATANT_SA($AttackerContext(),"CanDispel");
+-				$RETURN;
 -			};
 -	};
 -$IF ($GET_HOOK_PARAM(5) >=# $GET_HOOK_PARAM(6)){$RETURN "Y";}

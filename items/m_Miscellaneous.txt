@@ -174,7 +174,7 @@ number of charges = 7
 Examine Event ID = 0
 Examine Label = EXAMINE
 recharge rate = never
-spell effect = none
+spell effect = itemNecklaceMissiles
 \(END)
 
 \(BEGIN)
